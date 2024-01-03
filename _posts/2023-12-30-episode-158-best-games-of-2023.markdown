@@ -27,6 +27,7 @@ tags:
 3. Baldur's Gate 3
 2. Shadow Gambit: The Cursed Crew
 1. The Legend of Zelda: Tears of the Kingdom
+{: reversed="reversed"}
 ### Honourable Mentions
 - Videoverse 
 - Chants of Sennaar
@@ -43,6 +44,7 @@ tags:
 3. Pizza Tower
 2. Resident Evil 4 (2023)
 1. Star Wars Jedi: Survivor
+{: reversed="reversed"}
 ### Honourable Mentions
 - Cassette Beasts
 - Starfield
