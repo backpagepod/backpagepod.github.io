@@ -5,7 +5,8 @@ search: false
 
 @charset "utf-8";
 
-$footer-background-color: #73BB6F !default;
+$link-color: #0D7E82 !default;
+$footer-background-color: #42843E !default;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
