@@ -16,37 +16,26 @@ tags:
 
 ## Matthew
 10. Castlevania: Circle of the Moon
-9. Xenoblade Chronicles 3: Future Redeemed
-8. Star Wars Jedi: Survivor
-7. Pikmin 4
-6. Paranormasight: The Seven Mysteries of Honjo
-5. Cobalt Core
-4. Resident Evil 4 (2023)
-3. Baldur's Gate 3
-2. Shadow Gambit: The Cursed Crew
-1. The Legend of Zelda: Tears of the Kingdom
+9. Uplink
+8. Black & White
+7. Silent Hill 2
+6. Grand Theft Auto III
+5. Conker's Bad Fur Day
+4. Paper Mario
+3. The Legend of Zelda: Oracle of Seasons
+2. The Legend of Zelda: Oracle of Ages
+1. Max Payne
 {: reversed="reversed"}
-### Honourable Mentions
-- Videoverse 
-- Chants of Sennaar
-- Fire Emblem Engage
 
 ## Samuel
-10. Dredge
-9. Marvel's Spider-Man 2
-8. Pikmin 4
-7. MyHouse.wad
-6. Cobalt Core
-5. Super Mario Bros. Wonder
-4. Final Fantasy XVI
-3. Pizza Tower
-2. Resident Evil 4 (2023)
-1. Star Wars Jedi: Survivor
+10. Pro Evolution Soccer
+9. Tony Hawk's Pro Skater 3
+8. Pokémon Gold and Silver
+7. Onimusha: Warlords
+6. Shenmue II
+5. Jak and Daxter: The Precursor Legacy
+4. Devil May Cry
+3. Silent Hill 2
+2. Max Payne
+1. Grand Theft Auto III
 {: reversed="reversed"}
-### Honourable Mentions
-- Cassette Beasts
-- Starfield
-- Sea of Stars
-- Fire Emblem Engage
-- Alan Wake 2
-- Amnesia: The Bunker
