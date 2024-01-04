@@ -1,6 +1,6 @@
 ---
 title: "Episode 155: The Licensed Games Draft"
-date:   2023-11-24 04:58:00 +0000
+date:   2023-11-24 09:00:00 +0000
 excerpt_separator: "<!--more-->"
 categories:
 - Episode
