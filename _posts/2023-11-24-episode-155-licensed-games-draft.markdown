@@ -27,25 +27,25 @@ tags:
 10. Free pick
 
 ## Samuel's picks
-0. GoldenEye
-0. The Simpsons Hit and Run
+0. GoldenEye 007
+0. The Simpsons: Hit & Run
 0. Marvel's Spider-Man 2
 0. The Matrix: Path of Neo
-0. Astro Boy Omega Factor
-0. TIE Fighter
-0. The Darkness 2
+0. Astro Boy: Omega Factor
+0. Star Wars: TIE Fighter
+0. The Darkness II
 0. The Simpsons Wrestling
 0. Parasite Eve
-0. Alien Isolation
+0. Alien: Isolation
 
 ## Matthew's picks
 0. The Warriors
-0. TNT: Shredders' Revenge
+0. Teenage Mutant Ninja Turtles: Shredder's Revenge
 0. Batman: Arkham City
 0. X-Men Origins: Wolverine
-0. Aladdin (Mega Drive)
-0. Blade Runner
-0. Riddick: Escape From Butcher Bay
+0. Disney's Aladdin (Mega Drive)
+0. Blade Runner (1997)
+0. The Chronicles of Riddick: Escape from Butcher Bay
 0. Fight Club
-0. Pinball FX: Empire Strikes Back
+0. Pinball FX3: Star Wars: Episode V - The Empire Strikes Back
 0. The Witcher 3: Wild Hunt
