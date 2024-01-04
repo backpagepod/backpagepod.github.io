@@ -3,10 +3,10 @@ title: "Episode 158: The Best Games of 2023"
 date:   2023-12-30 04:58:00 +0000
 excerpt_separator: "<!--more-->"
 categories:
-- episode
+- Episode
 tags:
 - GOTY
-- regular
+- Regular
 ---
 
 [Play Episode.](https://www.patreon.com/posts/episode-158-best-95546725)

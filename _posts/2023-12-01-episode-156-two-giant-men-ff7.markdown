@@ -3,9 +3,9 @@ title: "Episode 156: Two Giant Men Play Final Fantasy 7 (Disc 1)"
 date:   2023-12-01 09:00:00 +0000
 excerpt_separator: "<!--more-->"
 categories:
-- episode
+- Episode
 tags:
-- regular
+- Regular
 ---
 
 [Play Episode.](https://www.patreon.com/posts/episode-156-two-93749095)
