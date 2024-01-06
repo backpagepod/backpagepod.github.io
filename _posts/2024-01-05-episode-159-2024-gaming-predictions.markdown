@@ -5,6 +5,7 @@ excerpt_separator: "<!--more-->"
 categories:
 - Episode
 tags:
+- Predictions
 - Regular
 ---
 
