@@ -5,6 +5,7 @@ excerpt_separator: "<!--more-->"
 categories:
 - Episode
 tags:
+- Rich Stanton
 - Special Guest
 - Hall of Fame
 - Regular

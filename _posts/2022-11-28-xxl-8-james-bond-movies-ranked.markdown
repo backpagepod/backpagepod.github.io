@@ -35,7 +35,7 @@ tags:
 6. Goldfinger
 5. On Her Majesty’s Secret Service
 4. The Spy Who Loved Me
-3. Goldeneye
+3. GoldenEye
 2. Casino Royale
 1. Skyfall
 {: reversed="reversed"}

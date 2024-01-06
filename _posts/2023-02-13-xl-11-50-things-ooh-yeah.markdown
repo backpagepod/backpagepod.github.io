@@ -28,7 +28,7 @@ tags:
 13. Hitting someone with an electric attack and watching them get zapped on the spot - bonus points if it conducts with water (stun rod in Resi, BioShock, God of War)
 14. When you burrow underground in Worms and airstrike from the safety of your makeshift base 
 15. When you do a jumping stab into a weak spot in Shadow of the Colossus - ooh yeah
-16. Watching a human player run through an area you've filled with remote mines (Goldeneye, GTA)
+16. Watching a human player run through an area you've filled with remote mines (GoldenEye, GTA)
 17. Activating a parachute - or reactivating a parachute (Just Cause, GTA)
 18. A good, violent finisher (The Darkness, Doom Eternal, God of War, Ezio era Assassin's Creeds, Sleeping Dogs, Sifu, Suplex in God Hand)
 19. Throwing a melee weapon as a form of attack (Sifu, superhot, Hotline Miami) - or indeed kicking one (Sifu)
