@@ -47,12 +47,7 @@ tags:
 ### Top 5 games on Metacritic
 
 - Zelda: Tears of the Kingdom
-- Hollow Knight
+- Hollow Knight: Silksong
 - Resi:4 Remake
 - Half Life Alyx on PSVR 2
 - Cyberpunk Complete Edition
-
-
-
-
-
