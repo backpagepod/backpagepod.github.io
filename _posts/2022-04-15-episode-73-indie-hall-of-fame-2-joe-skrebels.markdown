@@ -32,7 +32,7 @@ tags:
 - Sorcery! (Part 3 if I must)
 - Thumper
 
-### Matthew's games
+### Matthew
 
 - Hand of Fate 2
 - The Darkside Detective

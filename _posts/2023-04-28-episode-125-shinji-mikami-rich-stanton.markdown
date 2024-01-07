@@ -32,7 +32,7 @@ tags:
 | Vanquish                | Yes      |
 | The Evil Within         | Maybe    |
 | The Evil Within 2       | Bonus?   |
-| Hideki Kimaya           | ???      |
+| Hideki Kamiya           | ???      |
 
 ### Hall of Fame
 
@@ -43,4 +43,4 @@ tags:
 | Resident Evil 4      |
 | God Hand             |
 | Vanquish             |
-| Hideki Kimaya        |
+| Hideki Kamiya       |
