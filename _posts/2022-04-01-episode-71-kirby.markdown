@@ -8,22 +8,23 @@ tags:
 - Regular
 ---
 
-### Link 1
+[Play Episode](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e993)
 
-[Play Episode on Spotify](https://open.spotify.com/episode/5LjTizhJtkduigUSJnmrDY?si=MQSQ5ttSTCG9TLuuE7OxiQ)
 
-### Link 2
+### Top 5?
 
-[Play Episode on Acast](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e993)
+6. Kirby Mass Attack
+5. Kirby: Power Paintbrush
+4. Kirby's Epic Yarn (preferred version is Kirby's Extra Epic Yarn)
+3. Kirby Super Star (Kirby Super Star Ultra adds more but is harder to find)
+2. Kirby's Adventure (3D Classics version on 3DS)
+1. 3 games!
+    - Kirby's Adventure Wii
+    - Kirby: Triple Deluxe
+    - **Kirby: Planet Robobot**
+{: reversed="reversed"}
+   
+### Honourable Mentions
 
-### Embed 1
-
-<iframe src="https://open.spotify.com/embed/episode/5LjTizhJtkduigUSJnmrDY" width="100%" height="152" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
-### Embed 2
-
-<iframe src="https://embed.acast.com/$/6249ec6c14fbed0013d3ce7e?" frameBorder="0" width="100%" height="110px" allow="autoplay"></iframe>
-
-> The top 5 Kirby games, and detailed thoughts on Kirby and the Forgotten Land for Nintendo Switch. Enjoy!
->
-> This week's music is from the Kirby and the Forgotten Land soundtrack by Yuuta Ogasawara, Hirokazu Ando, Jun Ishikawa and Yuki Shimooka, and the Kirby's Epic Yarn soundtrack by Tomoya Tomita. Our theme tune is by Barry 'Epoch' Topping (@nostoppingepoch).
+- Kirby Star Allies
+- Kirby 64: The Crystal Shards
