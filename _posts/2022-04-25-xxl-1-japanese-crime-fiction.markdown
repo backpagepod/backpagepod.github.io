@@ -1,5 +1,5 @@
 ---
-title: "The Back Page XXL Episode 1: Japanese Crime Fiction – A 101"
+title: "XXL Episode 1: Japanese Crime Fiction – A 101"
 date:   2022-04-25 09:00:00 +0000
 excerpt_separator: "<!--more-->"
 categories:

@@ -1,5 +1,5 @@
 ---
-title: "The Back Page XL Episode 1: Best Boss Battles"
+title: "XL Episode 1: Best Boss Battles"
 date:   2022-04-03 09:00:00 +0000
 excerpt_separator: "<!--more-->"
 categories:
