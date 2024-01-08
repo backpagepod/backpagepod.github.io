@@ -58,4 +58,4 @@ tags:
 
 - The Last Story
 - Crimson Shroud
-- Hitman Absolution
+- Hitman: Absolution
