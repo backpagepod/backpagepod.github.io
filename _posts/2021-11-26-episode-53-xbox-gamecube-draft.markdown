@@ -54,6 +54,32 @@ tags:
 | Free pick 9     | Hitman: Blood Money                                      | Resident Evil 4                             |
 | Free pick 10    | Crimson Skies: High Road to Revenge                      | The Legend of Zelda: The Wind Waker         |
 
+### Episode 55 Revised Heart Picks
+
+| Category        | Samuel (Xbox)                                            | Matthew (GameCube)                          | Samuel (GameCube)                              
+|-----------------|----------------------------------------------------------|---------------------------------------------|------------------------------------------------|
+| Adventure/RPG   | Shenmue II                                               | Skies of Arcadia Legends                    | Skies of Arcadia Legends                       |
+| Shooter         | Panzer Dragoon Orta                                      | Metroid Prime                               | Ikaruga                                        |
+| Fighting/sports | Dead or Alive 3                                          | Super Smash Bros. Melee                     | Super Smash Bros. Melee                        |
+| Platformer      | Psychonauts                                              | Donkey Kong: Jungle Beat (with the bongos!) | Super Mario Sunshine                           |
+| Licensed game   | The Matrix: Path of Neo                                  | Lego Star Wars II: The Original Trilogy     | Star Wars Rogue Squadron II: Rogue Leader      |
+| Launch game     | Halo: Combat Evolved                                     | Star Wars Rogue Squadron II: Rogue Leader   | Luigi's Mansion                                |
+| Stealth/horror  | Splinter Cell: Chaos Theory                              | Metal Gear Solid: The Twin Snakes           | Metal Gear Solid: The Twin Snakes              |
+| Multiplayer     | Halo 2                                                   | WarioWare Inc.: Mega Party Games            | Mario Kart: Double Dash                        |
+| Racing          | Burnout 3: Takedown                                      | Mario Kart: Double Dash                     | F-Zero GX                                      |
+| Wild card       | Steel Battalion (with the mech controller!)              | Killer7                                     | Baten Kaitos: Eternal Wings and the Lost Ocean |
+| Free pick 1     | Ninja Gaiden Black                                       | Tony Hawk's Pro Skater 4                    | Killer7                                        |
+| Free pick 2     | Jet Set Radio Future                                     | Resident Evil 4                             | Paper Mario: The Thousand-Year Door            |
+| Free pick 3     | The Chronicles of Riddick: Escape from Butcher Bay       | Resident Evil (2002)                        | The Legend of Zelda: Twilight Princess         |
+| Free pick 4     | The Elder Scrolls III: Morrowind                         | Chibi-Robo!                                 | Fire Emblem: Path of Radiance                  |
+| Free pick 5     | Jade Empire                                              | Paper Mario: The Thousand-Year Door         | Viewtiful Joe                                  |
+| Free pick 6     | Star Wars: Knights of the Old Republic                   | Viewtiful Joe                               | Eternal Darkness: Sanity's Requiem             |
+| Free pick 7     | Star Wars Knights of the Old Republic II: The Sith Lords | F-Zero GX                                   | Resident Evil 4                                |
+| Free pick 8     | Breakdown                                                | Eternal Darkness: Sanity's Requiem          | The Legend of Zelda: The Wind Waker            |
+| Free pick 9     | OutRun 2                                                 | Super Mario Sunshine                        | Chibi-Robo!                                    |
+| Free pick 10    | Crimson Skies: High Road to Revenge                      | The Legend of Zelda: The Wind Waker         | Metroid Prime                                  |
+
+
 ### Results
 
 Samuel 41%
