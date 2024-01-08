@@ -32,7 +32,7 @@ tags:
 
 - Bionic Commando
 - Flower
-- Warhammer 40,000: Dawn of War II 
+- Warhammer 40,000: Dawn of War II
 - Halo Wars
 - Infamous
 - The Saboteur
