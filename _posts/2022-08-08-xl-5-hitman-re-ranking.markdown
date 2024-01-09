@@ -22,7 +22,7 @@ tags:
 14. Dubai (On Top of the World, H3)
 13. Bangkok (Club 27, H1)
 12. Berlin (Apex Predator, H3)
-11. New York (Golden Handshake, H2 DLC
+11. New York (Golden Handshake, H2 DLC)
 10. Whittleton Creek (Another Life, H2)
 9. Isle of Sgàil (The Ark Society, H2)
 8. Dartmoor (Death in the Family, H3)
