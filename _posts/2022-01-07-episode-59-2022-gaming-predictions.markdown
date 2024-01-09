@@ -42,3 +42,7 @@ tags:
 - New game from Kosuke Yabuki (Mario Kart, ARMS)
 - Amazing new Famicom Detective Club game
 - We’ll all regret coming back to GoldenEye 007 when it comes out
+
+### Lore
+
+- Matthew eats a Rennie - 45 mins
