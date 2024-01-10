@@ -14,6 +14,12 @@ tags:
 >
 > This week's music is from the Command & Conquer: Red Alert soundtrack by Frank Klepacki.
 
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/come-dine-with-samuel.png)
+
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/pc-draft-mistake.png)
+
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/command-and-conquer-draft.png)
+
 ## The Categories
 1. FPS 1
 2. FPS 2
@@ -31,7 +37,7 @@ tags:
 | Player     | Category                         | Pick                                  |
 |------------|----------------------------------|---------------------------------------|
 | Samuel     | RPG                              | Baldur's Gate                         |
-| Matthew    | FPS 1                            | System Shock 2                        |
+| Matthew    | FPS 1                            | Half-Life                             |
 | Matthew    | Sim                              | Star Wars: TIE Fighter                |
 | Samuel     | Point and Click / Adventure Game | Grim Fandango                         |
 | Samuel     | Strategy                         | Age of Empires 2: Age of Kings        |
@@ -71,3 +77,6 @@ tags:
 - Samuel 40%
 - **Matthew 60%**
 - (422 votes)
+
+### Lore
+- Matthew picks TIE fighter - 45 mins. [Why this was a dagger in the heart](https://fxtwitter.com/BackPagePod/status/1726718306009403488?s=20)

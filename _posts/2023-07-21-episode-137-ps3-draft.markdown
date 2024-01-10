@@ -94,6 +94,4 @@ Matthew 38%
 
 **Samuel 62%**
 
-(364 votes)
-
-
+(364 votes, then the poll broke)

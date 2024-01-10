@@ -14,6 +14,8 @@ tags:
 > 
 > This week's music is from the Blade Runner game soundtrack by Vangelis and Frank Klepacki.
 
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/queen-the-eye.jpeg)
+
 ## Categories
 1. Movie tie-in
 2. TV show tie-in

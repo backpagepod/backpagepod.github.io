@@ -16,6 +16,8 @@ tags:
 
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/vita-draft-day.jpeg)
 
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/harrison-ford-vita.jpeg)
+
 ### Categories
 
 1. Shooter

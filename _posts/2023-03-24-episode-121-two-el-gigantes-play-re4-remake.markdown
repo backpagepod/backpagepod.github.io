@@ -12,3 +12,12 @@ tags:
 > We've both finished Resident Evil 4 Remake, which is out now! The original was an era-defining game for us, so what's the deal with this one? There are two parts here: a non-spoilery section then a more spoiler-y one. We hope you like it.
 >
 > This week's music is from the Resident Evil 4 soundtrack by Misao Senbongi and Shusaku Uchiyama.
+
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/matthew-rio-matchmakers.jpeg)
+> Image credit: Naeslyn
+
+### Lore
+
+Right to reply:
+
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/lesley-smith.jpeg)

@@ -14,3 +14,17 @@ tags:
 > Dying Light 2, Windjammers 2, Resident Evil 4 VR, NEO: The World Ends With You and more are discussed in this episode about what we've been playing in 2022 so far.
 >
 > This week's music is from the Unpacking soundtrack by Jeff van Dyck and the Windjammers 2 soundtrack by Seiichi Hamada, Hiroaki Yoshida, Harumi Fujita and Sylvain Hellio.
+
+- Dying Light 2
+- Windjammers 2
+- Neo: The World Ends with You
+- Aquamarine
+- Demon's Souls (2020)
+- Unpacking
+- Metroid: Zero Mission
+- Pokémon Legends: Arceus
+- Resident Evil 4 (2021 VR version on Oculus Quest 2)
+
+### Lore
+
+- Matthew's pile of stuff, ceiling, housemates with serious jobs, Pikmin 3, apples 1:12:40

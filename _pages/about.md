@@ -13,4 +13,4 @@ The theme tune is composed by Barry Topping (@nostoppingepoch).
 
 Any funny images are probably by Naeslyn.
 
-This website has been built by Graham_S using a template supplied by Jekyll and Minimal Mistakes. I've compiled the lists with help from the rest of the Discord community. Errors all mine.
+This website has been built by Graham_S using a template supplied by Jekyll and Minimal Mistakes. I've compiled the lists with help from the rest of the Discord community. Ryan Cobain did a bunch of early lists. Errors all mine.

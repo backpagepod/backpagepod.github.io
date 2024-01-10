@@ -14,6 +14,9 @@ tags:
 > 
 > This week's music is from the Silent Hill 2 soundtrack by Akira Yamaoka.
 
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/oboe-head.jpeg)
+> Image credit: RyanPlugs
+
 ## Matthew
 10. Castlevania: Circle of the Moon
 9. Uplink
