@@ -17,4 +17,4 @@ tags:
 > ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/predator-credits.jpeg)
 
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/alien-predator-kittens.jpeg)
-> Image credit: RyanPLugs
+> Image credit: RyanPlugs
