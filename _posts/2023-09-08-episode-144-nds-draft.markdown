@@ -12,6 +12,21 @@ tags:
 [Play Episode.](https://www.patreon.com/posts/episode-144-ds-88953403)
 > Matthew and Samuel compete to pick the 15 best Nintendo DS games – after an extremely long preamble.
 
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/ds-draft-betrayal.jpeg)
+> Image credit: RyanPlugs
+
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/languid.jpeg)
+> Image credit: Naeslyn
+
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/katharine-ds-1.jpeg)
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/katharine-ds-2.jpeg)
+> Katharine Castle: To clear up this week's BackPagePod debate, here are my offending DS Phat decals - which I'd argue immeasurably improve the look of the thing. If Nintendo had released a Mario Kart special edition of it, I guarantee it would have (probably) looked something like this. Maybe.
+
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/gummy.jpeg)
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/golden-balls.jpeg)
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/deal-or-no-deal.jpeg)
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/house.jpeg)
+
 ## The Categories?
 1. Game with 'Dr' or 'Professor' in the title
 2. Entry in the Ubisoft Imagine series
@@ -108,3 +123,7 @@ Samuel 38%
 **Matthew 62%**
 
 (329 votes)
+
+### Lore
+
+- Languid - 1:28:02

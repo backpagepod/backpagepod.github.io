@@ -14,6 +14,10 @@ tags:
 > 
 > This week's music is from the Metal Gear Solid 4: Guns of the Patriots soundtrack by Harry Gregson-Williams.
 
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/haze.jpeg)
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/haze-2.jpeg)
+
+
 ## The Categories?
 1. Unfortunate Sixaxis controls
 2. Resistance or Killzone
@@ -82,6 +86,14 @@ tags:
 | Wild card             | Puppeteer                                   | 3D Dot Game Heroes                   |
 | Free pick             | Heavy Rain                                  | Persona 5                            |
 | Superior PS4 version  | God of War 3                                | Uncharted 3: Drake's Deception       |
-| HD Collection  | The Ico & Shadow of the Colossus Collection | Metal Gear Solid HD Collection       |
+| HD Collection         | The Ico & Shadow of the Colossus Collection | Metal Gear Solid HD Collection       |
+
+### Results
+
+Matthew 38%
+
+**Samuel 62%**
+
+(364 votes)
 
 

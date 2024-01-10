@@ -73,3 +73,11 @@ tags:
 |Non-English language|In the Mood for Love|I Wish |
 |2023 release|Oppenheimer|Barbie |
 |Some smut|Basic Instinct| The Handmaiden|
+
+### Results
+
+Samuel 35%
+
+**Matthew 65%**
+
+(95 votes)

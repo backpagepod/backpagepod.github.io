@@ -14,6 +14,11 @@ tags:
 >
 > This week's music is from the Mirror's Edge soundtrack by Solar Fields.
 
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/360-draft-day.jpeg)
+
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/bateman-fable.jpeg)
+> Image credit: Naeslyn
+
 ## The Categories?
 1. THQ 6/10
 2. Rare launch title
@@ -78,4 +83,12 @@ tags:
 | Open world                   | Grand Theft Auto IV            | Red Dead Redemption               |
 | Wild card                    | Mirror's Edge                  | Lost Odyssey                      |
 | Free pick                    | Bayonetta                      | Gears of War 2                    |
+
+### Results
+
+**Samuel 57%**
+
+Matthew 43%
+
+(409 votes)
 

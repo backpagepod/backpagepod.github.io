@@ -14,6 +14,9 @@ tags:
 > 
 > This week's music is from Cubivore, probably? Matthew edited this one and didn't say where the music came from – and at the time of writing he's on a train to Belgium, so who really knows.
 
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/wes-magazines.jpeg)
+> A photo of the magazines discussed by Wes in this week's episode
+
 - Mother 3
 - Astro Boy: Omega Factor
 - Kingdom Hearts: Chain of Memories

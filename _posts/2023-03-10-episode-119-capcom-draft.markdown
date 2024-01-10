@@ -14,6 +14,9 @@ tags:
 >
 > This week's music is from the Devil May Cry 5 soundtrack by Casey Edwards, Ali Edwards and Cliff Lloret, and the Onimusha 2: Samurai's Destiny soundtrack by Taro Iwashiro.
 
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/driving-mr-pesto.png)
+> Image credit: Naeslyn
+
 ## The Categories
 - Fighting game
 - Survival horror
@@ -72,4 +75,12 @@ tags:
 | Modern classic   | Devil May Cry 5                | Monster Hunter World                    |
 | Wild card        | God Hand                       | Glass Rose                              |
 | Free pick        | Resident Evil 4                | Viewtiful Joe                           |
+
+### Results
+
+**Samuel 52%**
+
+Matthew 48%
+
+(250 votes)
 

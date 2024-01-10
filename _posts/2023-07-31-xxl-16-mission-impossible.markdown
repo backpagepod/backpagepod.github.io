@@ -13,6 +13,12 @@ tags:
 >
 > This week's music is from the Mission: Impossible series soundtracks by Lalo Schifrin, Danny Elfman, Hans Zimmer, Michael Giacchino, Joe Kraemer, Lorne Balfe and Limp Bizkit.
 
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/mission-impossible.jpeg)
+> Image credit: Naeslyn
+
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/john-woo.jpeg)
+> Image credit: Tabbdl
+
 7. Mission: Impossible 2
 6. Mission: Impossible – Rogue Nation
 5. Mission: Impossible III

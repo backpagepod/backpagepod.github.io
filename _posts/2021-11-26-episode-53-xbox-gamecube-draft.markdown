@@ -16,6 +16,9 @@ tags:
 > 
 > This week's music is from the Super Mario Sunshine soundtrack by Koji Kondo and Shinobu Tanaka, the Metroid Prime soundtrack by Kenji Yamamoto and Kouichi Kyuma, The Simpsons: Hit and Run soundtrack by Marc Baril, Jeff Tymoschuk and Allan Levy, and the Max Payne 2: The Fall of Max Payne soundtrack by Kärtsy Hatakka and Kimmo Kajasto.
 
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/lynham.jpeg)
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/jason-alexander.jpeg)
+
 ## The Categories
 - Adventure/RPG
 - Shooter

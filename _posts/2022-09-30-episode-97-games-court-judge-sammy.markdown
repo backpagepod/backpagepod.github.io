@@ -15,4 +15,5 @@ tags:
 > Apologies in advance if you hate Games Court.
 
 ### Lore
-Cursed Doom 3 anecdote
+
+ - Cursed Doom 3 anecdote

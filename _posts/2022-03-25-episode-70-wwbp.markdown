@@ -14,3 +14,10 @@ tags:
 > It's a simple 'what we've been playing' episode, featuring Ghostwire: Tokyo, Kirby and the Forgotten Land, Tunic, Marvel's Guardians of the Galaxy and Monster Train – not to mention a ton of listener questions about random nonsense.
 >
 > This week's music is from the Tunic soundtrack by Terence Lee and Janice Kwan, and our excellent theme tune is by Barry 'Epoch' Topping (@NoStoppingEpoch on Twitter).
+
+- Ghostwire: Tokyo
+- Tunic
+- Kirby and the Forgotten Land
+- Monster Train
+- Elden Ring
+- Marvel's Guardians of the Galaxy

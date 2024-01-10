@@ -13,3 +13,7 @@ tags:
 > More listeners go on trial for bad pre-owned games purchases – this time with Judge Big Sammy making the verdicts. As ever, games court delivers zero nutritional value, but we have some laughs along the way.
 >
 > Our theme tune comes from the brilliant Barry Topping, composer of Paradise Killer.
+
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/regularpod.jpeg)
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/gamescourtpod.jpeg)
+> Image credit: Bob Bob

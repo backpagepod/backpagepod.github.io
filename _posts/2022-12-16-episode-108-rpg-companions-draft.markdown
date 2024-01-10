@@ -33,5 +33,13 @@ tags:
 | Inept party member you'd rather forget   | Kimahri (Final Fantasy X)                      | Liam Kosta (Mass Effect: Andromeda)                   |
 | Wild Card                                | Democratus (Anachronox)                        | Admiral Bobbery (Paper Mario: The Thousand Year Door) |
 
+### Results
+
+**Matthew 58%**
+
+Samuel 42%
+
+(285 votes)
+
 
 

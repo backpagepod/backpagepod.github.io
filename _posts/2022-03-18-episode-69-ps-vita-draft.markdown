@@ -14,41 +14,53 @@ tags:
 >
 > This week's music is from Hotline Miami by Scattle, and our theme tune is by Barry 'Epoch' Topping.
 
-### Matthew
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/vita-draft-day.jpeg)
 
-- TxK
-- Gravity Rush
-- Persona 4: Golden
-- Final Fantasy X/X-2 HD
-- Persona 4: Dancing All Night
-- Hotline Miami
-- Lumines Electronic Symphony
-- Nidhogg
-- Danganronpa: Trigger Happy Havoc
-- Zero Escape: The Nonary Games
+### Categories
 
-### Samuel
+1. Shooter
+2. Racing or platformer
+3. RPG/action-adventure
+4. Re-release
+5. Wild card
+6. Indie game
+7. Puzzle
+8. Fighting game
+9. Visual novel/story-centric
+10. Free pick
 
-- Uncharted: Golden Abyss
-- WipeOut 2048
-- Tearaway
-- Metal Gear Solid: HD Collection
-- Odin Sphere: Leifthrasir
-- Spelunky
-- Sound Shapes
-- Ultimate Marvel Vs Capcom 3
-- The Unfinished Swan
-- XCOM Enemy Unknown
+### PSP/PSone bonus categories (must have been available digitally at some point)
+1. RPG
+2. Shooter
+3. Action-adventure/open world Resident Evil 2
+4. Platformer
+5. PSone/PSP free pick
 
-### PSP/PSone Bonus Categories
+### Picks
 
-- Persona 3: Portable
-- Final Fantasy IV: Complete Edition
-- Killzone Liberation
-- Resident Evil 2
-- LocoRoco 2
-- Final Fantasy Tactics: The War of the Lions
-- R-Type Delta
-- Metal Gear Solid
-- Castlevania: Symphony of the Night
-- Metal Gear Solid: Peace Walker
+| Category                                    | Matthew                                     | Samuel                              |
+|---------------------------------------------|---------------------------------------------|-------------------------------------|
+| Shooter                                     | TxK                                         | Uncharted: Golden Abyss             |
+| Racing or platformer                        | Gravity Rush                                | WipeOut 2048                        |
+| RPG/action-adventure                        | Persona 4: Golden                           | Tearaway                            |
+| Re-release                                  | Final Fantasy X/X-2 HD                      | Metal Gear Solid: HD Collection     |
+| Wild card                                   | Persona 4: Dancing All Night                | Odin Sphere: Leifthrasir            |
+| Indie game                                  | Hotline Miami                               | Spelunky                            |
+| Puzzle                                      | Lumines Electronic Symphony                 | Sound Shapes                        |
+| Fighting game                               | Nidhogg                                     | Ultimate Marvel Vs Capcom 3         |
+| Visual novel/story-centric                  | Danganronpa: Trigger Happy Havoc            | The Unfinished Swan                 |
+| Free pick                                   | Zero Escape: The Nonary Games               | XCOM: Enemy Unknown                 |
+| Bonus Categories                            |                                             |                                     |
+| RPG                                         | Persona 3: Portable                         | Final Fantasy IV: Complete Edition  |
+| Shooter                                     | Killzone Liberation                         | R-Type Delta                        |
+| Action-adventure/open world Resident Evil 2 | Resident Evil 2                             | Metal Gear Solid                    |
+| Platformer                                  | LocoRoco 2                                  | Castlevania: Symphony of the Night  |
+| PSone/PSP free pick                         | Final Fantasy Tactics: The War of the Lions | Metal Gear Solid: Peace Walker      |
+
+### Results
+
+**Matthew 52%**
+
+Samuel 48%
+
+(446 votes)

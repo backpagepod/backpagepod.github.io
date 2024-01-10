@@ -12,3 +12,9 @@ tags:
 > After a short break, we're back with a fun (allegedly) holiday special to see out the year – featuring special guests, our favourite Christmas-themed games and the Back Page alternative GOTY awards.
 >
 > This week's music is from Bayonetta Origins, Final Fantasy 16, Fable 2 and Bully.
+
+> The energy of our past guests turning up in our Xmas special:
+> ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/predator-credits.jpeg)
+
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/alien-predator-kittens.jpeg)
+> Image credit: RyanPLugs
