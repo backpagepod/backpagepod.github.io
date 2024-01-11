@@ -91,7 +91,7 @@ defaults:
       read_time: false
       comments: false
       share: false
-      related: true
+      show_date: true
   # _pages
   - scope:
       path: "_pages"
