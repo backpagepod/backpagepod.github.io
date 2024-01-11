@@ -13,8 +13,10 @@ tags:
 >
 > This week's music is from the Fable 2 soundtrack by Russell Shaw. Thanks to Liam Richardson for his final set of edits on a Back Page XL Tier episode, we'd have fallen over without him! 
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/jindosh.jpeg)
-> Image credit: Jenuall
+<figure>
+    <img src="/assets/images/jindosh.jpeg" alt="Pure Jindosh">
+    <figcaption>Image credit: Jenuall</figcaption>
+</figure>
 
 ## Best Gaming Prisons
 

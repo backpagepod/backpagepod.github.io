@@ -13,4 +13,7 @@ tags:
 >
 > This week's music is from the Uncharted 4: A Thief's End soundtrack by Henry Jackman, and the Uncharted 1-3 soundtracks by Greg Edmonson.
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/yak.jpeg)
+<figure>
+  <img src="/assets/images/yak.jpeg" alt="Ox patting (pictured: a yak)">
+  <figcaption>Ox patting (pictured: a yak)</figcaption>
+</figure>

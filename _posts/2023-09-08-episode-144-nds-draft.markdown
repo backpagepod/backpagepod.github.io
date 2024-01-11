@@ -7,25 +7,45 @@ categories:
 tags:
 - Draft
 - Regular
+gallery:
+  - url: /assets/images/ds-draft-betrayal.jpeg
+    image_path: /assets/images/ds-draft-betrayal.jpeg
+    alt: "You can pinpoint the second when his heart rips in half"
+    title: "Image credit: RyanPlugs"
+  - url: /assets/images/languid.jpeg
+    image_path: /assets/images/languid.jpeg
+    alt: "Stop Saying Languid"
+    title: "Image credit: Naeslyn"
+  - url: /assets/images/katharine-ds-1.jpeg
+    image_path: /assets/images/katharine-ds-1.jpeg
+    alt: "Katharine's DS"
+    title: "Katharine's DS"
+  - url: /assets/images/katharine-ds-2.jpeg
+    image_path: /assets/images/katharine-ds-2.jpeg
+    alt: "Katharine's DS"
+    title: "Katharine's DS"
+  - url: /assets/images/gummy.jpeg
+    image_path: /assets/images/gummy.jpeg
+    alt: "Gummy Bears Mini Golf"
+    title: "Gummy Bears Mini Golf"
+  - url: /assets/images/golden-balls.jpeg
+    image_path: /assets/images/golden-balls.jpeg
+    alt: "Golden Balls"
+    title: "Golden Balls"
+  - url: /assets/images/deal-or-no-deal.jpeg
+    image_path: /assets/images/deal-or-no-deal.jpeg
+    alt: "Deal or No Deal"
+    title: "Deal or No Deal"
+  - url: /assets/images/house.jpeg
+    image_path: /assets/images/house.jpeg
+    alt: "House"
+    title: "House"
 ---
 
 [Play Episode.](https://www.patreon.com/posts/episode-144-ds-88953403)
 > Matthew and Samuel compete to pick the 15 best Nintendo DS games – after an extremely long preamble.
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/ds-draft-betrayal.jpeg)
-> Image credit: RyanPlugs
-
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/languid.jpeg)
-> Image credit: Naeslyn
-
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/katharine-ds-1.jpeg)
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/katharine-ds-2.jpeg)
-> Katharine Castle: To clear up this week's BackPagePod debate, here are my offending DS Phat decals - which I'd argue immeasurably improve the look of the thing. If Nintendo had released a Mario Kart special edition of it, I guarantee it would have (probably) looked something like this. Maybe.
-
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/gummy.jpeg)
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/golden-balls.jpeg)
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/deal-or-no-deal.jpeg)
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/house.jpeg)
+{% include gallery caption="Katharine Castle: To clear up this week's BackPagePod debate, here are my offending DS Phat decals - which I'd argue immeasurably improve the look of the thing. If Nintendo had released a Mario Kart special edition of it, I guarantee it would have (probably) looked something like this. Maybe." layout="half"%}
 
 ## The Categories?
 1. Game with 'Dr' or 'Professor' in the title

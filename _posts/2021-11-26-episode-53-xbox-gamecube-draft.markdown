@@ -7,6 +7,15 @@ categories:
 tags:
 - Draft
 - Regular
+gallery:
+  - url: /assets/images/lynham.jpeg
+    image_path: /assets/images/lynham.jpeg
+    alt: "Des Lynham promotes the MCP draft picks"
+    title: "Des Lynham promotes the MCP draft picks"
+  - url: /assets/images/jason-alexander.jpeg
+    image_path: /assets/images/jason-alexander.jpeg
+    alt: "Jason Alexander at the MCP launch event"
+    title: "Jason Alexander at the MCP launch event"
 ---
 
 [Play Episode.](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9a5)
@@ -16,8 +25,7 @@ tags:
 > 
 > This week's music is from the Super Mario Sunshine soundtrack by Koji Kondo and Shinobu Tanaka, the Metroid Prime soundtrack by Kenji Yamamoto and Kouichi Kyuma, The Simpsons: Hit and Run soundtrack by Marc Baril, Jeff Tymoschuk and Allan Levy, and the Max Payne 2: The Fall of Max Payne soundtrack by Kärtsy Hatakka and Kimmo Kajasto.
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/lynham.jpeg)
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/jason-alexander.jpeg)
+{% include gallery caption="MCP Gamecube Draft Launch (Embargoed)" %}
 
 ## The Categories
 - Adventure/RPG

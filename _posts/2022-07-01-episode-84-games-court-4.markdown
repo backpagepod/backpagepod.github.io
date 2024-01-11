@@ -14,6 +14,10 @@ tags:
 >
 > Our theme tune comes from the brilliant Barry Topping, composer of Paradise Killer.
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/regularpod.jpeg)
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/gamescourtpod.jpeg)
-> Image credit: Bob Bob
+<figure>
+    <img src="/assets/images/regularpod.jpeg" alt="Regular Back Page Episode">
+</figure>
+<figure>
+    <img src="/assets/images/gamescourtpod.jpeg" alt="Games Court Back Page Episode">
+    <figcaption>Image credit: Bob Bob</figcaption>
+</figure>

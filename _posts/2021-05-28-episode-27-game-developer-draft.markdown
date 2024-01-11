@@ -9,7 +9,10 @@ tags:
 - Regular
 ---
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/e3.jpeg)
+<figure>
+  <img src="/assets/images/e3.jpeg" alt="Matthew Castle Productions stuns E3">
+  <figcaption>Matthew Castle Productions stuns E3.</figcaption>
+</figure>
 
 [Play Episode.](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9bf)
 > Microsoft has been on a spending spree in acquiring developers over the past few years, from Obsidian to buying the entirety of Bethesda. In this episode, Matthew and Samuel can each pick 6 game developers to build a new publisher – but it's competitive, and they can't pick any of the same choices. After you listen, head on over to @BackPagePod on Twitter to cast your vote on who won!

@@ -14,8 +14,10 @@ tags:
 > 
 > This week's music is from Cubivore, probably? Matthew edited this one and didn't say where the music came from – and at the time of writing he's on a train to Belgium, so who really knows.
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/wes-magazines.jpeg)
-> A photo of the magazines discussed by Wes in this week's episode
+<figure>
+    <img src="/assets/images/wes-magazines.jpeg" alt="A photo of the magazines discussed by Wes in this week's episode">
+    <figcaption>The magazines discussed by Wes in this week's episode</figcaption>
+</figure>
 
 - Mother 3
 - Astro Boy: Omega Factor

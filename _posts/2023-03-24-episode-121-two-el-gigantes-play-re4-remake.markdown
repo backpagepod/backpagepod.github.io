@@ -13,11 +13,16 @@ tags:
 >
 > This week's music is from the Resident Evil 4 soundtrack by Misao Senbongi and Shusaku Uchiyama.
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/matthew-rio-matchmakers.jpeg)
-> Image credit: Naeslyn
+
+<figure>
+    <img src="/assets/images/matthew-rio-matchmakers.jpeg" alt="Matthew. Rio. Matchmakers.">
+    <figcaption>Image credit: Naeslyn</figcaption>
+</figure>
 
 ### Lore
 
 Right to reply:
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/lesley-smith.jpeg)
+<figure>
+    <img src="/assets/images/lesley-smith.jpeg" alt="Matthew's mum in the comments">
+</figure>

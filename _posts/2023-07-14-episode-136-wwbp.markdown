@@ -15,8 +15,10 @@ tags:
 > 
 > This week's music is from the Final Fantasy 16 soundtrack by Masayoshi Soken. 
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/apple-sauce.jpeg)
-> Image credit: Alex
+<figure>
+    <img src="/assets/images/apple-sauce.jpeg" alt="Matthew. The Office. Unable to distinguish apple sauce and mash.">
+    <figcaption>Image credit: Alex</figcaption>
+</figure>
 
 - Final Fantasy XVI
 - Master Detective Archives: Rain Code

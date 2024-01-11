@@ -14,10 +14,14 @@ tags:
 >
 > This week's music is from the Mirror's Edge soundtrack by Solar Fields.
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/360-draft-day.jpeg)
+<figure>
+    <img src="/assets/images/360-draft-day.jpeg" alt="360 draft day">
+</figure>
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/bateman-fable.jpeg)
-> Image credit: Naeslyn
+<figure>
+    <img src="/assets/images/bateman-fable.jpeg" alt="Patrick Bateman. Fable II.">
+    <figcaption>Image credit: Naeslyn</figcaption>
+</figure>
 
 ## The Categories?
 1. THQ 6/10

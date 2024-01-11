@@ -14,9 +14,12 @@ tags:
 > 
 > This week's music is from the Metal Gear Solid 4: Guns of the Patriots soundtrack by Harry Gregson-Williams.
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/haze.jpeg)
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/haze-2.jpeg)
-
+<figure>
+    <img src="/assets/images/haze.jpeg" alt="PS3 Haze">
+</figure>
+<figure>
+    <img src="/assets/images/haze-2.jpeg" alt="PS3 Haze with no disc">
+</figure>
 
 ## The Categories?
 1. Unfortunate Sixaxis controls

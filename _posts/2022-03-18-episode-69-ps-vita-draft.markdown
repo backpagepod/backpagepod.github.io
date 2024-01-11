@@ -14,9 +14,15 @@ tags:
 >
 > This week's music is from Hotline Miami by Scattle, and our theme tune is by Barry 'Epoch' Topping.
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/vita-draft-day.jpeg)
+<figure>
+  <img src="/assets/images/vita-draft-day.jpeg" alt="Vita Draft Day">
+  <figcaption>Vita Draft Day</figcaption>
+</figure>
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/harrison-ford-vita.jpeg)
+<figure>
+  <img src="/assets/images/harrison-ford-vita.jpeg" alt="Harrison Ford holding a Playstation Vita">
+  <figcaption>It's Harrison Ford holding a Playstation Vita</figcaption>
+</figure>
 
 ### Categories
 

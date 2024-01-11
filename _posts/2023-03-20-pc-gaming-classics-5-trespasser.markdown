@@ -14,4 +14,6 @@ tags:
 >
 > Look out for the Review Wars poll in our pinned tweet @BackPagePod this week. 
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/peel-trespasser.jpeg)
+<figure>
+    <img src="/assets/images/peel-trespasser.jpeg" alt="First contact with Trespasser is going well. Yep, that's my arm.">
+</figure>

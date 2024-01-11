@@ -14,11 +14,18 @@ tags:
 >
 > This week's music is from the Command & Conquer: Red Alert soundtrack by Frank Klepacki.
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/come-dine-with-samuel.png)
+<figure>
+    <img src="/assets/images/come-dine-with-samuel.png" alt="Come Dine With Samuel">
+</figure>
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/pc-draft-mistake.png)
+<figure>
+    <img src="/assets/images/pc-draft-mistake.png" alt="My mistake was assuming Matthew would only pick games he had played.">
+</figure>
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/command-and-conquer-draft.png)
+<figure>
+    <img src="/assets/images/command-and-conquer-draft.png" alt="An Arrested Development meme">
+</figure>
+
 
 ## The Categories
 1. FPS 1

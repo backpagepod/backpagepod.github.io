@@ -6,6 +6,15 @@ categories:
 - Episode
 tags:
 - XXL
+gallery:
+   - url: /assets/images/mission-impossible.jpeg
+     image_path: /assets/images/mission-impossible.jpeg
+     alt: "Mission: Backpageable"
+     title: "Mission: Backpageable"
+   - url: /assets/images/john-woo.jpeg
+     image_path: /assets/images/john-woo.jpeg
+     alt: "Star of MI2"
+     title: "Star of MI2"
 ---
 
 [Play Episode.](https://www.patreon.com/posts/xxl-episode-16-86908870)
@@ -13,11 +22,7 @@ tags:
 >
 > This week's music is from the Mission: Impossible series soundtracks by Lalo Schifrin, Danny Elfman, Hans Zimmer, Michael Giacchino, Joe Kraemer, Lorne Balfe and Limp Bizkit.
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/mission-impossible.jpeg)
-> Image credit: Naeslyn
-
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/john-woo.jpeg)
-> Image credit: Tabbdl
+{% include gallery caption="Image Credits: Naeslyn, Tabbdl" %}
 
 7. Mission: Impossible 2
 6. Mission: Impossible – Rogue Nation

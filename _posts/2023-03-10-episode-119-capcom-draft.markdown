@@ -14,8 +14,10 @@ tags:
 >
 > This week's music is from the Devil May Cry 5 soundtrack by Casey Edwards, Ali Edwards and Cliff Lloret, and the Onimusha 2: Samurai's Destiny soundtrack by Taro Iwashiro.
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/driving-mr-pesto.png)
-> Image credit: Naeslyn
+<figure>
+    <img src="/assets/images/driving-mr-pesto.png" alt="Driving Mr Pesto">
+    <figcaption>Image credit: Naeslyn</figcaption>
+</figure>
 
 ## The Categories
 - Fighting game
