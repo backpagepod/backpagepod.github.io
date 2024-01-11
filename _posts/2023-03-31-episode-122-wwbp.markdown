@@ -8,12 +8,31 @@ tags:
 - WWBP
 - Mailbag
 - Regular
+gallery:
+  - url: /assets/images/sounds-like.jpeg
+    image_path: /assets/images/sounds-like.jpeg
+    alt: "Sounds Like You Need to Listen to the BPP"
+    title: "Image credit: Liam Richardson"
+  - url: /assets/images/wolves-1.jpeg
+    image_path: /assets/images/wolves-1.jpeg
+    alt: "Wolves"
+    title: "Image Credit: Naeslyn"
+  - url: /assets/images/wolves-2.jpeg
+    image_path: /assets/images/wolves-2.jpeg
+    alt: "Wolves 2"
+    title: "Wolves 2"
+  - url: /assets/images/wolves-3.jpeg
+    image_path: /assets/images/wolves-3.jpeg
+    alt: "Wolves 3"
+    title: "Wolves 3"
 ---
 
 [Play Episode.](https://www.patreon.com/posts/episode-122-what-80792954)
 > In this week's episode, Samuel suffers from jetlag and Matthew suffers from living as we recount what we've been playing lately – everything except Resident Evil 4 Remake, anyway. Games discussed this week include Celeste, Diablo 4, Tchia, Resident Evil 1 Remake and a slew of PSVR 2 stuff. We'll return with our next regular episode on April 14th, though Patreon folk will get a new XL episode in the meantime on the best Mario moments.
 >
 > This week's music is from the Final Fantasy X soundtrack by Nobuo Uematsu, Masashi Hamauzu and Junya Nakano.
+
+{% include gallery layout="half"%}
 
 - Diablo IV
 - Tchia

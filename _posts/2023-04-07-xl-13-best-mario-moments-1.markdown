@@ -13,6 +13,11 @@ tags:
 >
 > This week's music is from the Super Mario Galaxy soundtrack by Mahito Yokota and Koji Kondo.
 
+<figure>
+    <img src="/assets/images/mario-moments.jpeg" alt="Mario Moments">
+    <figcaption>Image credit: Naeslyn</figcaption>
+</figure>
+
 ### Best Mario Moments
 
 1. Super Mario Bros - Grabbing a Fire Flower in Super Mario Bros

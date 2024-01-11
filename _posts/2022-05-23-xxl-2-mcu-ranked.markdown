@@ -11,6 +11,11 @@ tags:
 [Play Episode.](https://www.patreon.com/posts/xxl-episode-2-66754098)
 > 28 Marvel movies ranked! In this Patreon exclusive episode, we audit the entire Marvel Cinematic Universe (minus What If? and the Netflix/ABC shows) and put these superhero movies into some kind of quality order – apologies in advance for our terrible takes in this one.
 
+<figure>
+    <img src="/assets/images/blorko-snap.jpeg" alt="Blorko Marvel Snap">
+    <figcaption>Image credit: Alex</figcaption>
+</figure>
+
 28. Thor: The Dark World (2013)
 27. Iron Man 2 (2010)
 26. The Incredible Hulk (2008)

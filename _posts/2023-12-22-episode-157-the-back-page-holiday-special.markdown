@@ -15,6 +15,10 @@ gallery:
     image_path: /assets/images/alien-predator-kittens.jpeg
     alt: "Alien vs Predator vs Kittens"
     title: "Image credit: RyanPlugs"
+  - url: /assets/images/legends-of-wwii.jpeg
+    image_path: /assets/images/legends-of-wwii.jpeg
+    alt: "Naeslyn's Wii Calendar"
+    title: "Naeslyn's Wii Calendar"
 ---
 
 [Play Episode.](https://www.patreon.com/posts/episode-157-back-94989086)

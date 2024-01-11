@@ -13,6 +13,11 @@ tags:
 >
 > This week's music is from the Final Fantasy XV soundtrack by Yoko Shimomura, the Final Fantasy XVI soundtrack by Masayoshi Soken, the Final Fantasy XIII soundtrack by Masashi Hamauzu and the Final Fantasy Crystal Chronicles: The Crystal Bearers soundtrack by Hidenori Iwasaki, Ryo Yamazaki and Kumi Tanioka.
 
+<figure>
+    <img src="/assets/images/bugenhagen.jpeg" alt="Bugenhagen">
+    <figcaption>Within 12 hours, the Discord had created a Bugenhagen emoji</figcaption>
+</figure>
+
 ### Matthew’s favourite
 - Final Fantasy VII ?
 - Final Fantasy XII ✔️

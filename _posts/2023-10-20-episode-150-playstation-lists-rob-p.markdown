@@ -13,3 +13,10 @@ tags:
 > Rob Pearson of PlayStation Access is our guest this week. Hear about Rob's unusual journey to YouTube fame via print media, and how Charlie Brooker and Jon Blyth inspired his hugely popular top 7 features.
 >
 > This week's music is from the Final Fantasy IX soundtrack by Nobuo Uematsu.
+
+<figure>
+    <img src="/assets/images/steal-his-look.jpeg" alt="Steal His Look">
+</figure>
+<figure>
+    <img src="/assets/images/mash-potato.jpeg" alt="Mash Potato">
+</figure>

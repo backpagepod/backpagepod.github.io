@@ -13,3 +13,8 @@ tags:
 > A deep dive on the year's biggest PlayStation game with Dave Scarborough, sometime features editor of gamesTM.
 >
 > This week's music is by John Paesano from the Marvel's Spider-Man 2 soundtrack.
+
+<figure>
+    <img src="/assets/images/dave-scarborough.jpeg" alt="Dave Scarborough">
+</figure>
+

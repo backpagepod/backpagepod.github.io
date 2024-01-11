@@ -17,3 +17,11 @@ tags:
 <figure>
     <img src="/assets/images/peel-trespasser.jpeg" alt="First contact with Trespasser is going well. Yep, that's my arm.">
 </figure>
+
+### Results
+
+Phil 22%
+
+**Jeremy 78%**
+
+(41 votes)

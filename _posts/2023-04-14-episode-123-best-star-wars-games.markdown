@@ -13,6 +13,11 @@ tags:
 >
 > This week's music is from the Star Wars: Knights of the Old Republic soundtrack by Jeremy Soule and The Force Unleashed soundtrack by Mark Griskey.
 
+<figure>
+    <img src="/assets/images/best-star-wars-games.jpeg" alt="Best Star Wars Games">
+    <figcaption>Image credit: Naeslyn</figcaption>
+</figure>
+
 ### E tier
 - Star Wars: Episode III – Revenge of the Sith
 - Star Wars: Episode I – The Phantom Menace

@@ -40,6 +40,10 @@ gallery:
     image_path: /assets/images/house.jpeg
     alt: "House"
     title: "House"
+  - url: /assets/images/matthew-wellness-check.png
+    image_path: /assets/images/matthew-wellness-check.png
+    alt: "Matthew Wellness Check"
+    title: "Matthew Wellness Check"
 ---
 
 [Play Episode.](https://www.patreon.com/posts/episode-144-ds-88953403)

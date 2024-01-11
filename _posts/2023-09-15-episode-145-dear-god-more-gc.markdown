@@ -13,3 +13,8 @@ tags:
 > Happy, you sickos? It's the latest entry in our bizarre Games Court format. 20 listeners submit their pre-owned game purchases (and lengthy life stories) to Judge Castle. Those found guilty will die...by Pikmin.
 > 
 > This week's music is by listener Adam Saucier.
+
+<figure>
+    <img src="/assets/images/broken-nes-collection.jpeg" alt="Broken NES collection">
+<figcaption>The broken NES collection, discussed in this week's episode</figcaption>
+</figure>

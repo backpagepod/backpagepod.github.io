@@ -7,12 +7,23 @@ categories:
 tags:
 - Draft
 - Regular
+gallery:
+  - url: /assets/images/infinite-worlds.jpeg
+    image_path: /assets/images/infinite-worlds.jpeg
+    alt: "Infinite Worlds"
+    title: "Image credit: TsuMuch"
+  - url: /assets/images/phantology.jpeg
+    image_path: /assets/images/phantology.jpeg
+    alt: "Phantology"
+    title: "Image credit: TsuMuch"
 ---
 
 [Play Episode.](https://www.patreon.com/posts/episode-108-rpg-75960377)
 > On this week's episode, we each try to assemble the 'dream' RPG party across 14 categories. Predictably, we each created nightmares instead. You can vote for the winner in our pinned tweet @BackPagePod on Twitter.
 >
 > This week's music is from the Final Fantasy VIII soundtrack by Nobuo Uematsu.
+
+{% include gallery layout="half"%}
 
 ### Picks
 

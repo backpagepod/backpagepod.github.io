@@ -7,12 +7,26 @@ categories:
 tags:
 - Draft  
 - XXL
+gallery:
+  - url: /assets/images/mr-castles-gamescom.jpeg
+    image_path: /assets/images/mr-castles-gamescom.jpeg
+    alt: "Mr Castle's Gamescom"
+    title: "Image credit: Naeslyn"
+  - url: /assets/images/legally-responsible.jpeg
+    image_path: /assets/images/legally-responsible.jpeg
+    alt: "People send me pictures of mrbasil_pesto now like I'm legally responsible for him"
+    title: "People send me pictures of mrbasil_pesto now like I'm legally responsible for him"
+  - url: /assets/images/gamescom-sausage.jpeg
+    image_path: /assets/images/gamescom-sausage.jpeg
+    alt: "Gamescom Sausage"
+    title: "Gamescom Sausage"
 ---
-
 [Play Episode.](https://www.patreon.com/posts/xxl-episode-17-88395615)
 > Our first ever draft episode behind the paywall is a truly chaotic affair – see what you make of this 2.5-hour epic, then vote for the winner in the pinned tweet @BackPagePod on Twitter.
 >
 > Thanks to Liam Richardson for the edits, as ever! And thank you for your generous support of what we do.
+
+{% include gallery %}
 
 ### TV categories
 1. A sitcom
@@ -81,3 +95,6 @@ Samuel 35%
 **Matthew 65%**
 
 (95 votes)
+
+### Lore
+- Gamescom sausage

@@ -14,6 +14,17 @@ tags:
 >
 > This week's music is from the Fallout 4 soundtrack by Inon Zur and the Hotline Miami 2: Wrong Number soundtrack by The Green Kingdom (aka Mike Cottone).
 
+<figure>
+    <img src="/assets/images/goty-2015.jpeg" alt="GOTY 2015">
+    <figcaption>Image credit: Naeslyn</figcaption>
+</figure>
+
+<figure>
+    <img src="/assets/images/kojima-dominos.jpeg" alt="Koima Productions asking Matthew to be in a video">
+    <figcaption>Image credit: Naeslyn</figcaption>
+</figure>
+
+
 ## Samuel
 10. 80 Days
 9. Until Dawn

@@ -12,3 +12,8 @@ tags:
 > Matthew has played 40 hours of the new Zelda, Samuel has played 10. How are they getting on? There are very light spoilers for Tears of the Kingdom in this episode, and you can expect us to revisit this Nintendo epic in more detail at a later date.
 >
 > This week's music is from The Legend of Zelda: Tears of the Kingdom soundtrack by Manaka Kataoka, Maasa Miyoshi, Masato Ohashi and Tsukasa Usui.
+
+<figure>
+    <img src="/assets/images/civil-war.jpeg" alt="Civil War">
+    <figcaption>Image credit: EdeleEdo</figcaption>
+</figure>
