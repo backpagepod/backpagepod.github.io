@@ -59,7 +59,7 @@ author:
   bio    : "Please join us on Discord"
   links:
     - label: "Patreon"
-      icon: "fas fa-fw fa-link"
+      icon: "fab fa-fw fa-patreon"
       url: "https://patreon.com/backpagepod"
     - label: "Discord"
       icon: "fab fa-fw fa-discord"
@@ -71,7 +71,7 @@ author:
 footer:
   links:
     - label: "Patreon"
-      icon: "fas fa-fw fa-link"
+      icon: "fab fa-fw fa-brands fa-patreon"
       url: "https://patreon.com/backpagepod"
     - label: "Discord"
       icon: "fab fa-fw fa-discord"
