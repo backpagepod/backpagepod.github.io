@@ -15,6 +15,11 @@ tags:
 >
 > Our theme tune, which plays in full this week at the very end, is from Barry Topping as ever.
 
+<figure>
+    <img src="/assets/images/dog-paints.jpeg" alt="The Dog Who Paints">
+    <figcaption>Image Caption: PersonalNadir</figcaption>
+</figure>
+
 - Hyrule Warriors: Age of Calamity
 - Xenoblade Chronicles 3 [VGC preview](https://www.videogameschronicle.com/features/hands-on-xenoblade-chronicles-3-boasts-monolith-softs-classiest-combat-yet/)
 - Teenage Mutant Ninja Turtles: Shredder's Revenge
@@ -24,11 +29,6 @@ tags:
 - Sniper Elite 5
 - God of War II
 - Poinpy
-
-<figure>
-    <img src="/assets/images/dog-paints.jpeg" alt="The Dog Who Paints">
-    <figcaption>Image Caption: PersonalNadir</figcaption>
-</figure>
 
 ## Lore
 
