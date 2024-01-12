@@ -14,3 +14,8 @@ tags:
 > Judge Matthew Castle will decide if defendant Samuel Roberts lives or dies over a series of dodgy games purchases! Enjoy this sequel to our 15th episode from back in March, and hear our thoughts on Deathloop (after 7 hours with a preview build) and No More Heroes 3.
 >
 > This week's music is from Silent Hill: Shattered Memories by Akira Yamaoka, the No More Heroes 3 soundtrack by Nobuaki Kaneko, Jun Fukuda and Kazuhiro "MEEBEE" Abo, and the Phoenix Wright: Trials and Tribulation soundtrack by Noriyuki Iwadare.
+
+<figure>
+  <img src="/assets/images/judgment.jpeg" alt="Judgment">
+  <figcaption>Image Credit: Chris Doherty</figcaption>
+</figure>

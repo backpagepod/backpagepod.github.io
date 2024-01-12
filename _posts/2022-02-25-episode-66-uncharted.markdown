@@ -17,3 +17,8 @@ tags:
   <img src="/assets/images/yak.jpeg" alt="Ox patting (pictured: a yak)">
   <figcaption>Ox patting (pictured: a yak)</figcaption>
 </figure>
+
+<figure>
+  <img src="/assets/images/ice-cream-boy.jpeg" alt="The ice cream boy Matthew describes as 'cursed' in this episode">
+  <figcaption>The ice cream boy Matthew describes as 'cursed' in this episode</figcaption>
+</figure>

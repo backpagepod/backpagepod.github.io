@@ -14,6 +14,10 @@ tags:
 >
 > This week's music is from the Uncharted 2 soundtrack by Greg Edmonson, the Spirit Tracks stage soundtrack from Super Smash Bros Ultimate arranged by Michiko Naruke, the Little King's Story soundtrack by Yutaka Minobe and the Let's Tap soundtrack by various artists.
 
+<figure>
+  <img src="/assets/images/filous.jpeg" alt="Filous">
+</figure>
+
 ## Samuel
 
 10. Fight Night Round 4

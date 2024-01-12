@@ -14,6 +14,10 @@ tags:
 >
 > This week's music is from the Wii Sports Resort soundtrack by Ryo Nagamatsu, the Super Mario Galaxy 2 soundtrack by Mahito Yokota, Ryo Nagamatsu and Koji Kondo, and The Last Story soundtrack by Nobuo Uematsu.
 
+<figure>
+  <img src="/assets/images/wii-draft.jpeg" alt="Wii Draft">
+</figure>
+
 ## Picks
 
 ### Matthew

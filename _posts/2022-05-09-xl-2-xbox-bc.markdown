@@ -13,6 +13,11 @@ tags:
 >
 > This week's music is from the Mercenaries 2: World in Flames soundtrack by Peter Stormare and the Wojahn Brothers (Samuel was wrong, this isn't Peter Stormare's band, but the full track is worth a listen).
 
+<figure>
+    <img src="/assets/images/pegglin.jpeg" alt="Always be Pegglin'">
+    <figcaption>Image Credit: PersonalNadir</figcaption>
+</figure>
+
 ### Wished For
 
 - Alias
@@ -52,3 +57,6 @@ tags:
 18. Peggle (who cares)
 19. Dante's Inferno (60fps, unchanged otherwise)
 20. Split/Second Velocity (4K, 30fps)
+
+### Lore
+- Always be Pegglin'

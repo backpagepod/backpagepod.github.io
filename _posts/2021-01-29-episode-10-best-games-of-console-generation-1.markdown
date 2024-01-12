@@ -14,6 +14,10 @@ tags:
 >
 > This week's music is from the Prey soundtrack by Mick Gordon, the Danganronpa V3 soundtrack by Masafumi Takada and the Final Fantasy XV soundtrack by Yoko Shimomura.
 
+<figure>
+  <img src="/assets/images/friendship-ended.jpeg" alt="Friendship Ended">
+</figure>
+
 ## Matthew
 
 - 30 Tales from the Borderlands

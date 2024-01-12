@@ -17,6 +17,11 @@ tags:
 >
 > This week's music is from the Thumper soundtrack by Brian Gibson. Our theme tune is by Barry 'Epoch' Topping.
 
+<figure>
+    <img src="/assets/images/rumours.jpeg" alt="Rumours'">
+    <figcaption>Image Credit: Naeslyn</figcaption>
+</figure>
+
 ### Samuel
 - The Stanley Parable
 - The Sexy Brutale

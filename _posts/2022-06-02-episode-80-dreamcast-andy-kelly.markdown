@@ -29,3 +29,7 @@ tags:
 0. Resident Evil – Code: Veronica
 0. Shenmue
 {: reversed="reversed"}
+
+### Lore
+
+- "By the way, the extremely '60s-sounding band I mentioned in the Space Channel 5 chat was [Ken Woodman & His Piccadilly Brass](https://youtu.be/Cne5c1MsLQE)"

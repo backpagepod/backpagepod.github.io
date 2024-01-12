@@ -13,6 +13,10 @@ tags:
 [Play Episode.](https://www.patreon.com/posts/episode-82-top-67874618)
 > Matthew is away this week! Returning guest Jeremy Peel kindly steps in to replace him, as we count down our 10 personal most anticipated games, based on whatever E3 was this year – from Redfall to Final Fantasy 16.
 
+<figure>
+    <img src="/assets/images/peel.jpeg" alt="Peel">
+</figure>
+
 ### Jeremy
 
 10. Thirsty Suitors

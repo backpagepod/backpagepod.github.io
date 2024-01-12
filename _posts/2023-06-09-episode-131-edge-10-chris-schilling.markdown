@@ -15,3 +15,7 @@ tags:
 > Edge Deputy Editor Chris Schilling joins us for this week's episode. Hear about his career in games media, as well as the creation of the widely respected magazine. And yes: we talk about what it means when Edge awards a game a 10. Enjoy.
 >
 > This week's music is from the Advance Wars soundtrack by Taishi Senda.
+
+<figure>
+    <img src="/assets/images/edge-10.jpeg" alt="Breaking the Edge 10 code">
+</figure>

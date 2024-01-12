@@ -7,11 +7,22 @@ categories:
 tags:
 - Mailbag
 - Regular
+gallery:
+  - url: /assets/images/sip-concrete.jpeg
+    image_path: /assets/images/sip-concrete.jpeg
+    alt: "Pour a sip on the concrete for the deceased"
+    title: "Pour a sip on the concrete for the deceased"
+  - url: /assets/images/dench.jpeg
+    image_path: /assets/images/dench.jpeg
+    alt: "Dench"
+    title: "Dench"
+  - url: /assets/images/catchphrase.jpeg
+    image_path: /assets/images/catchphrase.jpeg
+    alt: "Catchphrase"
+    title: "Image credit: RyanPlugs"
 ---
 
 [Play Episode.](https://www.patreon.com/posts/episode-160-96319398)
 > After several solid episodes in a row, The Back Page crashes down to Earth with a mailbag crammed with irrelevant questions about food. But you do get to hear about the famous person Matthew went to school with...
 
-<figure>
-    <img src="/assets/images/sip-concrete.jpeg" alt="Pour a sip of Rio on the concrete">
-</figure>
+{% include gallery %}

@@ -14,6 +14,14 @@ tags:
 >
 > This week's music is from the God Hand soundtrack by Masafumi Takada and Jun Fukuda, the Halo 3 soundtrack by Marty O'Donnell and the Hotel Dusk: Room 415 soundtrack by Satoshi Okubo.
 
+<figure>
+  <img src="/assets/images/wrestlemania.jpeg" alt="Wrestlemania">
+</figure>
+
+<figure>
+  <img src="/assets/images/wii-cake.jpeg" alt="Wii Cake">
+</figure>
+
 ## Matthew
 
 10. Ghost Squad

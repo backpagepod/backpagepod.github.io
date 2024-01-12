@@ -11,7 +11,7 @@ tags:
 
 <figure>
   <img src="/assets/images/e3.jpeg" alt="Matthew Castle Productions stuns E3">
-  <figcaption>Matthew Castle Productions stuns E3.</figcaption>
+  <figcaption>Image Credit: Liam Richardson</figcaption>
 </figure>
 
 [Play Episode.](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9bf)

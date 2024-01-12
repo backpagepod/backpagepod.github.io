@@ -13,6 +13,11 @@ tags:
 > 
 > Thanks to new Back Page editing pal Michael Banya for their work on this episode (Michael, if that's not actually your name, drop us an email and we'll apologise profusely).
 
+<figure>
+  <img src="/assets/images/re-merchant.jpeg" alt="What are you buying?">
+  <figcaption>Image Credit: Chris Doherty</figcaption>
+</figure>
+
 
 ### Resident Evil
 - Live-action intro to the original, with the goofiest James Cameron riff you can think of

@@ -25,6 +25,12 @@ tags:
 - God of War II
 - Poinpy
 
+<figure>
+    <img src="/assets/images/dog-paints.jpeg" alt="The Dog Who Paints">
+    <figcaption>Image Caption: PersonalNadir</figcaption>
+</figure>
+
 ## Lore
 
-Full version of theme tune played at the end
+- Full version of theme tune played at the end
+- Laa-dee-dah vs dee-diddly-dee

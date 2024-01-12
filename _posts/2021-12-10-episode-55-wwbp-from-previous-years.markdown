@@ -14,6 +14,11 @@ tags:
 >
 > This week's music is from the 428: Shibuya Scramble soundtrack by Naoki Sato, Hideki Sakamoto and Shingo Yasumoto and the Deus Ex soundtrack by Alexander Brandon, Dan Gardopée and Michiel van den Bos.
 
+<figure>
+  <img src="/assets/images/naka-shibuya.jpeg" alt="Yuji Naka Shibuya Scramble">
+  <figcaption>Image Credit: Liam Richardson</figcaption>
+</figure>
+
 - 428: Shibuya Scramble
 - Deus Ex
 - 13 Sentinels: Aegis Rim

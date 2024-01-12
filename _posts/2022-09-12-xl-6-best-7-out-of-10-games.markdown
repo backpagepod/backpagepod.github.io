@@ -6,12 +6,23 @@ categories:
 - Episode
 tags:
 - XL
+gallery:
+  - url: /assets/images/room-oboe.jpeg
+    image_path: /assets/images/room-oboe.jpeg
+    alt: "Room with Oboe"
+    title: "Room with Oboe"
+  - url: /assets/images/room-oboe-2.jpeg
+    image_path: /assets/images/room-oboe-2.jpeg
+    alt: "A Room of One's Oboe"
+    title: "A Room of One's Oboe"
 ---
 
 [Play Episode.](https://www.patreon.com/posts/xl-episode-6-7-71844720)
 > What makes a true 7/10 game? Is it a diamond in the rough, rife with enough offbeat personality that it wedges itself into your brain for years to come? Or is it closer to a licensed game made by Acclaim in the '90s?  In this episode, we boil down the idea of what a 7/10 game is, making it far more confusing than it really should be. Then, we'll fire through some of our own favourite 7/10s in the second half.
 >
 > Thanks, as ever, for your support!
+
+{% include gallery %}
 
 ## Matthew's games
 

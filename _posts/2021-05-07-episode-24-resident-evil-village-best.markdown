@@ -13,6 +13,11 @@ tags:
 >
 > This episode's music is from the Resident Evil 4 soundtrack by Misao Senbongi and the Resident Evil 5 soundtrack by Kota Suzuki.
 
+<figure>
+  <img src="/assets/images/re2-flight-sim.jpeg" alt="RE2 Flight Sim">
+  <figcaption>Image Credit: Mailbox</figcaption>
+</figure>
+
 ### Matthew
 
 5. Resident Evil: The Darkside Chronicles

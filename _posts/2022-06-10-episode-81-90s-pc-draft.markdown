@@ -7,6 +7,27 @@ categories:
 tags:
 - Draft
 - Regular
+gallery:
+  - url: /assets/images/come-dine-with-samuel.png
+    image_path: /assets/images/come-dine-with-samuel.png
+    alt: "Come Dine With Samuel"
+    title: "Come Dine With Samuel"
+  - url: /assets/images/pc-draft-mistake.png
+    image_path: /assets/images/pc-draft-mistake.png
+    alt: "My mistake was assuming Matthew would only pick games he had played."
+    title: "My mistake was assuming Matthew would only pick games he had played."
+  - url: /assets/images/predator-draft.jpeg
+    image_path: /assets/images/predator-draft.jpeg
+    alt: "Dutch Dillon Draft"
+    title: "Dutch Dillon Draft"
+  - url: /assets/images/freespace.jpeg
+    image_path: /assets/images/freespace.jpeg
+    alt: "Freespace"
+    title: "Freespace"
+  - url: /assets/images/command-and-conquer-draft.png
+    image_path: /assets/images/command-and-conquer-draft.png
+    alt: "An Arrested Development meme"
+    title: "An Arrested Development meme"
 ---
 
 [Play Episode.](https://www.patreon.com/posts/episode-81-90s-67590615)
@@ -14,18 +35,7 @@ tags:
 >
 > This week's music is from the Command & Conquer: Red Alert soundtrack by Frank Klepacki.
 
-<figure>
-    <img src="/assets/images/come-dine-with-samuel.png" alt="Come Dine With Samuel">
-</figure>
-
-<figure>
-    <img src="/assets/images/pc-draft-mistake.png" alt="My mistake was assuming Matthew would only pick games he had played.">
-</figure>
-
-<figure>
-    <img src="/assets/images/command-and-conquer-draft.png" alt="An Arrested Development meme">
-</figure>
-
+{% include gallery layout="half"%}
 
 ## The Categories
 1. FPS 1

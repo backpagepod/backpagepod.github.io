@@ -14,3 +14,7 @@ tags:
 >
 > This week's music comes from Barry Topping, composer on the brilliant Paradise Killer — it's our brand new theme tune!
 
+<figure>
+  <img src="/assets/images/pulpin.jpeg" alt="Pulpin">
+  <figcaption>Image Credit: JonCheetham1.</figcaption>
+</figure>
