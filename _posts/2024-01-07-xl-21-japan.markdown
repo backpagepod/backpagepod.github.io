@@ -16,3 +16,5 @@ tags:
     <img src="/assets/images/samuel-japan-zoom.jpeg" alt="Samuel Japan Zoom">
     <figcaption>Image credit: Naeslyn</figcaption>
 </figure>
+
+[Japlan Guide](https://discord.com/channels/891282550536962069/891285894395494411/1195655311894249553)
