@@ -53,3 +53,22 @@ tags:
 - 18 Apex Legends
 - 17 Final Fantasy XV
 - 16 What Remains of Edith Finch
+
+## Quick Questions
+
+### A game of this generation that you were surprised you like
+
+- Matthew: Gears 5
+- Samuel: Rocket League
+
+### Most disappointing game of this generation
+
+- Matthew: Super Mario 3D World
+- Samuel: Fallout 4
+- Samuel: Mass Effect: Andromeda
+
+### Best game you didn't finish this generation
+
+- Matthew: Alien: Isolation
+- Samuel: Dragon Age: Inquisition
+- Samuel: a game in my top 15 that I'll talk about next episode
