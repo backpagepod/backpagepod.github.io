@@ -59,12 +59,12 @@ tags:
 - Matthew: Sherlock Holmes: Crimes & Punishments
 - Samuel: Mirror's Edge Catalyst
 
-### Which developer was the big winner of this generation
+### Which developer was the big winner of this generation?
 
 - Matthew: Capcom
 - Samuel: Respawn Entertainment
 
-### Who didn't win this generation
+### Who didn't win this generation?
 
 - Matthew: Halo
 - Samuel: BioWare
