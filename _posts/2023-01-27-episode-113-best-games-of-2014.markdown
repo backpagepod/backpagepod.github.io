@@ -27,6 +27,12 @@ tags:
 1. Mario Kart 8
 {: reversed="reversed"}
 
+### Honourable Mentions
+- Shovel Knight
+- Sherlock Holmes: Crimes & Punishments
+- Tomodachi Life
+- Tales from the Borderlands
+
 ## Samuel
 10. Middle-earth: Shadow of Mordor
 9. BioShock Infinite: Burial at Sea – Episode Two
@@ -40,12 +46,8 @@ tags:
 1. Alien: Isolation
 {: reversed="reversed"}
 
-## Honourable Mentions
+### Honourable Mentions
 - Transistor
-- Shovel Knight
 - Destiny
 - Sunset Overdrive
-- Sherlock Holmes: Crimes & Punishments
 - Assassin's Creed Unity
-- Tomodachi Life
-- Tales from the Borderlands
