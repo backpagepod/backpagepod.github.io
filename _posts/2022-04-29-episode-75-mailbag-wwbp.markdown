@@ -16,3 +16,8 @@ tags:
 > One factual error in this episode: Sunset Overdrive was released in 2014 rather than 2015.
 
 > Our theme tune is by Barry 'Epoch' Topping (@nostoppingepoch on Twitter).
+
+- Horizon Zero Dawn
+- Horizon Forbidden West
+- Sunset Overdrive
+- Lego Star Wars: The Skywalker Saga
