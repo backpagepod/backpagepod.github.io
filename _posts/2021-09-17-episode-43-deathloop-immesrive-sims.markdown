@@ -17,4 +17,3 @@ tags:
 >
 >Here's where [Warren Spector's definition of the immersive sim](https://www.gamedeveloper.com/design/postmortem-ion-storm-s-i-deus-ex-i-) comes from.
 Here's [Jeremy's oral history of Deus Ex](https://www.rockpapershotgun.com/deus-ex-at-20-the-oral-history-of-a-pivotal-pc-game).
-
