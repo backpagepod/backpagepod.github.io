@@ -23,3 +23,8 @@ tags:
 - Suicide Squad: Kill the Justice League
 - Assassin's Creed Nexus VR
 - Foamstars
+
+<figure>
+    <img src="/assets/images/pooh.png" alt="Samuel, pictured while recording the pod">
+    <figcaption>Samuel, pictured while recording the pod</figcaption>
+</figure>
