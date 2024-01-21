@@ -20,6 +20,10 @@ gallery:
     image_path: /assets/images/catchphrase.jpeg
     alt: "Catchphrase"
     title: "Image credit: RyanPlugs"
+  - url: /assets/images/IMG_3711.jpeg
+    image_path: /assets/images/IMG_3711.jpeg
+    alt: "Velvetise into happiness"
+    title: "Velvetise into happiness"
 ---
 
 [Play Episode.](https://www.patreon.com/posts/episode-160-96319398)
