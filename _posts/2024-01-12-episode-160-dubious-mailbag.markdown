@@ -20,8 +20,8 @@ gallery:
     image_path: /assets/images/catchphrase.jpeg
     alt: "Catchphrase"
     title: "Image credit: RyanPlugs"
-  - url: /assets/images/IMG_3711.jpeg
-    image_path: /assets/images/IMG_3711.jpeg
+  - url: /assets/images/velvetise.jpeg
+    image_path: /assets/images/velvetise.jpeg
     alt: "Velvetise into happiness"
     title: "Velvetise into happiness"
 ---
@@ -29,4 +29,4 @@ gallery:
 [Play Episode.](https://www.patreon.com/posts/episode-160-96319398)
 > After several solid episodes in a row, The Back Page crashes down to Earth with a mailbag crammed with irrelevant questions about food. But you do get to hear about the famous person Matthew went to school with...
 
-{% include gallery %}
+{% include gallery layout="half"%}

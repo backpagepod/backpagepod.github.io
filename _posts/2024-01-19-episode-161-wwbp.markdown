@@ -16,6 +16,11 @@ tags:
 >
 > Enjoy!
 
+<figure>
+    <img src="/assets/images/breaking-bad.jpeg" alt="Breaking Bad Back Page Podcast">
+    <figcaption>Image Credit: Shugdaddy</figcaption>
+</figure>
+
 - The Last of Us Part II Remastered
 - Marvel's Midnight Suns 
 - Super Mario RPG (2023)
