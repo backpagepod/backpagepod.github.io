@@ -14,8 +14,8 @@ tags:
 >Thanks to Michael 'Banyabat' Butter for the edits! And find our lists below so you don't have to write them down while you're listening:
 
 <figure>
-    <img src="/assets/images/cheers-teenager.png" alt="A Teenager, from Cheers">
-    <figcaption>A Teenager, from Cheers</figcaption>
+    <img src="/assets/images/paramount-lantern.png" alt="Paramount Lantern">
+    <figcaption>Image Credit: Bumster</figcaption>
 </figure>
 
 ## Films
@@ -56,6 +56,12 @@ tags:
 1. Pluto
 {: reversed="reversed"}
 
+#### Honourable Mentions
+
+- Poker Face
+- Culprits
+- Last One Standing
+
 ### Samuel
 
 10. Star Trek: Strange New Worlds (S2)
@@ -69,3 +75,13 @@ tags:
 2. Barry (S4)
 1. Succession (S4)
 {: reversed="reversed"}
+
+#### Honourable Mentions
+
+- Blue Eye Samurai
+- Boiling Point
+
+<figure>
+    <img src="/assets/images/cheers-teenager.png" alt="A Teenager, from Cheers">
+    <figcaption>A Teenager, from Cheers</figcaption>
+</figure>
