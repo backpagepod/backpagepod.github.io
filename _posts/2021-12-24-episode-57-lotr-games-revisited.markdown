@@ -20,5 +20,20 @@ tags:
   <img src="/assets/images/blorko-reply.jpeg" alt="Blorko Reply">
 </figure>
 
+- The Lord of the Rings: The Two Towers
+- The Lord of the Rings: The Return of the King
+- The Lord of the Rings: The Battle for Middle-earth
+- The Lord of the Rings: The Battle for Middle-earth II
+- The Lord of the Rings: The Third Age
+- The Lord of the Rings: Tactics
+- The Lord of the Rings: Conquest
+- The Lord of the Rings: Aragorn's Quest
+- The Lord of the Rings: War in the North
+- Lego The Lord of the Rings
+- Lego The Hobbit
+- Middle-earth: Shadow of Mordor
+- Middle-earth: Shadow of War
+- The Lord of the Rings: Gollum
+
 ### Lore
-- Blorko tweet goes viral
+- Blorko tweet goes viral - 3 mins
