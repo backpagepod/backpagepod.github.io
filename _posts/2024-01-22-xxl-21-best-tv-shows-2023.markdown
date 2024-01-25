@@ -85,3 +85,9 @@ tags:
     <img src="/assets/images/cheers-teenager.png" alt="A Teenager, from Cheers">
     <figcaption>A Teenager, from Cheers</figcaption>
 </figure>
+<figure>
+    <img src="/assets/images/cheers-tweet-1.png" alt="Cheers Tweet 1">
+</figure>
+<figure>
+    <img src="/assets/images/cheers-tweet-2.png" alt="Cheers Tweet 2">
+</figure>
