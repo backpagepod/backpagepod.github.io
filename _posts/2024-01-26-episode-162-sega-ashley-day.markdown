@@ -16,6 +16,18 @@ tags:
 >
 > This week's music is from the Shining Force 3 soundtrack by Motoi Sakuraba.
 
+<figure>
+    <img src="/assets/images/samman.png" alt="Samman">
+    <figcaption>Image Credit: Shugdaddy</figcaption>
+</figure>
+<figure>
+    <img src="/assets/images/saturn-buy.png" alt="Saturn from FB Marketplace">
+</figure>
+<figure>
+    <img src="/assets/images/saturn-dc.png" alt="Saturn and a Dreamcast">
+</figure>
+
+
 - Like a Dragon: Infinite Wealth
 
 ## Honourable Mentions
@@ -47,3 +59,4 @@ tags:
 - 9 Comix Zone
 - 8 Valkyria Chronicles
 - 7 Ghost Squad
+- 6 Burning Rangers
