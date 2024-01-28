@@ -21,6 +21,9 @@ tags:
     <figcaption>Image Credit: Shugdaddy</figcaption>
 </figure>
 <figure>
+    <img src="/assets/images/dreamcast-buy.png" alt="Dreamcast Buy">
+</figure>
+<figure>
     <img src="/assets/images/saturn-buy.png" alt="Saturn from FB Marketplace">
 </figure>
 <figure>
