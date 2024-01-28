@@ -14,6 +14,33 @@ tags:
 >
 > This week's music is from the Red Dead Redemption soundtrack by Bill Elm & Woody Jackson, the Halo Reach soundtrack by Marty O'Donnell, the Alan Wake soundtrack by Poets of the Fall and Petri Alanko, and the Super Mario Galaxy 2 soundtrack by Mahito Yokota, Ryo Nagamatsu and Koji Kondo.
 
+## Matthew
+
+- GoldenEye 007 (2010)
+
+10. Trauma Team
+9. Bayonetta
+8. Professor Layton and the Lost Future
+7. Mass Effect 2
+6. Infinite Space
+5. Castlevania: Lords of Shadow
+4. Red Dead Redemption
+3. 999: Nine Hours, Nine Persons, Nine Doors
+2. Last Window: The Secret of Cape West
+1. Super Mario Galaxy 2
+{: reversed="reversed"}
+
+### Honourable mentions
+
+- Metroid: Other M
+- Tom Clancy's Splinter Cell: Conviction
+- Donkey Kong Country Returns
+- Picross 3D
+- Battlefield: Bad Company 2
+- Golden Sun: Dark Dawn
+- Sin and Punishment: Successor of the Skies
+- Mafia II
+- Red Steel 2
 
 ## Samuel
 
@@ -43,34 +70,9 @@ tags:
 - Mafia II
 - Star Wars: The Force Unleashed II
 
-## Matthew
-
-- GoldenEye 007 (2010)
-
-10. Trauma Team
-9. Bayonetta
-8. Professor Layton and the Lost Future
-7. Mass Effect 2
-6. Infinite Space
-5. Castlevania: Lords of Shadow
-4. Red Dead Redemption
-3. 999: Nine Hours, Nine Persons, Nine Doors
-2. Last Window: The Secret of Cape West
-1. Super Mario Galaxy 2
-{: reversed="reversed"}
-
-### Honourable mentions
-
-- Metroid: Other M
-- Tom Clancy's Splinter Cell: Conviction
-- Donkey Kong Country Returns
-- Picross 3D
-- Battlefield: Bad Company 2
-- Golden Sun: Dark Dawn
-- Sin and Punishment: Successor of the Skies
-- Mafia II
-- Red Steel 2
-
-### Dark Souls
+## Dark Souls
 
 Dark Souls is mentioned at the end of the episode.
+
+## Lore
+- Gaming gammons
