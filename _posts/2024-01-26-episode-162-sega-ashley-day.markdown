@@ -55,8 +55,14 @@ tags:
 
 ## Top 10
 
-- 10 Streets of Rage 2
-- 9 Comix Zone
-- 8 Valkyria Chronicles
-- 7 Ghost Squad
-- 6 Burning Rangers
+10. Streets of Rage 2
+9. Comix Zone
+8. Valkyria Chronicles
+7. Ghost Squad
+6. Burning Rangers
+5. Super Monkey Ball
+4. Crazy Taxi
+3. Christmas Nights into Dreams
+2. Shining Force III
+1. OutRun 2
+{: reversed="reversed"}
