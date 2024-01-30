@@ -18,34 +18,79 @@ tags:
   <img src="/assets/images/wii-draft.jpeg" alt="Wii Draft">
 </figure>
 
+## The Categories
+
+1. Multiplayer
+2. Action / RPG
+3. Platformer
+4. Sports or Fighting game
+5. Shooter
+6. Wii MotionPlus game
+7. Re-release or WiiWare game
+8. Puzzle / Survival Horror
+9. Wild card
+10. Free pick
+
+## Draft Order
+
+| Player  | Category  | Pick                                           |
+|-----------|-----|------------------------------------------------|
+|Matthew | Platformer  | Super Mario Galaxy 2   |
+|Samuel  | Re-release or WiiWare game| Metroid Prime Trilogy|
+|Samuel  | Action / RPG| The Legend of Zelda: Twilight Princess |
+|Matthew | Sports or Fighting game | Wii Sports Resort |
+|Matthew | Puzzle / Survival Horror | Zack & Wiki: Quest for Barbaros' Treasure|
+|Samuel  | Free pick| Donkey Kong Country Returns |
+|Samuel  | Shooter | Ghost Squad |
+|Matthew | Shooter | Sin and Punishment: Successor of the Skies|
+|Matthew | Wii MotionPlus game | Red Steel 2 |
+|Samuel  | Wild card |  The Last Story  |
+|Samuel  | Wii MotionPlus game|  The Legend of Zelda: Skyward Sword |
+|Matthew | Action / RPG| Super Paper Mario |
+|Matthew | Free pick| Metroid: Other M |
+|Samuel  | Platformer| Super Mario Galaxy |
+|Samuel  | Puzzle / Survival Horror|  Silent Hill: Shattered Memories |
+|Matthew | Re-release or WiiWare game| Hydroventure |
+|Matthew | Wild card | Trauma Team |
+|Samuel  | Sports or Fighting game| Super Smash Bros. Brawl |
+|Samuel  | Multiplayer | Wii Sports |
+|Matthew | Multiplayer | Boom Blox Bash Party|
+
 ## Picks
+
+| Category        | Samuel                               | Matthew                                |
+|-----------------|--------------------------------------|----------------------------------------|
+|Multiplayer| Wii Sports | Boom Blox Bash Party |
+|Action / RPG| The Legend of Zelda: Twilight Princess | Super Paper Mario |
+|Platformer| Super Mario Galaxy | Super Mario Galaxy 2 |
+|Sports or Fighting game| Super Smash Bros. Brawl | Wii Sports Resort |
+|Shooter| Ghost Squad | Sin and Punishment: Successor of the Skies |
+|Wii MotionPlus game| The Legend of Zelda: Skyward Sword | Red Steel 2 |
+|Re-release or WiiWare game| Metroid Prime Trilogy | Hydroventure |
+|Puzzle / Survival Horror| Silent Hill: Shattered Memories | Zack & Wiki: Quest for Barbaros' Treasure |
+|Wild card| The Last Story | Trauma Team | 
+|Free pick| Donkey Kong Country Returns | Metroid: Other M |
+
+## Honourable Mentions
 
 ### Matthew
 
-- Boom Blox Bash Party
-- Super Paper Mario
-- Super Mario Galaxy 2
-- Wii Sports Resort
-- Sin & Punishment: Star Successor
-- Red Steel 2
-- Hydroventure
-- Zack & Wiki: Quest for Barbaros' Treasure
-- Trauma Team
-- Metroid: Other M
+- Final Fantasy Crystal Chronicles: My Life as a King
+- Pandora's Tower
+- Disaster: Day of Crisis
+- Rune Factory Frontier
+- Endless Ocean 2: Adventures of the Deep
+- Rhythm Paradise
+- Fire Emblem: Radiant Dawn
+- MadWorld
+- Punch-Out!! (2009)
+- Let's Tap
 
 ### Samuel
 
-- Wii Sports
-- The Legend of Zelda: Twilight Princess
-- Super Mario Galaxy
-- Super Smash Bros. Brawl
-- Ghost Squad
-- The Legend of Zelda: Skyward Sword
-- Metroid Prime Trilogy
-- Silent Hill: Shattered Memories
-- The Last Story
-- Donkey Kong Country Returns
-
+- Muramasa: The Demon Blade
+- No More Heroes
+- Let's Catch
 
 ## Results
 
