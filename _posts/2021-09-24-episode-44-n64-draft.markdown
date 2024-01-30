@@ -7,6 +7,7 @@ categories:
 tags:
 - Draft
 - Regular
+- Mailbag
 ---
 
 [Play Episode.](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9ae)
