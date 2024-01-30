@@ -32,6 +32,14 @@ tags:
 <figure>
     <img src="/assets/images/saturn-dc.png" alt="Saturn and a Dreamcast">
 </figure>
+<figure>
+    <img src="/assets/images/saturn.jpeg" alt="Saturn">
+</figure>
+<figure>
+    <img src="/assets/images/vmu.jpeg" alt="VMU">
+</figure>
+
+{% include video id="kw7XgyNRdQU" provider="youtube" %}
 
 
 - Like a Dragon: Infinite Wealth
