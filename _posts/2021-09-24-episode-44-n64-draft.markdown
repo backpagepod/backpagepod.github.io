@@ -28,7 +28,33 @@ tags:
 9. Game made in UK
 10. Free pick
 
-### Picks
+## Draft Order
+
+| Player  | Category  | Pick                                           |
+|-----------|-----|------------------------------------------------|
+|Samuel | Shooter      | GoldenEye 007                             |
+|Matthew | Platformer  | Super Mario 64                            |
+|Samuel  | Game made in UK |  Perfect Dark |
+|Matthew | Fighting/Sports| Super Smash Bros.   |
+|Samuel  | Licensed game| Star Wars: Rogue Squadron   |
+|Matthew | Action/RPG | The Legend of Zelda: Majora's Mask  |
+|Samuel  | Action/RPG  | The Legend of Zelda: Ocarina of Time |
+|Matthew | Free pick | Paper Mario |
+|Samuel  | Japan only | Sin and Punishment  |
+|Matthew | Wild card| Mystical Ninja Starring Goemon    |
+|Samuel  | Free pick | Star Fox 64   |
+|Matthew | Game made in UK | Space Station Silicon Valley   |
+|Samuel  | Wild card | Conker's Bad Fur Day  |
+|Matthew | Japan only | Bangai-O    |
+|Samuel  | Racing  |  Mario Kart 64    |
+|Matthew | Shooter | ~~Turok 2: Seeds of Evil~~ Doom 64  |
+|Samuel  | Fighting/Sports |  Mario Tennis  |
+|Matthew | Racing | F-Zero X    |
+|Samuel  | Platformer | Banio-Kazooie   |
+|Matthew | Licensed game | Indiana Jones and the Infernal Machine  |
+
+
+## Picks
 
 | Category        | Samuel                               | Matthew                                |
 |-----------------|--------------------------------------|----------------------------------------|
@@ -44,10 +70,36 @@ tags:
 | Free pick       | Star Fox 64                          | Paper Mario                            |
 
 
-### Results
+## Honourable Mentions
+
+### Matthew
+
+- Beetle Adventure Racing
+- Rocket: Robot on Wheels
+- 1080° Snowboarding
+- Pilotwings 64
+- Operation: WinBack
+- Castlevania (1999)
+- Castlevania: Legacy of Darkness
+- Body Harvest
+
+### Samuel
+
+- Wave Race 64
+- Pokémon Snap
+- Hey You, Pikachu!
+- Star Wars Episode I: Battle for Naboo
+- Star Wars Episode I: Racer
+- Star Wars: Shadows of the Empire
+- Pokémon Puzzle League
+
+## Results
 
 Samuel 48%
 
 **Matthew 52%**
 
 (459 votes)
+
+## Lore
+- Psychology of a Goomba 61 mins
