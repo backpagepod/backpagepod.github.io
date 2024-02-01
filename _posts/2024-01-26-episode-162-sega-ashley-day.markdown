@@ -17,9 +17,6 @@ tags:
 > This week's music is from the Shining Force 3 soundtrack by Motoi Sakuraba.
 
 <figure>
-    <img src="/assets/images/outrun-2-cover.png" alt="Edge OutRun 2 cover">
-</figure>
-<figure>
     <img src="/assets/images/samman.png" alt="Samman">
     <figcaption>Image Credit: Shugdaddy</figcaption>
 </figure>
@@ -37,6 +34,9 @@ tags:
 </figure>
 <figure>
     <img src="/assets/images/vmu.jpeg" alt="VMU">
+</figure>
+<figure>
+    <img src="/assets/images/outrun-2-cover.png" alt="Edge OutRun 2 cover">
 </figure>
 
 {% include video id="kw7XgyNRdQU" provider="youtube" %}
