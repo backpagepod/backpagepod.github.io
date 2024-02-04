@@ -14,8 +14,8 @@ tags:
 >Thanks to Michael 'Banyabat' Butter for the edits! And find our lists below so you don't have to write them down while you're listening:
 
 <figure>
-    <img src="/assets/images/paramount-lantern.png" alt="Paramount Lantern">
-    <figcaption>Image Credit: Bumster</figcaption>
+    <img src="/assets/images/cheers-teenager.png" alt="A Teenager, from Cheers">
+    <figcaption>A Teenager, from Cheers</figcaption>
 </figure>
 
 ## Films
@@ -81,13 +81,3 @@ tags:
 - Blue Eye Samurai
 - Boiling Point
 
-<figure>
-    <img src="/assets/images/cheers-teenager.png" alt="A Teenager, from Cheers">
-    <figcaption>A Teenager, from Cheers</figcaption>
-</figure>
-<figure>
-    <img src="/assets/images/cheers-tweet-1.png" alt="Cheers Tweet 1">
-</figure>
-<figure>
-    <img src="/assets/images/cheers-tweet-2.png" alt="Cheers Tweet 2">
-</figure>
