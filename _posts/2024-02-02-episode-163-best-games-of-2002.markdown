@@ -58,7 +58,7 @@ tags:
 7. Kingdom Hearts
 6. Mafia
 5. Ico
-4. Onimusha 2: Samurai's Destiny - get onimusha opening cinematic
+4. Onimusha 2: Samurai's Destiny
 3. Metal Gear Solid 2: Sons of Liberty
 2. Final Fantasy X
 1. Halo: Combat Evolved
