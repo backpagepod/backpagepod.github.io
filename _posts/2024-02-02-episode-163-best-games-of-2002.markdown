@@ -40,7 +40,7 @@ tags:
 5. Star Wars Rogue Squadron II: Rogue Leader
 4. Metal Gear Solid 2: Sons of Liberty
 3. Resident Evil (2002)
-2. Eternal Darkness 
+2. Eternal Darkness: Sanity's Requiem
 1. Super Smash Bros. Melee
 {: reversed="reversed"}
 
