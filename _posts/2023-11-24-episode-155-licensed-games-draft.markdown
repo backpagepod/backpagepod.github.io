@@ -19,6 +19,7 @@ tags:
 </figure>
 
 ## Categories
+
 1. Movie tie-in
 2. TV show tie-in
 3. 90+ on Metacritic
@@ -30,34 +31,55 @@ tags:
 9. The 'Coronation Street: The Mystery of the Missing Hotpot Recipe wild card category (either the licence is weird or they adapted it in a weird genre)
 10. Free pick
 
-## Samuel's picks
-0. GoldenEye 007
-0. The Simpsons: Hit & Run
-0. Marvel's Spider-Man 2
-0. The Matrix: Path of Neo
-0. Astro Boy: Omega Factor
-0. Star Wars: TIE Fighter
-0. The Darkness II
-0. The Simpsons Wrestling
-0. Parasite Eve
-0. Alien: Isolation
+## Draft Order
 
-## Matthew's picks
-0. The Warriors
-0. Teenage Mutant Ninja Turtles: Shredder's Revenge
-0. Batman: Arkham City
-0. X-Men Origins: Wolverine
-0. Disney's Aladdin (Mega Drive)
-0. Blade Runner (1997)
-0. The Chronicles of Riddick: Escape from Butcher Bay
-0. Fight Club
-0. Pinball FX3: Star Wars: Episode V - The Empire Strikes Back
-0. The Witcher 3: Wild Hunt
+| Player  | Category  | Pick                                           |
+|-----------|-----|------------------------------------------------|
+|Samuel |  Movie tie-in | GoldenEye 007   |
+|Matthew | Bad licence, good game |  The Chronicles of Riddick: Assault on Dark Athena |
+|Matthew | '90s favourite | Blade Runner (1997)  |
+|Samuel | TV show tie-in   | The Simpsons: Hit & Run  |
+|Matthew | 90+ on Metacritic  | Batman: Arkham City   |
+|Samuel |  Free pick  |  Alien: Isolation |
+|Matthew | Movie tie-in  |  The Warriors |
+|Samuel | 90+ on Metacritic   | Marvel's Spider-Man 2  |
+|Matthew | Guilty pleasure  | X-Men Origins: Wolverine  |
+|Samuel |  Side-scroller/2D game  | Astro Boy: Omega Factor   |
+|Matthew | Side-scroller/2D game |  Disney's Aladdin (Mega Drive)  |
+|Samuel |  '90s favourite  | Star Wars: TIE Fighter   |
+|Matthew | Free pick  |  The Witcher 3: Wild Hunt  |
+|Samuel |  Weird licence / genre  |  Parasite Eve  |
+|Matthew | TV show tie-in  |  Teenage Mutant Ninja Turtles: Shredder's Revenge  |
+|Samuel | Guilty pleasure   | The Matrix: Path of Neo  |
+|Matthew | Weird licence / genre |  Pinball FX3: Star Wars: Episode V - The Empire Strikes Back  |
+|Samuel | Bad licence, good game   |  The Darkness II  |
+|Matthew | Cursed  |  Fight Club  |
+|Samuel | Cursed  |  The Simpsons Wrestling  |
 
-### Results
+## Picks
+
+| Category         | Samuel                             | Matthew                         |
+|------------------|------------------------------------|---------------------------------|
+| Movie tie-in | GoldenEye 007  |   The Warriors   |
+| TV show tie-in  | The Simpsons: Hit & Run  |  Teenage Mutant Ninja Turtles: Shredder's Revenge |
+|  90+ on Metacritic | Marvel's Spider-Man 2  | Batman: Arkham City |
+| Guilty pleasure  | The Matrix: Path of Neo  | X-Men Origins: Wolverine  |
+| Side-scroller/2D game  |  Astro Boy: Omega Factor | Disney's Aladdin (Mega Drive)  |
+| '90s favourite  | Star Wars: TIE Fighter  | Blade Runner (1997)  |
+| Bad licence, good game  | The Darkness II | The Chronicles of Riddick: Escape from Butcher Bay / The Chronicles of Riddick: Assault on Dark Athena |
+|  Cursed |  The Simpsons Wrestling | Fight Club  |
+|  Weird licence / genre |  Parasite Eve | Pinball FX3: Star Wars: Episode V - The Empire Strikes Back  |
+| Free pick  |  Alien: Isolation | The Witcher 3: Wild Hunt  |
+
+## Results
 
 Samuel 41%
 
 **Matthew 59%**
 
 (167 votes)
+
+
+## Lore
+
+Queen: The Eye 1:39:00

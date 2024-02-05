@@ -28,6 +28,32 @@ tags:
 9. Wild card - something weird and cult-y
 10. Free pick - literally any other PS2 game
 
+
+## Draft Order
+
+| Player  | Category  | Pick                                           |
+|-----------|-----|------------------------------------------------|
+|Samuel | Survival horror  | Silent Hill 2   |
+|Matthew | Action/stealth   | Metal Gear Solid 3: Subsistence |
+|Samuel | Sports or racing | Tony Hawk's Pro Skater 3   |
+|Matthew | Open world game | Grand Theft Auto: Vice City  |
+|Samuel | Free pick  | Shadow of the Colossus |
+|Matthew | Free pick  | God of War II     |
+|Samuel | Platformer  | Jak & Daxter: The Precursor Legacy  |
+|Matthew | Licensed game  | The Warriors   |
+|Samuel | Shooter/fighting | TimeSplitters 2   |
+|Matthew | Wild card   | Gregory Horror Show   |
+|Samuel | RPG | Final Fantasy X    |
+|Matthew | Sports or racing  | Burnout 3: Takedown  |
+|Samuel | Open world game  | Grand Theft Auto: San Andreas  |
+|Matthew | Survival horror  | Forbidden Siren  |
+|Samuel | Wild card   | Gitaroo Man   |
+|Matthew | RPG  | Final Fantasy XII    |
+|Samuel | Licensed game   | Kingdom Hearts  |
+|Matthew | Platformer  | Prince of Persia: Sands of Time  |
+|Samuel | Action/stealth  | Devil May Cry 3: Special Edition  |
+|Matthew | Shooter/fighting | Red Faction    |
+
 ### Picks
 
 | Category         | Samuel                             | Matthew                         |
