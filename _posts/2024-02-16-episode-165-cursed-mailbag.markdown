@@ -22,3 +22,5 @@ tags:
     <img src="/assets/images/pret-getaway.jpeg" alt="The Pret Getaway">
     <figcaption>Image Credit: art-leaves-the-page on Reddit</figcaption>
 </figure>
+
+{% include video id="kw7XgyNRdQU" provider="youtube" %}

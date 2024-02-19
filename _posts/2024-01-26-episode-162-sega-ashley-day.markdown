@@ -33,14 +33,20 @@ tags:
     <img src="/assets/images/saturn.jpeg" alt="Saturn">
 </figure>
 <figure>
+    <img src="/assets/images/dreamcast.jpeg" alt="Dreamcast">
+</figure>
+<figure>
+    <img src="/assets/images/dreamcast-hdmi.jpeg" alt="Dreamcast HDMI">
+</figure>
+<figure>
     <img src="/assets/images/vmu.jpeg" alt="VMU">
+</figure>
+<figure>
+    <img src="/assets/images/henman.jpeg" alt="Henman">
 </figure>
 <figure>
     <img src="/assets/images/outrun-2-cover.png" alt="Edge OutRun 2 cover">
 </figure>
-
-{% include video id="kw7XgyNRdQU" provider="youtube" %}
-
 
 - Like a Dragon: Infinite Wealth
 
