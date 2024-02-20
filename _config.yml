@@ -53,9 +53,11 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+og_image: "/assets/images/backpage.png"
+
 author:
   name   : "The Back Page Discord community"
-  avatar : "/assets/images/backpage.png.webp"
+  avatar : "/assets/images/backpage.png"
   bio    : "Please join us on Discord"
   links:
     - label: "Patreon"
