@@ -42,6 +42,13 @@ tags:
     <img src="/assets/images/vmu.jpeg" alt="VMU">
 </figure>
 <figure>
+    <img src="/assets/images/4x-vmu.jpeg" alt="4x VMU">
+</figure>
+<figure>
+    <img src="/assets/images/floigan-vmu.png" alt="Floigan VMU">
+    <figcaption>Image Credit: RyanPlugs</figcaption>
+</figure>
+<figure>
     <img src="/assets/images/henman.jpeg" alt="Henman">
 </figure>
 <figure>
