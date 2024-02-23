@@ -16,6 +16,10 @@ gallery:
     image_path: /assets/images/jason-alexander.jpeg
     alt: "Jason Alexander at the MCP launch event"
     title: "Jason Alexander at the MCP launch event"
+  - url: /assets/images/amy-bongos.jpeg
+    image_path: /assets/images/amy-bongos.jpeg
+    alt: "Amy Whitehouse prepares for her appearance in Games Court"
+    title: "Amy Whitehouse prepares for her appearance in Games Court"
 ---
 
 [Play Episode.](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9a5)

@@ -24,6 +24,10 @@ gallery:
     image_path: /assets/images/love-shack.jpeg
     alt: "South Park Chef's Luv Shack"
     title: "South Park Chef's Luv Shack"
+  - url: /assets/images/pepsiman.jpeg
+    image_path: /assets/images/pepsiman.jpeg
+    alt: "Pepsiman"
+    title: "Pepsiman"
   - url: /assets/images/die-hard.jpeg
     image_path: /assets/images/die-hard.jpeg
     alt: "Die Hard Trilogy 2"
@@ -45,6 +49,13 @@ gallery:
 
 <figure>
     <img src="/assets/images/chandelier.png" alt="Chandelier">
+</figure>
+<figure>
+    <img src="/assets/images/cheers-chandelier.jpeg" alt="Cheers Chandelier">
+    <figcaption>Image Credit: EdeleEdo</figcaption>
+</figure>
+<figure>
+    <img src="/assets/images/spite-platform.jpeg" alt="Spite Platform">
 </figure>
 
 ## Categories?

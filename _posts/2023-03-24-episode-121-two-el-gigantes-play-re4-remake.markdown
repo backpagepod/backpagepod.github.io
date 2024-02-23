@@ -19,6 +19,11 @@ tags:
     <figcaption>Image credit: Naeslyn</figcaption>
 </figure>
 
+<figure>
+    <img src="/assets/images/crows-pesetas.jpeg" alt="Crows insist on Pesatas">
+    <figcaption>Salazar insists on Pesetas. Image credit: Naeslyn</figcaption>
+</figure>
+
 ### Lore
 
 Right to reply:
