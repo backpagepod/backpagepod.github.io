@@ -1,5 +1,5 @@
 ---
-title: "The PSone Draft"
+title: "Episode 166: The PlayStation Draft"
 date:   2024-02-23 09:00:00 +0000
 excerpt_separator: "<!--more-->"
 categories:
@@ -8,10 +8,6 @@ tags:
 - Draft
 - Regular
 gallery:
-  - url: /assets/images/ps1-mini.png
-    image_path: /assets/images/ps1-mini.png
-    alt: "PS Mini"
-    title: "PS Mini - Takara Tomy"
   - url: /assets/images/bubsy-3d.png
     image_path: /assets/images/bubsy-3d.png
     alt: "Bubsy 3D"
@@ -35,9 +31,21 @@ gallery:
 
 ---
 
-(Pending)
+[Play Episode.](https://www.patreon.com/posts/episode-166-98783232)
+
+> Time for our first draft episode of 2024! It's the turn of the PlayStation, one of the most important consoles in history. Listen to the episode, then vote on who picked the best 10 games in the pinned tweet @BackPagePod on Twitter.
+> 
+> This week's music is from the R4: Ridge Racer Type 4 soundtrack by Kohta Takahashi, Hiroshi Okubo and Asuka Sakai, plus the Tekken 3 soundtrack by Nobuyoshi Sano and Keiichi Okabe.
+
+<figure>
+    <img src="/assets/images/ps1-mini.png" alt="PS Mini">
+</figure>
 
 {% include gallery %}
+
+<figure>
+    <img src="/assets/images/chandelier.png" alt="Chandelier">
+</figure>
 
 ## Categories?
 
@@ -64,3 +72,56 @@ gallery:
 8. 90+ on Metacritic
 9. Wild card
 10. Free pick
+
+
+
+
+## Draft Order
+
+| Player  | Category  | Pick                                           |
+|-----------|-----|------------------------------------------------|
+|Samuel | 90+ on Metacritic | Metal Gear Solid |
+|Matthew| RPG | Final Fantasy VII|
+|Matthew|  Survival horror | Resident Evil 2|
+|Samuel |  Free pick | Castlevania: Symphony of the Night|
+|Matthew| Free pick | Xenogears|
+|Samuel |  Fighting game | Tekken 3|
+|Matthew| Racing or sports | R4: Ridge Racer Type 4|
+|Samuel |  Licensed game | Die Hard Trilogy|
+|Matthew| Shooter | Syphon Filter|
+|Samuel |  Racing or sports | Tony Hawk's Pro Skater 2|
+|Matthew| Wild card | Vagrant Story|
+|Samuel |  Platformer | Crash Bandicoot 2: Cortex Strikes Back|
+|Matthew| 90+ on Metacritic | Legacy of Kain: Soul Reaver|
+|Samuel |  Wild card | ~~PaRappa the Rapper~~ Super Puzzle Fighter II Turbo|
+|Matthew| Licensed game | Alien Trilogy|
+|Samuel |  Survival horror | Silent Hill|
+|Matthew| Fighting game | Bushido Blade|
+|Samuel |  Shooter | Einhänder|
+|Matthew| Platformer |Crash Bandicoot 3: Warped|
+|Samuel |  RPG |Final Fantasy VIII|
+
+## Honourable Mentions and Also-rans
+- Spider-Man
+- PaRappa the Rapper
+- Rayman 2: The Great Escape
+- Dino Crisis
+- Fear Effect
+- Wipeout
+- Colony Wars
+- G-Police
+
+## Picks
+
+| Category         | Samuel                             | Matthew                         |
+|------------------|------------------------------------|---------------------------------|
+| Fighting game| Tekken 3 | Bushido Blade |
+| Shooter| Einhänder | Syphon Filter |
+| Survival horror| Silent Hill | Resident Evil 2 |
+| Racing or sports| Tony Hawk's Pro Skater 2 | R4: Ridge Racer Type 4 |
+| Licensed game| Die Hard Trilogy | Alien Trilogy |
+| Platformer| Crash Bandicoot 2: Cortex Strikes Back | Crash Bandicoot 3: Warped |
+| RPG| Final Fantasy VIII | Final Fantasy VII |
+| 90+ on Metacritic| Metal Gear Solid | Legacy of Kain: Soul Reaver |
+| Wild card| Super Puzzle Fighter II Turbo | Vagrant Story |
+| Free pick| Castlevania: Symphony of the Night | Xenogears |
