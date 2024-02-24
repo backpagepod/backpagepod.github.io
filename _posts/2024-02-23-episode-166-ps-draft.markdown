@@ -57,6 +57,10 @@ gallery:
 <figure>
     <img src="/assets/images/spite-platform.jpeg" alt="Spite Platform">
 </figure>
+<figure>
+    <img src="/assets/images/gotta-jogg.jpeg" alt="Gotta Jogg">
+    <figcaption>Image Credit: EdeleEdo</figcaption>
+</figure>
 
 ## Categories?
 
@@ -83,9 +87,6 @@ gallery:
 8. 90+ on Metacritic
 9. Wild card
 10. Free pick
-
-
-
 
 ## Draft Order
 
@@ -136,3 +137,9 @@ gallery:
 | 90+ on Metacritic| Metal Gear Solid | Legacy of Kain: Soul Reaver |
 | Wild card| Super Puzzle Fighter II Turbo | Vagrant Story |
 | Free pick| Castlevania: Symphony of the Night | Xenogears |
+
+## References
+
+- [The Making of... PlayStation](https://imgur.com/a/waGYr) from Edge 200
+- [PlayStation - the First 25 Years](https://www.gameinformer.com/feature/2019/12/03/the-first-25-years) from GameInformer
+- Also worth a look is "PlayStation: the story behind the brand", a 20 page feature by Simon Parkin and Edge staff in Edge 274 which [can be purchased here](https://pocketmags.com/edge-magazine/xmas-2014). "That Parko feature is incredible, though, you’re right about that. So much access." - Nathan Brown.
