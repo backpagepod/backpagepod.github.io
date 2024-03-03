@@ -23,4 +23,8 @@ tags:
     <figcaption>Image Credit: art-leaves-the-page on Reddit</figcaption>
 </figure>
 
+<figure>
+    <img src="/assets/images/pret-getaway-2.jpeg" alt="The Pret Getaway 2">
+</figure>
+
 {% include video id="kw7XgyNRdQU" provider="youtube" %}

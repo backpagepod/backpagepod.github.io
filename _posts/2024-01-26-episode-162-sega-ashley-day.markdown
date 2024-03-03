@@ -52,6 +52,10 @@ tags:
     <img src="/assets/images/henman.jpeg" alt="Henman">
 </figure>
 <figure>
+    <img src="/assets/images/simpsons-dreamcast.jpeg" alt="Simpsons Dreamcast">
+    <figcaption>Image Credit: Daithi</figcaption>
+</figure>
+<figure>
     <img src="/assets/images/outrun-2-cover.png" alt="Edge OutRun 2 cover">
 </figure>
 

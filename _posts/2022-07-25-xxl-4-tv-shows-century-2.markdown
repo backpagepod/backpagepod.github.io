@@ -11,6 +11,10 @@ tags:
 [Play Episode.](https://www.patreon.com/posts/xxl-episode-4-tv-69463120)
 > Two more top 10 lists of the best TV shows of the century, along with a fun first section where we each ask the other 10 random questions about TV, including 'who's the best TV dad?
 
+<figure>
+    <img src="/assets/images/chernobyl.jpeg" alt="Chernobyl 2 tweet">
+</figure>
+
 ### Samuel
 
 1. Band of Brothers
@@ -36,5 +40,3 @@ tags:
 8. Terrace House
 9. State of Play
 10. Happy Valley
-
-[Chernobyl 2 tweet]( https://twitter.com/wills_account/status/1147728799074672640)

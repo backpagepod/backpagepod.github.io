@@ -61,6 +61,11 @@ gallery:
     <img src="/assets/images/gotta-jogg.jpeg" alt="Gotta Jogg">
     <figcaption>Image Credit: EdeleEdo</figcaption>
 </figure>
+<figure>
+    <img src="/assets/images/psycho-castlevania.jpeg" alt="Psycho Mantis">
+    <figcaption>Samuel, mid-draft</figcaption>
+</figure>
+
 
 ## Categories?
 
@@ -138,8 +143,16 @@ gallery:
 | Wild card| Super Puzzle Fighter II Turbo | Vagrant Story |
 | Free pick| Castlevania: Symphony of the Night | Xenogears |
 
+## Results
+
+Samuel 49%
+
+**Matthew 51%**
+
+(373 votes, with some talk of a broken poll)
+
 ## References
 
 - [The Making of... PlayStation](https://imgur.com/a/waGYr) from Edge 200
 - [PlayStation - the First 25 Years](https://www.gameinformer.com/feature/2019/12/03/the-first-25-years) from GameInformer
-- Also worth a look is "PlayStation: the story behind the brand", a 20 page feature by Simon Parkin and Edge staff in Edge 274 which [can be purchased here](https://pocketmags.com/edge-magazine/xmas-2014). "That Parko feature is incredible, though, you’re right about that. So much access." - Nathan Brown.
+- Also worth a look is "PlayStation: the story behind the brand", a 20 page feature by Simon Parkin and Edge staff in Edge 274 which [can be purchased here](https://pocketmags.com/edge-magazine/xmas-2014). "That Parko feature is incredible, though, you’re right about that. So much access." - Nathan Brown. Note it contains some quotes from the E200 issue available above.
