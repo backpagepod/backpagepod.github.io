@@ -16,3 +16,9 @@ tags:
 <figure>
     <img src="/assets/images/blood-money-prep.jpeg" alt="Blood Money Prep">
 </figure>
+<figure>
+    <img src="/assets/images/tzatziki-1.jpeg" alt="Tzatziki">
+</figure>
+<figure>
+    <img src="/assets/images/tzatziki-2.jpeg" alt="Tzatziki">
+</figure>
