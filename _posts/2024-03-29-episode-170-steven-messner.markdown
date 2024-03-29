@@ -25,3 +25,6 @@ tags:
 <figure>
     <img src="/assets/images/assassination.jpeg" alt="Assassination">
 </figure>
+<figure>
+    <img src="/assets/images/stirring.jpeg" alt="Stirring">
+</figure>

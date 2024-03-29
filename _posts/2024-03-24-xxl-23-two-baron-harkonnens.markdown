@@ -19,6 +19,9 @@ tags:
     <figcaption>Image Credit: Suchuu</figcaption>
 </figure>
 <figure>
+    <img src="/assets/images/alan.jpeg" alt="Alan">
+</figure>
+<figure>
     <img src="/assets/images/leto-1.jpeg" alt="Leto">
     <figcaption>coyg: tfw you are called upon to edit Official Xbox Magazine in the mid 2010s</figcaption>
 </figure>
