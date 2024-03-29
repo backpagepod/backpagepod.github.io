@@ -1,6 +1,7 @@
 ---
 title: "Episode 19: PS3 and PS Vita Games Worth Saving From Oblivion"
 date:   2021-04-02 09:00:00 +0000
+excerpt: "Here are 10 games worth grabbing before the digital storefronts vanish forever."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

@@ -1,6 +1,7 @@
 ---
 title: "Episode 28: Mailbag Vol. 2"
 date:   2021-06-04 09:00:00 +0000
+excerpt: "We're answering 22 more of your questions."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

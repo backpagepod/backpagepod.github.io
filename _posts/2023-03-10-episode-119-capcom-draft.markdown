@@ -1,6 +1,7 @@
 ---
 title: "Episode 119: The Capcom Games Draft"
 date:   2023-03-10 09:00:00 +0000
+excerpt: "Matthew and Samuel compete to pick the 10 best Capcom games from the developer/publisher's extensive and dazzling library."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

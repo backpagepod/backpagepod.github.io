@@ -1,6 +1,7 @@
 ---
 title: "Episode 78: From OPSM2 to PC Gamer (with Tim Clark)"
 date:   2022-05-20 09:00:00 +0000
+excerpt: "Get ready for another top-drawer story about Hideo Kojima."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

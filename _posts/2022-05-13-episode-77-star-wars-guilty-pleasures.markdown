@@ -1,6 +1,7 @@
 ---
 title: "Episode 77: Best Star Wars Guilty Pleasure Games"
 date:   2022-05-13 09:00:00 +0000
+excerpt: "Samuel catalogues the Star Wars games that exist between simple notions like light and dark – these are the 6 and 7/10 Star Wars games."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

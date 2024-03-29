@@ -1,6 +1,7 @@
 ---
 title: "Episode 155: The Licensed Games Draft"
 date:   2023-11-24 09:00:00 +0000
+excerpt: "Samuel and Matthew compete to pick the best selection of 10 licensed games, and discuss the wildly inconsistent history of licensed games."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

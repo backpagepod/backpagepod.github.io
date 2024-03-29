@@ -1,6 +1,7 @@
 ---
 title: "Episode 8: Games Magazine Covers...From Hell!"
 date:   2021-01-15 09:00:00 +0000
+excerpt: "Matthew and Samuel discuss the art of making covers for games magazines."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

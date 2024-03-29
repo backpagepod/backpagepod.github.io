@@ -1,6 +1,7 @@
 ---
 title: "Episode 109: The Best Games of 2022"
 date:   2022-12-23 09:00:00 +0000
+excerpt: "2022 was undoubtedly a blockbuster-deprived year, but it was still a strong 12 months for games in many other ways."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

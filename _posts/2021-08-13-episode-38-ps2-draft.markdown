@@ -1,6 +1,7 @@
 ---
 title: "Episode 38: The PS2 Mini Draft"
 date:   2021-08-13 09:00:00 +0000
+excerpt: "What if Sony released a PS2 Mini? And what if it was good?"
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

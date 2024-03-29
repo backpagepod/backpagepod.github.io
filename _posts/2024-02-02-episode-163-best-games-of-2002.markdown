@@ -1,6 +1,7 @@
 ---
 title: "Episode 163: The Best Games of 2002"
 date:   2024-02-02 09:00:00 +0000
+excerpt: "Two top 10 lists of our favourite games from 2002 and a slew of ridiculous anecdotes about working in Homebase and studying GCSE Drama."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

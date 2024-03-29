@@ -1,6 +1,7 @@
 ---
 title: "Episode 73: The Indie Games Hall of Fame Vol. 2 (with Joe Skrebels)"
 date:   2022-04-15 09:00:00 +0000
+excerpt: "Another round of indie game recommendations – and 20 minutes of very welcome Dragon's Dogma chat."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

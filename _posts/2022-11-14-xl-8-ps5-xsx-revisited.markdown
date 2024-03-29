@@ -1,6 +1,7 @@
 ---
 title: "XL Episode 8: PS5 vs Xbox Series X Revisited"
 date:   2022-11-14 09:00:00 +0000
+excerpt: "We truly struggle through a fairly vanilla chat about two big electronic boxes under our TVs."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

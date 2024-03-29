@@ -1,6 +1,7 @@
 ---
 title: "Episode 159: 24 Gaming Predictions About 2024"
 date:   2024-01-05 09:00:00 +0000
+excerpt: "After last week's belting return with the GOTY episode, it's time we roll out some bullshit gaming predictions for 2024."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

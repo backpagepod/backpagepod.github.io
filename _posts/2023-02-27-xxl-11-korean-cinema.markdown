@@ -1,6 +1,7 @@
 ---
 title: "XXL Episode 11: Matthew's Korean Cinema Deep Dive"
 date:   2023-02-27 09:00:00 +0000
+excerpt: "Matthew offers a rundown on his favourite films from South Korea."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

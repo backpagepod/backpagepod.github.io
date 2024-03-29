@@ -1,6 +1,7 @@
 ---
 title: "Episode 122: What We've Been Playing (Diablo 4, PSVR2, Tchia)"
 date:   2023-03-31 09:00:00 +0000
+excerpt: "In this week's episode, Samuel suffers from jetlag and Matthew suffers from living as we recount what we've been playing lately."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

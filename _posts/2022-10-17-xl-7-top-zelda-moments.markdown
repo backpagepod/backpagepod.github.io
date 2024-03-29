@@ -1,6 +1,7 @@
 ---
 title: "XL Episode 7: Top Zelda Moments (with Katharine Castle)"
 date:   2022-10-17 09:00:00 +0000
+excerpt: "Katharine Castle joins us to recount a whole host of great moments from The Legend of Zelda's history."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

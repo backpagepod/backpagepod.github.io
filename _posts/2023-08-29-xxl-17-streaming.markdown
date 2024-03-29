@@ -1,6 +1,7 @@
 ---
 title: "XXL Episode 17: The 'Matthew Castle Productions and Big Sammy Holdings Launch Rival Streaming Services' Draft"
 date:   2023-08-29 09:00:00 +0000
+excerpt: "Our first ever draft episode behind the paywall is a truly chaotic affair – see what you make of this 2.5-hour epic."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

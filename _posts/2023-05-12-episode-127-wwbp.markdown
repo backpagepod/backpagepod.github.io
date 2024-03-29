@@ -1,6 +1,7 @@
 ---
 title: "Episode 127: What We've Been Playing (Jedi Survivor, Redfall, Xenoblade Chronicles 3 DLC)"
 date:   2023-05-12 09:00:00 +0000
+excerpt: "Everything except Zelda is discussed in this week's episode!"
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

@@ -1,6 +1,7 @@
 ---
 title: "XXL Episode 20: David Fincher Movies Ranked"
 date:   2023-11-27 09:00:00 +0000
+excerpt: "We ranked the 12 movies directed by David Fincher to mark the recent release of The Killer."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

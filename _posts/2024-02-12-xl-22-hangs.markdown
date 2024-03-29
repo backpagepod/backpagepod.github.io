@@ -1,6 +1,7 @@
 ---
 title: "XL Episode 22: The Best and Worst Hangs in Video Games"
 date:   2024-02-12 09:00:00 +0000
+excerpt: "Who's a good hang? Who's a bad hang? From Tails to Cole Phelps, let's figure it out."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

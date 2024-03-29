@@ -1,6 +1,7 @@
 ---
 title: "Episode 17: The Best Nintendo 3DS Games (with Joe Skrebels)"
 date:   2021-03-19 09:00:00 +0000
+excerpt: "We're counting down the system's best games."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

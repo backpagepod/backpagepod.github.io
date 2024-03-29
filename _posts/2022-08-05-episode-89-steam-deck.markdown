@@ -1,6 +1,7 @@
 ---
 title: "Episode 89: Steam Deck Special"
 date:   2022-08-05 09:00:00 +0000
+excerpt: "Is Valve's handheld PC all it's cracked up to be? Yes!"
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

@@ -1,6 +1,7 @@
 ---
 title: "Episode 42: The Best Games of 2010"
 date:   2021-09-10 09:00:00 +0000
+excerpt: "2010, one of the best years of gaming in modern memory."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

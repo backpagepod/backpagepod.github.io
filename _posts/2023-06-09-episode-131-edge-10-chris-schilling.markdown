@@ -1,6 +1,7 @@
 ---
 title: "Episode 131: The Edge 10 Episode (with Chris Schilling)"
 date:   2023-06-09 09:00:00 +0000
+excerpt: "Edge Deputy Editor Chris Schilling joins us for this week's episode. And yes: we talk about what it means when Edge awards a game a 10."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

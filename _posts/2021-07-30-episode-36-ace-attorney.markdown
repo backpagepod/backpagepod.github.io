@@ -1,6 +1,7 @@
 ---
 title: "Episode 36: The Best Ace Attorney Games"
 date:   2021-07-30 09:00:00 +0000
+excerpt: "Matthew reels off the 10 best entries in this immortal Capcom visual novel series."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

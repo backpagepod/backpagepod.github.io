@@ -1,6 +1,7 @@
 ---
 title: "Episode 103: What We've Been Playing (November 2022)"
 date:   2022-11-11 09:00:00 +0000
+excerpt: "A Plague Tale: Requiem, FF7 Remake, Stay Out Of The House and Taiji are among the games discussed."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

@@ -1,6 +1,7 @@
 ---
 title: "Episode 110: New Year Mailbag"
 date:   2023-01-06 09:00:00 +0000
+excerpt: "Samuel was suffering with Covid during this episode, so it's a slightly gentler one than normal."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

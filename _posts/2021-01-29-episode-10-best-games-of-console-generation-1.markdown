@@ -1,6 +1,7 @@
 ---
 title: "Episode 10: Best Games of the Console Generation - Part 1"
 date:   2021-01-29 09:00:00 +0000
+excerpt: "Two top 30 lists of the best games on PS4, Xbox One and Wii U from the past 7 or 8 years."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

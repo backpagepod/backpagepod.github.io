@@ -1,6 +1,7 @@
 ---
 title: "Episode 125: The Shinji Mikami Hall of Fame (with Rich Stanton)"
 date:   2023-04-28 09:00:00 +0000
+excerpt: "Matthew and Rich Stanton build a hall of fame from Resident Evil creator Shinji Mikami's body of work."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

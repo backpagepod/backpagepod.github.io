@@ -1,6 +1,7 @@
 ---
 title: "Episode 140: Old RPGs and Baldur's Gate 3 (with Jeremy Peel)"
 date:   2023-08-11 09:00:00 +0000
+excerpt: "With Baldur's Gate 3 taking over the world, genre expert Jeremy Peel returns to discuss how RPGs have evolved since the days of the Infinity Engine games."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

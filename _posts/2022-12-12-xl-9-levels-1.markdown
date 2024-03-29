@@ -1,6 +1,7 @@
 ---
 title: "XL Episode 9: Best Videogame Levels Vol. 1"
 date:   2022-12-12 09:00:00 +0000
+excerpt: "Matthew and Samuel each pick some of their favourite levels from across 10+ categories."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

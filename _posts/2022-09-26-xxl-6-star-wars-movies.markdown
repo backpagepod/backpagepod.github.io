@@ -1,6 +1,7 @@
 ---
 title: "XXL Episode 6: Star Wars Movies Ranked (or, Star Wars: Good or Bad?)"
 date:   2022-09-26 09:00:00 +0000
+excerpt: "We're ranking the Star Wars movies. Apologies in advance for the mountain of bad takes you're about to endure."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

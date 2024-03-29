@@ -1,6 +1,7 @@
 ---
 title: "Episode 158: The Best Games of 2023"
 date:   2023-12-30 09:00:00 +0000
+excerpt: "Our biggest episode of the year is here! Two top 10 lists of the best games of the year."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

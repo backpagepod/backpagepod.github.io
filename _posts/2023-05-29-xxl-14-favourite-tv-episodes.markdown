@@ -1,6 +1,7 @@
 ---
 title: "XXL Episode 14: Our Favourite TV Episodes"
 date:   2023-05-29 09:00:00 +0000
+excerpt: "From Inside No. 9 to Matthew's beloved Northern Exposure, in this episode we each share 10 TV episodes that we love."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

@@ -1,6 +1,7 @@
 ---
 title: "Episode 44: The N64 Mini Draft"
 date:   2021-09-24 09:00:00 +0000
+excerpt: "Matthew and Samuel each compete to pick the 10 best games on the system for a hypothetical N64 Mini console."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

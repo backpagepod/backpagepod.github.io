@@ -1,6 +1,7 @@
 ---
 title: "Episode 15: Bad eBay Games Court"
 date:   2021-03-05 09:00:00 +0000
+excerpt: "Samuel Roberts stands accused of crimes against good taste."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

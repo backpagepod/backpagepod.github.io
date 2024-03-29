@@ -1,6 +1,7 @@
 ---
 title: "Episode 14: The Best Games of 2007"
 date:   2021-02-26 09:00:00 +0000
+excerpt: "From Uncharted: Drake's Fortune to Crackdown."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

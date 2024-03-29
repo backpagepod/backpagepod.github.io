@@ -1,6 +1,7 @@
 ---
 title: "Episode 137: The PS3 Draft"
 date:   2023-07-21 09:00:00 +0000
+excerpt: "Matthew and Samuel compete to pick the best 10 games (and one HD collection) that represent the PS3's somewhat inconsistent library."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

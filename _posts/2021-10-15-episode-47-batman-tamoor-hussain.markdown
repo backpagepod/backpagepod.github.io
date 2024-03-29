@@ -1,6 +1,7 @@
 ---
 title: "Episode 47: What Would Batman Do? (with Tamoor Hussain)"
 date:   2021-10-15 09:00:00 +0000
+excerpt: "Tamoor Hussain helps us rank the Batman: Arkham games."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

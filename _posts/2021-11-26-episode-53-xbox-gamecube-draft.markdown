@@ -1,6 +1,7 @@
 ---
 title: "Episode 53: The Xbox vs GameCube Draft"
 date:   2021-11-26 09:00:00 +0000
+excerpt: "Who can build the best hypothetical mini console, Matthew, representing GameCube, or Samuel, representing the original Xbox?"
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

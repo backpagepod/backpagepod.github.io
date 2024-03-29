@@ -1,6 +1,7 @@
 ---
 title: "Episode 48: Grand Theft Auto 3 Turns 20 (with Steve Burns)"
 date:   2021-10-22 09:00:00 +0000
+excerpt: "Steve Burns joins us to discuss Grand Theft Auto III."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

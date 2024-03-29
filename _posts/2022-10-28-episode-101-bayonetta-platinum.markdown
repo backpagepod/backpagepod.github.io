@@ -1,6 +1,7 @@
 ---
 title: "Episode 101: Bayonetta 3 and Platinum"
 date:   2022-10-28 09:00:00 +0000
+excerpt: "The wonderful 101st episode of The Back Page attempts to build a 5-game hall of fame from the entire PlatinumGames catalogue."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

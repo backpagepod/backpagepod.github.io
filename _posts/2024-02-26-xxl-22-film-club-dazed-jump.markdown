@@ -1,6 +1,7 @@
 ---
 title: "XXL Episode 22: Back Page Film Club – Dazed and Confused + 21 Jump Street"
 date:   2024-02-26 09:00:00 +0000
+excerpt: "Hear about why Dazed and Confused is one of Matthew's favourite movies, then hear about Samuel's eternal affection for Lord and Miller's 21 Jump Street."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

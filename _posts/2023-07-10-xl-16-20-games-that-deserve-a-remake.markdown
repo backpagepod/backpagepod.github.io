@@ -1,6 +1,7 @@
 ---
 title: "XL Episode 16: 20 Games That Deserve a Remake"
 date:   2023-07-10 09:00:00 +0000
+excerpt: "We  discuss the trend of remakes in games and where it began – and whether it's a good thing for the creative health of games or not."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

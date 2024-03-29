@@ -1,6 +1,7 @@
 ---
 title: "Episode 24: Resident Evil Village and the best Resi games"
 date:   2021-05-07 09:00:00 +0000
+excerpt: "We've both finished Resident Evil Village."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

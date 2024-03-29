@@ -1,6 +1,7 @@
 ---
 title: "Episode 81: The '90s PC Games Draft"
 date:   2022-06-10 09:00:00 +0000
+excerpt: "Samuel and Matthew each compete to pick the 10 best PC games released in the years 1990 to 1999."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

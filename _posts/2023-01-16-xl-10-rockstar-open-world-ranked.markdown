@@ -1,6 +1,7 @@
 ---
 title: "XL Episode 10: Rockstar Open World Games Ranked"
 date:   2023-01-16 09:00:00 +0000
+excerpt: "From Bully to Red Dead Redemption 2, this episode ranks pretty much all of the sandbox games published by Rockstar to date."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

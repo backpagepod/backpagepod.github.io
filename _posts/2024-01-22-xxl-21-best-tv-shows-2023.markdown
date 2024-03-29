@@ -1,6 +1,7 @@
 ---
 title: "XXL Episode 21: The Best TV Shows of 2023"
 date:   2024-01-22 09:00:00 +0000
+excerpt: "We dive into our favourite TV shows from 2023. Was it a great year for TV?"
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

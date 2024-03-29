@@ -1,6 +1,7 @@
 ---
 title: "Episode 90: The '90s Games Mag Quiz and Mailbag"
 date:   2022-08-12 09:00:00 +0000
+excerpt: "Guess the game based on quotes taken from '90s games magazines."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

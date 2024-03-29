@@ -1,6 +1,7 @@
 ---
 title: "Episode 11: Best Games of the Console Generation - Part 2"
 date:   2021-02-05 09:00:00 +0000
+excerpt: "Our two top 30 games of the generation lists conclude this week."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

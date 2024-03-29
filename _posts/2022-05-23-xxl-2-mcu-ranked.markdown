@@ -1,6 +1,7 @@
 ---
 title: "XXL Episode 2: Marvel Cinematic Universe movies ranked"
 date:   2022-05-23 09:00:00 +0000
+excerpt: "Apologies in advance for our terrible takes in this one."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

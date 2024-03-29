@@ -1,6 +1,7 @@
 ---
 title: "Episode 45: From GBA Reviews to The New Yorker (with Simon Parkin)"
 date:   2021-10-01 09:00:00 +0000
+excerpt: "Hear how Simon broke the news of Hideo Kojima's departure from Konami."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

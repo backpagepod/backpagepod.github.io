@@ -1,6 +1,7 @@
 ---
 title: "Episode 93: What We've Been Playing (September 2022)"
 date:   2022-09-02 09:00:00 +0000
+excerpt: "Saints Row, Arcade Paradise, Ryse: Son of Rome, Splatoon 3, Star Wars: Rogue Squadron and Escape Academy are the games discussed."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

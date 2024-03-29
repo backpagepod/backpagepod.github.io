@@ -1,6 +1,7 @@
 ---
 title: "Episode 34: The Best Zelda Games"
 date:   2021-07-16 09:00:00 +0000
+excerpt: "Matthew has played The Legend of Zelda: Skyward Sword HD. Does he still think it's worth an Edge 10 a decade later?"
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

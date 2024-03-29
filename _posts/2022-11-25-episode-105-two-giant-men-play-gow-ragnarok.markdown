@@ -1,6 +1,7 @@
 ---
 title: "Episode 105: Two Giant Men Play God of War Ragnarök"
 date:   2022-11-25 09:00:00 +0000
+excerpt: "Matthew and Samuel both played God of War Ragnarök. But Matthew actually finished it!"
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

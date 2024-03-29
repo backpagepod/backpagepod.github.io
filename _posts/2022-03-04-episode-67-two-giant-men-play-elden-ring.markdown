@@ -1,6 +1,7 @@
 ---
 title: "Episode 67: Two Giant Men Play Elden Ring"
 date:   2022-03-04 09:00:00 +0000
+excerpt: "Samuel and Matthew have played Elden Ring for a combined 37 hours – here's what they think so far."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

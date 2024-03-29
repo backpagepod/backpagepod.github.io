@@ -1,6 +1,7 @@
 ---
 title: "Episode 97: Games Court – Judge Sammy's Garbage Barge"
 date:   2022-09-30 09:00:00 +0000
+excerpt: "A grim fate awaits anyone who gets on the wrong side of Judge Big Sammy."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

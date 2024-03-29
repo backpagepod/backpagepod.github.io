@@ -1,6 +1,7 @@
 ---
 title: "Episode 20: Games Magazine Covers...From Heaven!"
 date:   2021-04-09 09:00:00 +0000
+excerpt: "10 of our best games magazine covers, and the stories of how they each got made."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

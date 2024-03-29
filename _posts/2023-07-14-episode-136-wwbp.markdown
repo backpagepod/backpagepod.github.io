@@ -1,6 +1,7 @@
 ---
 title: "Episode 136: What We've Been Playing (Final Fantasy 16, Trepang2, Baldur's Gate 3)"
 date:   2023-07-14 09:00:00 +0000
+excerpt: "Kick back, take a seat! Pour yourself a tall glass of water. It's a simple update on what we've been playing lately, featuring Final Fantasy 16 and BG3."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

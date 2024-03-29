@@ -1,6 +1,7 @@
 ---
 title: "Episode 68: Bad eBay Games Court 2022"
 date:   2022-03-11 09:00:00 +0000
+excerpt: "Judge Castle returns to decide whether listeners must die."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode
@@ -16,5 +17,5 @@ tags:
 
 <figure>
   <img src="/assets/images/pulpin.jpeg" alt="Pulpin">
-  <figcaption>Image Credit: JonCheetham1.</figcaption>
+  <figcaption>Image Credit: JonCheetham1</figcaption>
 </figure>

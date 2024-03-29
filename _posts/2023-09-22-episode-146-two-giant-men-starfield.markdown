@@ -1,6 +1,7 @@
 ---
 title: "Episode 146: Two Giant Men Play Starfield"
 date:   2023-09-22 09:00:00 +0000
+excerpt: "We've each played 25 hours of Starfield – here's what we thought."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

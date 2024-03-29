@@ -1,6 +1,7 @@
 ---
 title: "XXL Episode 8: James Bond Movies Ranked"
 date:   2022-11-28 09:00:00 +0000
+excerpt: "The podcast goes full Partridge in this ranking of all 25 existing James Bond movies."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

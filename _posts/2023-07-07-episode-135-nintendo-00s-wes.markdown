@@ -1,6 +1,7 @@
 ---
 title: "Episode 135: Nintendo in the '00s (with Wes Fenlon)"
 date:   2023-07-07 09:00:00 +0000
+excerpt: "Our guest this week is PC Gamer Senior Editor Wes Fenlon, who talks to us about his career, his newsletter, and Nintendo during the GameCube/GBA era."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

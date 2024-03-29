@@ -1,6 +1,7 @@
 ---
 title: "Episode 132: Our 10 Most Anticipated Games From Not-E3 2023"
 date:   2023-06-16 09:00:00 +0000
+excerpt: "From Doordash ads to a game that looks 90% like BioShock Infinite, these were our highlights from the past week of game reveals."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

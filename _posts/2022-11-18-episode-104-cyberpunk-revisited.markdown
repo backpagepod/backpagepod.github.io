@@ -1,6 +1,7 @@
 ---
 title: "Episode 104: Cyberpunk 2077 Revisited"
 date:   2022-11-18 09:00:00 +0000
+excerpt: "Samuel finally played Cyberpunk 2077 properly, and had a (mostly) good time!"
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

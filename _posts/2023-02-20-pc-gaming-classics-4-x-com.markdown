@@ -1,6 +1,7 @@
 ---
 title: "PC Gaming Classics Episode 4: X-Com: UFO Defense"
 date:   2023-02-20 09:00:00 +0000
+excerpt: "This foundational title in the turn-based strategy genre is hard as heck these days – but does it stand the test of time regardless?"
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

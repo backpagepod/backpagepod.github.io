@@ -1,6 +1,7 @@
 ---
 title: "Episode 43: Deathloop and Immersive Sims (with Jeremy Peel)"
 date:   2021-09-17 09:00:00 +0000
+excerpt: "We've finished Deathloop! Hear about the history of the immersive sim."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

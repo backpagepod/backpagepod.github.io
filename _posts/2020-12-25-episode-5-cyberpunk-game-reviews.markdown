@@ -1,6 +1,7 @@
 ---
 title: "Episode 5: Cyberpunk 2077 and How To Review Big Games"
 date:   2020-12-25 09:00:00 +0000
+excerpt: "Matthew discusses his 70 hours playing the glitchy but nonetheless fascinating game."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

@@ -1,6 +1,7 @@
 ---
 title: "Episode 55: Games We've Been Playing In 2021 (From Previous Years)"
 date:   2021-12-10 09:00:00 +0000
+excerpt: "Luigi's Mansion 3, Resident Evil 3 Remake and more."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

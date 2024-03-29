@@ -1,6 +1,7 @@
 ---
 title: "Episode 94: Splatoon 3 + Nintendo's Newer Series Explained"
 date:   2022-09-09 09:00:00 +0000
+excerpt: "Matthew talks us through his many hours agonising over a Splatoon 3 review."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

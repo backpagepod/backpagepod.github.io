@@ -1,6 +1,7 @@
 ---
 title: "XXL Episode 16: Mission: Impossible Pod Rankening"
 date:   2023-07-31 09:00:00 +0000
+excerpt: "After about 8 episodes of promotion, our ranking of the Mission: Impossible movies is finally here!"
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

@@ -1,6 +1,7 @@
 ---
 title: "XL Episode 19: The Best Resident Evil Moments"
 date:   2023-10-10 09:00:00 +0000
+excerpt: "Woah, it's been one whole week since we discussed Resident Evil on this podcast! Time to do a rundown of the best moments from the entire series."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

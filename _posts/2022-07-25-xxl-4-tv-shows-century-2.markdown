@@ -1,6 +1,7 @@
 ---
 title: "XXL Episode 4: Best TV Shows of the Century (Part 2)"
 date:   2022-07-25 09:00:00 +0000
+excerpt: "Who's the best TV dad?"
 excerpt_separator: "<!--more-->"
 categories:
 - Episode
@@ -9,7 +10,7 @@ tags:
 ---
 
 [Play Episode.](https://www.patreon.com/posts/xxl-episode-4-tv-69463120)
-> Two more top 10 lists of the best TV shows of the century, along with a fun first section where we each ask the other 10 random questions about TV, including 'who's the best TV dad?
+> Two more top 10 lists of the best TV shows of the century, along with a fun first section where we each ask the other 10 random questions about TV, including 'who's the best TV dad?'
 
 <figure>
     <img src="/assets/images/chernobyl.jpeg" alt="Chernobyl 2 tweet">

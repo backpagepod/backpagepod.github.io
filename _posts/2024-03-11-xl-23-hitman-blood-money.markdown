@@ -1,6 +1,7 @@
 ---
 title: "XL Episode 23: Two Giant Men Play Hitman: Blood Money"
 date:   2024-03-11 09:00:00 +0000
+excerpt: "We went back and played an older, extremely influential Hitman game – but how does it hold up?"
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

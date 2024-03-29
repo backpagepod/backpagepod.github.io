@@ -1,6 +1,7 @@
 ---
 title: "XXL Episode 13: Guilty Pleasure Movies"
 date:   2023-04-24 09:00:00 +0000
+excerpt: "From Final Fantasy VII: Advent Children (eugh!) to Russell Crowe's Robin Hood (oof!), we run through some of our guilty pleasures."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

@@ -1,6 +1,7 @@
 ---
 title: "Episode 167: What We've Been Playing (FF7 Rebirth, FF7 Remake, Balatro)"
 date:   2024-03-01 09:00:00 +0000
+excerpt: "Matthew has finally become a big FF7 head, ploughing through Remake in January and now being 50 hours deep into Rebirth."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

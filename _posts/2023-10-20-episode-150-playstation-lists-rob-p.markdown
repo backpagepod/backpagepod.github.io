@@ -1,6 +1,7 @@
 ---
 title: "Episode 150: The Art of PlayStation List Making (with Rob Pearson)"
 date:   2023-10-20 09:00:00 +0000
+excerpt: "Rob Pearson of PlayStation Access is our guest this week. Hear about Rob's unusual journey to YouTube fame via print media."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

@@ -1,6 +1,7 @@
 ---
 title: "Episode 76: From Edge to Media Molecule (with Jen Simpkins)"
 date:   2022-05-06 09:00:00 +0000
+excerpt: "Former Edge editor Jen Simpkins joins us to discuss some highlights of her career."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

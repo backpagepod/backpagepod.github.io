@@ -1,6 +1,7 @@
 ---
 title: "XL Episode 18: Two Giant Men Solve an Escape Room – and the Best Gaming Prisons"
 date:   2023-09-11 09:00:00 +0000
+excerpt: "Matthew and Samuel relay their experience trying to solve an escape room in Bath. We weld a list of the top 10 gaming prisons on to the episode."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

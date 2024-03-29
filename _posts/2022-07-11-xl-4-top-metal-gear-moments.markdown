@@ -1,6 +1,7 @@
 ---
 title: "XL Episode 4: Top 25 Metal Gear Solid Moments (with Rich Stanton)"
 date:   2022-07-11 09:00:00 +0000
+excerpt: "Rich Stanton joins us to deliver a comprehensive overview of the Metal Gear Solid series."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

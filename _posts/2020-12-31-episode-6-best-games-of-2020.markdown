@@ -1,6 +1,7 @@
 ---
 title: "Episode 6: The Best Games of 2020"
 date:   2020-12-31 09:00:00 +0000
+excerpt: "Wow, 2020 was the worst!"
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

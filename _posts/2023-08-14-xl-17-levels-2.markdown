@@ -1,6 +1,7 @@
 ---
 title: "XL Episode 17: The Best Video Game Levels Vol. 2"
 date:   2023-08-14 09:00:00 +0000
+excerpt: "The sequel to last year's XL pod on the best video game levels is here, covering 25 different categories."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

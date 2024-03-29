@@ -1,6 +1,7 @@
 ---
 title: "Episode 35: Steam Deck and Creating the Perfect Handheld"
 date:   2021-07-23 09:00:00 +0000
+excerpt: "Big Sammy Holdings and Matthew Castle Productions are moving into the hardware market."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

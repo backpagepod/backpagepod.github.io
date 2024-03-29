@@ -1,6 +1,7 @@
 ---
 title: "Episode 84: Games Court 4 – A Few Pre-Owned Games More"
 date:   2022-07-01 09:00:00 +0000
+excerpt: "This time Judge Big Sammy is making the verdicts."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

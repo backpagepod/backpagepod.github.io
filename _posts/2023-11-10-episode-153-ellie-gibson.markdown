@@ -1,6 +1,7 @@
 ---
 title: "Episode 153: From Jak & Daxter to Eurogamer (with Ellie Gibson)"
 date:   2023-11-10 09:00:00 +0000
+excerpt: "Comedian, writer and streaming superstar Ellie Gibson talks us through her career at Eurogamer during the heyday of the PS3 and 360 era of games media."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

@@ -1,6 +1,7 @@
 ---
 title: "Episode 75: Oh No, Another Mailbag (And Matthew Finishes Horizon Forbidden West)"
 date:   2022-04-29 09:00:00 +0000
+excerpt: "It's probably too long, yet again, but it covers everything from our favourite TV genres to trends in games that we miss."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

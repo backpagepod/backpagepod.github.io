@@ -1,6 +1,7 @@
 ---
 title: "Episode 128: Two Giant Men Play The Legend of Zelda: Tears of the Kingdom"
 date:   2023-05-19 09:00:00 +0000
+excerpt: "Matthew has played 40 hours of the new Zelda, Samuel has played 10. How are they getting on?"
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

@@ -1,6 +1,7 @@
 ---
 title: "Episode 57: LOTR Games Revisited As Fellowship Turns 20"
 date:   2021-12-24 09:00:00 +0000
+excerpt: "We revisit every game based on the films from Peter Jackson."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

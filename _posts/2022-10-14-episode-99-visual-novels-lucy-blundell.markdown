@@ -1,6 +1,7 @@
 ---
 title: "Episode 99: Best Visual Novels (with Lucy Blundell)"
 date:   2022-10-14 09:00:00 +0000
+excerpt: "Lucy Blundell joins us to discuss one of Matthew's favourite genres: the (usually) non-horny visual novel."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

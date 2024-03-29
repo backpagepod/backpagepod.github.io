@@ -1,6 +1,7 @@
 ---
 title: "Episode 54: The Best Halo Games"
 date:   2021-12-03 09:00:00 +0000
+excerpt: "Samuel ranks the seven mainline Halo games to date, and both Samuel and Matthew weigh in on the wonders of Halo Infinite multiplayer."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

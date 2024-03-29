@@ -1,6 +1,7 @@
 ---
 title: "Episode 62: Pokémon Games (with Jay Baylis)"
 date:   2022-01-28 09:00:00 +0000
+excerpt: "Jay Baylis joins us to discuss the long history of Pokémon games, subjecting Matthew to his idea of torture."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

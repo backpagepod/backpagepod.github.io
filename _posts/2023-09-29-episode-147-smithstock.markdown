@@ -1,6 +1,7 @@
 ---
 title: "Episode 147: Things You Only Realise When You Make Games"
 date:   2023-09-29 09:00:00 +0000
+excerpt: "People Can Fly's Jamie Smith tells us about his career and things you only realise about games when you actually make them for a living."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

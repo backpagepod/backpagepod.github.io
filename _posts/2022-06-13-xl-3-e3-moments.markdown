@@ -1,6 +1,7 @@
 ---
 title: "XL Episode 3: Best and Worst E3 Moments"
 date:   2022-06-13 09:00:00 +0000
+excerpt: "Matthew and Samuel each recall their 5 best and worst E3 moments."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

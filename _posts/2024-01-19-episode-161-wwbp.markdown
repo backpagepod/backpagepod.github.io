@@ -1,6 +1,7 @@
 ---
 title: "Episode 161: What We've Been Playing (Suicide Squad, TLOU2 Remastered, Marvel's Midnight Suns)"
 date:   2024-01-19 09:00:00 +0000
+excerpt: "Some nutritious games waffle to cancel out last week's nonsense mailbag episode."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

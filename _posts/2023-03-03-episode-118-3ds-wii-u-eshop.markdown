@@ -1,6 +1,7 @@
 ---
 title: "Episode 118: 3DS and Wii U Games Worth Grabbing Before The eShop Closes"
 date:   2023-03-03 09:00:00 +0000
+excerpt: "Matthew fires through a whole bunch of recommendations to check out on 3DS and Wii U before their respective eShops close."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

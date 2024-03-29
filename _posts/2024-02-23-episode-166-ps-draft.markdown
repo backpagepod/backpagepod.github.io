@@ -1,6 +1,7 @@
 ---
 title: "Episode 166: The PlayStation Draft"
 date:   2024-02-23 09:00:00 +0000
+excerpt: "Time for our first draft episode of 2024! It's the turn of the PlayStation, one of the most important consoles in history."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

@@ -1,6 +1,7 @@
 ---
 title: "Episode 61: 2022 Mailbag"
 date:   2022-01-21 09:00:00 +0000
+excerpt: "25 of your questions about gaming (yes, and Bath restaurants) answered."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

@@ -1,6 +1,7 @@
 ---
 title: "Episode 164: How To Write A Feature About Games (with Jeremy Peel)"
 date:   2024-02-09 09:00:00 +0000
+excerpt: "Beloved guest Jeremy Peel drops by."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

@@ -1,6 +1,7 @@
 ---
 title: "XXL Episode 12: Christopher Nolan Movies Ranked"
 date:   2023-03-27 09:00:00 +0000
+excerpt: "The podcast lunges head-first into self-parody as two large guys in their 30s rank the movies of Christopher Nolan."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

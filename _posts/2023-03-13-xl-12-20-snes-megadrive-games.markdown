@@ -1,6 +1,7 @@
 ---
 title: "XL Episode 12: 20 SNES and Mega Drive Games That Shaped Our Gaming Tastes"
 date:   2023-03-13 09:00:00 +0000
+excerpt: "Our key SNES and Mega Drive games take centre stage in this month's XL episode."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode
@@ -9,9 +10,9 @@ tags:
 ---
 
 [Play Episode.](https://www.patreon.com/posts/xl-episode-12-20-79929321)
-> To tie in with a dubious Mario movie, we select 35 of the best moments featuring Nintendo's iconic platformer hero. Thanks to Liam Richardson for the edits, and to you for your support!
+> Our key SNES and Mega Drive games take centre stage in this month's XL episode – please excuse our lack of expertise as we dig into the origins of our respective journeys into video games. Everything from Another World to Batman Returns gets some half-remembered waffle in this episode. Plus: hear all about Matthew's attempts to renew his life insurance policy!
 >
-> This week's music is from the Super Mario Galaxy soundtrack by Mahito Yokota and Koji Kondo.
+> Thanks to Liam Richardson for the edits. This week's music is from the Sonic the Hedgehog soundtrack by Masato Nakamura, and the Final Fantasy IV soundtrack by Nobuo Uematsu.
 
 ## Samuel's Games
 

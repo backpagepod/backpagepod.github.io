@@ -1,6 +1,7 @@
 ---
 title: "Episode 49: 15 Horror Games We Love (with Louise Blain)"
 date:   2021-10-29 09:00:00 +0000
+excerpt: "Louise Blain joins us to pick out 15 cool spooky games, from Eternal Darkness to Silent Hill 4: The Room."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

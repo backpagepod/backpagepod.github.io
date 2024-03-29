@@ -1,6 +1,7 @@
 ---
 title: "XXL Episode 7: 20 Horror Movies We'd Recommend To Anyone"
 date:   2022-10-30 09:00:00 +0000
+excerpt: "Listen to two non-horror fans talk about horror movies for almost three hours!"
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

@@ -1,6 +1,7 @@
 ---
 title: "Episode 102: God of War Games Ranknarök"
 date:   2022-11-04 09:00:00 +0000
+excerpt: "Ahead of the release of Ragnarök, we rank all the God of War games from 2005's original up to the 2018 PS4 entry."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

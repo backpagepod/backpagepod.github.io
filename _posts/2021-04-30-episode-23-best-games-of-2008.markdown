@@ -1,6 +1,7 @@
 ---
 title: "Episode 23: The Best Games of 2008"
 date:   2021-04-30 09:00:00 +0000
+excerpt: "From Dead Space to Grand Theft Auto 4, 2008 was a phenomenal year in gaming."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

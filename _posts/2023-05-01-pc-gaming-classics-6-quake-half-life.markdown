@@ -1,6 +1,7 @@
 ---
 title: "PC Gaming Classics Episode 6: Quake vs Half-Life"
 date:   2023-05-01 09:00:00 +0000
+excerpt: "It's a showdown of revolutionary late '90s first-person shooters: id Software's Quake versus Valve's Half-Life."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

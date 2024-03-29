@@ -1,6 +1,7 @@
 ---
 title: "Episode 70: Ghostwire: Tokyo, New Kirby, Tunic and More Games We've Been Playing"
 date:   2022-03-25 09:00:00 +0000
+excerpt: "Ghostwire: Tokyo, Kirby and the Forgotten Land, Tunic, Marvel's Guardians of the Galaxy and Monster Train."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

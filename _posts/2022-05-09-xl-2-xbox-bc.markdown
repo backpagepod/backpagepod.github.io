@@ -1,6 +1,7 @@
 ---
 title: "XL Episode 2: 20 Xbox Backwards Compatible Games Worth Revisiting"
 date:   2022-05-09 09:00:00 +0000
+excerpt: "Samuel discusses 20 old Xbox games he's enjoyed revisiting on Xbox Series X via backwards compatibility."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

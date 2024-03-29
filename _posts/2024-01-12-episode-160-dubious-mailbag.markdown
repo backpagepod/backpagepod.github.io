@@ -1,6 +1,7 @@
 ---
 title: "Episode 160: Dubious Mailbag"
 date:   2024-01-12 07:00:00 +0000
+excerpt: "After several solid episodes in a row, The Back Page crashes down to Earth. But you do get to hear about the famous person Matthew went to school with..."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

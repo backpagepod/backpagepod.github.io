@@ -1,6 +1,7 @@
 ---
 title: "XL Episode 21: Samuel Bangs On About His Trip To Japan – Apologies In Advance"
 date:   2024-01-07 09:00:00 +0000
+excerpt: "Two hours where Samuel explains what he did in Japan when he wasn't making the podcast."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

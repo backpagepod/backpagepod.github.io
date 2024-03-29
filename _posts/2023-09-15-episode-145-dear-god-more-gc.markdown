@@ -1,6 +1,7 @@
 ---
 title: "Episode 145: Dear God, More Games Court"
 date:   2023-09-15 09:00:00 +0000
+excerpt: "Happy, you sickos? It's the latest entry in our bizarre Games Court format. Those found guilty will die...by Pikmin."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

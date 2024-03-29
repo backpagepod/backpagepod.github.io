@@ -1,6 +1,7 @@
 ---
 title: "Episode 9: Hitman 3 and the 10 best Hitman levels"
 date:   2021-01-22 09:00:00 +0000
+excerpt: "We've both played a lot of Hitman 3."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

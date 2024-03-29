@@ -1,6 +1,7 @@
 ---
 title: "Episode 165: The Cursed February Mailbag"
 date:   2024-02-16 07:00:00 +0000
+excerpt: "After some dense episodes, allow us this brief respite to answer a slew of listener questions."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

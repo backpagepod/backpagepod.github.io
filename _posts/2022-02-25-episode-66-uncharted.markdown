@@ -1,6 +1,7 @@
 ---
 title: "Episode 66: Uncharted Games (and the Mediocre Movie)"
 date:   2022-02-25 09:00:00 +0000
+excerpt: "Matthew's seen the Uncharted movie, which is a nice excuse for a deep dive into one of our favourite PlayStation series."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

@@ -1,6 +1,7 @@
 ---
 title: "Episode 124: The Best Games of 2015"
 date:   2023-04-21 09:00:00 +0000
+excerpt: "Two top 10s of 2015's greatest games. Hear about Matthew and Samuel's friendship emerging during a press trip to Germany."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

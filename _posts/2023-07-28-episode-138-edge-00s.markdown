@@ -1,6 +1,7 @@
 ---
 title: "Episode 138: Edge in the '00s"
 date:   2023-07-28 09:00:00 +0000
+excerpt: "Former Edge editor Margaret Robertson joins us to discuss working on the magazine from 2003-2007 and her career in game development. It's a good one."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

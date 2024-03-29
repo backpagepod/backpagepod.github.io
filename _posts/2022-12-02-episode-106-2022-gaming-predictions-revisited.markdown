@@ -1,6 +1,7 @@
 ---
 title: "Episode 106: 2022 Gaming Predictions Revisited"
 date:   2022-12-02 09:00:00 +0000
+excerpt: "We revisit our 22 predictions from the start of the year to see just how wrong we were."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

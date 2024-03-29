@@ -1,6 +1,7 @@
 ---
 title: "XXL Episode 15: The Indiana Jones Rankings"
 date:   2023-06-26 09:00:00 +0000
+excerpt: "Matthew and Samuel foolishly try to create power rankings for the first four Indiana Jones movies, The Fate of Atlantis, several 6/10 games, a TV show..."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

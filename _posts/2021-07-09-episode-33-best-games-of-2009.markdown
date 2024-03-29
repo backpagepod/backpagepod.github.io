@@ -1,6 +1,7 @@
 ---
 title: "Episode 33: The Best Games of 2009"
 date:   2021-07-09 09:00:00 +0000
+excerpt: "From Uncharted 2 to Batman: Arkham Asylum."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

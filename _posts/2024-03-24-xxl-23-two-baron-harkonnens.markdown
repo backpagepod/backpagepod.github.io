@@ -1,6 +1,7 @@
 ---
 title: "XXL Episode 23: Two Baron Harkonnens Watch Dune Parts 1 and 2"
 date:   2024-03-24 09:00:00 +0000
+excerpt: "Two men who know nothing about the Dune books talk about Denis Villeneuve's two Dune movies!"
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

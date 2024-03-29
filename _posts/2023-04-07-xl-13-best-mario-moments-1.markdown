@@ -1,6 +1,7 @@
 ---
 title: "XL Episode 13: The Best Mario Moments Vol. 1"
 date:   2023-04-07 09:00:00 +0000
+excerpt: "To tie in with a dubious Mario movie, we select 35 of the best moments featuring Nintendo's iconic platformer hero."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

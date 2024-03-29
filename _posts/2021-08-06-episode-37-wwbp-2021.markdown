@@ -1,6 +1,7 @@
 ---
 title: "Episode 37: Games We've Been Playing in 2021"
 date:   2021-08-06 09:00:00 +0000
+excerpt: "From The Last of Us Part 2 to Neo: The World Ends With You and Crimson Skies: High Road to Revenge."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

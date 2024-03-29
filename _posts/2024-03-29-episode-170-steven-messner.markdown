@@ -1,6 +1,7 @@
 ---
 title: "Episode 170: The Time Samuel Wronged A Freelancer (with Steven Messner)"
 date:   2024-03-29 09:00:00 +0000
+excerpt: "Former PC Gamer Senior Reporter Steven Messner is our guest this week! Hear about his epic reports of goings on in EVE Online and other MMOs."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

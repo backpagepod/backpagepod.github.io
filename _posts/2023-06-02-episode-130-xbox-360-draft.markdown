@@ -1,6 +1,7 @@
 ---
 title: "Episode 130: The Xbox 360 Draft"
 date:   2023-06-02 09:00:00 +0000
+excerpt: "Is the Xbox 360 the greatest console ever made? And remember, it's just a bit of fun! Except where we take what the other person says very personally."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

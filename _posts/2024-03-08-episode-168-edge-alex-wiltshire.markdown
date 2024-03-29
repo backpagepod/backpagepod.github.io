@@ -1,6 +1,7 @@
 ---
 title: "Episode 168: We Collected Another Edge Editor (with Alex Wiltshire)"
 date:   2024-03-08 09:00:00 +0000
+excerpt: "This week's guest is former Edge editor Alex Wiltshire. Hear about his era of the magazine, as well as his time working at Hello Games and Mojang."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

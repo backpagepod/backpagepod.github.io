@@ -1,6 +1,7 @@
 ---
 title: "Episode 154: What We've Been Playing (Alan Wake 2, Super Mario Wonder, PS Portal, Oculus Quest 3)"
 date:   2023-11-17 09:00:00 +0000
+excerpt: "The latest on what we've been playing, featuring Alan Wake 2, Chants of Sennaar, Super Mario Wonder and more."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

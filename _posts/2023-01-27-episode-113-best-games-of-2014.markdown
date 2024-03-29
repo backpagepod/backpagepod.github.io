@@ -1,6 +1,7 @@
 ---
 title: "Episode 113: The Best Games of 2014"
 date:   2023-01-27 09:00:00 +0000
+excerpt: "Two top 10 lists from 2014. Expect a mixture of mag recollections and deep analysis of the games that mattered."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

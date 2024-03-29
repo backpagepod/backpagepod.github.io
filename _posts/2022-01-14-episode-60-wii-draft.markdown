@@ -1,6 +1,7 @@
 ---
 title: "Episode 60: The Nintendo Wii Draft"
 date:   2022-01-14 09:00:00 +0000
+excerpt: "Matthew and Samuel compete to pick the 10 best Wii games."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

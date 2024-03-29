@@ -1,6 +1,7 @@
 ---
 title: "PC Gaming Classics Episode 2: Blade Runner"
 date:   2022-12-19 09:00:00 +0000
+excerpt: "Westwood's Blade Runner adventure game comes under the spotlight."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

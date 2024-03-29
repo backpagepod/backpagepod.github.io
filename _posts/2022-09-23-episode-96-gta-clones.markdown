@@ -1,6 +1,7 @@
 ---
 title: "Episode 96: GTA Clones on Trial"
 date:   2022-09-23 09:00:00 +0000
+excerpt: "From The Getaway to Sleeping Dogs, this week Judge Matthew Castle puts the open world games that followed in GTA 3's wake on trial."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

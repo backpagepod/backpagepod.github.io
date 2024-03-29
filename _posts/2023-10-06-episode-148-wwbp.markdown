@@ -1,6 +1,7 @@
 ---
 title: "Episode 148: What We've Been Playing (Cyberpunk 2077: Phantom Liberty, Assassin's Creed Mirage, Resi 4: Separate Ways, Cocoon)"
 date:   2023-10-06 09:00:00 +0000
+excerpt: "We've firmly entered silly season, and Matthew has finished Cyberpunk 2077: Phantom Liberty. Does it change his take on the CD Projekt RED FPS/RPG?"
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

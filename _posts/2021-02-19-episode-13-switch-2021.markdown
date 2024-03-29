@@ -1,6 +1,7 @@
 ---
 title: "Episode 13: The big Nintendo Switch games of 2021"
 date:   2021-02-19 09:00:00 +0000
+excerpt: "Definitely not just an excuse to hear some more of Matthew's great Nintendo thoughts and anecdotes."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

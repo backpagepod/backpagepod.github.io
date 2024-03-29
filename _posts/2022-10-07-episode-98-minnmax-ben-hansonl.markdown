@@ -1,6 +1,7 @@
 ---
 title: "Episode 98: From MinnMax to Game Informer (with Ben Hanson)"
 date:   2022-10-07 09:00:00 +0000
+excerpt: "We're joined by Ben Hanson of MinnMax on this episode, who shares a bunch of great stories from his many years making videos."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

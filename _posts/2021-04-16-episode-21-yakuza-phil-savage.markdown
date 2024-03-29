@@ -1,6 +1,7 @@
 ---
 title: "Episode 21: The Best Yakuza Games (with Phil Savage)"
 date:   2021-04-16 09:00:00 +0000
+excerpt: "Phil Savage joins us for a Yakuza-themed special episode."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

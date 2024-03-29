@@ -1,6 +1,7 @@
 ---
 title: "Episode 22: Game Review Scores We Got Right"
 date:   2021-04-22 09:00:00 +0000
+excerpt: "It's two men, getting defensive about old review scores. What makes a better podcast than that?"
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

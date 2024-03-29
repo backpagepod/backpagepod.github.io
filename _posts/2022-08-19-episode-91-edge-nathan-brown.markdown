@@ -1,6 +1,7 @@
 ---
 title: "Episode 91: From Edge to Hit Points (with Nathan Brown)"
 date:   2022-08-19 09:00:00 +0000
+excerpt: "Hear what goes into an Edge 10, as well as thoughts on Destiny, E3, Street Fighter and the world of videogame consulting."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

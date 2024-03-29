@@ -1,6 +1,7 @@
 ---
 title: "Episode 117: The Wii U Hall of Fame (with Ashley Day)"
 date:   2023-02-24 09:00:00 +0000
+excerpt: "Our task this week is to construct a 10-game hall of fame (or perhaps hall of infamy?) for the Nintendo Wii U."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

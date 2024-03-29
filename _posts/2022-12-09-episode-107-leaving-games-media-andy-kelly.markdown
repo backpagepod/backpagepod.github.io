@@ -1,6 +1,7 @@
 ---
 title: "Episode 107: Leaving Games Media (with Andy Kelly)"
 date:   2022-12-09 09:00:00 +0000
+excerpt: "Andy Kelly is back to discuss his exit from games media after 18 years – and to share eight review scores he got slightly wrong."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

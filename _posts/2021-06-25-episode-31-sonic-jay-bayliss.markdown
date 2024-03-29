@@ -1,6 +1,7 @@
 ---
 title: "Episode 31: The Best Sonic Games (with Jay Baylis)"
 date:   2021-06-25 09:00:00 +0000
+excerpt: "Please don't unsubscribe!"
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

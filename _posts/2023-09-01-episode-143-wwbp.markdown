@@ -1,6 +1,7 @@
 ---
 title: "Episode 143: What We've Been Playing (Sea of Stars, Armored Core 6, My House, Dredge)"
 date:   2023-09-01 09:00:00 +0000
+excerpt: "Matthew has played 10 hours of Sea of Stars, so we discuss that, the Doom mod My House, Armored Core 6, Paranormasight and Dredge."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

@@ -1,6 +1,7 @@
 ---
 title: "XL Episode 20: Best and Worst Console Launches"
 date:   2023-11-13 09:00:00 +0000
+excerpt: "Judge Castle rules on the best and worst console launches, starting with the PSone and ending with the PS5. That's 20 in total!"
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

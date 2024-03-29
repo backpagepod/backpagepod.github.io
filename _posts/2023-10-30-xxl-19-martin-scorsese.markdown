@@ -1,6 +1,7 @@
 ---
 title: "XXL Episode 19: Top 10 Martin Scorsese Movies"
 date:   2023-10-30 09:00:00 +0000
+excerpt: "Two Giant Men turn Two Giant Film Bros in this list of Marty's top 10 movies. Apologies in advance."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

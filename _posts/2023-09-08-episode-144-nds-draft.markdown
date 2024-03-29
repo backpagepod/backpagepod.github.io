@@ -1,6 +1,7 @@
 ---
 title: "Episode 144: The Nintendo DS Draft"
 date:   2023-09-08 09:00:00 +0000
+excerpt: "Matthew and Samuel compete to pick the 15 best Nintendo DS games – after an extremely long preamble."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

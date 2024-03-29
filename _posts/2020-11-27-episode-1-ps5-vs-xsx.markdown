@@ -1,6 +1,7 @@
 ---
 title: "Episode 1: PS5 vs Xbox Series X"
 date:   2020-11-27 09:00:00 +0000
+excerpt: "Two next-generation consoles just launched."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

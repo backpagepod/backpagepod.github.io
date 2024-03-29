@@ -1,6 +1,7 @@
 ---
 title: "Episode 64: The Game Pass Competitor Draft"
 date:   2022-02-11 09:00:00 +0000
+excerpt: "Matthew Castle Productions and Big Sammy Holdings are each taking on Game Pass. Who built the best gaming subscription service?"
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

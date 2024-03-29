@@ -1,6 +1,7 @@
 ---
 title: "Episode 88: Xenoblade Chronicles Special"
 date:   2022-07-30 09:00:00 +0000
+excerpt: "Katharine Castle rejoins us to discuss the Xenoblade Chronicles series in enormous detail."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

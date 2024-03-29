@@ -1,6 +1,7 @@
 ---
 title: "Episode 149: The Best Games of 2001"
 date:   2023-10-13 09:00:00 +0000
+excerpt: "From GTA 3 to Silent Hill 2, 2001 was one of the best years in the history of games. We also share many pointless details of our mixed fortunes as teenagers."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

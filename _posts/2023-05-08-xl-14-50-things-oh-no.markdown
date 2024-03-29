@@ -1,6 +1,7 @@
 ---
 title: "XL Episode 14: 50 Things In Games That Make Us Go 'Oh No'"
 date:   2023-05-08 09:00:00 +0000
+excerpt: "A catalogue of petty grievances from your two hosts, most of which are far too incidental to be taken seriously."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

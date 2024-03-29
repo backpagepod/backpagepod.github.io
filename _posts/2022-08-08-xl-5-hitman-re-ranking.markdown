@@ -1,6 +1,7 @@
 ---
 title: "XL Episode 5: The Hitman Re-Ranking"
 date:   2022-08-08 09:00:00 +0000
+excerpt: "We rank all 22 levels in the Hitman World of Assassination Trilogy."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

@@ -1,6 +1,7 @@
 ---
 title: "XXL Episode 9: Best TV Shows of 2022"
 date:   2022-12-30 09:00:00 +0000
+excerpt: "Two top 10 lists of our favourite TV shows from 2022. "
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

@@ -1,6 +1,7 @@
 ---
 title: "Episode 3: James Bond games, from GoldenEye to IO Interactive"
 date:   2020-12-11 09:00:00 +0000
+excerpt: "IO Interactive: nobody does it better?"
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

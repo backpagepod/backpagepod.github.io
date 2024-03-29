@@ -1,6 +1,7 @@
 ---
 title: "Episode 51: Metal Gear Solid 2 Turns 20 (with Rich Stanton)"
 date:   2021-11-12 09:00:00 +0000
+excerpt: "Rich Stanton joins us to discuss the game's themes and legacy as a PS2 classic."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

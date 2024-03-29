@@ -1,6 +1,7 @@
 ---
 title: "PC Gaming Classics Episode 5: Jurassic Park: Trespasser"
 date:   2023-03-20 09:00:00 +0000
+excerpt: "Jeremy and Phil stretch the definition of 'classic' to its limit in this episode, which explores the flawed but fascinating Jurassic  Park: Trespasser."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

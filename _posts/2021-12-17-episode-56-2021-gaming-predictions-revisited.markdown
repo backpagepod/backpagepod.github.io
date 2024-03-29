@@ -1,6 +1,7 @@
 ---
 title: "Episode 56: 2021 Gaming Predictions Revisited"
 date:   2021-12-17 09:00:00 +0000
+excerpt: "We put ourselves on trial, discussing everything from N64 games on Switch to PS5 haptics."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

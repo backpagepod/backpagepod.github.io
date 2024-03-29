@@ -1,6 +1,7 @@
 ---
 title: "XXL Episode 18: Matthew Is Back On His Asian Crime Fiction Bullshit"
 date:   2023-09-25 09:00:00 +0000
+excerpt: "Matthew delves back into the subject he's most passionate about: Asian crime fiction. Except this time he expands the remit to thrillers, and even sci-fi!"
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

@@ -1,6 +1,7 @@
 ---
 title: "Episode 169: Two Giant Men Play Final Fantasy 7 Rebirth"
 date:   2024-03-15 09:00:00 +0000
+excerpt: "Matthew played 70 hours of FF7 Rebirth, while Samuel played a measly 14 hours. How's it going so far?"
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

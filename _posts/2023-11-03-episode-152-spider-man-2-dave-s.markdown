@@ -1,6 +1,7 @@
 ---
 title: "Episode 152: Three Giant Men Play Spider-Man 2 (with Dave Scarborough)"
 date:   2023-11-03 09:00:00 +0000
+excerpt: "A deep dive on the year's biggest PlayStation game with Dave Scarborough, sometime features editor of gamesTM."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

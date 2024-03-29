@@ -1,6 +1,7 @@
 ---
 title: "Episode 156: Two Giant Men Play Final Fantasy 7 (Disc 1)"
 date:   2023-12-01 09:00:00 +0000
+excerpt: "It's Matthew's first time through the original Final Fantasy 7."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

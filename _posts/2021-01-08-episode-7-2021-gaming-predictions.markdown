@@ -1,6 +1,7 @@
 ---
 title: "Episode 7: 21 wild gaming predictions about 2021"
 date:   2021-01-08 09:00:00 +0000
+excerpt: "It's all based on very few facts."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

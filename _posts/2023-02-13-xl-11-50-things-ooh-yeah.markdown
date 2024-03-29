@@ -1,6 +1,7 @@
 ---
 title: "XL Episode 11: 50 Things That Make Us Go 'Ooh Yeah!' in Video Games"
 date:   2023-02-13 09:00:00 +0000
+excerpt: "On this silly episode of the podcast, we each throw in 25 things that satisfy us in games."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

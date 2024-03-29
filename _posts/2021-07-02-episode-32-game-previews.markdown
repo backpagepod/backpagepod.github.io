@@ -1,6 +1,7 @@
 ---
 title: "Episode 32: Games Previews...From Hell!"
 date:   2021-07-02 09:00:00 +0000
+excerpt: "How do you write about a game that's not actually finished yet?"
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

@@ -1,6 +1,7 @@
 ---
 title: "Episode 95: The Lucasarts Adventure Games Hall of Fame (with Ashley Day)"
 date:   2022-09-16 09:00:00 +0000
+excerpt: "We try to boil down the complete library of Lucasarts adventure games into five representative titles."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

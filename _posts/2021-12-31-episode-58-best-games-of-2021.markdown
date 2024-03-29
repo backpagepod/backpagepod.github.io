@@ -1,6 +1,7 @@
 ---
 title: "Episode 58: The Best Games of 2021"
 date:   2021-12-31 09:00:00 +0000
+excerpt: "Our GOTY episode is here!"
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

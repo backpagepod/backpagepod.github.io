@@ -1,6 +1,7 @@
 ---
 title: "Episode 25: The Mass Effect Trilogy and the Best Companions"
 date:   2021-05-14 09:00:00 +0000
+excerpt: "We're revisiting the original Mass Effect trilogy in this episode."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

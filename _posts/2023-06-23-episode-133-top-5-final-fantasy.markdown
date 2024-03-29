@@ -1,6 +1,7 @@
 ---
 title: "Episode 133: Top 5 Final Fantasy Games"
 date:   2023-06-23 09:00:00 +0000
+excerpt: "Samuel and Matthew revisit the classic Square Enix/Squaresoft RPG series this week. Well, the bits they know about, anyway."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

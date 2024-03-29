@@ -1,6 +1,7 @@
 ---
 title: "Episode 18: Mailbag"
 date:   2021-03-26 09:00:00 +0000
+excerpt: "It's about 30 minutes longer than it should be."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

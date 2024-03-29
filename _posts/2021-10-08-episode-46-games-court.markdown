@@ -1,6 +1,7 @@
 ---
 title: "Episode 46: Bad eBay Games Court – Listener Edition"
 date:   2021-10-08 09:00:00 +0000
+excerpt: "Who will live and who will die?"
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

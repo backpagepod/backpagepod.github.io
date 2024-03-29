@@ -1,6 +1,7 @@
 ---
 title: "Episode 65: Xbox Through The Years (with Jon Hicks)"
 date:   2022-02-18 09:00:00 +0000
+excerpt: "Jon Hicks, formerly of Official Xbox Magazine, joins us to revisit the 360 era."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

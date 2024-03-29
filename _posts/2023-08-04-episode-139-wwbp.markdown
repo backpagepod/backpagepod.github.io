@@ -1,6 +1,7 @@
 ---
 title: "Episode 139: What We've Been Playing (Exoprimal, Pikmin 4, The Expanse: A Telltale Series)"
 date:   2023-08-04 09:00:00 +0000
+excerpt: "A simple but cheerful 'what we've been playing' joint this week, featuring Exoprimal, Telltale's comeback game The Expanse, 1998's Parasite Eve and Pikmin 4."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

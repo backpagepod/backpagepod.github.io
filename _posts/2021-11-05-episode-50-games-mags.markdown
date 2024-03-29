@@ -1,6 +1,7 @@
 ---
 title: "Episode 50: How Games Magazines Get Made"
 date:   2021-11-05 09:00:00 +0000
+excerpt: "Matthew and Samuel talk through the entire process of making a games magazine from start to finish."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

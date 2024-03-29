@@ -1,6 +1,7 @@
 ---
 title: "Episode 141: The Best Games of 2016"
 date:   2023-08-18 09:00:00 +0000
+excerpt: "We count down the best games of 2016, a year that brought good news for everyone! Except Microsoft. And Nintendo."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

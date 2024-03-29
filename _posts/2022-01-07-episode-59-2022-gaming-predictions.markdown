@@ -1,6 +1,7 @@
 ---
 title: "Episode 59: 22 Bold Gaming Predictions About 2022"
 date:   2022-01-07 09:00:00 +0000
+excerpt: "11 predictions for the year ahead in gaming, all based on absolutely no information whatsoever."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

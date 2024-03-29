@@ -1,6 +1,7 @@
 ---
 title: "Episode 112: Games Court 2023"
 date:   2023-01-20 09:00:00 +0000
+excerpt: "Our most interminable podcast format, Games Court, returns! Sorry again for the continued existence of Games Court."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

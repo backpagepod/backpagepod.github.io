@@ -1,6 +1,7 @@
 ---
 title: "Episode 126: How To Make A Video Game (with Jay Baylis)"
 date:   2023-05-05 09:00:00 +0000
+excerpt: "Monster collecting RPG Cassette Beasts just launched! To celebrate, returning pod guest Jay Baylis talks us through the creation of the game."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

@@ -1,6 +1,7 @@
 ---
 title: "Episode 123: The Best Star Wars Games"
 date:   2023-04-14 09:00:00 +0000
+excerpt: "Samuel assembles a power ranking of the video games based on the Star Wars movies, and Matthew politely humours him for two hours."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

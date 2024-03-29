@@ -1,6 +1,7 @@
 ---
 title: "Episode 87: The Best Games of 2013"
 date:   2022-07-22 09:00:00 +0000
+excerpt: "Two top 10 lists of the best games of 2013, in our usual style."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

@@ -1,6 +1,7 @@
 ---
 title: "Episode 27: The Game Developer Draft"
 date:   2021-05-28 09:00:00 +0000
+excerpt: "Matthew and Samuel can each pick 6 game developers to build a new publisher."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

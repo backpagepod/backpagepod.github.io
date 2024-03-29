@@ -1,6 +1,7 @@
 ---
 title: "Episode 111: 23 Wild Gaming Predictions About 2023"
 date:   2023-01-13 09:00:00 +0000
+excerpt: "From Indiana Jones to a Nintendo Switch successor, it's time for 23 more ridiculous predictions founded on no basis of fact whatsoever."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

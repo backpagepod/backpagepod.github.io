@@ -1,6 +1,7 @@
 ---
 title: "XL Episode 1: Best Boss Battles"
 date:   2022-04-03 09:00:00 +0000
+excerpt: "We dig in to what makes a classic encounter with a boss."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

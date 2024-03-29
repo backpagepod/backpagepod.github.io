@@ -1,6 +1,7 @@
 ---
 title: "Episode 52: The Best Games of 2011 (except Dark Souls)"
 date:   2021-11-19 09:00:00 +0000
+excerpt: "A year that brought us Batman: Arkham City, Skyrim and The Legend of Zelda: Skyward Sword."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

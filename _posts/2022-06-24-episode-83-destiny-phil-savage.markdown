@@ -1,6 +1,7 @@
 ---
 title: "Episode 83: Why Destiny is Good (with Phil Savage)"
 date:   2022-06-24 09:00:00 +0000
+excerpt: "Hate Destiny? Fair enough! You may still enjoy the first 24 minutes of this podcast."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

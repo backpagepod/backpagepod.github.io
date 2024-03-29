@@ -1,6 +1,7 @@
 ---
 title: "Episode 39: Games Magazine Rivalries (with Dan Dawkins)"
 date:   2021-08-20 09:00:00 +0000
+excerpt: "Dan Dawkins joins us to discuss his long history in games media."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

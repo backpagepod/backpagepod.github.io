@@ -1,6 +1,7 @@
 ---
 title: "PC Gaming Classics Episode 3: Fallout"
 date:   2023-01-23 09:00:00 +0000
+excerpt: "Jeremy and Phil tackle 1997's Fallout, arguably the most important PC RPG of that decade."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

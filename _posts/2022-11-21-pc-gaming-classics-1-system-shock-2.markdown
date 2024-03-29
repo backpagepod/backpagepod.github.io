@@ -1,6 +1,7 @@
 ---
 title: "PC Gaming Classics Episode 1: System Shock 2"
 date:   2022-11-21 09:00:00 +0000
+excerpt: "Irrational's classic sci-fi horror immersive sim System Shock 2."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

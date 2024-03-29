@@ -1,6 +1,7 @@
 ---
 title: "Episode 162: Top 10 Sega Games (with Ashley Day)"
 date:   2024-01-26 09:00:00 +0000
+excerpt: "Returning guest Ashley Day tells us about his love of the Sega Saturn, then gives us his ten favourite Sega games of all time."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

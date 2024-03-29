@@ -1,6 +1,7 @@
 ---
 title: "Episode 85: What We've Been Playing (July 2022)"
 date:   2022-07-08 09:00:00 +0000
+excerpt: "Xenoblade Chronicles 3, Hyrule Warriors: Age of Calamity, Sniper Elite 5 and TMNT: Shredder's Revenge are discussed."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

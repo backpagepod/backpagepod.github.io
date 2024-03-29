@@ -1,6 +1,7 @@
 ---
 title: "Episode 80: Top 5 Dreamcast Games (with Andy Kelly)"
 date:   2022-06-02 09:00:00 +0000
+excerpt: "Andy Kelly joins us to discuss his love of Sega's Dreamcast, and his new Alien: Isolation book, Perfect Organism."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

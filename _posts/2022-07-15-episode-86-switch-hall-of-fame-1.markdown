@@ -1,6 +1,7 @@
 ---
 title: "Episode 86: The Nintendo Switch Games Hall of Fame Vol. 1"
 date:   2022-07-15 09:00:00 +0000
+excerpt: "We undertake another grand project: building a library of the very best games for the Nintendo Switch."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

@@ -1,6 +1,7 @@
 ---
 title: "XXL Episode 5: 20 Thriller Movies We'd Recommend To Anyone"
 date:   2022-08-29 09:00:00 +0000
+excerpt: "Everything from Blow Out to Christopher Nolan's Insomnia gets a namecheck in this genre-centric episode."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

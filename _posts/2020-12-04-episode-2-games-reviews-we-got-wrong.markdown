@@ -1,6 +1,7 @@
 ---
 title: "Episode 2: Game Review Scores We Got Wrong"
 date:   2020-12-04 09:00:00 +0000
+excerpt: "What goes into awarding a game a 7/10 review score? And what happens when you get it wrong?"
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

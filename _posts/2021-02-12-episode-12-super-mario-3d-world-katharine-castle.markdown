@@ -1,6 +1,7 @@
 ---
 title: "Episode 12: Super Mario 3D World – the best 3D Mario game? (with Katharine Castle)"
 date:   2021-02-12 09:00:00 +0000
+excerpt: "Is it better than Galaxy? Definitely not. Odyssey? Nope. But it is still pretty great."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

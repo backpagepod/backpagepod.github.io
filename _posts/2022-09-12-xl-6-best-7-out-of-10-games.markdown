@@ -1,6 +1,7 @@
 ---
 title: "XL Episode 6: Best 7/10 Games"
 date:   2022-09-12 09:00:00 +0000
+excerpt: "In this episode, we boil down the idea of what a 7/10 game is, making it far more confusing than it really should be."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

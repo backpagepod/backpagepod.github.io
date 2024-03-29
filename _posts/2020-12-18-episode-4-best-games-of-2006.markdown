@@ -1,6 +1,7 @@
 ---
 title: "Episode 4: The Best Games of 2006"
 date:   2020-12-18 09:00:00 +0000
+excerpt: "From Twilight Princess to Gears of War."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

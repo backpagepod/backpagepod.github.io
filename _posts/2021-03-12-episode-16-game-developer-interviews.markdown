@@ -1,6 +1,7 @@
 ---
 title: "Episode 16: Game Developer Interviews...From Hell!"
 date:   2021-03-12 09:00:00 +0000
+excerpt: "Interviewing the people who make games. Are we good at it?"
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

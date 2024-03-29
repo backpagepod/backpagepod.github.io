@@ -1,6 +1,7 @@
 ---
 title: "Episode 108: The RPG Companions Draft"
 date:   2022-12-16 09:00:00 +0000
+excerpt: "We each try to assemble the 'dream' RPG party across 14 categories. Predictably, we each created nightmares instead."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

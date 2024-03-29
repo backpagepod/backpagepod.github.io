@@ -1,6 +1,7 @@
 ---
 title: "Episode 29: Does E3 Still Matter? (with Keza MacDonald)"
 date:   2021-06-11 09:00:00 +0000
+excerpt: "Keza MacDonald kindly joins us on this episode to discuss her long career, and whether E3 still matters in 2021."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

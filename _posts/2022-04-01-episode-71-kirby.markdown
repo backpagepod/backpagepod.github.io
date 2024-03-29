@@ -1,6 +1,7 @@
 ---
 title: "Episode 71: The Best Kirby Games"
 date:   2022-04-01 09:00:00 +0000
+excerpt: "The top 5 Kirby games, and detailed thoughts on Kirby and the Forgotten Land for Nintendo Switch."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

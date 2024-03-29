@@ -1,6 +1,7 @@
 ---
 title: "Episode 74: Max Payne 1-3 Revisited"
 date:   2022-04-22 09:00:00 +0000
+excerpt: "Hopefully you'll agree we do Max justice."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

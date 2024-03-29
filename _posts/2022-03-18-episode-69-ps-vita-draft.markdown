@@ -1,6 +1,7 @@
 ---
 title: "Episode 69: The PS Vita Draft"
 date:   2022-03-18 09:00:00 +0000
+excerpt: "Matthew and Samuel compete to build the best library for Sony's fan-favourite handheld device."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

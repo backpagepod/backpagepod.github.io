@@ -1,6 +1,7 @@
 ---
 title: "Episode 41: Bad eBay Games Court – The Retrial"
 date:   2021-09-03 09:00:00 +0000
+excerpt: "Judge Matthew Castle will decide if defendant Samuel Roberts lives or dies."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

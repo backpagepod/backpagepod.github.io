@@ -1,6 +1,7 @@
 ---
 title: "Episode 63: What We've Been Playing (February 2022)"
 date:   2022-02-04 09:00:00 +0000
+excerpt: "Dying Light 2, Windjammers 2, Resident Evil 4 VR, NEO: The World Ends With You and more."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

@@ -1,6 +1,7 @@
 ---
 title: "XXL Episode 1: Japanese Crime Fiction – A 101"
 date:   2022-04-25 09:00:00 +0000
+excerpt: "Matthew offers a beginner's guide to one of his enduring obsessions: Japanese crime fiction."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

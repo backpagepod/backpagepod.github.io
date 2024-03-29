@@ -1,6 +1,7 @@
 ---
 title: "Episode 26: The Best Detective Games (with Andy Kelly)"
 date:   2021-05-21 09:00:00 +0000
+excerpt: "What makes a great detective game?"
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

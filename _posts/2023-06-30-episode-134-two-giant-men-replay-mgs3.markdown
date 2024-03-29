@@ -1,6 +1,7 @@
 ---
 title: "Episode 134: Two Giant Men Replay Metal Gear Solid 3: Snake Eater"
 date:   2023-06-30 09:00:00 +0000
+excerpt: "Two large gentlemen replay MGS3 and discuss where the upcoming remake could make improvements. Then, we rank the bosses of this all-time classic."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

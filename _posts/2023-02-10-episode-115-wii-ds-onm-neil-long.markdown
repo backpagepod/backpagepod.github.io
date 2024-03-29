@@ -1,6 +1,7 @@
 ---
 title: "Episode 115: The Wii and DS Years of Official Nintendo Magazine (with Neil Long)"
-date:   2023-02-24 09:00:00 +0000
+date:   2023-02-10 09:00:00 +0000
+excerpt: "Former ONM editor and Mobilegamer.biz founder Neil Long is this week's guest."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

@@ -1,6 +1,7 @@
 ---
 title: "XXL Episode 10: 30 Comic Books That Are Worth Reading"
 date:   2023-01-30 09:00:00 +0000
+excerpt: "Samuel babbles about comics for two hours and Matthew politely tolerates him."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

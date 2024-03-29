@@ -1,6 +1,7 @@
 ---
 title: "XL Episode 15: The Best Video Game Boss Battles Volume 2: The Surprise Second Health Bar"
 date:   2023-06-12 09:00:00 +0000
+excerpt: "We dive deeper into the subject of our very first Patreon episode this month, highlighting more of our favourite bosses."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

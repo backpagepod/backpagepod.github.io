@@ -1,6 +1,7 @@
 ---
 title: "Episode 82: Top 10 Most Anticipated Games"
 date:   2022-06-17 09:00:00 +0000
+excerpt: "We count down our 10 personal most anticipated games, based on whatever E3 was this year."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

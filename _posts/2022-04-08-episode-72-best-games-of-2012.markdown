@@ -1,6 +1,7 @@
 ---
 title: "Episode 72: The Best Games of 2012"
 date:   2022-04-08 09:00:00 +0000
+excerpt: "Two top 10 lists of the best games of 2012, in our usual style. Enjoy!"
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

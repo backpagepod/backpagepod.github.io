@@ -1,6 +1,7 @@
 ---
 title: "Episode 40: The Indie Games Hall of Fame Vol 1 (with Katharine Castle)"
 date:   2021-08-27 09:00:00 +0000
+excerpt: "Plus: another baffling listener question about Yuji Naka."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode

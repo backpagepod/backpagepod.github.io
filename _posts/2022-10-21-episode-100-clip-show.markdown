@@ -1,6 +1,7 @@
 ---
 title: "Episode 100: Clip Show"
 date:   2022-10-21 09:00:00 +0000
+excerpt: "It's a clip show. Enjoy the clips."
 excerpt_separator: "<!--more-->"
 categories:
 - Episode
