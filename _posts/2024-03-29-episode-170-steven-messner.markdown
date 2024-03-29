@@ -20,3 +20,7 @@ tags:
 </figure>
 
 [Retrododo interview with Samuel](https://retrododo.com/lets-talk-retro-samuel-roberts/)
+
+<figure>
+    <img src="/assets/images/assassination.jpeg" alt="Assassination">
+</figure>
