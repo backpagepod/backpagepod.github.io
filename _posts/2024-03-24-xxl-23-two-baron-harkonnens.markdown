@@ -18,6 +18,18 @@ tags:
     <figcaption>Image Credit: Suchuu</figcaption>
 </figure>
 <figure>
+    <img src="/assets/images/leto-1.jpeg" alt="Leto">
+    <figcaption>coyg: tfw you are called upon to edit Official Xbox Magazine in the mid 2010s</figcaption>
+</figure>
+<figure>
+    <img src="/assets/images/leto-2.jpeg" alt="Leto">
+    <figcaption>Image Credit: Luke Summerhayes</figcaption>
+</figure>
+<figure>
+    <img src="/assets/images/harkonnen-gift.jpeg" alt="Harkonnen Gift">
+    <figcaption>TABBDL: When you're told they had to recall the free giveaway because it was too dangerous</figcaption>
+</figure>
+<figure>
     <img src="/assets/images/harkonnen-1.jpeg" alt="Harkonnen">
 </figure>
 <figure>
