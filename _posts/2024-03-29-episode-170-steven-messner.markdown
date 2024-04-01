@@ -22,6 +22,8 @@ tags:
 
 [Retrododo interview with Samuel](https://retrododo.com/lets-talk-retro-samuel-roberts/)
 
+[The Boneless Steve Story](https://www.pcgamer.com/how-one-mistake-turned-eve-onlines-deadliest-hunters-into-corpses/)
+
 <figure>
     <img src="/assets/images/assassination.jpeg" alt="Assassination">
 </figure>
