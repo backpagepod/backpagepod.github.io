@@ -58,5 +58,8 @@ tags:
 <figure>
     <img src="/assets/images/dogma-12.jpeg" alt="Dogma">
 </figure>
+<figure>
+    <img src="/assets/images/dogma-13.jpeg" alt="Dogma">
+</figure>
 
-[Samuel encouraging his friends to fire on each other for no reason right as one was getting into the drop ship](https://x.com/anjalimandalia/status/1776178967969505626)
+[Samuel encouraging his friends to fire on each other for no reason right as one was getting into the dropship](https://x.com/anjalimandalia/status/1776178967969505626)
