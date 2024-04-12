@@ -48,7 +48,7 @@ tags:
 10. Call of Duty
 9. Castlevania: Aria of Sorrow
 8. WarioWare, Inc.: Minigame Mania
-7. Skies of Arcadia
+7. Skies of Arcadia Legends
 6. Manhunt
 5. Viewtiful Joe
 4. Max Payne 2: The Fall of Max Payne
