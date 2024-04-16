@@ -63,21 +63,21 @@ tags:
 
 # Timestamps
 
-- 0:03:12 - What Matthew was doing in 2006. End of uni, job in NGamer. Lots of eating ice cream and Smallville in between the two.
+- 0:03:12 - What Matthew was doing in 2006. End of Uni, job in NGamer. Lots of eating ice cream and Smallville in between the two.
 - 0:07:31 - Matthew playing COD 2 on Xbox 360 instead of revising.
 - 0:12:07 - What Samuel was doing in 2006. Just finished A levels. Didn't do well,  Dynasty Warriors is to blame. Also watched Smallville.
-- 0:15:40 - 7 headlines in 2006. Big E3; PS4 and Wii launched, GTA 4 exclusive bits to Xbox.
+- 0:15:40 - 7 headlines in 2006. Big E3; PS4 and Wii launched, GTAIV exclusive bits to Xbox.
 - 0:19:12 - Second announcement, Huge PS3 price announced. Lads talk about the consoles they had at the time. Matthew got a PS3 when the slim version came out. Samuel got a 360 early on.
 - 0:23:11 - Nintendo at E3 - Miyamoto on stage being a conductor.
 - 0:25:27 - DS Lite came out this year. Matthew bought one as soon as he got his job at NGamer.
-- 0:27:17 - Big year for Final Fantasy. XIII revealed 2006, comes out 2009/2010. Versus 13 was revealed in 2006, becoming Final Fantasy XV a decade later. Type 0 on PSP revealed, comes out 2010.
+- 0:27:17 - Big year for Final Fantasy. XIII revealed 2006, comes out 2009/2010. Versus XIII was revealed in 2006, becoming Final Fantasy XV a decade later. Type-0 on PSP revealed, comes out 2010.
 - 0:29:20 - Capcom close Clover studio. Made God Hand and Okami.
 - 0:40:08 - Matthew not being much of a rock fan, ended up liking a lot of the music in Guitar Hero 2. Bought a best of Cheap Trick after playing.
 - 0:50:03 - Matthew asked for Tomb Raider on PC for his birthday, but couldn't finish the first level due to controls.
-- 1:02:26 - First mention of Matthews PSP being stolen.
+- 1:02:26 - First mention of Matthew's PSP being stolen.
 - 1:08:31 - The generic Mii character in Wii Sports Boxing looks like Justin Lee Collins, lots of mentions of that in NGamer at the time.
 - 1:21:17 - "3D Mario or bust"
-- 1:25:50 - 3rd Trauma Center game promotional t shirt, which Matthew liked so much the print came off.
+- 1:25:50 - 3rd Trauma Center game promotional T-shirt which Matthew liked so much the print came off.
 - 1:28:58 - What's Dante's business?
 - 1:39:39 - Eurogamer's top 50 games of 2006, laddish tone in print/site.
 - 1:42:37 - Samuel played Animal Crossing in real time all day.

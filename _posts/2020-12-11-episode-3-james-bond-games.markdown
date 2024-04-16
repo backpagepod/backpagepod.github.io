@@ -35,3 +35,9 @@ tags:
 - Sid Meier's Covert Action
 - Hitman (2016)
 - Hitman 2 (2018)
+
+## Timestamps
+
+- 0:03:13 Samuel's opinion on Bond films - a couple of Connery ones, Casino Royale, Skyfall, GoldenEye, The Living Daylights. On Her Majesty's Secret Service is 50/50.
+- 0:05:06 - Matthew extended essay about Bond adaptations (and listening to the theme tune every hour).
+- 0:09:51 - Matthew's friend Mark has a N64 goldeneye party and wishes all parties were like that.

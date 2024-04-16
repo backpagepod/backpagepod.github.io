@@ -32,5 +32,5 @@ tags:
 
 ### Lowest scored games
 
-- Matthew - 1:18:07 - Doki Doki Majo Shinpan! score: No
+- Matthew - 1:18:07 - Doki Doki Majo Shinpan! Score: No
 - Samuel - 1:19:14 - Lord of the Rings Conquest. Score: 1/5 (360)
