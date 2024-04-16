@@ -15,6 +15,8 @@ tags:
 >
 > This week's music is from the Final Fantasy 7 soundtrack by Nobuo Uematsu and the themes of Destiny 2's Prophecy dungeon by Michael Sechrist, Skye Lewin, Michael Salvatori and Josh Mosser.
 
+# Picks
+
 ## Samuel
 
 10. Carrion
@@ -71,3 +73,32 @@ tags:
 ### 2021 best game prediction
 
 - Hitman 3 or theoretically BOTW2
+
+# XL 24 Revisions
+
+## Matthew
+- ❌ Xenoblade Chronicles: Definitive Edition - Absolutely loved, doesn't need to be here
+- ❌ Grindstone
+- ❌ Unto the End
+- ✅ The Last of Us Part II
+- ✅ Final Fantasy 7: Remake
+- ✅ Hades
+- ✅？ Paradise Killer
+
+## Samuel
+
+- ❌ Everything except Mafia: Definitive Edition, Final Fantasy 7: Remake, Doom Eternal and Command and Conquer: Remastered
+- ❌ Carrion
+- ❌ Risk of Rain 2
+- ❌ Sea of Thieves
+- ❌ Star Wars: Squadrons
+- ❌ Apex Legends
+- ❌ Destiny 2
+- ✅ 13 Sentinels: Aegis Rim
+- ✅ Hades
+- ✅ The Last of Us Part II
+- ✅ Ghost of Tsushima
+- ✅ Marvel's Spider-Man: Miles Morales
+- ✅ Cyberpunk 2077
+- ✅？ Yakuza: Like a Dragon
+- ✅ Gears Tactics

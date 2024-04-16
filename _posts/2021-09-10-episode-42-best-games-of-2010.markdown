@@ -15,6 +15,8 @@ tags:
 >
 > This week's music is from the Red Dead Redemption soundtrack by Bill Elm & Woody Jackson, the Halo Reach soundtrack by Marty O'Donnell, the Alan Wake soundtrack by Poets of the Fall and Petri Alanko, and the Super Mario Galaxy 2 soundtrack by Mahito Yokota, Ryo Nagamatsu and Koji Kondo.
 
+# Picks
+
 ## Matthew
 
 - GoldenEye 007 (2010)
@@ -77,3 +79,17 @@ Dark Souls is mentioned at the end of the episode.
 
 ## Lore
 - Gaming gammons
+
+# XL 24 Revisions
+
+## Matthew
+- ✅ God of War III (above Castlevania: Lords of Shadow)
+- ❌ Trauma Team
+- ❌？ Bayonetta
+- ❌？ Red Dead Redemption
+- ✅？ Demon's Souls
+
+## Samuel
+- ❌ Final Fantasy XIII
+- ✅ God of War III (above Vanquish)
+- ❌？ Split/Second: Velocity

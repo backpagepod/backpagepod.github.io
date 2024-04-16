@@ -15,6 +15,8 @@ tags:
 >
 > This week's music is from the Fable 2 soundtrack by Russell Shaw, the No More Heroes soundtrack by the Genki Rockets, and the GTA 4 soundtrack by Michael Hunter.
 
+# Picks
+
 ## Samuel
 
 10. The World Ends with You
@@ -51,7 +53,7 @@ tags:
 4. Professor Layton and the Curious Village
 3. Tomb Raider Underworld
 2. GTA IV
-1. Fable 2
+1. Fable II
 {: reversed="reversed"}
 
 ### Honourable mentions
@@ -61,3 +63,24 @@ tags:
 - God of War: Chains of Olympus
 - Gears of War 2
 - The Witcher: Enhanced Edition
+
+# XL 24 Revisions
+
+## Matthew
+- ❌ Fatal Frame 4: Mask of the Lunar Eclipse - does not hold up
+- ❌？ Super Smash Bros. Brawl
+- ✅ Dead Space
+- ✅？ Shin Megami Tensei: Persona 3
+
+## Samuel
+- ❌ Civilisation Revolution
+- ✅？ Devil May Cry 4
+- ✅？ Wipeout HD
+- ✅ MotorStorm: Pacific Rift
+- ❌？ LittleBigPlanet
+- ⬇️？ Mirror's Edge
+- ⬆️？ Fable II
+- ❌ Pure
+- ❌ Resistance 2
+- ❌？ Star Wars: The Force Unleashed
+- ✅？ God of War: Chains of Olympus

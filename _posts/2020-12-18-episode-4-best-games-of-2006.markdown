@@ -15,6 +15,8 @@ tags:
 >
 > This week's music comes from the Bully soundtrack by Shawn Lee, The Legend of Zelda: Twilight Princess soundtrack by Toru Minegishi, Asuka Ohta and Koji Kondo, and the Rhythm Tengoku soundtrack by Tsunku and Masami Yone.
 
+# Picks
+
 ## Samuel
 
 10. Gears of War
@@ -24,7 +26,7 @@ tags:
 6. Phoenix Wright: Ace Attorney
 5. Devil May Cry 3: Special Edition
 4. Animal Crossing: Wild World
-3. Bully
+3. Canis Canem Edit
 2. Shadow of the Colossus
 1. Metal Gear Solid 3: Subsistence
 {: reversed="reversed"}
@@ -36,14 +38,30 @@ tags:
 8. Psychonauts
 7. Wii Sports
 6. Trauma Centre: Second Opinion
-5. Bully
+5. Canis Canem Edit
 4. Hitman: Blood Money
 3. Rhythm Tengoku
 2. The Legend of Zelda: Twilight Princess
 1. Phoenix Wright: Ace Attorney
 {: reversed="reversed"}
 
-## Timestamps
+# XL 24 Revisions
+
+## Samuel
+- ❌ Metal Gear Solid 3: Subsistence - a cheat, a special edition of a 2005 game?
+- Gears of War - head not heart
+- Kingdom Hearts 2 - heart not head
+- ✅ Hitman: Blood Money - between Kingdom Hearts and Loco Roco
+- ⬆️？ Animal Crossing: Wild World - to number 1?
+
+## Matthew
+- ✅？ Shadow of the Colossus - Was it anti-Ueda schtick? Laying out the stall for Brand Castle?
+- ❌？ Hitman: Blood Money - didn't hold up on recent replay
+- ❌？ Tomb Raider Legend - not as good as Underworld or Tomb Raider: Anniversary
+- ❌？ Guitar Hero 2 - mainly for Surrender by Cheap Trick
+- ✅？ Devil May Cry 3: Special Edition
+
+# Timestamps
 
 - 0:03:12 - What Matthew was doing in 2006. End of uni, job in NGamer. Lots of eating ice cream and Smallville in between the two.
 - 0:07:31 - Matthew playing COD 2 on Xbox 360 instead of revising.

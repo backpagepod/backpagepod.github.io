@@ -19,6 +19,8 @@ tags:
   <img src="/assets/images/filous.jpeg" alt="Filous">
 </figure>
 
+# Picks
+
 ## Samuel
 
 10. Fight Night Round 4
@@ -67,6 +69,26 @@ tags:
 - Madworld
 - Final Fantasy: Crystal Chronicles: The Crystal Bearers
 
-## Lore
+# XL 24 Revisions
+
+## Matthew
+- Might and Magic: Clash of Heroes - only endorsed on DS
+- Little King's Story - locked away happy memory
+- ❌？ Mario and Luigi: Bowser's Inside Story
+- ❌？ Batman: Arkham Asylum
+- ❌？ Assassin's Creed II
+- ✅？ Dragon Age: Origins
+
+## Samuel
+- ✅ Might and Magic: Clash of Heroes
+- Fight Night Round 4 - Correct
+- ⬇️？ Assassin's Creed II
+- ⬆️？ Resident Evil 5
+- ⬆️？ Chrono Trigger (Nintendo DS)
+- ⬇️？ Uncharted 2: Among Thieves
+- ❌？ Infamous
+- ⬆️？ The Beatles: Rock Band
+
+# Lore
 
 The Petits Filous episode

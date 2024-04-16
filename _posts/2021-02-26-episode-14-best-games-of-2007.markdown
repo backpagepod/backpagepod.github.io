@@ -23,6 +23,8 @@ tags:
   <img src="/assets/images/wii-cake.jpeg" alt="Wii Cake">
 </figure>
 
+# Picks
+
 ## Matthew
 
 10. Ghost Squad
@@ -50,3 +52,23 @@ tags:
 2. God Hand
 1. Halo 3
 {: reversed="reversed"}
+
+# XL 24 Revisions
+
+## Matthew
+- Hotel Dusk: Room 215 - Perhaps won't revisit
+- Zack and Wiki: The Quest for Barbaros' Treasure - A locked happy memory
+- Call of Duty 4: Modern Warfare - Head and heart
+- ✅？ The Orange Box
+
+## Samuel
+- God Hand - Ultimate heart pick
+- Halo 3 - Heart and head converge
+- ❌？ Final Fantasy XII - Don't love but respect
+- Crackdown - Heart
+- ❌？ The Orange Box - Head
+- Call of Duty 4: Modern Warfare - Head
+- ⬇️？ ❌？ Mass Effect
+- Uncharted: Drake's Fortune - For then, not for now
+- Bioshock - Head
+- ✅？ The Darkness
