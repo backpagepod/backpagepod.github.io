@@ -17,7 +17,7 @@ tags:
 
 <figure>
     <img src="/assets/images/anatomy-of-a-fall.jpeg" alt="Anatomy of a Fall">
-    <figcaption>Image Credit: RyanPlugsl</figcaption>
+    <figcaption>Image Credit: RyanPlugs</figcaption>
 </figure>
 <figure>
     <img src="/assets/images/anatomy-of-a-fall-1.jpeg" alt="Anatomy of a Fall">
