@@ -9,7 +9,7 @@ tags:
 - XXL
 ---
 
-[Play Episode.](https://www.patreon.com/posts/xxl-episode-15-85116654)
+[Play Episode.](https://www.patreon.com/posts/xxl-episode-14-83687245)
 > From Inside No. 9 to Matthew's beloved Northern Exposure, in this episode we each share 10 TV episodes that we love. Thanks for your support, and cheers to Liam Richardson for the edits!
 
 ### Samuel's episodes:
