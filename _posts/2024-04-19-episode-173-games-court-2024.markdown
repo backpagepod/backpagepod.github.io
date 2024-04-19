@@ -16,6 +16,16 @@ tags:
 > This week's music is 'PIMP' by Bacao Rhythm & Steel Band, as well as the Games Court theme by listener Adam Saucier.
 
 <figure>
+    <img src="/assets/images/anatomy-of-a-fall.jpeg" alt="Anatomy of a Fall">
+    <figcaption>Image Credit: RyanPlugsl</figcaption>
+</figure>
+<figure>
+    <img src="/assets/images/anatomy-of-a-fall-1.jpeg" alt="Anatomy of a Fall">
+</figure>
+<figure>
+    <img src="/assets/images/anatomy-of-a-fall-2.jpeg" alt="Anatomy of a Fall">
+</figure>
+<figure>
     <img src="/assets/images/gladiator.jpeg" alt="Gladiator">
     <figcaption>Image Credit: camp_bell</figcaption>
 </figure>
@@ -55,12 +65,6 @@ tags:
 </figure>
 <figure>
     <img src="/assets/images/castle-island-lore-2.jpeg" alt="Castle Island Lore">
-</figure>
-<figure>
-    <img src="/assets/images/anatomy-of-a-fall-1.jpeg" alt="Anatomy of a Fall">
-</figure>
-<figure>
-    <img src="/assets/images/anatomy-of-a-fall-2.jpeg" alt="Anatomy of a Fall">
 </figure>
 <figure>
     <img src="/assets/images/playstation-truck.jpeg" alt="PlayStation truck">
