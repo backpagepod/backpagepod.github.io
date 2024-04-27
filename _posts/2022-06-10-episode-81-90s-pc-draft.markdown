@@ -29,6 +29,14 @@ gallery:
     image_path: /assets/images/command-and-conquer-draft.png
     alt: "An Arrested Development meme"
     title: "An Arrested Development meme"
+  - url: /assets/images/pc-games-draft-1.jpeg
+    image_path: /assets/images/pc-games-draft-1.jpeg
+    alt: "Image Credit: JackyBoy34"
+    title: "Image Credit: JackyBoy34"
+  - url: /assets/images/pc-games-draft-2.jpeg
+    image_path: /assets/images/pc-games-draft-2.jpeg
+    alt: "Image Credit: JackyBoy34"
+    title: "Image Credit: JackyBoy34"
 ---
 
 [Play Episode.](https://www.patreon.com/posts/episode-81-90s-67590615)

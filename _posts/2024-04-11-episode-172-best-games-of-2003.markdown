@@ -43,6 +43,9 @@ tags:
     <img src="/assets/images/batman-dark-tomorrow.png" alt="Batman">
 </figure>
 
+[TPR's piano covers on Spotify](https://open.spotify.com/artist/6ImfL6wSxqhYl64AbsaNZX)
+
+
 ## Matthew
 
 10. Call of Duty

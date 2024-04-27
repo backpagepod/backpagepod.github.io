@@ -37,6 +37,9 @@ tags:
     <figcaption>Image Credit: NaesLyn</figcaption>
 </figure>
 <figure>
+    <img src="/assets/images/transcription.jpeg" alt="Transcription">
+</figure>
+<figure>
     <img src="/assets/images/samuel-photoshop.jpeg" alt="Samuel Photoshop">
 </figure>
 <figure>
