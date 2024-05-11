@@ -1,0 +1,46 @@
+---
+title: "Episode 176: What We've Been Playing (Stellar Blade, Animal Well, Pepper Grinder, Dark Forces Remaster)"
+date:   2024-05-09 09:00:00 +0000
+excerpt: "Here's what we've been playing lately: Stellar Blade, Animal Well, Octopath Traveler 2, Dark Forces Remaster and Pepper Grinder."
+excerpt_separator: "<!--more-->"
+categories:
+- Episode
+tags:
+- WWBP
+- Regular
+---
+
+[Play Episode.](https://www.patreon.com/posts/episode-176-what-103883134)
+> Here's what we've been playing lately: Stellar Blade, Animal Well, Octopath Traveler 2, Dark Forces Remaster and Pepper Grinder.
+
+- Stellar Blade
+- Animal Well
+- Pepper Grinder
+- Octopath Traveler II
+- Star Wars: Dark Forces Remaster
+
+<figure>
+    <img src="/assets/images/octopath-samuel.jpeg" alt="Octopath Samuel">
+    <figcaption>Octopath Traveler's artist, Naoki Ikushima, draws our host. Samuel says "That's allegedly me with a beer on the left. Tom Senior who's just below me got a much more distinctive one." </figcaption>
+</figure>
+
+<figure>
+    <img src="/assets/images/stellar-blade.jpeg" alt="Stellar Blade">
+</figure>
+
+<figure>
+    <img src="/assets/images/animal-well.jpeg" alt="Animal Well">
+</figure>
+
+<figure>
+    <img src="/assets/images/terrible.jpeg" alt="Terrible">
+</figure>
+
+<figure>
+    <img src="/assets/images/fatomika.jpeg" alt="Fatomika">
+</figure>
+
+<figure>
+    <img src="/assets/images/dogma-14.jpeg" alt="Dogma">
+    <figcaption>Back from his final year at Hogwarts.</figcaption>
+</figure>

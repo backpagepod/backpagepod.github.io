@@ -102,3 +102,17 @@ tags:
 - ✅ Cyberpunk 2077
 - ✅？ Yakuza: Like a Dragon
 - ✅ Gears Tactics
+
+## Timestamps
+
+- 00:01:08 - Samuel: "I'm slightly overweight Boba Fett" 
+- 0:03:50 - Matthew got 'shitcanned' this year, so has had more spare time to play games. First game he played after being made redundant was AAssassin's Creed Syndicate.
+- 00:05:55 - Paris Division 2 press trip. Samuel complained all day about how cold the garage was, and Matthew dealing with heart burn with all the onion pies he was eating.
+- 00:10:12  - Samuel's second-hand purchases begins. LOTR: The Third Age as it's a bit like FFX apparently?
+- 00:25:15 - "The big carrion blob monster also has slighty big exhausted Boba Fett energy ... it's probably why it resonates with you"
+- 00:35:13 - Matthew recalls the horror of asking his wife's parents to buy him Persona 5 Royal for his birthday.
+- 0:37:28 - If Matthew met any of these characters (Persona 5), they'd hate his guts. Might even be a character with a Mind Palace they'd have to cure, themed around heartburn and Rennie.
+- 0:44:25 - Samuel retells a great moment in Sea of Thieves 
+- 1:10:54 - If Matthew was in Yakuza: Like a Dragon, his attacks would be using his satchel spin attack. Mean tweets, bad reviews. 
+- 1:41:00 - Samuel laments the removal of the moving train and party boat in Apex Legends. It was also the turning point of realising he was in too deep.
+- 1:49:22 - "... basically, ever since Nathan Drake patted that fucking ox" the first ox patting mention! Also leads to Matthew slagging off Crash Bandicoot. 

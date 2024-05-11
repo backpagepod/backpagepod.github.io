@@ -18,6 +18,9 @@ tags:
     <img src="/assets/images/anjin.jpeg" alt="Anjin">
 </figure>
 <figure>
+    <img src="/assets/images/nioh.jpeg" alt="Nioh">
+</figure>
+<figure>
     <img src="/assets/images/parkour-menus-1.jpeg" alt="Parkour Menus">
 </figure>
 <figure>
