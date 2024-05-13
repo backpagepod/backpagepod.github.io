@@ -17,6 +17,8 @@ tags:
 > 
 > This week's music is from the Return of the Obra Dinn soundtrack by Lucas Pope.
 
+The game Stuart mentioned but couldn't remember the name of was [Requiem: Avenging Angel](https://en.m.wikipedia.org/wiki/Requiem:_Avenging_Angel).
+
 <figure>
     <img src="/assets/images/hostile-waters.jpeg" alt="Hostile Waters">
 </figure>

@@ -50,9 +50,6 @@ tags:
     <figcaption>Image Credit: RyanPlugs</figcaption>
 </figure>
 <figure>
-    <img src="/assets/images/henman.jpeg" alt="Henman">
-</figure>
-<figure>
     <img src="/assets/images/simpsons-dreamcast.jpeg" alt="Simpsons Dreamcast">
     <figcaption>Image Credit: Daithi</figcaption>
 </figure>
