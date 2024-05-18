@@ -30,6 +30,8 @@ tags:
     <img src="/assets/images/dans-favourite.jpeg" alt="Cheers Chandelier">
     <figcaption>Confirming Eat a Pitta no longer has a guest sauce</figcaption>
 </figure>
+{% include video id="9k7DrIWcrdI" provider="youtube" %}
+He even showed it to him on a PSP. Jail. For life.
 
 ## Playlists
 Compiled by Betamaxbandit.
