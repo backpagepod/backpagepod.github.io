@@ -52,3 +52,12 @@ tags:
 <figure>
     <img src="/assets/images/sega-war-room.jpeg" alt="War room">
 </figure>
+
+<figure>
+    <img src="/assets/images/dreamcast-simpsons-1.jpeg" alt="Dreamcast Simpsons">
+</figure>
+
+<figure>
+    <img src="/assets/images/dreamcast-simpsons-2.jpeg" alt="Dreamcast Simpsons">
+    <figcaption>Image Credit: GGABronco</figcaption>
+</figure>
