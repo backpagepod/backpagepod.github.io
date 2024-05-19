@@ -31,7 +31,7 @@ tags:
     <figcaption>Confirming Eat a Pitta no longer has a guest sauce</figcaption>
 </figure>
 {% include video id="9k7DrIWcrdI" provider="youtube" %}
-He even showed it to him on a PSP. Jail. For life.
+This is the guy who got the MGS theme removed from future games. He even showed it to Kojima on a PSP. Jail. For life.
 
 ## Playlists
 Compiled by Betamaxbandit.
@@ -39,6 +39,8 @@ Compiled by Betamaxbandit.
 [YouTube Track Playlist - 20/20](https://youtube.com/playlist?list=PLlkKx43ObPfruXBbgWw2KNRy2rMlQ2L24)
 
 [Spotify Track Playlist - 14/20](https://spotify.link/wD8ts36jFJb)
+
+[YouTube Album Playlist - 2,472/2,472](https://youtube.com/playlist?list=PLBDD-IyNRnNZ_DuR8gzagLPMW_UAD0yQE)
 
 [Older boys told me about... KH Insider](https://downloads.khinsider.com)
 
