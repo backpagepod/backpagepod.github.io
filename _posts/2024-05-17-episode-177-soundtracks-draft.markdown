@@ -148,9 +148,27 @@ Compiled by Betamaxbandit.
 
 ## Results
 
-**Samuel ?%**
+<figure>
+    <img src="/assets/images/naeslyn-1.jpeg" alt="Naeslyn">
+</figure>
+<figure>
+    <img src="/assets/images/naeslyn-2.jpeg" alt="Naeslyn">
+</figure>
+<figure>
+    <img src="/assets/images/wii-shop.jpeg" alt="Wii Shop">
+</figure>
+<figure>
+    <img src="/assets/images/naeslyn-3.jpeg" alt="Naeslyn">
+</figure>
+<figure>
+    <img src="/assets/images/jan-6.jpeg" alt="Jan 6">
+    <figcaption>Image Credit: FlintPaper577</figcaption>
+</figure>
 
-**Matthew ?%**
 
-(? votes)
+Samuel 40% (56 votes)
+
+**Matthew 60% (84 votes)**
+
+(140 votes)
 

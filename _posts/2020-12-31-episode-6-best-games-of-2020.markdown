@@ -106,7 +106,7 @@ tags:
 ## Timestamps
 
 - 00:01:08 - Samuel: "I'm slightly overweight Boba Fett" 
-- 0:03:50 - Matthew got 'shitcanned' this year, so has had more spare time to play games. First game he played after being made redundant was AAssassin's Creed Syndicate.
+- 0:03:50 - Matthew got 'shitcanned' this year, so has had more spare time to play games. First game he played after being made redundant was Assassin's Creed Syndicate.
 - 00:05:55 - Paris Division 2 press trip. Samuel complained all day about how cold the garage was, and Matthew dealing with heart burn with all the onion pies he was eating.
 - 00:10:12  - Samuel's second-hand purchases begins. LOTR: The Third Age as it's a bit like FFX apparently?
 - 00:25:15 - "The big carrion blob monster also has slighty big exhausted Boba Fett energy ... it's probably why it resonates with you"
