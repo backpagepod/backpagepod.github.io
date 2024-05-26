@@ -14,3 +14,10 @@ tags:
 [Play Episode.](https://www.patreon.com/posts/episode-178-00s-104681551)
 > We each try and guess five mystery games based on snippets from their reviews in '00s games magazines. Feel free to play along! After that, enjoy our considered answers to a whole heap of questions, from the Nintendo Switch 2 to the ideal game based on Thunderbirds.
 
+<figure>
+    <img src="/assets/images/doshin.jpeg" alt="Doshin">
+    <figcaption>Image Credit: NaesLyn</figcaption>
+</figure>
+<figure>
+    <img src="/assets/images/time-travellers.jpeg" alt="Time Travellers">
+</figure>
