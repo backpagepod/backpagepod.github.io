@@ -17,6 +17,13 @@ tags:
 <figure>
     <img src="/assets/images/fury-road.jpeg" alt="Fury Road">
 </figure>
+<figure>
+    <img src="/assets/images/boomerang.jpeg" alt="Boomerang">
+</figure>
+<figure>
+    <img src="/assets/images/fareham.jpeg" alt="Fareham">
+    <figcaption>Image Credit: melmer</figcaption>
+</figure>
 
 ## Rankings
 
