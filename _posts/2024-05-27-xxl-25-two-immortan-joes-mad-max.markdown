@@ -17,3 +17,19 @@ tags:
 <figure>
     <img src="/assets/images/fury-road.jpeg" alt="Fury Road">
 </figure>
+
+## Rankings
+
+5. Mad Max Beyond Thunderdome
+4. Mad Max
+3. Mad Max 2
+2. Mad Max: Fury Road
+1. Furiosa: A Mad Max Saga
+{: reversed="reversed"}
+
+
+## References
+
+[Furiosa directly connects to the Mad Max video game (Nerdist)](https://nerdist.com/article/furiosa-connects-2015-mad-max-video-game/)
+
+[Blood, Sweat & Chrome: The Wild and True Story of Mad Max: Fury Road (Amazon)](https://amzn.eu/d/jbnowkK)
