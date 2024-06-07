@@ -43,16 +43,7 @@ tags:
     <img src="/assets/images/clank-daxter.jpeg" alt="Clank Daxter">
 </figure>
 <figure>
-    <img src="/assets/images/band-camp.jpeg" alt="Band Camp">
-</figure>
-<figure>
     <img src="/assets/images/talk-man.jpeg" alt="Talk Man">
-</figure>
-<figure>
-    <img src="/assets/images/meeper.jpeg" alt="Meeper">
-</figure>
-<figure>
-    <img src="/assets/images/reign-of-fire.jpeg" alt="Reign of Fire">
 </figure>
 <figure>
     <img src="/assets/images/psp-retro-1.jpeg" alt="PSP">
@@ -65,6 +56,12 @@ tags:
 </figure>
 <figure>
     <img src="/assets/images/psp-retro-4.jpeg" alt="PSP">
+</figure>
+<figure>
+    <img src="/assets/images/strider-honourable.jpeg" alt="Honourable Mentions">
+</figure>
+<figure>
+    <img src="/assets/images/perv-box.jpeg" alt="Perv Box">
 </figure>
 
 
