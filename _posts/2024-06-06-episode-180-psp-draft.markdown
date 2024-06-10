@@ -24,6 +24,12 @@ tags:
     <img src="/assets/images/psp-2.jpeg" alt="PSP">
 </figure>
 <figure>
+    <img src="/assets/images/three-hours.jpeg" alt="Three Hours">
+</figure>
+<figure>
+    <img src="/assets/images/darran-matthew.jpeg" alt="Darran Matthew">
+</figure>
+<figure>
     <img src="/assets/images/samuel-psp.jpeg" alt="Samuel's UMDs">
     <figcaption>What remains of Samuel's physical PSP collection.</figcaption>
 </figure>
@@ -46,6 +52,9 @@ tags:
     <img src="/assets/images/talk-man.jpeg" alt="Talk Man">
 </figure>
 <figure>
+    <img src="/assets/images/reign-of-fire.jpeg" alt="Reign of Fire">
+</figure>
+<figure>
     <img src="/assets/images/psp-retro-1.jpeg" alt="PSP">
 </figure>
 <figure>
@@ -57,14 +66,23 @@ tags:
 <figure>
     <img src="/assets/images/psp-retro-4.jpeg" alt="PSP">
 </figure>
+
+<figure>
+    <img src="/assets/images/perv-box.jpeg" alt="Perv Box">
+</figure>
+<figure>
+    <img src="/assets/images/psp-debug.jpeg" alt="PSP Debug">
+    <figcaption>Image Credit: reddit</figcaption>
+</figure>
+<figure>
+    <img src="/assets/images/psp-flat.jpeg" alt="PSP Flat">
+</figure>
 <figure>
     <img src="/assets/images/strider-honourable.jpeg" alt="Honourable Mentions">
 </figure>
 <figure>
-    <img src="/assets/images/perv-box.jpeg" alt="Perv Box">
+    <img src="/assets/images/star-trek.jpeg" alt="Star Trek">
 </figure>
-
-
 
 ## Categories
 
