@@ -16,6 +16,10 @@ tags:
 >
 > This week's music is from the Metal Gear Solid 3: Snake Eater soundtrack by Norihiko Hibino and Cynthia Harrell.
 
+<figure>
+    <img src="/assets/images/mgs-corridor.jpeg" alt="MGS Corridor">
+</figure>
+
 1. Gray Fox reveal/corridor of dead guys (MGS)
 2. They're already inside the lift with you (MGS)
 3. Psycho Mantis (MGS)
