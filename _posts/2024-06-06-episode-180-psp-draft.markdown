@@ -25,6 +25,7 @@ tags:
 </figure>
 <figure>
     <img src="/assets/images/three-hours.jpeg" alt="Three Hours">
+    <figcaption>Image Credit: Shugdaddy</figcaption>
 </figure>
 <figure>
     <img src="/assets/images/darran-matthew.jpeg" alt="Darran Matthew">
