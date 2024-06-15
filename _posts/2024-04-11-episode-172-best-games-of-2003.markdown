@@ -10,7 +10,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://www.patreon.com/posts/episode-172-best-102104087)
+[Play Episode](https://www.patreon.com/posts/episode-172-best-102104087)
 > As a one-off, we're letting our wonderful Patreon supporters have our latest 3-hour epic a day early! Two top 10 lists of the best games of 2003, and loads of bullshit about Matthew's mini-fridge and Samuel's week of work experience in the fire brigade. 
 >
 > The games chat starts at 1 hour and 27 minutes if you'd just like the lists without the nonsense. 

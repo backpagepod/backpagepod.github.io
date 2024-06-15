@@ -10,7 +10,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://www.patreon.com/posts/episode-119-79755714)
+[Play Episode](https://www.patreon.com/posts/episode-119-79755714)
 > The draft is back! Matthew and Samuel compete to pick the 10 best Capcom games from the developer/publisher's extensive and dazzling library. If you like fighting games, apologies in advance. You can vote for the winner in the pinned tweet @backpagepod on Twitter. We'll post the full list on Twitter after a few days have passed.
 >
 > This week's music is from the Devil May Cry 5 soundtrack by Casey Edwards, Ali Edwards and Cliff Lloret, and the Onimusha 2: Samurai's Destiny soundtrack by Taro Iwashiro.

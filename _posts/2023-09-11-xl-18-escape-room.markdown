@@ -9,7 +9,7 @@ tags:
 - XL
 ---
 
-[Play Episode.](https://www.patreon.com/posts/xl-episode-18-89072403)
+[Play Episode](https://www.patreon.com/posts/xl-episode-18-89072403)
 > In this weird episode, Matthew and Samuel relay their experience trying to solve an escape room in Bath. After that, we weld a list of the top 10 gaming prisons on to the episode – despite it being slightly out of place.
 >
 > This week's music is from the Fable 2 soundtrack by Russell Shaw. Thanks to Liam Richardson for his final set of edits on a Back Page XL Tier episode, we'd have fallen over without him! 

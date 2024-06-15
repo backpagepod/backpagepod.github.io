@@ -18,7 +18,7 @@ gallery:
      title: "Star of MI2"
 ---
 
-[Play Episode.](https://www.patreon.com/posts/xxl-episode-16-86908870)
+[Play Episode](https://www.patreon.com/posts/xxl-episode-16-86908870)
 > After about 8 episodes of promotion, our ranking of the Mission: Impossible movies is finally here! Thanks to Liam Richardson of RockPaperShotgun for the edits, as ever.
 >
 > This week's music is from the Mission: Impossible series soundtracks by Lalo Schifrin, Danny Elfman, Hans Zimmer, Michael Giacchino, Joe Kraemer, Lorne Balfe and Limp Bizkit.

@@ -11,7 +11,7 @@ tags:
 - XL
 ---
 
-[Play Episode.](https://www.patreon.com/posts/xl-episode-7-top-73385979)
+[Play Episode](https://www.patreon.com/posts/xl-episode-7-top-73385979)
 > Returning to the subject of one of our most popular episodes, series expert Katharine Castle joins us to recount a whole host of great moments from The Legend of Zelda's history – with a little more love for the 2D Zeldas than we perhaps had in that last episode.
 >
 > Thanks for your support, sorry for the slight wait while Matthew dealt with Covid, and enjoy another three hours of pod to kick off the week.

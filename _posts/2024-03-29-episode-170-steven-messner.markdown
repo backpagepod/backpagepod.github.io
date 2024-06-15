@@ -10,7 +10,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://www.patreon.com/posts/episode-170-time-101260517)
+[Play Episode](https://www.patreon.com/posts/episode-170-time-101260517)
 > Former PC Gamer Senior Reporter Steven Messner is our guest this week! Hear about his epic reports of goings on in EVE Online and other MMOs – and that time the bastard Samuel Roberts betrayed him.
 >
 > This week's music is from the Harvest Moon 64 soundtrack by Tsuyoshi Tanaka.

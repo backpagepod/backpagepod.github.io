@@ -10,7 +10,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://www.patreon.com/posts/episode-179-from-105027684)
+[Play Episode](https://www.patreon.com/posts/episode-179-from-105027684)
 > US games media royalty James Mielke (EGM, 1Up, GMR) is our guest this week. Hear about James' journey from comic book artist during Marvel's bankruptcy to becoming a key editor on a host of important media outlets throughout the '00s. Bonus: this episode contains another excellent Hideo Kojima interview anecdote.
 
 <figure>

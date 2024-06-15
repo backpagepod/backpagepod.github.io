@@ -19,7 +19,7 @@ gallery:
     title: "Image credit: TsuMuch"
 ---
 
-[Play Episode.](https://www.patreon.com/posts/episode-108-rpg-75960377)
+[Play Episode](https://www.patreon.com/posts/episode-108-rpg-75960377)
 > On this week's episode, we each try to assemble the 'dream' RPG party across 14 categories. Predictably, we each created nightmares instead. You can vote for the winner in our pinned tweet @BackPagePod on Twitter.
 >
 > This week's music is from the Final Fantasy VIII soundtrack by Nobuo Uematsu.

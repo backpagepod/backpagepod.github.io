@@ -11,7 +11,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9c0)
+[Play Episode](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9c0)
 > Andy Kelly from PC Gamer joins us to talk through what makes a great detective game, whether it's a compelling mystery, a certain type of setting or something else. Get a deep dive into the genre, then a heap of recommendations as Andy and Matthew each count down their 5 favourite detective games.
 >
 > This week's music is from the LA Noire soundtrack by Andrew Hale, the Famicom Detective Club: The Missing Heir soundtrack by Kenji Yamamoto, the Return of the Obra Dinn soundtrack by Lucas Pope and the Phoenix Wright: Trials and Tribulations soundtrack by Noriyuki Iwadare.

@@ -10,7 +10,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://www.patreon.com/posts/episode-173-2024-102518740)
+[Play Episode](https://www.patreon.com/posts/episode-173-2024-102518740)
 > 27 listeners' game purchases go on trial before the morally dubious Judge Castle. Can the defendants' even more compromised lawyer, Samuel Roberts, get them off (not in that way)? The worst format in British podcasting returns.
 >
 > This week's music is 'PIMP' by Bacao Rhythm & Steel Band, as well as the Games Court theme by listener Adam Saucier.

@@ -9,7 +9,7 @@ tags:
 - XXL
 ---
 
-[Play Episode.](https://www.patreon.com/posts/xxl-episode-3-tv-68276530)
+[Play Episode](https://www.patreon.com/posts/xxl-episode-3-tv-68276530)
 > Two top 10 lists of the best TV shows made since the year 2000 – and much more besides. Check out the full list below when you've listened to the episode. We're going to make another episode on another 10 great shows for next month's XXL episode!
 
 ### The canonical five modern classics

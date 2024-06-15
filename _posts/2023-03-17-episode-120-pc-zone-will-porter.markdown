@@ -10,7 +10,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://www.patreon.com/posts/episode-120-from-80135303)
+[Play Episode](https://www.patreon.com/posts/episode-120-from-80135303)
 
 > Will Porter, former PC Zone editor turned game developer, is our guest this week. Hear about Zone's epic rivalry with PC Gamer and how it gradually died down over time, and learn about how Will ended writing for games like Alien: Isolation and Mafia: Definitive Edition.
 >

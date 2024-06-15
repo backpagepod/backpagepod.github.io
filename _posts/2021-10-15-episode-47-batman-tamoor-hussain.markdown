@@ -10,7 +10,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9ab)
+[Play Episode](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9ab)
 
 > GameSpot's Tamoor Hussain kindly joins us to discuss his career from CVG to working in the US, and to help us rank the Batman: Arkham games to mark the tenth anniversary of Arkham City.
 >

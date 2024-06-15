@@ -9,7 +9,7 @@ tags:
 - XXL
 ---
 
-[Play Episode.](https://www.patreon.com/posts/xxl-episode-20-93574427)
+[Play Episode](https://www.patreon.com/posts/xxl-episode-20-93574427)
 > We ranked the 12 movies directed by David Fincher to mark the recent release of The Killer. Plus: hear about Matthew's favourite ever Charles Martinet performance in 1997's The Game. This is our last XXL episode of the year – but after pausing billing in December, we'll return in early January for our best TV shows and movies of 2023.
 > 
 > This week's music is from the Gone Girl soundtrack by Trent Reznor and Atticus Ross. Thanks to Michael 'BanyaBat' Butter for the edits! 

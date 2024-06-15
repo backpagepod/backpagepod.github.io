@@ -10,7 +10,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://www.patreon.com/posts/episode-141-best-87849977)
+[Play Episode](https://www.patreon.com/posts/episode-141-best-87849977)
 > One of our oldest and most popular episode formats returns as we count down the best games of 2016, a year that brought good news for everyone! Except Microsoft. And Nintendo. Everything from Uncharted 4 to Inside gets discussed in this bumper episode – alongside our (fairly dour) memories of the time working on magazines. Plus, hear all about Matthew's shattered knee at Gamescom yet again.
 >
 > Note that there's a factual error in this episode: Samuel says they should make Super Puzzle Fighter II Turbo perpetually available on modern formats including Steam, which it is. Last year's Capcom Fighting Collection features it, with online play!

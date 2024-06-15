@@ -10,7 +10,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9b4)
+[Play Episode](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9b4)
 > What if Sony released a PS2 Mini? And what if it was good? In this week's episode, Matthew and Samuel each pick 10 games to be released with a hypothetical PS2 Mini. Head to the poll on our pinned tweet @BackPagePod to vote on who picked the best games, and we'll announce the winner on a future episode!
 >
 > The winner of this episode was Samuel.

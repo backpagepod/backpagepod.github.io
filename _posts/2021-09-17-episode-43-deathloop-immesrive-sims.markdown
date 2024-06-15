@@ -11,7 +11,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9af)
+[Play Episode](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9af)
 > We've finished Deathloop! Enjoy spoiler-free impressions of Arkane's latest game from Samuel, Matthew and our guest, the brilliant freelance writer Jeremy Peel. In hour two, hear about the history of the immersive sim, with chatter about Deus Ex, Thief and more games that defined Deathloop's lineage.
 >
 >This week's music is from the Deathloop soundtrack by Tom Salta and Ross Tregenza, the Deus Ex soundtrack by Alexander Brandon, Michiel van den Bos and Dan Gardopee, and the Deus Ex: Human Revolution soundtrack by Michael McCann.

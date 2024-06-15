@@ -11,7 +11,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://www.patreon.com/posts/episode-80-top-5-67234320)
+[Play Episode](https://www.patreon.com/posts/episode-80-top-5-67234320)
 > Returning guest Andy Kelly joins us to discuss his love of Sega's Dreamcast, and his new Alien: Isolation book, Perfect Organism, which you can back on [Unbound here](https://unbound.com/books/perfect-organism).
 > 
 > This week's music is from the Shenmue soundtrack by Takenobu Mitsuyoshi and Yuzo Koshiro.

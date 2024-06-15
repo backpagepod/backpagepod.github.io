@@ -9,9 +9,10 @@ tags:
 - Special Guest
 - Jeremy Peel
 - Regular
+- Not E3
 ---
 
-[Play Episode.](https://www.patreon.com/posts/episode-82-top-67874618)
+[Play Episode](https://www.patreon.com/posts/episode-82-top-67874618)
 > Matthew is away this week! Returning guest Jeremy Peel kindly steps in to replace him, as we count down our 10 personal most anticipated games, based on whatever E3 was this year – from Redfall to Final Fantasy 16.
 
 <figure>

@@ -9,7 +9,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://www.patreon.com/posts/episode-100-clip-73558745)
+[Play Episode](https://www.patreon.com/posts/episode-100-clip-73558745)
 > It's a clip show. Enjoy the clips.
 >
 > Thanks so much for listening and supporting us. Here's to 100 more.

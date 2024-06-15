@@ -10,7 +10,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://www.patreon.com/posts/episode-163-best-97661870)
+[Play Episode](https://www.patreon.com/posts/episode-163-best-97661870)
 > Two top 10 lists of our favourite games from 2002 (based on UK releases)...and a slew of ridiculous anecdotes about working in Homebase and studying GCSE Drama. 
 >
 >This week's music is from the Super Mario Sunshine soundtrack by Koji Kondo and Shinobu Tanaka, and the Ico soundtrack by Michiru Oshima, Koichi Yamazaki and Mitsukuni Murayama.

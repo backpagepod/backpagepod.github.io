@@ -9,7 +9,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9d1)
+[Play Episode](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9d1)
 > We've both played a lot of Hitman 3, and in this episode, we celebrate IO Interactive's World of Assassination trilogy and explore why it's one of modern gaming's greatest achievements. If you're a fan of Agent 47's many murders of nasty billionaires, this episode is for you.
 >
 > This week's music is from the Hitman 2 soundtrack by Niels Bye Nielsen.

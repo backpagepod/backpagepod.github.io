@@ -10,7 +10,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9d0)
+[Play Episode](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9d0)
 > Two top 30 lists of the best games on PS4, Xbox One and Wii U from the past 7 or 8 years – this episode covers games 30-16 on both our lists. Part 2 is coming next Friday. Enjoy.
 >
 > This week's music is from the Prey soundtrack by Mick Gordon, the Danganronpa V3 soundtrack by Masafumi Takada and the Final Fantasy XV soundtrack by Yoko Shimomura.

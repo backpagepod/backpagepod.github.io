@@ -7,9 +7,10 @@ categories:
 - Episode
 tags:
 - Regular
+- Not E3
 ---
 
-[Play Episode.](https://www.patreon.com/posts/episode-132-our-84618661)
+[Play Episode](https://www.patreon.com/posts/episode-132-our-84618661)
 > From Doordash ads to a game that looks 90% like BioShock Infinite, these were our highlights from the past week of game reveals. Forgive some tired podcasting as we melt slightly in British weather.
 >
 > This week's music is from the Persona 3 soundtrack by Shoji Meguro.

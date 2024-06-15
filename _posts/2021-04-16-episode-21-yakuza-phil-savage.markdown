@@ -11,7 +11,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9c5)
+[Play Episode](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9c5)
 > PC Gamer's Phil Savage joins us for a Yakuza-themed special episode, which covers pretty much the entire history of Sega's series as it finds new fans on Xbox Game Pass. Hear about the 5 best games in the Yakuza series, and learn about the best starting point if you're a new fan.
 >
 > This week's music is from the Yakuza 0 and Yakuza 6 soundtracks by Hidenori Shoji.

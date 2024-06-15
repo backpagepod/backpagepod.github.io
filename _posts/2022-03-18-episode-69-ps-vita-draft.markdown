@@ -10,7 +10,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e995)
+[Play Episode](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e995)
 > Who can pick the 10 best PS Vita games in our latest draft episode? And who will pick the best PSone and PSP games to supplement their selections? Matthew and Samuel compete to build the best library for Sony's fan-favourite handheld device.
 >
 > This week's music is from Hotline Miami by Scattle, and our theme tune is by Barry 'Epoch' Topping.

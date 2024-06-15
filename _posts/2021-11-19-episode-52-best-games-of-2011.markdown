@@ -10,7 +10,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9a6)
+[Play Episode](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9a6)
 > The latest in our series of flashback episodes focuses on a year that brought us Batman: Arkham City, Skyrim and The Legend of Zelda: Skyward Sword. Matthew and Samuel each pick their 10 favourite games from 2011, and throw in a whole host of honourable mentions.
 >
 > This episode's music is from The Elder Scrolls V: Skyrim soundtrack, the Pullblox soundtrack by Shoh Murakami and the Xenoblade Chronicles soundtrack by Yoko Shimomura.

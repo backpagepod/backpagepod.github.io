@@ -10,7 +10,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://www.patreon.com/posts/episode-90-90s-70392149)
+[Play Episode](https://www.patreon.com/posts/episode-90-90s-70392149)
 > Samuel and Matthew ask each other to guess the game based on quotes taken from '90s games magazines – then answer a whole suite of listener questions in part two.
 >
 > This week's music is from Final Fantasy VIII, composed by Nobuo Uematsu.

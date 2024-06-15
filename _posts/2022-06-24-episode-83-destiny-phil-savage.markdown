@@ -11,7 +11,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://www.patreon.com/posts/episode-83-why-68169985)
+[Play Episode](https://www.patreon.com/posts/episode-83-why-68169985)
 > PC Gamer's Phil Savage rejoins Samuel for an episode all about Bungie's Destiny. Hate Destiny? Fair enough! You may still enjoy the first 24 minutes of this podcast for general games chatter. For Destiny players, prepare for two hours of chatter from a genuine expert that goes deep into the series' history – including the top 5 Destiny 2 guns, and the top 5 things to do in the game.
 
 ### Top Things To Do

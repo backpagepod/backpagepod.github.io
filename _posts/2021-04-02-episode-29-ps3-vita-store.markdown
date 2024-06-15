@@ -9,7 +9,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9c7)
+[Play Episode](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9c7)
 > With the PS3 and PS Vita stores both closing this summer, here are 10 games worth grabbing before the digital storefronts vanish forever. We also discuss the disappointing form that led to Sony's decision to do this, and ponder what console manufacturers actually owe us when it comes to preserving their old games.
 >
 > This week's music is from the Metal Gear Solid soundtrack by Takanari Ishiyama, Gigi Meroni, Kazuki Muraoka, Lee Jeon Myung and Hiroyuki Togo, and the God Hand soundtrack by Masafumi Takada and Jun Fukuda.

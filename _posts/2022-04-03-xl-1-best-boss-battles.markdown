@@ -9,7 +9,7 @@ tags:
 - XL
 ---
 
-[Play Episode.](https://www.patreon.com/posts/back-page-xl-1-64671873)
+[Play Episode](https://www.patreon.com/posts/back-page-xl-1-64671873)
 > The first in our new monthly series of bonus episodes is here, just for you lovely XL Tier backers! Listen to our take on the best boss battles from the games we love, as we dig in to what makes a classic encounter with a boss. Everything from Metal Gear Solid to Final Fantasy VIII comes up in this chunky episode. Thanks for your support in making this happen!
 
 ### Samuel's best boss battles

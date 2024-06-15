@@ -10,7 +10,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e99f)
+[Play Episode](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e99f)
 > Samuel and Matthew each pick 11 predictions for the year ahead in gaming, all based on absolutely no information whatsoever. It's a light episode, and Samuel's audio is a bit crap. Sorry about that.
 >
 > This week's music is from the Command & Conquer: Red Alert 2 soundtrack by Frank Klepacki and the Xenoblade Chronicles soundtrack by Ace+.

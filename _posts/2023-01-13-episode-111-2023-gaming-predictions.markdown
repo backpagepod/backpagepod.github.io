@@ -10,7 +10,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://www.patreon.com/posts/episode-111-23-77152685)
+[Play Episode](https://www.patreon.com/posts/episode-111-23-77152685)
 > From Indiana Jones to a Nintendo Switch successor, it's time for 23 more ridiculous predictions founded on no basis of fact whatsoever.
 >
 > This week's music is from The Legend of Zelda: Breath of the Wild soundtrack by Manaka Kataoka, Yasuaki Iwata and Hajime Wakai.

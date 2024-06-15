@@ -9,7 +9,7 @@ tags:
 - XXL
 ---
 
-[Play Episode.](https://www.patreon.com/posts/xxl-episode-15-85116654)
+[Play Episode](https://www.patreon.com/posts/xxl-episode-15-85116654)
 > Matthew and Samuel foolishly try to create power rankings for the first four Indiana Jones movies, The Fate of Atlantis, several 6/10 games, a TV show Matthew collected on VHS...it's a mess. But quite a funny and reverent episode.
 >
 > Thanks for your support in bringing this episode to life! And cheers to Liam Richardson for the edits. See you next month for the Mission: Impossible rankings.

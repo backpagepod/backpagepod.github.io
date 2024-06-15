@@ -10,7 +10,7 @@ tags:
 - XL
 ---
 
-[Play Episode.](https://www.patreon.com/posts/xl-episode-25-104130296)
+[Play Episode](https://www.patreon.com/posts/xl-episode-25-104130296)
 > Samuel and Matthew spent a Sunday afternoon playing a stack of Dreamcast games. Here's how it went.
 >
 > This week's music is from the Sonic Adventure soundtrack by Jun Senoue. Thanks to Michael 'Banyabat' Butter for the edits on this episode!

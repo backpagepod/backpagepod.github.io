@@ -11,7 +11,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://www.patreon.com/posts/episode-91-from-70716754)
+[Play Episode](https://www.patreon.com/posts/episode-91-from-70716754)
 
 > This week's guest is former Edge editor Nathan Brown, who now runs the newsletter [Hit Points](https://hitpoints.substack.com). Hear what goes into an Edge [10], as well as thoughts on Destiny, E3, Street Fighter and the world of videogame consulting.
 >

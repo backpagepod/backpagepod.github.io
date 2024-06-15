@@ -10,7 +10,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://www.patreon.com/posts/episode-130-xbox-83924344)
+[Play Episode](https://www.patreon.com/posts/episode-130-xbox-83924344)
 > Is the Xbox 360 the greatest console ever made? That's one of the questions we tackle on this episode before competing to pick the 10 best games on this celebrated platform across a variety of categories. Vote for the winner of the draft in our pinned tweet @BackPagePod. And remember, it's just a bit of fun! Except for the bits where we talk shit and take what the other person says very personally.
 >
 > This week's music is from the Mirror's Edge soundtrack by Solar Fields.

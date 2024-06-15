@@ -10,7 +10,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://www.patreon.com/posts/episode-113-best-77793922)
+[Play Episode](https://www.patreon.com/posts/episode-113-best-77793922)
 > After a long break, we're back with two top 10 lists from a year gone by – this time, 2014. Expect a mixture of mag recollections and deep analysis of the games that mattered (and some that didn't).
 >
 > This week's music is from the Professor Layton vs. Phoenix Wright: Ace Attorney soundtrack by Tomohito Nishiura and Yasumasa Kitagawa, the Kalimba soundtrack by Magnus Damgaard, Lennart Kiel and Asger Kirkemann Strandby, and the Mario Kart 8 soundtrack by Shiho Fujii, Atsuko Asahi, Ryo Nagamatsu, Yasuaki Iwata and Kenta Nagata.

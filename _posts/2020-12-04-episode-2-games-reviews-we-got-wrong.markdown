@@ -9,7 +9,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9d8)
+[Play Episode](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9d8)
 > What goes into awarding a game a 7/10 review score? And what happens when you get it wrong? This week, we discuss 10 or so games where the review scores we decided on many years ago didn't stand the test of time. From Epic Mickey to Metal Gear Solid 4, it's a spicy podcast. This week's music is from the MGS4 soundtrack by Nobuka Toda. Our logo is by John Strike.
 
 ## Timestamps

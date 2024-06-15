@@ -9,7 +9,7 @@ tags:
 - XL
 ---
 
-[Play Episode.](https://www.patreon.com/posts/xl-episode-16-20-85842433)
+[Play Episode](https://www.patreon.com/posts/xl-episode-16-20-85842433)
 > In this month's Patreon-exclusive XL episode, we first discuss the trend of remakes in games and where it began – and whether it's a good thing for the creative health of games or not. Then, in the second half, we each share our picks of games we think deserve a remake. There are some solid suggestions in there, among some total nonsense.
 >
 > Thanks to Liam Richardson for editing this one, and thanks to you for your support!

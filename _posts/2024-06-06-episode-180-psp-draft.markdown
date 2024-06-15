@@ -11,7 +11,7 @@ tags:
 - Special Guest
 ---
 
-[Play Episode.](https://www.patreon.com/posts/episode-180-with-105577844)
+[Play Episode](https://www.patreon.com/posts/episode-180-with-105577844)
 
 > Matthew gets a well-deserved week off! Samuel's former colleague, Retro Gamer editor Darran Jones, steps into the draft dojo to celebrate Sony's first gaming handheld device. You get about 30 minutes of Darran talking about his career, then an hour of background preamble on the PSP, followed by 90 minutes of draft. Apologies in advance for the length, but hopefully it's a good listen! Vote for the winner @backpagepod on Twitter.
 >
@@ -73,7 +73,7 @@ tags:
 </figure>
 <figure>
     <img src="/assets/images/psp-debug.jpeg" alt="PSP Debug">
-    <figcaption>Image Credit: reddit</figcaption>
+    <figcaption>Alan Stock writes "Extra points to Sam for picking Pursuit Force, I worked as a designer on that game. The memories all came flooding back when you were talking about the cursed PSP dev kits. They had this chonky thing that the top of the PSP connected to, and a big fat wire from that connecting your PSP to the dev kit, which was then linked to your PC. You could just boot your game via the PC and test changes so it was pretty painless, though you had to wait for the PSP to restart each time. It probably did my back and neck no favours craning over the PSP all day though!"</figcaption>
 </figure>
 <figure>
     <img src="/assets/images/psp-flat.jpeg" alt="PSP Flat">
@@ -83,6 +83,36 @@ tags:
 </figure>
 <figure>
     <img src="/assets/images/star-trek.jpeg" alt="Star Trek">
+</figure>
+<figure>
+    <img src="/assets/images/darran-psp-1.jpeg" alt="Darran PSP">
+</figure>
+<figure>
+    <img src="/assets/images/darran-psp-2.jpeg" alt="Darran PSP">
+</figure>
+<figure>
+    <img src="/assets/images/darran-psp-3.jpeg" alt="Darran PSP">
+</figure>
+<figure>
+    <img src="/assets/images/darran-psp-4.jpeg" alt="Darran PSP">
+</figure>
+<figure>
+    <img src="/assets/images/darran-psp-5.jpeg" alt="Darran PSP">
+</figure>
+<figure>
+    <img src="/assets/images/darran-psp-6.jpeg" alt="Darran PSP">
+</figure>
+<figure>
+    <img src="/assets/images/darran-psp-7.jpeg" alt="Darran PSP">
+</figure>
+<figure>
+    <img src="/assets/images/bond-psp.jpeg" alt="Bond PSP">
+</figure>
+<figure>
+    <img src="/assets/images/hannah-montana-psp-1.jpeg" alt="Hannah Montana PSP">
+</figure>
+<figure>
+    <img src="/assets/images/hannah-montana-psp-2.jpeg" alt="Hannah Montana PSP">
 </figure>
 
 ## Categories
@@ -141,9 +171,9 @@ tags:
 
 ## Results
 
-**Samuel ?% (? votes)**
+Samuel 24%
 
-**Darran ?% (? votes)**
+**Darran 76%**
 
-(? votes)
+(91 votes)
 

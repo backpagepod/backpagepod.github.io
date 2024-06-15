@@ -12,7 +12,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://www.patreon.com/posts/episode-125-hall-82159685)
+[Play Episode](https://www.patreon.com/posts/episode-125-hall-82159685)
 
 > With Samuel away, Matthew and returning special guest Rich Stanton from PC Gamer build a hall of fame from Resident Evil creator Shinji Mikami's body of work.
 >

@@ -10,7 +10,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9a3)
+[Play Episode](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9a3)
 > What else we've been playing in 2021, including Luigi's Mansion 3, Resident Evil 3 Remake and more.
 >
 > This week's music is from the 428: Shibuya Scramble soundtrack by Naoki Sato, Hideki Sakamoto and Shingo Yasumoto and the Deus Ex soundtrack by Alexander Brandon, Dan Gardopée and Michiel van den Bos.

@@ -9,7 +9,7 @@ tags:
 - XL
 ---
 
-[Play Episode.](https://www.patreon.com/posts/episode-13-best-81141111)
+[Play Episode](https://www.patreon.com/posts/episode-13-best-81141111)
 > To tie in with a dubious Mario movie, we select 35 of the best moments featuring Nintendo's iconic platformer hero. Thanks to Liam Richardson for the edits, and to you for your support!
 >
 > This week's music is from the Super Mario Galaxy soundtrack by Mahito Yokota and Koji Kondo.

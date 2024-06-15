@@ -11,7 +11,7 @@ tags:
 - XL
 ---
 
-[Play Episode.](https://www.patreon.com/posts/xl-episode-4-top-68872600)
+[Play Episode](https://www.patreon.com/posts/xl-episode-4-top-68872600)
 > PC Gamer's Rich Stanton joins us to deliver a comprehensive overview of the Metal Gear Solid series, picking out 25 key moments from across the games and the series' spin-offs. You won't be disappointed if you're a fan of the series.
 >
 > This week's music is from the Metal Gear Solid 3: Snake Eater soundtrack by Norihiko Hibino and Cynthia Harrell.

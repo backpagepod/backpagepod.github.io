@@ -9,7 +9,7 @@ tags:
 - XXL
 ---
 
-[Play Episode.](https://www.patreon.com/posts/xxl-episode-13-81947640)
+[Play Episode](https://www.patreon.com/posts/xxl-episode-13-81947640)
 > From Final Fantasy VII: Advent Children (eugh!) to Russell Crowe's Robin Hood (oof!), we run through some of our guilty pleasures on the film side in a podcast that somehow ran very long (so, apologies if you're still climbing the best games of 2015 mountain).
 >
 > Thanks for your support in making it happen! And cheers to Liam Richardson for his edits on this one.

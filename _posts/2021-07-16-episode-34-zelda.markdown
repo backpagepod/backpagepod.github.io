@@ -9,7 +9,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9b8)
+[Play Episode](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9b8)
 > Matthew has played The Legend of Zelda: Skyward Sword HD, which is out now. Does he still think it's worth an Edge 10 a decade later? Find out in this episode, and discover where it ranks in Matthew's list of the top 10 Zelda games to date. Expect lots of deep dissection of Nintendo's series from a genuine expert.
 >
 > This week's music is from The Legend of Zelda: Ocarina of Time soundtrack by Koji Kondo, The Legend of Zelda: Skyward Sword soundtrack by Hajime Wakai, Shiho Fujii, Mahito Yokota and Takeshi Hama, The Legend of Zelda: Link's Awakening soundtrack on Nintendo Switch by Ryo Nagamatsu and The Legend of Zelda: Wind Waker soundtrack by Kenta Nagata, Hajime Wakai, Toru Minegishi and Koji Kondo.

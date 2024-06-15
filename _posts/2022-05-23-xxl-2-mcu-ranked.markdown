@@ -9,7 +9,7 @@ tags:
 - XXL
 ---
 
-[Play Episode.](https://www.patreon.com/posts/xxl-episode-2-66754098)
+[Play Episode](https://www.patreon.com/posts/xxl-episode-2-66754098)
 > 28 Marvel movies ranked! In this Patreon exclusive episode, we audit the entire Marvel Cinematic Universe (minus What If? and the Netflix/ABC shows) and put these superhero movies into some kind of quality order – apologies in advance for our terrible takes in this one.
 
 <figure>

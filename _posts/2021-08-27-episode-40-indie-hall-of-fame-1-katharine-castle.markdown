@@ -12,7 +12,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9b2)
+[Play Episode](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9b2)
 > Katharine Castle of Rock Paper Shotgun returns to the podcast this week, as we each recommend five indie games we like. That's 15 recommendations in total! Plus: another baffling listener question about Yuji Naka.
 
 ### Katharine Castle

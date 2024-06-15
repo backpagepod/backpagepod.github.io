@@ -12,7 +12,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://www.patreon.com/posts/episode-117-wii-78992482)
+[Play Episode](https://www.patreon.com/posts/episode-117-wii-78992482)
 
 > Our task this week is to construct a 10-game hall of fame (or perhaps hall of infamy?) for the Nintendo Wii U. Joining us to assemble the list is Team17's Ashley Day, formerly of Nintendo UK and gamesTM magazine. It's a good episode, and hopefully fair to a weird console that's rightly been mined to form the backbone of the Nintendo Switch's killer library.
 >

@@ -9,7 +9,7 @@ tags:
 - XXL
 ---
 
-[Play Episode.](https://www.patreon.com/posts/xxl-episode-12-80634280)
+[Play Episode](https://www.patreon.com/posts/xxl-episode-12-80634280)
 > The podcast lunges head-first into self-parody as two large guys in their 30s rank the movies of Christopher Nolan. Thank you for supporting us in inflicting this on the world!
 
 1. Inception (2010)

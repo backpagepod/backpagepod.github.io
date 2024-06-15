@@ -9,7 +9,7 @@ tags:
 - XXL
 ---
 
-[Play Episode.](https://www.patreon.com/posts/xxl-episode-10-77928470)
+[Play Episode](https://www.patreon.com/posts/xxl-episode-10-77928470)
 > Samuel babbles about comics for two hours and Matthew politely tolerates him. Thank you for your support.
 
 1. Batman: Year One by Frank Miller and David Mazzuchelli

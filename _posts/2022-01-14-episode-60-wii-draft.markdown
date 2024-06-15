@@ -10,7 +10,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e99e)
+[Play Episode](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e99e)
 > Matthew and Samuel compete to pick the 10 best Wii games – the same game cannot be picked more than once. Samuel won this draft, by 67% to 33%.
 >
 > This week's music is from the Wii Sports Resort soundtrack by Ryo Nagamatsu, the Super Mario Galaxy 2 soundtrack by Mahito Yokota, Ryo Nagamatsu and Koji Kondo, and The Last Story soundtrack by Nobuo Uematsu.

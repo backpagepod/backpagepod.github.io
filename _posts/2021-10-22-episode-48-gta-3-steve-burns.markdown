@@ -10,7 +10,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9aa)
+[Play Episode](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9aa)
 
 > Steve Burns, formerly of Videogamer.com, joins us to discuss Grand Theft Auto III as Rockstar North's groundbreaking open world game turns 20 years old. Hear about its impact on games at the time, its best moments and how GTA would evolve in subsequent entries.
 >

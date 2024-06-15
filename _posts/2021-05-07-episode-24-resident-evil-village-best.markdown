@@ -9,7 +9,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9c2)
+[Play Episode](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9c2)
 > We've both finished Resident Evil Village, and in this spoiler-free episode we'll talk you through our thoughts on the eighth entry in Capcom's brilliant survival horror series. In the second half, Matthew and Samuel will count down their 5 best Resident Evil games from across the series.
 >
 > This episode's music is from the Resident Evil 4 soundtrack by Misao Senbongi and the Resident Evil 5 soundtrack by Kota Suzuki.

@@ -11,7 +11,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://www.patreon.com/posts/episode-96-gta-72352184)
+[Play Episode](https://www.patreon.com/posts/episode-96-gta-72352184)
 > From The Getaway to Sleeping Dogs, this week Judge Matthew Castle puts the open world games that followed in GTA 3's wake on trial. Jeremy Peel returns to help make the cast for Driv3r, among other games.
 >
 > This week's music is from the Driv3r soundtrack by Marc Canham.

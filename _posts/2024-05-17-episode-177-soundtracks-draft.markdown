@@ -10,7 +10,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://www.patreon.com/posts/episode-177-game-104375344)
+[Play Episode](https://www.patreon.com/posts/episode-177-game-104375344)
 
 > Two Giant Men, 20 categories, dubious rules! Time for another draft episode, this time on the subject of video game soundtracks. Vote for the winner in the announcements channel of the [Discord](https://discord.com/invite/nEdhNnZxXg).
 >

@@ -10,7 +10,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://www.patreon.com/posts/episode-174-from-103053243)
+[Play Episode](https://www.patreon.com/posts/episode-174-from-103053243)
 > This week's guest is IGN Managing Editor Rachel Weber, who probably has the most varied and fascinating career in games media of anyone who's appeared on the podcast so far. Hear about her transatlantic journey from OPM during the PS3 launch days to GamesIndustry.biz, Rolling Stone's Glixel channel and GamesRadar, before she landed at IGN.
 >
 > This week's music is from the Lost: Via Domus soundtrack by Michael Giacchino.

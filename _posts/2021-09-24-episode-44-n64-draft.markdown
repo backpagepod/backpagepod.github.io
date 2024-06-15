@@ -11,7 +11,7 @@ tags:
 - Mailbag
 ---
 
-[Play Episode.](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9ae)
+[Play Episode](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9ae)
 > To mark the 25th anniversary of the N64's release in North America, Matthew and Samuel each compete to pick the 10 best games on the system for a hypothetical N64 Mini console. After you've heard our selections, you can vote for the winner @BackPagePod on Twitter until the end of September. Note that this episode was recorded before Nintendo confirmed N64 games were coming to the Switch Online service.
 >
 > The winner of this episode was Matthew Castle.

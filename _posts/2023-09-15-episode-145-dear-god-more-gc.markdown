@@ -10,7 +10,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://www.patreon.com/posts/episode-145-dear-89283347)
+[Play Episode](https://www.patreon.com/posts/episode-145-dear-89283347)
 > Happy, you sickos? It's the latest entry in our bizarre Games Court format. 20 listeners submit their pre-owned game purchases (and lengthy life stories) to Judge Castle. Those found guilty will die...by Pikmin.
 > 
 > This week's music is by listener Adam Saucier.

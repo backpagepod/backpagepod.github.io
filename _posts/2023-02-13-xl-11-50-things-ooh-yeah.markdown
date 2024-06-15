@@ -9,7 +9,7 @@ tags:
 - XL
 ---
 
-[Play Episode.](https://www.patreon.com/posts/xl-episode-11-50-78580896)
+[Play Episode](https://www.patreon.com/posts/xl-episode-11-50-78580896)
 > On this silly episode of the podcast, we each throw in 25 things that satisfy us in games – from Samuel nuking Paris in Civ to Matthew euthanising someone in Perfect Dark. Thanks, as ever, to Liam Richardson for the edits! And thanks to you for your ongoing support.
 
 ## Samuel's list

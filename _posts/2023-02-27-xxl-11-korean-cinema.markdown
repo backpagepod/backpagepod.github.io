@@ -9,7 +9,7 @@ tags:
 - XXL
 ---
 
-[Play Episode.](https://www.patreon.com/posts/xxl-episode-11-79243541)
+[Play Episode](https://www.patreon.com/posts/xxl-episode-11-79243541)
 > Matthew offers a rundown on his favourite films from South Korea, including obvious picks like Oldboy alongside a bunch of stuff you might not have heard of before. Thanks for your support in making this episode happen!
 
 **The first biggie: Oldboy (Park Chan-wook, 2003)**

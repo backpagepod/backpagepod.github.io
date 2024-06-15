@@ -10,7 +10,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://www.patreon.com/posts/episode-124-best-81762786)
+[Play Episode](https://www.patreon.com/posts/episode-124-best-81762786)
 > Our popular series of best of lists returns with the 2015 edition, featuring two top 10s of the year's greatest games. Hear about Matthew and Samuel's friendship emerging during a press trip to Germany, and forgive us as we get tired towards the end of this very long episode since we recorded it on a Sunday night.
 >
 > This week's music is from the Fallout 4 soundtrack by Inon Zur and the Hotline Miami 2: Wrong Number soundtrack by The Green Kingdom (aka Mike Cottone).

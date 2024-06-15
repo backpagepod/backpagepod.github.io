@@ -47,7 +47,7 @@ gallery:
     title: "Matthew Wellness Check"
 ---
 
-[Play Episode.](https://www.patreon.com/posts/episode-144-ds-88953403)
+[Play Episode](https://www.patreon.com/posts/episode-144-ds-88953403)
 > Matthew and Samuel compete to pick the 15 best Nintendo DS games – after an extremely long preamble.
 
 {% include gallery caption="Katharine Castle: To clear up this week's BackPagePod debate, here are my offending DS Phat decals - which I'd argue immeasurably improve the look of the thing. If Nintendo had released a Mario Kart special edition of it, I guarantee it would have (probably) looked something like this. Maybe." layout="half"%}

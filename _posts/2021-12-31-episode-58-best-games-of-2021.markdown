@@ -10,7 +10,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9a0)
+[Play Episode](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9a0)
 > Our GOTY episode is here! Two top 10 lists of the best games released in 2021, with almost no crossover between the selections. Enjoy.
 > 
 > This week's music is from the Bowser's Fury soundtrack by Daisuke Matsuoka and James Phillipsen, the Rhythm Doctor soundtrack by fizzd, Winston Lee and foxiand, and The Great Ace Attorney Chronicles soundtrack by Yasumasa Kitagawa and Hiromitsu Maeba.

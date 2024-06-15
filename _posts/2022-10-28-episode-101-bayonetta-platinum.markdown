@@ -10,7 +10,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://www.patreon.com/posts/episode-101-3-73861751)
+[Play Episode](https://www.patreon.com/posts/episode-101-3-73861751)
 
 > The wonderful 101st episode of The Back Page attempts to build a 5-game hall of fame from the entire PlatinumGames catalogue. Plus, Matthew has been reviewing Bayonetta 3 on Switch – hear his thoughts on the latest (but perhaps not greatest) entry in the hack-and-slash brawler series.
 >

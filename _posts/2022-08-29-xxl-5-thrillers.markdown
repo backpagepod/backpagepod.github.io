@@ -9,7 +9,7 @@ tags:
 - XXL
 ---
 
-[Play Episode.](https://www.patreon.com/posts/xxl-episode-5-20-71161114)
+[Play Episode](https://www.patreon.com/posts/xxl-episode-5-20-71161114)
 > This month's XXL episode covers thriller movies – everything from Blow Out to Christopher Nolan's Insomnia gets a namecheck in this genre-centric episode. We hope you're enjoying our pop culture-themed XXL episodes. See you next month, and thanks for your support!
 
 ## Matthew

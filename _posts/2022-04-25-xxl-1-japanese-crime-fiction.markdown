@@ -9,7 +9,7 @@ tags:
 - XXL
 ---
 
-[Play Episode.](https://www.patreon.com/posts/back-page-xxl-1-65533868)
+[Play Episode](https://www.patreon.com/posts/back-page-xxl-1-65533868)
 > Thanks to you, the XXL series has begun! Matthew offers a beginner's guide to one of his enduring obsessions: Japanese crime fiction. Get a full primer on the history of a broad sub-genre from a genuine expert.
 
 ## Books mentioned in this episode

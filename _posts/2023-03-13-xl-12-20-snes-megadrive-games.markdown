@@ -9,7 +9,7 @@ tags:
 - XL
 ---
 
-[Play Episode.](https://www.patreon.com/posts/xl-episode-12-20-79929321)
+[Play Episode](https://www.patreon.com/posts/xl-episode-12-20-79929321)
 > Our key SNES and Mega Drive games take centre stage in this month's XL episode – please excuse our lack of expertise as we dig into the origins of our respective journeys into video games. Everything from Another World to Batman Returns gets some half-remembered waffle in this episode. Plus: hear all about Matthew's attempts to renew his life insurance policy!
 >
 > Thanks to Liam Richardson for the edits. This week's music is from the Sonic the Hedgehog soundtrack by Masato Nakamura, and the Final Fantasy IV soundtrack by Nobuo Uematsu.

@@ -10,7 +10,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9cf)
+[Play Episode](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9cf)
 > Our two top 30 games of the generation lists conclude this week, as we each read out our personal 15 best games on PS4, Xbox One and Wii U.
 >
 > This week's music is from the Mario Kart 8 soundtrack by Shiho Fujii, Atsuko Asahi, Shinji Hosoe, Ryo Nagamatsu and Yasuaki Iwata, and The Legend of Zelda: Breath of the Wild soundtrack by Manaka Kataoka, Yasuaki Iwata and Hajime Wakai.

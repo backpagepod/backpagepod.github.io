@@ -10,7 +10,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9d3)
+[Play Episode](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9d3)
 > In this 2021 preview episode, we sum up what's new with the next-gen consoles (and PC! And Nintendo!) in the coming 12 months. We also serve up 21 gaming predictions for the next year – from Cyberpunk 2077 DLC to Master Chief appearing in Smash Bros, it's all based on very few facts, and we hope you enjoy it.
 >
 > This week's music is from the Baldur's Gate 3 soundtrack by Borislav Slavov.

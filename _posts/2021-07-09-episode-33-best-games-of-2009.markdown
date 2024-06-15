@@ -10,7 +10,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9b9)
+[Play Episode](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9b9)
 > Two top 10 lists of the best games of 2009, from Uncharted 2 to Batman: Arkham Asylum. First, we'll tell you what was going on in the media in 2009, then we'll delve into a solid chunk of recommendations. Don't miss our episodes on the best games of 2006-2008, too, as we slowly work our way through the past two decades of gaming history.
 >
 > This week's music is from the Uncharted 2 soundtrack by Greg Edmonson, the Spirit Tracks stage soundtrack from Super Smash Bros Ultimate arranged by Michiko Naruke, the Little King's Story soundtrack by Yutaka Minobe and the Let's Tap soundtrack by various artists.

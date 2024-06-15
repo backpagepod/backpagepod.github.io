@@ -10,7 +10,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://www.patreon.com/posts/episode-84-games-68432117)
+[Play Episode](https://www.patreon.com/posts/episode-84-games-68432117)
 > More listeners go on trial for bad pre-owned games purchases – this time with Judge Big Sammy making the verdicts. As ever, games court delivers zero nutritional value, but we have some laughs along the way.
 >
 > Our theme tune comes from the brilliant Barry Topping, composer of Paradise Killer.

@@ -27,7 +27,7 @@ gallery:
     title: "Velvetise into happiness"
 ---
 
-[Play Episode.](https://www.patreon.com/posts/episode-160-96319398)
+[Play Episode](https://www.patreon.com/posts/episode-160-96319398)
 > After several solid episodes in a row, The Back Page crashes down to Earth with a mailbag crammed with irrelevant questions about food. But you do get to hear about the famous person Matthew went to school with...
 
 {% include gallery layout="half"%}

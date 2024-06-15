@@ -10,7 +10,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://www.patreon.com/posts/episode-129-more-83552052)
+[Play Episode](https://www.patreon.com/posts/episode-129-more-83552052)
 > More listeners' pre-owned purchases go on trial in this latest version of the much-despised Games Court podcast format. Enjoy, and deepest apologies.
 
 <figure>

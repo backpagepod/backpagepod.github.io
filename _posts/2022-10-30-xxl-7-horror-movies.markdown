@@ -9,7 +9,7 @@ tags:
 - XXL
 ---
 
-[Play Episode.](https://www.patreon.com/posts/xxl-episode-7-20-73950995)
+[Play Episode](https://www.patreon.com/posts/xxl-episode-7-20-73950995)
 > One day earlier than planned! Listen to two non-horror fans talk about horror movies for almost three hours! Just in time for Halloween, we discuss our respective histories with the horror genre and unleash a few of our favourites.
 >
 > Thanks, as ever, to Liam Richardson for the edits.

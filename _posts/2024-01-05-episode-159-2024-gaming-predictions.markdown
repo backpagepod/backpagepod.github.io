@@ -10,7 +10,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://www.patreon.com/posts/episode-159-24-95882021)
+[Play Episode](https://www.patreon.com/posts/episode-159-24-95882021)
 > After last week's belting return with the GOTY episode, it's time for something with far less meat on the bones as we roll out some bullshit gaming predictions for 2024.
 >
 > This week's music is from the Persona 3 soundtrack by Shoji Meguro and the Nier: Automata soundtrack by Keiichi Okabe, Keigo Hoashi and Kuniyuki Takahashi. 

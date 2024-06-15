@@ -11,7 +11,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://www.patreon.com/posts/episode-126-how-82416091)
+[Play Episode](https://www.patreon.com/posts/episode-126-how-82416091)
 
 > Monster collecting RPG Cassette Beasts just launched on Steam via PC and Game Pass, and on May 25th it'll also launch on Xbox and Nintendo Switch. To celebrate, returning pod guest Jay Baylis (the cursed Sonic and Pokémon episodes) talks us through the creation of the game.
 >

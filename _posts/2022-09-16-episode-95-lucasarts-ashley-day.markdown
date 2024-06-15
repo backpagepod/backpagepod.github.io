@@ -12,7 +12,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://www.patreon.com/posts/episode-95-games-72037840)
+[Play Episode](https://www.patreon.com/posts/episode-95-games-72037840)
 
 > From Monkey Island to Full Throttle, we try to boil down the complete library of Lucasarts adventure games into five representative titles – building a hall of fame, the concept of which we stole from a film podcast we like. Former GamesTM editor Ashley Day joins us for this one. Note that our originally scheduled episode, GTA clones on trial, is now coming next week.
 >

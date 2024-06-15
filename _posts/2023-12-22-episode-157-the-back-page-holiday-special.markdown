@@ -24,7 +24,7 @@ gallery:
     title: "Naeslyn's Wii Calendar"
 ---
 
-[Play Episode.](https://www.patreon.com/posts/episode-157-back-94989086)
+[Play Episode](https://www.patreon.com/posts/episode-157-back-94989086)
 > After a short break, we're back with a fun (allegedly) holiday special to see out the year – featuring special guests, our favourite Christmas-themed games and the Back Page alternative GOTY awards.
 >
 > This week's music is from Bayonetta Origins, Final Fantasy 16, Fable 2 and Bully.

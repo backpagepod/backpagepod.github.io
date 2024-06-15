@@ -10,7 +10,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9b0)
+[Play Episode](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9b0)
 > Two very different top 10 lists from 2010, one of the best years of gaming in modern memory. The usual mix of magazine memories and news from the time. That's it! Enjoy.
 >
 > This week's music is from the Red Dead Redemption soundtrack by Bill Elm & Woody Jackson, the Halo Reach soundtrack by Marty O'Donnell, the Alan Wake soundtrack by Poets of the Fall and Petri Alanko, and the Super Mario Galaxy 2 soundtrack by Mahito Yokota, Ryo Nagamatsu and Koji Kondo.

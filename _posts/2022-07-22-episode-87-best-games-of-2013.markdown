@@ -19,7 +19,7 @@ gallery:
     title: "Injustice"
 ---
 
-[Play Episode.](https://www.patreon.com/posts/episode-87-best-69404776)
+[Play Episode](https://www.patreon.com/posts/episode-87-best-69404776)
 > Two top 10 lists of the best games of 2013, in our usual style. Don't miss our episodes on the best games of 2006-2012 if you haven't heard them already. We'll post the full list here when you've had the chance to listen.
 >
 > This week's music is from the Grand Theft Auto V soundtrack by Tangerine Dream and Woody Jackson, and crikey, what a banging piece of music 'No Happy Endings' is.

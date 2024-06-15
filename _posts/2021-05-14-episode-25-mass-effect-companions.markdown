@@ -9,7 +9,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9c1)
+[Play Episode](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9c1)
 > With Mass Effect: Legendary Edition now available, we're revisiting the original Mass Effect trilogy in this episode, a defining HD-era series of games. What impact did it have on the RPG genre, for better or worse? What happened to BioWare in the years afterwards? And what future does the series have, if any?
 >
 > This week's music is from the Mass Effect 2 soundtrack by Jack Wall and the Mass Effect 3 soundtrack by Clint Mansell and Sam Hulick.

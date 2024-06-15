@@ -9,7 +9,7 @@ tags:
 - XXL
 ---
 
-[Play Episode.](https://www.patreon.com/posts/xxl-episode-6-or-72463584)
+[Play Episode](https://www.patreon.com/posts/xxl-episode-6-or-72463584)
 > Thanks for supporting us! This month in our pop culture-focused series of podcasts, just for XL Tier Patrons, we're ranking the Star Wars movies. Apologies in advance for the mountain of bad takes you're about to endure across 2.5 hours.
 >
 > See you next month for our favourite horror movies!

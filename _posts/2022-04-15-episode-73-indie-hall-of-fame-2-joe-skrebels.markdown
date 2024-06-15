@@ -12,7 +12,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://www.patreon.com/posts/episode-73-indie-65122006)
+[Play Episode](https://www.patreon.com/posts/episode-73-indie-65122006)
 
 > IGN's Joe Skrebels joins us for another round of indie game recommendations – and 20 minutes of very welcome Dragon's Dogma chat. 15 more games enter our hall of fame in this episode. Hopefully you'll hear about something you've never played before.
 >

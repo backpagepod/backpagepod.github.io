@@ -11,7 +11,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://www.patreon.com/posts/episode-164-how-98122832)
+[Play Episode](https://www.patreon.com/posts/episode-164-how-98122832)
 > Beloved guest Jeremy Peel drops by to discuss his new Patreon project, The Peel Perspective, as well as the art of writing a magazine or website feature about video games. 
 >
 > Did we nail this episode? Ack, not *quite*. As Matthew put it after the edit, it's fine. We didn't entirely have the right energy for it this week, nor did we have a tight enough plan to conquer such a big subject in the second half. Always lovely to have Jeremy back on, though. 

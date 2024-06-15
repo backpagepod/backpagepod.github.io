@@ -23,7 +23,7 @@ gallery:
     title: "Amy Whitehouse prepares for her appearance in Games Court"
 ---
 
-[Play Episode.](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9a5)
+[Play Episode](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9a5)
 > Who can build the best hypothetical mini console, Matthew, representing GameCube, or Samuel, representing the original Xbox? As both consoles have turned 20 years old, in this episode we'll revisit the libraries of each in a competitive format.
 >
 > Wondering who won this one? It was Matthew, with around 60% of the vote.

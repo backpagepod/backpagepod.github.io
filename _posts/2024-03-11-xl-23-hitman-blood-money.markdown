@@ -9,7 +9,7 @@ tags:
 - XL
 ---
 
-[Play Episode.](https://www.patreon.com/posts/xl-episode-23-100145799)
+[Play Episode](https://www.patreon.com/posts/xl-episode-23-100145799)
 > We went back and played an older, extremely influential Hitman game – but how does it hold up compared to our beloved World of Assassination trilogy?
 >
 > Thanks to Michael 'BanyaBat' Butter for the edits!

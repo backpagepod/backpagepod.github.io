@@ -10,7 +10,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://www.patreon.com/posts/episode-115-wii-78471314)
+[Play Episode](https://www.patreon.com/posts/episode-115-wii-78471314)
 
 > Former ONM editor and [Mobilegamer.biz](http://mobilegamer.biz/) founder Neil Long is this week's guest. Learn what it was like to run the official UK magazine during the dominance of the Wii and DS era – including a few horror stories he'd probably rather forget.
 >

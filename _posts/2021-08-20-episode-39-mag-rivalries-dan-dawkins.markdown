@@ -10,7 +10,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9b3)
+[Play Episode](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9b3)
 
 > Dan Dawkins, former editor of PSM2 and current Content Director of Games and Film at Future, joins us to discuss his long history in games media. You'll hear some of the best games magazine stories on this podcast yet, including encounters with Hideo Kojima and how PSM2 (and later PSM3) popularised the Let's Play format in a pre-YouTube age.
 >

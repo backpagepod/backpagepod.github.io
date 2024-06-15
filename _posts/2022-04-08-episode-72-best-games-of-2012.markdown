@@ -10,7 +10,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://www.patreon.com/posts/episode-72-best-64853755)
+[Play Episode](https://www.patreon.com/posts/episode-72-best-64853755)
 > Two top 10 lists of the best games of 2012, in our usual style. Enjoy! Let us know what you think, and thanks for an amazing week of Patreon support.
 >
 > This week's music is from the Catherine soundtrack by Shoji Meguro, and the Kid Icarus: Uprising soundtrack by Motoi Sakuraba, Yuzo Koshiro, Masafumi Takada, Noriyuki Iwadare, Yasunori Mitsuda and Takahiro Nishi. Our theme tune is by Barry 'Epoch' Topping.

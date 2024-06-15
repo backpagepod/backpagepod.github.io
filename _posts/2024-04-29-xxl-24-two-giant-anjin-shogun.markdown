@@ -9,7 +9,7 @@ tags:
 - XXL
 ---
 
-[Play Episode.](https://www.patreon.com/posts/xxl-episode-24-103215229)
+[Play Episode](https://www.patreon.com/posts/xxl-episode-24-103215229)
 > This episode is all about Shogun on Disney Plus (or Hulu if you're in the US), one of the best TV shows of the year. If you haven't seen the whole series yet, there are no huge spoilers in part 1 of this episode – we also talk a bit about the best TV of the year so far.
 >
 > Thanks to Michael 'BanyaBat' Butter for the edits!

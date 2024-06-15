@@ -9,7 +9,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://www.patreon.com/posts/episode-146-two-89632506)
+[Play Episode](https://www.patreon.com/posts/episode-146-two-89632506)
 > We've each played 25 hours of Starfield – here's what we thought.
 > 
 > This week's music is from the Starfield soundtrack by Inon Zur.

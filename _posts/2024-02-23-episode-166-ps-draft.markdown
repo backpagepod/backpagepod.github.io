@@ -36,7 +36,7 @@ gallery:
 
 ---
 
-[Play Episode.](https://www.patreon.com/posts/episode-166-98783232)
+[Play Episode](https://www.patreon.com/posts/episode-166-98783232)
 
 > Time for our first draft episode of 2024! It's the turn of the PlayStation, one of the most important consoles in history. Listen to the episode, then vote on who picked the best 10 games in the pinned tweet @BackPagePod on Twitter.
 > 

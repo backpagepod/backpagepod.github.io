@@ -9,7 +9,7 @@ tags:
 - XL
 ---
 
-[Play Episode.](https://www.patreon.com/posts/xl-episode-20-92773766)
+[Play Episode](https://www.patreon.com/posts/xl-episode-20-92773766)
 > Judge Castle rules on the best and worst console launches, starting with the PSone and ending with the PS5. That's 20 in total!
 >
 > Thanks to Michael 'BanyaBat' Butter for the edits. This week's music is from the Battle Arena Toshinden soundtrack by Yasuhiro Nakano.

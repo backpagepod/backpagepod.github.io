@@ -11,7 +11,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://www.patreon.com/posts/episode-85-what-68796699)
+[Play Episode](https://www.patreon.com/posts/episode-85-what-68796699)
 > Xenoblade Chronicles 3, Hyrule Warriors: Age of Calamity, Sniper Elite 5 and TMNT: Shredder's Revenge are discussed in this round-up of games we've been playing this month.
 >
 > Our theme tune, which plays in full this week at the very end, is from Barry Topping as ever.

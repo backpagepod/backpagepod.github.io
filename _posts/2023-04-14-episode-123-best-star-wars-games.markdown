@@ -9,7 +9,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://www.patreon.com/posts/episode-123-best-81475304)
+[Play Episode](https://www.patreon.com/posts/episode-123-best-81475304)
 > Samuel assembles a power ranking of the video games based on the Star Wars movies, and Matthew politely humours him for two hours.
 >
 > This week's music is from the Star Wars: Knights of the Old Republic soundtrack by Jeremy Soule and The Force Unleashed soundtrack by Mark Griskey.

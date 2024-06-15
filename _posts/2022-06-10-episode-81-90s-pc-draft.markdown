@@ -39,7 +39,7 @@ gallery:
     title: "Image Credit: JackyBoy34"
 ---
 
-[Play Episode.](https://www.patreon.com/posts/episode-81-90s-67590615)
+[Play Episode](https://www.patreon.com/posts/episode-81-90s-67590615)
 > Samuel and Matthew each compete to pick the 10 best PC games released in the years 1990 to 1999 – and you can vote for the winner @backpagepod on Twitter in our pinned tweet.
 >
 > This week's music is from the Command & Conquer: Red Alert soundtrack by Frank Klepacki.

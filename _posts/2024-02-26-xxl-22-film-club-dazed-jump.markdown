@@ -9,7 +9,7 @@ tags:
 - XXL
 ---
 
-[Play Episode.](https://www.patreon.com/posts/xxl-episode-22-99206100)
+[Play Episode](https://www.patreon.com/posts/xxl-episode-22-99206100)
 > Time for something slightly different this month – we each picked a film, watched both of them then asked each other a load of questions about what we just saw. In the first half, hear about why Richard Linklater's Dazed and Confused (1993) is one of Matthew's favourite movies, then in part two, hear about Samuel's eternal affection for Lord and Miller's 21 Jump Street (2012). 
 >
 > If you enjoy hearing us talk about our humiliating school years, there's plenty to enjoy here. Feel free to watch the movies and join in! 

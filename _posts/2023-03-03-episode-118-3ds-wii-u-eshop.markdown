@@ -9,7 +9,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://www.patreon.com/posts/episode-118-3ds-79461891)
+[Play Episode](https://www.patreon.com/posts/episode-118-3ds-79461891)
 > On this week's shorter episode, Matthew fires through a whole bunch of recommendations to check out on 3DS and Wii U before their respective eShops close on March 27th.
 > 
 > This week's music is from the Affordable Space Adventures soundtrack by Harry Damm.

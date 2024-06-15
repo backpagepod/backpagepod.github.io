@@ -9,7 +9,7 @@ tags:
 - XL
 ---
 
-[Play Episode.](https://www.patreon.com/posts/xl-episode-10-77285262)
+[Play Episode](https://www.patreon.com/posts/xl-episode-10-77285262)
 > From Bully to Red Dead Redemption 2, this episode ranks pretty much all of the sandbox games published by Rockstar to date – give or take a racing game we do not understand. This episode is crammed with GTA chatter, and a ton of discussion about what sets these open world games apart from all the others that have followed in its wake.
 >
 > This week's music is from the Grand Theft Auto 4 soundtrack by Michael Hunter. Thanks to Liam Richardson for the edits, and thanks to you for your support!

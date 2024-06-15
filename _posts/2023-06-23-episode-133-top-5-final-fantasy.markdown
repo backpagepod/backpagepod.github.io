@@ -9,7 +9,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://www.patreon.com/posts/episode-133-top-84982685)
+[Play Episode](https://www.patreon.com/posts/episode-133-top-84982685)
 > Samuel and Matthew revisit the classic Square Enix/Squaresoft RPG series this week. Well, the bits they know about, anyway. Plus, hear what Matthew thinks of Final Fantasy XVI, which just launched on PS5.
 >
 > This week's music is from the Final Fantasy XV soundtrack by Yoko Shimomura, the Final Fantasy XVI soundtrack by Masayoshi Soken, the Final Fantasy XIII soundtrack by Masashi Hamauzu and the Final Fantasy Crystal Chronicles: The Crystal Bearers soundtrack by Hidenori Iwasaki, Ryo Yamazaki and Kumi Tanioka.

@@ -9,7 +9,7 @@ tags:
 - XXL
 ---
 
-[Play Episode.](https://www.patreon.com/posts/xxl-episode-4-tv-69463120)
+[Play Episode](https://www.patreon.com/posts/xxl-episode-4-tv-69463120)
 > Two more top 10 lists of the best TV shows of the century, along with a fun first section where we each ask the other 10 random questions about TV, including 'who's the best TV dad?'
 
 <figure>

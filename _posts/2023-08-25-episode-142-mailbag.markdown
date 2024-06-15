@@ -11,5 +11,5 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://www.patreon.com/posts/episode-142-87989603)
+[Play Episode](https://www.patreon.com/posts/episode-142-87989603)
 > We answer a lot of listener questions in this week's episode. It's fun for the first hour, it sags in the second, but gets it back just at the end. A 6/10 episode. Thank you for your polite tolerance!

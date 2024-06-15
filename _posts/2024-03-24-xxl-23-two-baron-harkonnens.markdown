@@ -9,7 +9,7 @@ tags:
 - XXL
 ---
 
-[Play Episode.](https://www.patreon.com/posts/xxl-episode-23-1-100998330)
+[Play Episode](https://www.patreon.com/posts/xxl-episode-23-1-100998330)
 > Two men who know nothing about the Dune books talk about Denis Villeneuve's two Dune movies! Samuel butchers a synopsis of the plot, we nominate our best and worst hangs of the films, and we each praise them for being proper blockbusters in an age of distractions.
 >
 > Thanks to Michael 'Banyabat' Butter for the edits! And thank you for your support, as ever.

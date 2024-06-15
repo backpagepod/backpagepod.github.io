@@ -10,7 +10,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://www.patreon.com/posts/episode-158-best-95546725)
+[Play Episode](https://www.patreon.com/posts/episode-158-best-95546725)
 > Our biggest episode of the year is here! Two top 10 lists of the best games of the year. More than three hours of pod, slightly later than planned (sorry about that).
 >
 > Thanks so much for your patience while we took a much-needed break – but now we're back! Expect a full plan of what we're making in January in the next few days, including the return of the XL and XXL episodes.

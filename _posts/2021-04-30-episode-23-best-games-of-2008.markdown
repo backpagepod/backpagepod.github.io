@@ -10,7 +10,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9c3)
+[Play Episode](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9c3)
 > From Dead Space to Grand Theft Auto 4, 2008 was a phenomenal year in gaming. In this episode, hear Samuel and Matthew count down their respective top 10 best games of 2008 lists, and flash back to the big events of this year in the HD generation console wars.
 >
 > This week's music is from the Fable 2 soundtrack by Russell Shaw, the No More Heroes soundtrack by the Genki Rockets, and the GTA 4 soundtrack by Michael Hunter.

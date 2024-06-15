@@ -11,7 +11,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9c9)
+[Play Episode](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9c9)
 
 > The Nintendo 3DS turns 10 years old this month in the US and Europe, and in this episode, we're counting down the system's best games. We're joined by a special guest (and former employee of Matthew's) to supercharge our Nintendo expertise: IGN's Joe Skrebels! Hear about the history of this system, and learn about the many highlights of its library.
 >

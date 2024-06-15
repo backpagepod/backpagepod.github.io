@@ -10,7 +10,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://www.patreon.com/posts/episode-99-best-73288141)
+[Play Episode](https://www.patreon.com/posts/episode-99-best-73288141)
 
 > Indie developer Lucy Blundell (One Night Stand, the upcoming VIDEOVERSE) joins us to discuss one of Matthew's favourite genres: the (usually) non-horny visual novel.
 >

@@ -9,7 +9,7 @@ tags:
 - XXL
 ---
 
-[Play Episode.](https://www.patreon.com/posts/xxl-episode-18-89767574)
+[Play Episode](https://www.patreon.com/posts/xxl-episode-18-89767574)
 > Matthew delves back into the subject he's most passionate about: Asian crime fiction. Except this time he expands the remit to thrillers, and even sci-fi!
 > 
 > Thanks so much for your support in bringing this episode to life! 

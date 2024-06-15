@@ -9,7 +9,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://www.patreon.com/posts/episode-77-best-66311868)
+[Play Episode](https://www.patreon.com/posts/episode-77-best-66311868)
 > In this week's episode, Samuel catalogues the Star Wars games that exist between simple notions like light and dark – these are the 6 and 7/10 Star Wars games that are nonetheless interesting in a bunch of ways. A full best Star Wars games episode is coming later this year, so look forward to that.
 >
 > This week's music is from the Star Wars: The Force Unleashed soundtrack by Mark Griskey.

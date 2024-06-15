@@ -11,7 +11,7 @@ tags:
 
 ---
 
-[Play Episode.](https://www.patreon.com/posts/episode-178-00s-104681551)
+[Play Episode](https://www.patreon.com/posts/episode-178-00s-104681551)
 > We each try and guess five mystery games based on snippets from their reviews in '00s games magazines. Feel free to play along! After that, enjoy our considered answers to a whole heap of questions, from the Nintendo Switch 2 to the ideal game based on Thunderbirds.
 
 <figure>

@@ -11,7 +11,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://www.patreon.com/posts/episode-131-edge-84274401)
+[Play Episode](https://www.patreon.com/posts/episode-131-edge-84274401)
 
 > Edge Deputy Editor Chris Schilling joins us for this week's episode. Hear about his career in games media, as well as the creation of the widely respected magazine. And yes: we talk about what it means when Edge awards a game a 10. Enjoy.
 >

@@ -10,7 +10,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://www.patreon.com/posts/episode-86-games-69102044)
+[Play Episode](https://www.patreon.com/posts/episode-86-games-69102044)
 
 > We undertake another grand project: building a library of the very best games for the Nintendo Switch, starting with 5 (technically 6) of our absolute favourites. Want to know what those are? Listen to the episode, or find the games we discussed in this episode below...
 >

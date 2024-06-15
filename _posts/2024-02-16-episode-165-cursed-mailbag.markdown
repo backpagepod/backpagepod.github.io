@@ -11,7 +11,7 @@ tags:
 
 ---
 
-[Play Episode.](https://www.patreon.com/posts/episode-165-98542829)
+[Play Episode](https://www.patreon.com/posts/episode-165-98542829)
 > After some dense episodes, allow us this brief respite to answer a slew of listener questions. Who should play Link in the Zelda movie? Which song would we sing for Hideo Kojima during karaoke? What happened to the mythical 'boys across the river'? Learn all this, and more.
 
 <figure>

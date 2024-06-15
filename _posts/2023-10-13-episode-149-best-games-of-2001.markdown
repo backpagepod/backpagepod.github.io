@@ -10,7 +10,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://www.patreon.com/posts/episode-149-best-90865129)
+[Play Episode](https://www.patreon.com/posts/episode-149-best-90865129)
 > From GTA 3 to Silent Hill 2, 2001 was one of the best years in the history of games. In this episode, we each construct top 10s while sharing many pointless details of our mixed fortunes as teenagers.
 > 
 > This week's music is from the Silent Hill 2 soundtrack by Akira Yamaoka.

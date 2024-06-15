@@ -9,7 +9,7 @@ tags:
 - XXL
 ---
 
-[Play Episode.](https://www.patreon.com/posts/xxl-episode-19-91901001)
+[Play Episode](https://www.patreon.com/posts/xxl-episode-19-91901001)
 > Two Giant Men turn Two Giant Film Bros in this list of Marty's top 10 movies. Apologies in advance.
 > 
 > Thanks to Michael Butter for the edits!

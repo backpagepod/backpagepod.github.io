@@ -22,7 +22,7 @@ gallery:
     alt: "Gamescom Sausage"
     title: "Gamescom Sausage"
 ---
-[Play Episode.](https://www.patreon.com/posts/xxl-episode-17-88395615)
+[Play Episode](https://www.patreon.com/posts/xxl-episode-17-88395615)
 > Our first ever draft episode behind the paywall is a truly chaotic affair – see what you make of this 2.5-hour epic, then vote for the winner in the pinned tweet @BackPagePod on Twitter.
 >
 > Thanks to Liam Richardson for the edits, as ever! And thank you for your generous support of what we do.

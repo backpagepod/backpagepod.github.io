@@ -10,7 +10,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9a9)
+[Play Episode](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9a9)
 
 > It's Halloween! Horror expert and presenter Louise Blain joins us to pick out 15 cool spooky games, from Eternal Darkness to Silent Hill 4: The Room.
 > This week's music is from the Silent Hill 4: The Room soundtrack by Akira Yamaoka and the Stories Untold soundtrack by Omar Khan.

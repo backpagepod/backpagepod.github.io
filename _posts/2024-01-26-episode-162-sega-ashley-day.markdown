@@ -11,7 +11,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://www.patreon.com/posts/episode-162-top-97199498)
+[Play Episode](https://www.patreon.com/posts/episode-162-top-97199498)
 
 > Returning guest Ashley Day tells us about his love of the Sega Saturn, then gives us his ten favourite Sega developed (or published) games of all time. Spoiler alert: Football Manager 2009 doesn't make the cut.
 >

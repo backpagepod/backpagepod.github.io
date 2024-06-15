@@ -10,7 +10,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://www.patreon.com/posts/episode-137-ps3-86407220)
+[Play Episode](https://www.patreon.com/posts/episode-137-ps3-86407220)
 > Matthew and Samuel compete to pick the best 10 games (and one HD collection) that represent the PS3's somewhat inconsistent library. Vote for the winner in our pinned tweet @BackPagePod.
 > 
 > This week's music is from the Metal Gear Solid 4: Guns of the Patriots soundtrack by Harry Gregson-Williams.

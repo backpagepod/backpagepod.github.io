@@ -10,7 +10,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9d4)
+[Play Episode](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9d4)
 > Wow, 2020 was the worst! Luckily, the games were pretty good, and in this episode, we each count down our personal top 10s of the year. From Doom Eternal to Final Fantasy 7 Remake, start off 2021 by capping off the last 12 months of fantastic games.
 >
 > This week's music is from the Final Fantasy 7 soundtrack by Nobuo Uematsu and the themes of Destiny 2's Prophecy dungeon by Michael Sechrist, Skye Lewin, Michael Salvatori and Josh Mosser.

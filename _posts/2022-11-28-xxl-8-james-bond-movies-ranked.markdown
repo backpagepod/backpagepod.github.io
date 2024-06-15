@@ -9,7 +9,7 @@ tags:
 - XXL
 ---
 
-[Play Episode.](https://www.patreon.com/posts/xxl-episode-8-75184810)
+[Play Episode](https://www.patreon.com/posts/xxl-episode-8-75184810)
 > The podcast goes full Partridge in this ranking of all 25 existing James Bond movies. It's a long one, but if you have any opinion on these films, you'll probably enjoy this.
 >
 > Thanks to Liam Richardson for the edits, as ever.

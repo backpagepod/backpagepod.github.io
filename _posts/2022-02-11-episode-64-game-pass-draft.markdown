@@ -10,7 +10,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e99a)
+[Play Episode](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e99a)
 > Matthew Castle Productions and Big Sammy Holdings are each taking on Game Pass. Who built the best gaming subscription service?
 >
 > Matthew won this one.

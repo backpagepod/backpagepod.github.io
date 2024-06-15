@@ -9,7 +9,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9b6)
+[Play Episode](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9b6)
 > Take a spoiler-free dive into the Phoenix Wright series and its various spin-offs, as Matthew gives his verdict on the long-awaited The Great Ace Attorney Chronicles, and reels off the 10 best entries in this immortal Capcom visual novel series.
 >
 > This week's music: Phoenix Wright ~ Objection! 2013 (Ace Attorney: Dual Destinies), Investigation - The Core (The Great Ace Attorney Chronicles), Godot ~ The Fragrance of Black Coffee (Ace Attorney: Trials and Tribulations) and Athena Cykes ~ Courtroom Révolutionnaire (Ace Attorney: Spirit Of Justice) by Noriyuki Iwadare, Yasumasa Kitagawa, Hiromitsu Maeba. Toshihiko Horiyama and Masami Onodera.

@@ -11,7 +11,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://www.patreon.com/posts/episode-76-from-66053838)
+[Play Episode](https://www.patreon.com/posts/episode-76-from-66053838)
 
 > Former Edge editor Jen Simpkins joins us to discuss some highlights of her years working in games media, and how she ended up working with the bright minds of the Dreams community at Media Molecule.
 >

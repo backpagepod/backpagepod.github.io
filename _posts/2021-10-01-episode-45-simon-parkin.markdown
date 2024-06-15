@@ -10,7 +10,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9ad)
+[Play Episode](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9ad)
 
 > Our guest this week is journalist and author Simon Parkin. Hear how Simon broke the news of Hideo Kojima's departure from Konami, among many other fascinating industry stories, and learn how he turned reviewing GBA games into a career writing for The New Yorker.
 >

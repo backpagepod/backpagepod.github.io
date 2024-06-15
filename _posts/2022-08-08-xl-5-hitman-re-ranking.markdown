@@ -9,7 +9,7 @@ tags:
 - XL
 ---
 
-[Play Episode.](https://www.patreon.com/posts/xl-episode-5-re-70200142)
+[Play Episode](https://www.patreon.com/posts/xl-episode-5-re-70200142)
 > In this month's Patreon exclusive episode, we rank all 22 levels in the Hitman World of Assassination Trilogy – including the newest addition, Ambrose Island. Also: hear Matthew and Samuel's deeply cursed pitches for level ideas in Hitman 4, which radiates Games Court energy. Thank you for your support in making this happen!
 
 22. Carpathian mountains (Untouchable, H3)

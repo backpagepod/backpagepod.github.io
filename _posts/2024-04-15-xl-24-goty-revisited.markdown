@@ -10,7 +10,7 @@ tags:
 - XL
 ---
 
-[Play Episode.](https://www.patreon.com/posts/xl-episode-24-102372208)
+[Play Episode](https://www.patreon.com/posts/xl-episode-24-102372208)
 > The lists we made in the best games of 2006-2010 and 2020 come under scrutiny in this episode, where the podcast fully eats itself and we rate our old GOTY choices. It's rather deranged, please enjoy.
 > 
 > Thanks to Michael 'BanyaBat' Butter for the edits! Michael also edits the [Wrestle Me podcast](https://www.youtube.com/@WrestleMe), and has his own [YouTube channel](https://www.youtube.com/@BanyaBat/featured) too.

@@ -10,7 +10,7 @@ tags:
 - Regular
 ---
 
-[Play Episode.](https://www.patreon.com/posts/episode-155-93430601)
+[Play Episode](https://www.patreon.com/posts/episode-155-93430601)
 > Samuel and Matthew compete to pick the best selection of 10 licensed games, and discuss the wildly inconsistent history of games based on movies, TV shows, books and more. Vote for the winner in our pinned tweet @BackPagePod, and we'll discuss the results in a future episode.
 > 
 > This week's music is from the Blade Runner game soundtrack by Vangelis and Frank Klepacki.
