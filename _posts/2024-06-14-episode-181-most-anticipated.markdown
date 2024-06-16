@@ -61,7 +61,6 @@ tags:
 - Phoenix Springs
 - The Rise of the Golden Idol
 - While Waiting
-- UFO 50
 - DeathSprint 66
 - Sumerian Six
 - Outersloth

@@ -6,7 +6,6 @@ excerpt_separator: "<!--more-->"
 categories:
 - Episode
 tags:
-- GOTY
 - XL
 ---
 

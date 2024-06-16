@@ -7,7 +7,7 @@ This is a fansite for the Back Page podcast, to endlessly compile lists of games
 
 The podcast is by Samuel Roberts and Matthew Castle. Episode descriptions are copied from their Patreon, and are owned by them.
 
-I'm not sure of the name of the artist who designed the Back Page logo, I'll fill that in later, but it wasn't me.
+The Back Page logo is by John Strike.
 
 The theme tune is composed by Barry Topping (@nostoppingepoch).
 
