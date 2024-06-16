@@ -15,6 +15,10 @@ tags:
 > With a hangover from ninety June livestreams, Matthew and Samuel each deliver their ten favourites from the hype season.
 
 <figure>
+    <img src="/assets/images/dads-army.jpeg" alt="Dad's Army">
+    <figcaption>Image Credit: scottv5277</figcaption>
+</figure>
+<figure>
     <img src="/assets/images/prestige-miffy.jpeg" alt="Prestige Miffy">
 </figure>
 <figure>
