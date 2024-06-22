@@ -10,7 +10,7 @@ tags:
 - Regular
 ---
 
-[Play Episode](https://www.patreon.com/posts/episode-173-2024-102518740)
+[Play Episode](https://www.patreon.com/posts/episode-182-big-106313056)
 > The worst format in podcasting is back! For the first time since 2021, Samuel runs his pre-owned purchases past Judge Castle.
 >
 > This week's music is from The World Ends With You soundtrack by Takeharu Ishimoto.
