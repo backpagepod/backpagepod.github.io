@@ -53,7 +53,7 @@ tags:
 |Exhibit  | Date  | Game | Format | Price | Verdict |
 |--|---|---|---|--|--|
 |A | Nov 21 | Viewtiful Joe| GameCube | £13.51 | Not Guilty |
-|B | Nov 21 | Brute Force | Xbox |  | Not Guilty |
+|B | Nov 21 | Brute Force | Xbox |  | Guilty |
 |C | Dec 21 | Paper Mario: The Door | GameCube | £89.99 | Not Guilty |
 | D| Mar 22 | Assassin's Creed Unity | Xbox One | £4.05 | Not Guilty |
 | E| Mar 22 | The Witcher 2: Assassins of Kings | Xbox 360 | £9.39 | Not Guilty|
