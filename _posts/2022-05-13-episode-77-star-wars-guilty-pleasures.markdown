@@ -24,3 +24,8 @@ tags:
 - Battlefront 2 - the EA one (campaign doesn't do what they said it would and not a great online shooter, but a lovely bit of Star Wars to dip into)
 - Battle For Naboo (in the Rogue Squadron template but not quite as good - ground sections and Episode I settings make it a tougher sell)
 - Rogue Leader 2: Rebel Strike (great spaceship bits cancelled out by rancid on-foot sections)
+
+<figure>
+    <img src="/assets/images/mothers-day.jpeg" alt="Mother's Day">
+    <figcaption>Image Credit: personalnadir</figcaption>
+</figure>
