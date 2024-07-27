@@ -14,6 +14,10 @@ tags:
 [Play Episode](https://www.patreon.com/posts/episode-186-july-108265188)
 > From great Metroidvanias to an impromptu Cheese Draft, it's time for another mailbag episode. Submit your questions for future mailbags in the Discord, or email us at backpagegames@gmail.com.
 
+<figure>
+    <img src="/assets/images/emergency-podcasts.jpeg" alt="Emergency">
+</figure>
+
 - Balladeer: What are your favourite Metroidvanias?
 - Betamax Bandit: If you could invite any three Square Enix characters to a dinner party, who would you invite and why?
 - Welsh Boy Mick: There is a back pod hashtag collab with a new Def Jam game. What are your rapper names? 
