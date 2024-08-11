@@ -14,3 +14,7 @@ tags:
 > Our guest this week is wrestler, video personality, consultant and all-round good guy Simon Miller! Simon discusses his days running NRevolution magazine alone, working on X360 Magazine with Samuel, creating The Miller Report at VideoGamer and watching THQ burn from the inside in the early 2010s. It's quite a career!
 
 This week's music is from The Legend of Zelda: A Link to the Past soundtrack by Koji Kondo.
+
+<figure>
+    <img src="/assets/images/tigger.jpeg" alt="Tigger">
+</figure>
