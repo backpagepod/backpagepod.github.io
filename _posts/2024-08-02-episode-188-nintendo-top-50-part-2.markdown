@@ -21,6 +21,12 @@ tags:
 <figure>
     <img src="/assets/images/top-50.jpeg" alt="Top 50">
 </figure>
+<figure>
+    <img src="/assets/images/rare-cry-1.jpeg" alt="Rare Cry">
+</figure>
+<figure>
+    <img src="/assets/images/rare-cry-2.jpeg" alt="Rare Cry">
+</figure>
 
 ## Longlist
 

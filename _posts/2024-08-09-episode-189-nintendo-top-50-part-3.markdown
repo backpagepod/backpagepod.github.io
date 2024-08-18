@@ -16,6 +16,17 @@ tags:
 > 
 > This week's music is once again the Wii Shop Channel theme by Kazumi Totaka.
 
+<figure>
+    <img src="/assets/images/long-john-beep.jpeg" alt="Long John Beep">
+</figure>
+<figure>
+    <img src="/assets/images/nintendo-top-50-1.jpeg" alt="Top 50">
+</figure>
+<figure>
+    <img src="/assets/images/nintendo-top-50-2.jpeg" alt="Top 50">
+    <figcaption>Image Credit: Tanner</figcaption>
+</figure>
+
 ## Top 50
 
 50. Last Window: The Secret of Cape West (DS)

@@ -39,6 +39,15 @@ Look out for parts two and three across the next couple of weeks. Find the ONM t
 <figure>
     <img src="/assets/images/onm-114-6.jpeg" alt="ONM">
 </figure>
+<figure>
+    <img src="/assets/images/comic-workshop-1.jpeg" alt="Comic Workshop">
+</figure>
+<figure>
+    <img src="/assets/images/comic-workshop-2.jpeg" alt="Comic Workshop">
+</figure>
+<figure>
+    <img src="/assets/images/comic-workshop-3.jpeg" alt="Comic Workshop">
+</figure>
 
 ||ONM's Top 100 – 2014|
 |--|--|
