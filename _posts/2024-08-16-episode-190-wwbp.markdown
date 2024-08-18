@@ -20,6 +20,15 @@ tags:
     <img src="/assets/images/toff-denounces.jpeg" alt="Toff Denounces">
      <figcaption>Image Credit: DarkKnightads</figcaption>
 </figure>
+<figure>
+    <img src="/assets/images/lore-update.jpeg" alt="Lore Update">
+</figure>
+<figure>
+    <img src="/assets/images/art-vinted.jpeg" alt="Art Vinted">
+</figure>
+<figure>
+    <img src="/assets/images/languid-piece.jpeg" alt="Languid Piece">
+</figure>
 
 - Dungeons of Hinterberg
 - Kunitsu-Gami: Path of the Goddess
