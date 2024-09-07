@@ -27,6 +27,9 @@ tags:
 <figure>
     <img src="/assets/images/rare-cry-2.jpeg" alt="Rare Cry">
 </figure>
+<figure>
+    <img src="/assets/images/boys-across-the-river.jpeg" alt="The Boys Across The River">
+</figure>
 
 ## Longlist
 
