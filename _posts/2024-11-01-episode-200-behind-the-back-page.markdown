@@ -7,6 +7,8 @@ categories:
 - Episode
 tags:
 - Regular
+- Special Guest
+- Jeremy Peel
 
 ---
 

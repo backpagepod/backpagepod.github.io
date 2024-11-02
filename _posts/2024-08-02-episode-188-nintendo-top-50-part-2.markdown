@@ -29,6 +29,7 @@ tags:
 </figure>
 <figure>
     <img src="/assets/images/boys-across-the-river.jpeg" alt="The Boys Across The River">
+    <figcaption>I’m glad Apple Intelligence knows they should be capitalised.</figcaption>
 </figure>
 
 ## Longlist
