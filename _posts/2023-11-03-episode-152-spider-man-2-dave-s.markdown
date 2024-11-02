@@ -8,6 +8,7 @@ categories:
 tags:
 - Special Guest
 - Regular
+- Dave Scarborough
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-152-men-92189917)
@@ -18,4 +19,3 @@ tags:
 <figure>
     <img src="/assets/images/dave-scarborough.jpeg" alt="Dave Scarborough">
 </figure>
-

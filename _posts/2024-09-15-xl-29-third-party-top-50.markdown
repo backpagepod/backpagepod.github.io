@@ -12,8 +12,8 @@ tags:
 
 [Play Episode](https://www.patreon.com/posts/xl-episode-29-50-112063040)
 > Following the three-part Nintendo top 50, this month we turn towards the best third-party games that have landed on Nintendo platforms.
-
-We forgot fucking Monkey Ball! The rest of the list is pretty good. Thanks for your support in making this XL episode happen, as always.
+>
+> We forgot fucking Monkey Ball! The rest of the list is pretty good. Thanks for your support in making this XL episode happen, as always.
 
 <figure>
     <img src="/assets/images/infinite-space.jpeg" alt="Infinite Space">

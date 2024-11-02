@@ -14,8 +14,8 @@ tags:
 [Play Episode](https://www.patreon.com/posts/episode-193-why-111464119)
 
 > Cassette Beasts developer Jay Baylis rejoins us to discuss how Japanese games have been perceived since the 360 era.
-
-This week's music is from the Persona 3 soundtrack by Shoji Meguro.
+> 
+> This week's music is from the Persona 3 soundtrack by Shoji Meguro.
 
 <figure>
     <img src="/assets/images/edge-402.jpeg" alt="Edge 402">

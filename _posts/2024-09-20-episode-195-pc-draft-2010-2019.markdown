@@ -21,6 +21,9 @@ tags:
     <img src="/assets/images/pc-draft.jpeg" alt="PC Draft">
     <figcaption>Image Credit: gjones86</figcaption>
 </figure>
+<figure>
+    <img src="/assets/images/morse.jpeg" alt="Morse">
+</figure>
 
 ## Categories
 
@@ -87,9 +90,14 @@ tags:
 
 ## Results
 
-- Matthew
-- Jeremy
-- Samuel
+<figure>
+    <img src="/assets/images/down-to-the-wire.jpeg" alt="Down to the wire">
+</figure>
+<figure>
+    <img src="/assets/images/frozen-poll.jpeg" alt="Frozen poll">
+</figure>
 
-(? votes)
-
+- **Matthew 42%**
+- Jeremy 17%
+- Samuel 41%
+- (282 votes)
