@@ -30,3 +30,11 @@ tags:
 <figure>
     <img src="/assets/images/meme-shadow.jpeg" alt="Meme Shadow">
 </figure>
+<figure>
+    <img src="/assets/images/200-episode-word-cloud.png" alt="Word Cloud">
+    <figcaption>Word cloud, first attempt</figcaption>
+</figure>
+<figure>
+    <img src="/assets/images/200-episode-word-cloud-recount.png" alt="Word Cloud">
+    <figcaption>Demanded a recount after I realised "People Love It!" had not been considered for the word cloud</figcaption>
+</figure>
