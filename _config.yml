@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: A Back Page fansite
+repository: backpagepod/backpagepod.github.io
 description: >- # this means to ignore newlines until "baseurl:"
   This is a fansite for The Back Page podcast presented by Matthew Castle and Samuel Roberts, made by their Discord community
 github_username: IAmGrahamS
