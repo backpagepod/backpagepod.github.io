@@ -6,7 +6,6 @@ excerpt_separator: "<!--more-->"
 categories:
 - Episode
 tags:
-- Top 50
 - XL
 ---
 
