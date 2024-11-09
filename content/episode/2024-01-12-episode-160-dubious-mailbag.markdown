@@ -1,0 +1,28 @@
+---
+categories:
+- Episode
+date: "2024-01-12T07:00:00Z"
+summary: After several solid episodes in a row, The Back Page crashes down to Earth.
+  But you do get to hear about the famous person Matthew went to school with...
+tags:
+- Mailbag
+- Regular
+title: 'Episode 160: Dubious Mailbag'
+---
+
+[Play Episode](https://www.patreon.com/posts/episode-160-96319398)
+> After several solid episodes in a row, The Back Page crashes down to Earth with a mailbag crammed with irrelevant questions about food. But you do get to hear about the famous person Matthew went to school with...
+
+{{<figure 
+    src="/assets/images/sip-concrete.jpeg" 
+    alt="Pour a sip on the concrete for the deceased" >}}
+{{<figure 
+    src="/assets/images/dench.jpeg" 
+    alt="Dench" >}}
+{{<figure 
+    src="/assets/images/catchphrase.jpeg" 
+    caption="Image credit: RyanPlugs" 
+    alt="Catchphrase" >}}
+{{<figure 
+    src="/assets/images/velvetise.jpeg" 
+    alt="Velvetise into happiness" >}}

@@ -1,0 +1,73 @@
+baseURL: https://www.backpagepod.co.uk/
+disablePathToLower: true
+languageCode: en-gb
+title: A Back Page fansite
+theme: ["PaperMod", "hugo-embed-pdf-shortcode"]
+frontmatter:
+  date:
+    - :filename
+    - date
+
+permalinks:
+  posts: /episode/:slug
+
+module:
+  mounts:
+    - source: 'content'
+      target: 'content'
+      excludeFiles:
+        - 'transcripts/**'
+
+markup:
+  goldmark:
+    parser:
+      attribute:
+        block: true
+
+params:
+  mainSections:
+  - episode
+  ShowPostNavLinks: true
+  label:
+    icon: favicon.ico
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    # limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
+    keys: ["title", "permalink", "summary", "content"]
+
+menu:
+  main:
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 10
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 20
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 30
+    - identifier: patreon
+      name: Patreon
+      url: https://patreon.com/backpagepod
+      weight: 40
+    - identifier: github
+      name: GitHub
+      url: https://github.com/backpagepod/backpagepod.github.io
+      weight: 50
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
+
+security:
+  enableInlineShortcodes: true
