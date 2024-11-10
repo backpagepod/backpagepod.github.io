@@ -3,6 +3,9 @@ disablePathToLower: true
 languageCode: en-gb
 title: A Back Page fansite
 theme: ["PaperMod", "hugo-embed-pdf-shortcode"]
+
+enableRobotsTXT: true
+
 frontmatter:
   date:
     - :filename
@@ -25,6 +28,11 @@ markup:
         block: true
 
 params:
+  env: production
+  description: A fansite for the Back Page video games podcast, hosted by Samuel Roberts and Matthew Castle
+  images: ["assets/images/backpage.png"]
+  defaultTheme: auto
+  ShowPageNums: true
   mainSections:
   - episode
   ShowPostNavLinks: true
@@ -60,7 +68,7 @@ menu:
       weight: 40
     - identifier: github
       name: GitHub
-      url: https://github.com/backpagepod/bphugo
+      url: https://github.com/backpagepod/backpagepod.github.io
       weight: 50
 
 outputs:
