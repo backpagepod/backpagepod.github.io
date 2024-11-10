@@ -6,6 +6,7 @@ summary: Irrational's classic sci-fi horror immersive sim System Shock 2.
 tags:
 - PC Gaming Classics
 - Jeremy Peel
+- Phil Iwaniuk
 title: 'PC Gaming Classics Episode 1: System Shock 2'
 ---
 

@@ -7,6 +7,7 @@ summary: This foundational title in the turn-based strategy genre is hard as hec
 tags:
 - PC Gaming Classics
 - Jeremy Peel
+- Phil Iwaniuk
 title: 'PC Gaming Classics Episode 4: X-Com: UFO Defense'
 ---
 

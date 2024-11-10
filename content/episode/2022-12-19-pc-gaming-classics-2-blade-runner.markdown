@@ -6,6 +6,7 @@ summary: Westwood's Blade Runner adventure game comes under the spotlight.
 tags:
 - PC Gaming Classics
 - Jeremy Peel
+- Phil Iwaniuk
 title: 'PC Gaming Classics Episode 2: Blade Runner'
 ---
 

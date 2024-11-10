@@ -7,6 +7,7 @@ summary: 'Jeremy and Phil stretch the definition of ''classic'' to its limit in 
 tags:
 - PC Gaming Classics
 - Jeremy Peel
+- Phil Iwaniuk
 title: 'PC Gaming Classics Episode 5: Jurassic Park: Trespasser'
 ---
 

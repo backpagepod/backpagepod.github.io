@@ -24,11 +24,11 @@ title: 'Episode 80: Top 5 Dreamcast Games (with Andy Kelly)'
 
 ### Top 5
 
-0. Ready 2 Rumble Boxing
-0. Space Channel 5
-0. Rez
-0. Resident Evil – Code: Veronica
-0. Shenmue
+5. Ready 2 Rumble Boxing
+4. Space Channel 5
+3. Rez
+2. Resident Evil – Code: Veronica
+1. Shenmue
 {reversed="reversed"}
 
 ### Lore

@@ -7,6 +7,7 @@ summary: 'It''s a showdown of revolutionary late ''90s first-person shooters: id
 tags:
 - PC Gaming Classics
 - Jeremy Peel
+- Phil Iwaniuk
 title: 'PC Gaming Classics Episode 6: Quake vs Half-Life'
 ---
 

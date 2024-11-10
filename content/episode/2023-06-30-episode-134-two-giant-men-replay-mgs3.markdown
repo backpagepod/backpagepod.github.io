@@ -14,12 +14,12 @@ title: 'Episode 134: Two Giant Men Replay Metal Gear Solid 3: Snake Eater'
 > 
 > This week's music is from the Metal Gear Solid 3: Snake Eater soundtrack by Harry Gregson-Williams and Hibino Norihiko.
 
-0. The Fear
-0. Ocelot
-0. The Pain
-0. The Fury
-0. The Sorrow
-0. Volgin / Shagohod
-0. The Boss
-0. The End
+8. The Fear
+7. Ocelot
+6. The Pain
+5. The Fury
+4. The Sorrow
+3. Volgin / Shagohod
+2. The Boss
+1. The End
 {reversed="reversed"}

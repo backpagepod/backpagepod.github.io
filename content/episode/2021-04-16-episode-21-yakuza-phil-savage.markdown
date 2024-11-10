@@ -18,6 +18,7 @@ title: 'Episode 21: The Best Yakuza Games (with Phil Savage)'
 ### Rankings
 
 (We should also start with the reasons why a couple of them didn't make the Top 5, as an excuse to air my grudges about Kiwami 1 and Yakuza 4)
+
 5. Judgment
 4. Kiwami 2
 3. Yakuza: Like a Dragon

@@ -14,7 +14,8 @@ title: 'Episode 102: God of War Games Ranknarök'
 >
 > This week's music is from the God of War 2 soundtrack by Cris Velasco, Ron Fish, Gerard Marino and Mike Reagan.
 
-Rankings
+## Ranknarings
+
 7. God of War: Ascension
 6. God of War: Ghost of Sparta
 5. God of War: Chains of Olympus

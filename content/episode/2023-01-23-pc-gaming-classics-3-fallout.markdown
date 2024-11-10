@@ -7,6 +7,7 @@ summary: Jeremy and Phil tackle 1997's Fallout, arguably the most important PC R
 tags:
 - PC Gaming Classics
 - Jeremy Peel
+- Phil Iwaniuk
 title: 'PC Gaming Classics Episode 3: Fallout'
 ---
 
