@@ -9,6 +9,11 @@ tags:
 - Special Guest
 - Regular
 title: 'Episode 162: Top 10 Sega Games (with Ashley Day)'
+cover: 
+  image: /assets/images/simpsons-dreamcast.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-162-top-97199498)

@@ -10,6 +10,11 @@ tags:
 - Mailbag
 title: 'Episode 171: What We''ve Been Playing (Dragon''s Dogma 2, Rise of the Ronin,
   Helldivers 2)'
+cover: 
+  image: /assets/images/dogma-3.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-171-what-101726247)

@@ -7,6 +7,11 @@ summary: Two men who know nothing about the Dune books talk about Denis Villeneu
 tags:
 - XXL
 title: 'XXL Episode 23: Two Baron Harkonnens Watch Dune Parts 1 and 2'
+cover: 
+  image: /assets/images/harkonnen-zoom.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/xxl-episode-23-1-100998330)

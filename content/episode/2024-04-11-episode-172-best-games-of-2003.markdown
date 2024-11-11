@@ -8,6 +8,11 @@ tags:
 - GOTY
 - Regular
 title: 'Episode 172: The Best Games of 2003'
+cover: 
+  image: /assets/images/ed-stone.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-172-best-102104087)

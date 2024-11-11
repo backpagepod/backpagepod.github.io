@@ -8,6 +8,11 @@ tags:
 - Special Guest
 - Regular
 title: 'Episode 174: From OPM to Rolling Stone to IGN (with Rachel Weber)'
+cover: 
+  image: /assets/images/slaughter.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-174-from-103053243)

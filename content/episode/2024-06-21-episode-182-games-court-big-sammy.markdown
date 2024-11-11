@@ -8,6 +8,11 @@ tags:
 - Games Court
 - Regular
 title: 'Episode 182: Games Court – Big Sammy European Extreme Edition'
+cover: 
+  image: /assets/images/cursed-bayo.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-182-big-106313056)

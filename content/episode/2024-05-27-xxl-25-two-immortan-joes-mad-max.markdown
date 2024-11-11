@@ -7,6 +7,11 @@ summary: A ranking of the Mad Max movies by two men who would almost certainly b
 tags:
 - XXL
 title: 'XXL Episode 25: Two Immortan Joes Watch the Mad Max Movies'
+cover: 
+  image: /assets/images/fury-road.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/xxl-episode-25-105042762)

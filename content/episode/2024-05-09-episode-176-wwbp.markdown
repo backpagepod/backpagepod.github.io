@@ -9,6 +9,11 @@ tags:
 - Regular
 title: 'Episode 176: What We''ve Been Playing (Stellar Blade, Animal Well, Pepper
   Grinder, Dark Forces Remaster)'
+cover: 
+  image: /assets/images/stellar-blade.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-176-what-103883134)

@@ -8,6 +8,11 @@ tags:
 - Regular
 title: 'Episode 161: What We''ve Been Playing (Suicide Squad, TLOU2 Remastered, Marvel''s
   Midnight Suns)'
+cover: 
+  image: /assets/images/breaking-bad.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-161-what-96752199)

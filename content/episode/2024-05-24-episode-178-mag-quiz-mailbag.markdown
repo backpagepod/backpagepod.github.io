@@ -8,6 +8,11 @@ tags:
 - Mailbag
 - Regular
 title: 'Episode 178: The ''00s Games Magazine Quiz and Mailbag'
+cover: 
+  image: /assets/images/uncut-gems.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-178-00s-104681551)

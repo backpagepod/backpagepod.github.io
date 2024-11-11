@@ -8,6 +8,11 @@ tags:
 - Special Guest
 - Regular
 title: 'Episode 175: From Mysteries To Metroidvanias (with Stuart Turton)'
+cover: 
+  image: /assets/images/squidward.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-175-from-103517560)

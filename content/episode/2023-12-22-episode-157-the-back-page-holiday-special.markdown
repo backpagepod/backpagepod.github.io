@@ -8,6 +8,11 @@ tags:
 - Regular
 - Mailbag
 title: 'Episode 157: The Back Page Holiday Special 2023'
+cover: 
+  image: /assets/images/alien-predator-kittens.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-157-back-94989086)

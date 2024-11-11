@@ -9,6 +9,11 @@ tags:
 - Regular
 - Special Guest
 title: 'Episode 180: The PSP Draft'
+cover: 
+  image: /assets/images/three-hours.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-180-with-105577844)

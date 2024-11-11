@@ -8,6 +8,11 @@ tags:
 - Special Guest
 - Regular
 title: 'Episode 170: The Time Samuel Wronged A Freelancer (with Steven Messner)'
+cover: 
+  image: /assets/images/assassination.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-170-time-101260517)

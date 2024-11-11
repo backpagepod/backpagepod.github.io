@@ -8,6 +8,11 @@ tags:
 - GOTY
 - Regular
 title: 'Episode 163: The Best Games of 2002'
+cover: 
+  image: /assets/images/paramount-lantern.png
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-163-best-97661870)

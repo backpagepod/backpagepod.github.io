@@ -9,6 +9,11 @@ tags:
 - Regular
 title: 'Episode 183: What We''ve Been Playing (Paper Mario: The Thousand Year Door,
   Still Wakes The Deep, Mullet Madjack)'
+cover: 
+  image: /assets/images/salmon-roberts.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-183-what-107015027)

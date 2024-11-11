@@ -8,6 +8,11 @@ tags:
 - Draft
 - Regular
 title: 'Episode 166: The PlayStation Draft'
+cover: 
+  image: /assets/images/gotta-jogg.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-166-98783232)

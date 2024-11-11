@@ -8,6 +8,11 @@ tags:
 - Mailbag
 - Regular
 title: 'Episode 165: The Cursed February Mailbag'
+cover: 
+  image: /assets/images/promised-land.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-165-98542829)

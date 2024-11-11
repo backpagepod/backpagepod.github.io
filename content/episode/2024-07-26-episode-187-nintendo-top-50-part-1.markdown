@@ -8,6 +8,11 @@ tags:
 - Top 50
 title: 'Episode 187: Nintendo Top 50 Part 1 – The Art of List Making and ONM''s Final
   Top 100'
+cover: 
+  image: /assets/images/comic-workshop-3.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-187-top-108784999)

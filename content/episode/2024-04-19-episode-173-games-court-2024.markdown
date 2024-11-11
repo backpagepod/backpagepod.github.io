@@ -7,6 +7,11 @@ tags:
 - Games Court
 - Regular
 title: 'Episode 173: Games Court 2024'
+cover: 
+  image: /assets/images/anatomy-of-a-fall.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-173-2024-102518740)

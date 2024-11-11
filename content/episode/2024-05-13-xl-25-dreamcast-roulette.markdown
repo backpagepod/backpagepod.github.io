@@ -7,6 +7,11 @@ summary: Samuel and Matthew spent a Sunday afternoon playing a stack of Dreamcas
 tags:
 - XL
 title: 'XL Episode 25: Dreamcast Roulette'
+cover: 
+  image: /assets/images/reform.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/xl-episode-25-104130296)

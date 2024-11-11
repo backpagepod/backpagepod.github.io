@@ -7,6 +7,11 @@ summary: Two hours where Samuel explains what he did in Japan when he wasn't mak
 tags:
 - XL
 title: 'XL Episode 21: Samuel Bangs On About His Trip To Japan – Apologies In Advance'
+cover: 
+  image: /assets/images/samuel-japan-zoom.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/xl-episode-21-on-96041539)

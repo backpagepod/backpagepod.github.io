@@ -8,6 +8,11 @@ tags:
 - Mailbag
 - Regular
 title: 'Episode 186: Mailbag (July 2024)'
+cover: 
+  image: /assets/images/emergency-podcasts.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-186-july-108265188)

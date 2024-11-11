@@ -8,6 +8,11 @@ tags:
 - Not E3
 - Regular
 title: 'Episode 181: Top 10 Most Anticipated Games'
+cover: 
+  image: /assets/images/prestige-miffy.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-181-top-106156478)

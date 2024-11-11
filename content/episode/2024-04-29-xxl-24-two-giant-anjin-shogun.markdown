@@ -7,6 +7,11 @@ summary: This episode is all about Shogun, one of the best TV shows of the year.
 tags:
 - XXL
 title: 'XXL Episode 24: Two Giant Anjin Watch Shogun'
+cover: 
+  image: /assets/images/anjin.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/xxl-episode-24-103215229)

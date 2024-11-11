@@ -6,6 +6,11 @@ summary: Whoever wins, you lose!
 tags:
 - Regular
 title: 'Episode 184: The Back Page Election'
+cover: 
+  image: /assets/images/election-1.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-184-back-107272504)

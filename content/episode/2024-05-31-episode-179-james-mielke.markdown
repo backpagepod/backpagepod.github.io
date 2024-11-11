@@ -8,6 +8,11 @@ tags:
 - Special Guest
 - Regular
 title: 'Episode 179: From EGM to BitSummit (with James Mielke)'
+cover: 
+  image: /assets/images/that-sucks.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-179-from-105027684)
