@@ -7,6 +7,11 @@ summary: The podcast goes full Partridge in this ranking of all 25 existing Jame
 tags:
 - XXL
 title: 'XXL Episode 8: James Bond Movies Ranked'
+cover: 
+  image: assets/images/bond-tie-fighhter.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/xxl-episode-8-75184810)

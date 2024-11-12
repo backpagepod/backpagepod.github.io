@@ -7,6 +7,11 @@ summary: In this episode, we boil down the idea of what a 7/10 game is, making i
 tags:
 - XL
 title: 'XL Episode 6: Best 7/10 Games'
+cover: 
+  image: assets/images/room-oboe-2.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/xl-episode-6-7-71844720)

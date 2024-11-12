@@ -8,6 +8,11 @@ tags:
 - GOTY
 - Regular
 title: 'Episode 124: The Best Games of 2015'
+cover: 
+  image: assets/images/goty-2015.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-124-best-81762786)

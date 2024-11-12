@@ -7,6 +7,11 @@ tags:
 - GOTY
 - Regular
 title: 'Episode 33: The Best Games of 2009'
+cover: 
+  image: assets/images/filous.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9b9)

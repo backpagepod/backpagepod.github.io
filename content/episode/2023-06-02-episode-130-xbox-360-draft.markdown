@@ -8,6 +8,11 @@ tags:
 - Draft
 - Regular
 title: 'Episode 130: The Xbox 360 Draft'
+cover: 
+  image: assets/images/bateman-fable.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-130-xbox-83924344)

@@ -8,6 +8,11 @@ tags:
 - Draft
 - Regular
 title: 'Episode 81: The ''90s PC Games Draft'
+cover: 
+  image: assets/images/pc-games-draft-2.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-81-90s-67590615)

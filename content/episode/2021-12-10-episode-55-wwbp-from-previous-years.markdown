@@ -7,6 +7,11 @@ tags:
 - WWBP
 - Regular
 title: 'Episode 55: Games We''ve Been Playing In 2021 (From Previous Years)'
+cover: 
+  image: assets/images/naka-shibuya.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9a3)

@@ -9,6 +9,11 @@ tags:
 - Special Guest
 - Regular
 title: 'Episode 91: From Edge to Hit Points (with Nathan Brown)'
+cover: 
+  image: assets/images/nathan.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-91-from-70716754)

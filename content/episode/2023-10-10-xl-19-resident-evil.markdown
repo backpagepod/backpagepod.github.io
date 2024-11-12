@@ -7,6 +7,11 @@ summary: Woah, it's been one whole week since we discussed Resident Evil on this
 tags:
 - XL
 title: 'XL Episode 19: The Best Resident Evil Moments'
+cover: 
+  image: assets/images/re-merchant.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/xl-episode-19-90669175)

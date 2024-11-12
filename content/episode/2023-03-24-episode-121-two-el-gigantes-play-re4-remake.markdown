@@ -7,6 +7,11 @@ summary: We've both finished Resident Evil 4 Remake, which is out now! The origi
 tags:
 - Regular
 title: 'Episode 121: Two El Gigantes Play Resident Evil 4 Remake'
+cover: 
+  image: assets/images/matthew-rio-matchmakers.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-121-two-80464093)

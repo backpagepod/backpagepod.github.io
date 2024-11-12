@@ -7,6 +7,11 @@ summary: To tie in with a dubious Mario movie, we select 35 of the best moments 
 tags:
 - XL
 title: 'XL Episode 13: The Best Mario Moments Vol. 1'
+cover: 
+  image: assets/images/mario-moments.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-13-best-81141111)

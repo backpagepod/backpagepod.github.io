@@ -10,6 +10,11 @@ tags:
 - Regular
 title: 'Episode 136: What We''ve Been Playing (Final Fantasy 16, Trepang2, Baldur''s
   Gate 3)'
+cover: 
+  image: assets/images/apple-sauce.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-136-what-86055584)

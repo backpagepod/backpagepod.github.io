@@ -9,6 +9,11 @@ tags:
 - Mailbag
 - Regular
 title: 'Episode 122: What We''ve Been Playing (Diablo 4, PSVR2, Tchia)'
+cover: 
+  image: assets/images/sounds-like.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-122-what-80792954)

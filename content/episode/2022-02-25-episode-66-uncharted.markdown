@@ -7,6 +7,11 @@ summary: Matthew's seen the Uncharted movie, which is a nice excuse for a deep d
 tags:
 - Regular
 title: 'Episode 66: Uncharted Games (and the Mediocre Movie)'
+cover: 
+  image: assets/images/yak.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e998)

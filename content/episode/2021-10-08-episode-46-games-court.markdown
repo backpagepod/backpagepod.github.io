@@ -7,6 +7,11 @@ tags:
 - Games Court
 - Regular
 title: 'Episode 46: Bad eBay Games Court – Listener Edition'
+cover: 
+  image: assets/images/judge-castle.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9ac)

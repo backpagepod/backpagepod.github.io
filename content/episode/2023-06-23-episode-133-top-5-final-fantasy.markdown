@@ -7,6 +7,11 @@ summary: Samuel and Matthew revisit the classic Square Enix/Squaresoft RPG serie
 tags:
 - Regular
 title: 'Episode 133: Top 5 Final Fantasy Games'
+cover: 
+  image: assets/images/bugenhagen.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-133-top-84982685)

@@ -9,6 +9,11 @@ tags:
 - Jeremy Peel
 - Phil Iwaniuk
 title: 'PC Gaming Classics Episode 5: Jurassic Park: Trespasser'
+cover: 
+  image: assets/images/peel-trespasser.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/pc-gaming-5-park-80198542)

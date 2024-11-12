@@ -6,6 +6,11 @@ summary: Apologies in advance for our terrible takes in this one.
 tags:
 - XXL
 title: 'XXL Episode 2: Marvel Cinematic Universe movies ranked'
+cover: 
+  image: assets/images/blorko-snap.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/xxl-episode-2-66754098)

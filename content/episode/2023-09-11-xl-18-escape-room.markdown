@@ -7,6 +7,11 @@ summary: Matthew and Samuel relay their experience trying to solve an escape roo
 tags:
 - XL
 title: 'XL Episode 18: Two Giant Men Solve an Escape Room – and the Best Gaming Prisons'
+cover: 
+  image: assets/images/jindosh.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/xl-episode-18-89072403)

@@ -7,6 +7,11 @@ summary: Samuel catalogues the Star Wars games that exist between simple notions
 tags:
 - Regular
 title: 'Episode 77: Best Star Wars Guilty Pleasure Games'
+cover: 
+  image: assets/images/mothers-day.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-77-best-66311868)

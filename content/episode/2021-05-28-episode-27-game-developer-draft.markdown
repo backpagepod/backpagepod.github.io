@@ -7,6 +7,11 @@ tags:
 - Draft
 - Regular
 title: 'Episode 27: The Game Developer Draft'
+cover: 
+  image: assets/images/e3.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 {{<figure 

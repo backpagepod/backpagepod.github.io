@@ -7,6 +7,11 @@ tags:
 - GOTY
 - Regular
 title: 'Episode 87: The Best Games of 2013'
+cover: 
+  image: assets/images/injustice.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-87-best-69404776)

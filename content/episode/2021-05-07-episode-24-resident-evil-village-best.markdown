@@ -6,6 +6,11 @@ summary: We've both finished Resident Evil Village.
 tags:
 - Regular
 title: 'Episode 24: Resident Evil Village and the best Resi games'
+cover: 
+  image: assets/images/re2-flight-sim.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9c2)

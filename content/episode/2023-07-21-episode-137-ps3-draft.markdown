@@ -8,6 +8,11 @@ tags:
 - Draft
 - Regular
 title: 'Episode 137: The PS3 Draft'
+cover: 
+  image: assets/images/haze.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-137-ps3-86407220)

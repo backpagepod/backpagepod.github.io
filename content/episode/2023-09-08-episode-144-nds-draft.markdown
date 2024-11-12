@@ -7,6 +7,11 @@ tags:
 - Draft
 - Regular
 title: 'Episode 144: The Nintendo DS Draft'
+cover: 
+  image: assets/images/languid.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-144-ds-88953403)

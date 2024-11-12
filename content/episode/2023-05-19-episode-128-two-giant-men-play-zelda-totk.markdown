@@ -7,6 +7,11 @@ summary: Matthew has played 40 hours of the new Zelda, Samuel has played 10. How
 tags:
 - Regular
 title: 'Episode 128: Two Giant Men Play The Legend of Zelda: Tears of the Kingdom'
+cover: 
+  image: assets/images/civil-war.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-128-two-83212903)

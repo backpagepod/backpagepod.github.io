@@ -9,6 +9,11 @@ tags:
 - XXL
 title: 'XXL Episode 17: The ''Matthew Castle Productions and Big Sammy Holdings Launch
   Rival Streaming Services'' Draft'
+cover: 
+  image: assets/images/legally-responsible.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 [Play Episode](https://www.patreon.com/posts/xxl-episode-17-88395615)
 > Our first ever draft episode behind the paywall is a truly chaotic affair – see what you make of this 2.5-hour epic, then vote for the winner in the pinned tweet @BackPagePod on Twitter.

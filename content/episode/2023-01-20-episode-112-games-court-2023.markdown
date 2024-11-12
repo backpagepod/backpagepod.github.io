@@ -8,6 +8,11 @@ tags:
 - Games Court
 - Regular
 title: 'Episode 112: Games Court 2023'
+cover: 
+  image: assets/images/hutz.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-112-2023-77379753)

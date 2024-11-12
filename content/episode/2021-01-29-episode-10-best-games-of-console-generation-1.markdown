@@ -8,6 +8,11 @@ tags:
 - GOTY
 - Regular
 title: 'Episode 10: Best Games of the Console Generation - Part 1'
+cover: 
+  image: assets/images/friendship-ended.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9d0)

@@ -7,6 +7,11 @@ tags:
 - Games Court
 - Regular
 title: 'Episode 15: Bad eBay Games Court'
+cover: 
+  image: assets/images/top-trumps-1.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9cb)

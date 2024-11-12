@@ -7,6 +7,11 @@ summary: Samuel assembles a power ranking of the video games based on the Star W
 tags:
 - Regular
 title: 'Episode 123: The Best Star Wars Games'
+cover: 
+  image: assets/images/best-star-wars-games.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-123-best-81475304)

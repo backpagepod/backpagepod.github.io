@@ -9,6 +9,11 @@ tags:
 - Special Guest
 - Regular
 title: 'Episode 131: The Edge 10 Episode (with Chris Schilling)'
+cover: 
+  image: assets/images/edge-10.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-131-edge-84274401)

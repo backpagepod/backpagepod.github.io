@@ -6,6 +6,11 @@ summary: We revisit every game based on the films from Peter Jackson.
 tags:
 - Regular
 title: 'Episode 57: LOTR Games Revisited As Fellowship Turns 20'
+cover: 
+  image: assets/images/blorko.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9a1)

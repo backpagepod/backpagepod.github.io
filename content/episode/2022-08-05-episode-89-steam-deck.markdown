@@ -6,6 +6,11 @@ summary: Is Valve's handheld PC all it's cracked up to be? Yes!
 tags:
 - Regular
 title: 'Episode 89: Steam Deck Special'
+cover: 
+  image: assets/images/steam-spreading.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-89-steam-70078418)

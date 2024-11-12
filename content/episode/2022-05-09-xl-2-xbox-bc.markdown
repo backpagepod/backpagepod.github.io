@@ -7,6 +7,11 @@ summary: Samuel discusses 20 old Xbox games he's enjoyed revisiting on Xbox Seri
 tags:
 - XL
 title: 'XL Episode 2: 20 Xbox Backwards Compatible Games Worth Revisiting'
+cover: 
+  image: assets/images/pegglin.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/xl-episode-2-20-66155064)

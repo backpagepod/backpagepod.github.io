@@ -8,6 +8,11 @@ tags:
 - Draft
 - Regular
 title: 'Episode 69: The PS Vita Draft'
+cover: 
+  image: assets/images/vita-draft-day.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e995)

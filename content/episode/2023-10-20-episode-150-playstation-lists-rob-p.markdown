@@ -8,6 +8,11 @@ tags:
 - Special Guest
 - Regular
 title: 'Episode 150: The Art of PlayStation List Making (with Rob Pearson)'
+cover: 
+  image: assets/images/steal-his-look.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-150-art-91305809)

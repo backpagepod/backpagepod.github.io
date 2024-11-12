@@ -8,6 +8,11 @@ tags:
 - Games Court
 - Regular
 title: 'Episode 129: Regrettably, More Games Court'
+cover: 
+  image: assets/images/know-the-work-rules.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-129-more-83552052)

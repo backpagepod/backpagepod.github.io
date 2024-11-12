@@ -9,6 +9,11 @@ tags:
 - Mailbag
 - Regular
 title: 'Episode 85: What We''ve Been Playing (July 2022)'
+cover: 
+  image: assets/images/dog-paints.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-85-what-68796699)

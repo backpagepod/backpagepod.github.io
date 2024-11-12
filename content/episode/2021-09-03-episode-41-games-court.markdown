@@ -8,6 +8,11 @@ tags:
 - WWBP
 - Regular
 title: 'Episode 41: Bad eBay Games Court – The Retrial'
+cover: 
+  image: assets/images/judgment.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9b1)

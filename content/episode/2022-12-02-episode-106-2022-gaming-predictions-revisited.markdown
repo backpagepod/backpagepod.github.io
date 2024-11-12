@@ -8,6 +8,11 @@ tags:
 - Predictions
 - Regular
 title: 'Episode 106: 2022 Gaming Predictions Revisited'
+cover: 
+  image: assets/images/pod-wife.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-106-2022-75381353)

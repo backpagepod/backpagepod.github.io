@@ -7,6 +7,11 @@ summary: 'After about 8 episodes of promotion, our ranking of the Mission: Impos
 tags:
 - XXL
 title: 'XXL Episode 16: Mission: Impossible Pod Rankening'
+cover: 
+  image: assets/images/mission-impossible.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/xxl-episode-16-86908870)

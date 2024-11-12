@@ -7,6 +7,11 @@ tags:
 - Games Court
 - Regular
 title: 'Episode 68: Bad eBay Games Court 2022'
+cover: 
+  image: assets/images/pulpin.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e996)

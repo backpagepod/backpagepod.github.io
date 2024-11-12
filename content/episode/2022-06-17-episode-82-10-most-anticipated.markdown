@@ -10,6 +10,11 @@ tags:
 - Regular
 - Not E3
 title: 'Episode 82: Top 10 Most Anticipated Games'
+cover: 
+  image: assets/images/peel.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-82-top-67874618)

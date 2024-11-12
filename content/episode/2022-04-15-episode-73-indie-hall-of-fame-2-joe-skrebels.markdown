@@ -10,6 +10,11 @@ tags:
 - Hall of Fame
 - Regular
 title: 'Episode 73: The Indie Games Hall of Fame Vol. 2 (with Joe Skrebels)'
+cover: 
+  image: assets/images/rumours.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-73-indie-65122006)
