@@ -8,6 +8,8 @@ tags:
 title: "XL Episode 32: Two Giant Men Play Metal Gear Solid"
 cover: 
   image: assets/images/mgs-faces.jpeg
+  width: 1100
+  height: 1280
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -27,5 +29,5 @@ cover:
     caption="Image Credit: Mark Scicluna" 
     alt="MGS Comic" >}}
 {{<figure 
-    src="/assets/images/mgs-door.jpeg" 
-    alt="MGS Door" >}}
+    src="/assets/images/mgs-kart.jpeg" 
+    alt="MGS Kart" >}}

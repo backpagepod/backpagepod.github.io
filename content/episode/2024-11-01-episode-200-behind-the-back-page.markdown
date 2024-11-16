@@ -9,10 +9,12 @@ tags:
 - Jeremy Peel
 title: 'Episode 200: Behind The Back Page'
 cover: 
-  image: assets/images/people-love-it.jpeg
-  hidden: false
-  hiddenInList: false
-  hiddenInSingle: false
+    image: assets/images/people-love-it.jpeg
+    width: 1000
+    height: 638
+    hidden: false
+    hiddenInList: false
+    hiddenInSingle: false
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-200-back-114770235)
