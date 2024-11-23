@@ -35,3 +35,5 @@ cover:
     src="/assets/images/its-da-bat.jpeg" 
     alt="It's da bat!"
     >}}
+
+The murder mystery podcast Matthew was referring to in the episode is [Solve This Murder](https://www.consumethismedia.com/solve-this-murder).

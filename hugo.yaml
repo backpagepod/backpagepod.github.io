@@ -13,6 +13,7 @@ frontmatter:
 
 permalinks:
   posts: /episode/:slug
+  posts: /post/:slug
 
 module:
   mounts:
@@ -35,6 +36,7 @@ params:
   ShowPageNums: true
   mainSections:
   - episode
+  - post
   ShowPostNavLinks: true
   label:
     icon: favicon.ico
