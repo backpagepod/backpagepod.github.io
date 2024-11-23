@@ -2,7 +2,7 @@
 categories:
 - Post
 date: "2024-11-23T09:00:00Z"
-summary: Please join us on Bluesky
+summary: Please join us on Bluesky.
 tags:
 - Regular
 
