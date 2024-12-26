@@ -13,13 +13,22 @@ cover:
   width: 1280
   hidden: false
   hiddenInList: false
-  hiddenInSingle: true
+  hiddenInSingle: false
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-202-what-116007733)
 > Beefy games chat this week on all of the above – plus The Rise of the Golden Idol, FF7 Rebirth and Apex Legends.
 >
 > Thanks to Matthew 'Matty C' Castle for the edits this week.
+
+{{<figure 
+    src="/assets/images/samuel-shelf-1.jpeg" 
+    alt="Samuel Shelf"
+    >}}
+{{<figure 
+    src="/assets/images/samuel-shelf-2.jpeg" 
+    alt="Samuel Shelf"
+    >}}
 
 - Dragon Age: The Veilguard
 - Call of Duty: Black Ops 6
@@ -31,9 +40,6 @@ cover:
 - Apex Legends
 
 
-{{<figure 
-    src="/assets/images/its-da-bat.jpeg" 
-    alt="It's da bat!"
-    >}}
+
 
 The murder mystery podcast Matthew was referring to in the episode is [Solve This Murder](https://www.consumethismedia.com/solve-this-murder).

@@ -22,5 +22,14 @@ cover:
     src="/assets/images/samuel-japan-zoom.jpeg" 
     caption="Image credit: Naeslyn" 
     alt="Samuel Japan Zoom">}}
+{{<figure 
+    src="/assets/images/wonderful-japan.jpeg" 
+    caption="Image Credit: Naeslyn" 
+    alt="Wonderful Japan">}}
+{{<figure 
+    src="/assets/images/square-enix-cafe.jpeg" 
+    caption="Image Credit: rwobke" 
+    alt="Squenix Cafe">}}
+
 
 [Japlan Guide](https://docs.google.com/document/d/1sWrApO8GWgaDXaGGatsZ7ENkFvF6THMLgnYJpOwF8es/edit?usp=drivesdk)

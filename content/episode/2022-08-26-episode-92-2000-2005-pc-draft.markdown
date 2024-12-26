@@ -8,12 +8,24 @@ tags:
 - Draft
 - Regular
 title: 'Episode 92: The 2000-2005 PC Gaming Draft'
+cover: 
+  image: assets/images/deus-ex-kitchen.jpeg
+  width: 862
+  height: 228
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-92-2000-70859680)
 > It's draft revenge time! Who can pick the 10 best games released during the years 2000-2005? Vote for the winner @backpagepod on Twitter in the pinned tweet. We'll update this episode description when a winner has been declared.
 >
 > This week's music is from the Command & Conquer: Red Alert 2 soundtrack by Frank Klepacki.
+
+{{<figure 
+    src="/assets/images/deus-ex-kitchen.jpeg" 
+    caption="Image Credit: TABBDL" 
+    alt="Deus Ex Kitchen">}}
 
 ## Rules
 

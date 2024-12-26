@@ -16,6 +16,11 @@ cover:
     hiddenInSingle: false
 ---
 
+{{<figure 
+    src="/assets/images/social-media.jpeg" 
+    alt="Social Media" 
+    caption="Image Credit: SAFC_Jack91">}}
+
 > Yeah. Matthew, where could people find you on social media?
 >
 > I am at [MrBasilPestoNoUnderscore on Bluesky](https://bsky.app/profile/did:plc:wsfjyvcbs76agcqnodwghl3p) and MrBasilUnderscorePesto on Twitter, but I'm trying not to use it as much. So go to Bluesky.

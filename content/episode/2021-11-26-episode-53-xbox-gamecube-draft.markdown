@@ -8,6 +8,13 @@ tags:
 - Draft
 - Regular
 title: 'Episode 53: The Xbox vs GameCube Draft'
+cover: 
+    image: assets/images/obvious-pick.jpeg
+    width: 768
+    height: 448
+    hidden: true
+    hiddenInList: false
+    hiddenInSingle: false
 ---
 
 [Play Episode](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9a5)

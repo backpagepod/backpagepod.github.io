@@ -6,6 +6,13 @@ summary: We rank all 22 levels in the Hitman World of Assassination Trilogy.
 tags:
 - XL
 title: 'XL Episode 5: The Hitman Re-Ranking'
+cover: 
+  image: assets/images/hitman-2.jpeg
+  width: 830
+  height: 1280
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: false
 ---
 
 [Play Episode](https://www.patreon.com/posts/xl-episode-5-re-70200142)

@@ -31,6 +31,15 @@ cover:
 {{<figure 
     src="/assets/images/cheers-tweet-2.png" 
     alt="Cheers Tweet 2" >}}
+{{<figure 
+    src="/assets/images/andrew-assignment.jpeg" 
+    caption="Image Credit: IMGTR63" 
+    alt="Andrew Assignment">}}
+{{<figure 
+    src="/assets/images/gamecube-backpack.jpeg" 
+    caption="Image Credit: IMGTR63" 
+    alt="Andrew Assignment">}}
+
 
 {{< youtube xOQNSi79kng >}}
 

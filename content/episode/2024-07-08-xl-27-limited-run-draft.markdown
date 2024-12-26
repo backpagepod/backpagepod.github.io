@@ -8,6 +8,13 @@ tags:
 - Draft
 - XL
 title: 'XL Episode 27: The Limited Run Competitor Draft'
+cover: 
+  image: assets/images/oh-f-that-sucks.jpeg
+  width: 768
+  height: 448
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/xl-episode-27-107767518)
@@ -17,6 +24,10 @@ title: 'XL Episode 27: The Limited Run Competitor Draft'
 >
 > This week's music is from Encarta Mind Maze, composer unknown. Thanks to Michael 'BanyaBat' Butter for the edits!
 
+{{<figure 
+    src="/assets/images/oh-f-that-sucks.jpeg" 
+    alt="Oh F That Sucks"
+    caption="Image Credit: Bjorn"  >}}
 {{<figure 
     src="/assets/images/limited-run-1.jpeg" 
     alt="Limited Run" >}}

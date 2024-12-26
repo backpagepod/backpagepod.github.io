@@ -7,6 +7,13 @@ tags:
 - Games Court
 - Regular
 title: 'Episode 97: Games Court – Judge Sammy''s Garbage Barge'
+cover: 
+  image: assets/images/doom-3-goldeneye.jpeg
+  width: 868
+  height: 652
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-97-games-72641768)
@@ -14,6 +21,11 @@ title: 'Episode 97: Games Court – Judge Sammy''s Garbage Barge'
 >
 > Apologies in advance if you hate Games Court.
 
+{{<figure 
+    src="/assets/images/doom-3-goldeneye.jpeg" 
+    alt="Doom 3 Goldeneye"
+    caption="Image Credit: christmaslittledonkey"  >}}
+
 ### Lore
 
- - Cursed Doom 3 anecdote
+ - Cursed Doom 3 anecdote involving pubes

@@ -7,6 +7,13 @@ summary: The top 5 Kirby games, and detailed thoughts on Kirby and the Forgotten
 tags:
 - Regular
 title: 'Episode 71: The Best Kirby Games'
+cover: 
+  image: assets/images/kirby-rennie.jpeg
+  width: 1008
+  height: 920
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e993)
@@ -14,6 +21,11 @@ title: 'Episode 71: The Best Kirby Games'
 > The top 5 Kirby games, and detailed thoughts on Kirby and the Forgotten Land for Nintendo Switch. Enjoy!
 >
 > This week's music is from the Kirby and the Forgotten Land soundtrack by Yuuta Ogasawara, Hirokazu Ando, Jun Ishikawa and Yuki Shimooka, and the Kirby's Epic Yarn soundtrack by Tomoya Tomita. Our theme tune is by Barry 'Epoch' Topping (@nostoppingepoch).
+
+{{<figure 
+    src="/assets/images/kirby-rennie.jpeg" 
+    caption="Image Credit: WoonerSparrowHockOfHam" 
+    alt="Hope for the Future">}}
 
 ### Top 5?
 

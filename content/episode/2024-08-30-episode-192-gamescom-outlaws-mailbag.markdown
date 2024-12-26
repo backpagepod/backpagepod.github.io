@@ -32,6 +32,10 @@ cover:
 {{<figure 
     src="/assets/images/batman-begin.jpeg" 
     alt="Batman Begin" >}}
+{{<figure 
+    src="/assets/images/batman-begin-2.jpeg" 
+    caption="Image Credit: scrowe" 
+    alt="Batman Begin" >}}
 
 Raspberrybrain: Reading the latest Retro Gamer made me think of a question I’ve had for a long time and that would be perfect for our esteemed hosts. When laying out a magazine page, what is your intent on how a reader should progress through a page? Should they read the main story all the way through first and then go back through all the sidebar and secondary stuff? Or should they stop reading the main stuff and switch over to the secondary things? I’ve attached an example of this - the main story continues on the page, but it’s full of other smaller things that always pull my attention away and make me think, “What should I be reading here?” 
 

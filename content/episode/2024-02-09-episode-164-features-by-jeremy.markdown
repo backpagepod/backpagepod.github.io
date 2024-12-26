@@ -8,6 +8,13 @@ tags:
 - Jeremy Peel
 - Regular
 title: 'Episode 164: How To Write A Feature About Games (with Jeremy Peel)'
+cover: 
+  image: assets/images/peel-more-suited.jpeg
+  width: 1034
+  height: 907
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-164-how-98122832)
@@ -21,6 +28,10 @@ title: 'Episode 164: How To Write A Feature About Games (with Jeremy Peel)'
     src="/assets/images/edge-395.jpeg" 
     caption="Edge 395, featuring Jeremy's cover world premiere. Image Credit: GGABronco" 
     alt="Edge 395">}}
+{{<figure 
+    src="/assets/images/peel-more-suited.jpeg" 
+    caption="Image Credit: cboy77" 
+    alt="Peel More Suited">}}
 
 [Matthew Castle IMDB](https://www.imdb.com/name/nm7640062/)
 

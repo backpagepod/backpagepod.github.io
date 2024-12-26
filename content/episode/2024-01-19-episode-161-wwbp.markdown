@@ -39,3 +39,7 @@ cover:
     src="/assets/images/pooh.png" 
     caption="Samuel, pictured while recording the pod" 
     alt="Samuel, pictured while recording the pod">}}
+{{<figure 
+    src="/assets/images/pooh-trousers.jpeg" 
+    caption="Image Credit: BetamaxBandit" 
+    alt="Samuel, pictured while recording the pod">}}

@@ -7,12 +7,24 @@ tags:
 - GOTY
 - Regular
 title: 'Episode 4: The Best Games of 2006'
+cover: 
+  image: assets/images/hoover-lineup.jpeg
+  width: 640
+  height: 400
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9d6)
 > From Twilight Princess to Gears of War, travel back to the dawn of HD gaming in our 2006-themed retrospective podcast. Matthew and Samuel both count down their top 10 games from that year, and recall the biggest news headlines, from Peter Moore's ludicrous GTA 4 tattoo to the PS3's pricing disaster. Get ready for a comfy 2.5 hours of nostalgia (hopefully not in an unbearable way).
 >
 > This week's music comes from the Bully soundtrack by Shawn Lee, The Legend of Zelda: Twilight Princess soundtrack by Toru Minegishi, Asuka Ohta and Koji Kondo, and the Rhythm Tengoku soundtrack by Tsunku and Masami Yone.
+
+{{<figure 
+    src="/assets/images/hoover-lineup.jpeg" 
+    caption="Image Credit: NaesLyn" 
+    alt="Hoover Lineup">}}
 
 # Picks
 

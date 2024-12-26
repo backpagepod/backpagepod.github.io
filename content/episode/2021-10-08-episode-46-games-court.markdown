@@ -22,3 +22,7 @@ cover:
 {{<figure 
     src="/assets/images/judge-castle.jpeg"
     alt="Judge Castle" >}}
+{{<figure 
+    src="/assets/images/caine-oh-no.jpeg"
+    alt="Caine Oh No"
+    caption="Image Credit: kraftcheese" >}}

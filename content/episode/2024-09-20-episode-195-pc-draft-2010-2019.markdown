@@ -29,6 +29,10 @@ cover:
 {{<figure 
     src="/assets/images/morse.jpeg" 
     alt="Morse" >}}
+{{<figure 
+    src="/assets/images/gta-v-pc-draft.jpeg" 
+    alt="GTA V"
+    caption="Image Credit: Bjorn" >}}
 
 ## Categories
 

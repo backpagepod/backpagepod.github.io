@@ -7,6 +7,13 @@ summary: Matthew and Samuel foolishly try to create power rankings for the first
 tags:
 - XXL
 title: 'XXL Episode 15: The Indiana Jones Rankings'
+cover: 
+  image: assets/images/club-obi-wan.jpeg
+  width: 828
+  height: 356
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: false
 ---
 
 [Play Episode](https://www.patreon.com/posts/xxl-episode-15-85116654)

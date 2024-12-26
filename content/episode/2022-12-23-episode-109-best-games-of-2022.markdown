@@ -8,12 +8,24 @@ tags:
 - GOTY
 - Regular
 title: 'Episode 109: The Best Games of 2022'
+cover: 
+  image: assets/images/immortality.jpeg
+  width: 512
+  height: 448
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-109-best-76163497)
 > 2022 was undoubtedly a blockbuster-deprived year, but it was still a strong 12 months for games in many other ways. Our two top 10 lists reflect that state of affairs. Enjoy this nearly 3-hour rundown of our favourites from 2022, which is our last new games pod of the year as we take a short break ahead of January's episodes (though Patreon XL folks can look forward to our best TV shows of 2022 XXL episode next Friday).
 >
 > Thank you for your support, and happy holidays! This week's music is from the Norco soundtrack by Andy G.
+
+{{<figure 
+    src="/assets/images/immortality.jpeg" 
+    alt="Immortality" 
+    caption="Image Credit: kraftcheese">}}
 
 ### Courtesy Shout-outs
 

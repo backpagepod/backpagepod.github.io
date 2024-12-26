@@ -43,6 +43,14 @@ cover:
     src="/assets/images/pc-games-draft-2.jpeg" 
     caption="Image Credit: JackyBoy34" 
     alt="" >}}
+{{<figure 
+    src="/assets/images/tie-fighter-press-f.jpeg" 
+    alt="Tie Fighter"
+    caption="Image Credit: Samuel"  >}}
+{{<figure 
+    src="/assets/images/phoenix-tie-fighter.mp4" 
+    alt="Tie Fighter"
+    caption="Image Credit: jaybeedee"  >}}
 
 ## The Categories
 1. FPS 1

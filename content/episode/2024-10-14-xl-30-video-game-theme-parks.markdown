@@ -18,6 +18,10 @@ cover:
 >
 > Thanks to Michael 'BanyaBat' Butter for the edits!
 
+{{<figure 
+    src="/assets/images/yuji-naka.gif" 
+    alt="Yuji Naka">}}
+
 |Video Game Theme Parks|
 |--|
 |Category 1: Ride where it takes a photo of you at some point|
