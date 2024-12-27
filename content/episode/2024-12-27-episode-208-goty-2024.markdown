@@ -1,7 +1,7 @@
 ---
 categories:
 - Episode
-date: "2024-12-26T09:00:00Z"
+date: "2024-12-27T00:01:00Z"
 summary: Two top 10 lists of our favourite games from 2024.
 tags:
 - GOTY

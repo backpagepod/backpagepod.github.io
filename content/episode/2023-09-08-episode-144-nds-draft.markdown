@@ -50,7 +50,7 @@ cover:
 {{<figure 
     src="/assets/images/languid-respect.jpeg" 
     alt="Languid Respect"
-    caption="TABBDL" >}}
+    caption="Image Credit: TABBDL" >}}
 
 ## The Categories?
 1. Game with 'Dr' or 'Professor' in the title
