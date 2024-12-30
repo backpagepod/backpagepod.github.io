@@ -8,12 +8,11 @@ tags:
 - Regular
 title: 'Episode 208: The Best Games of 2024'
 cover: 
-  image: assets/images/balatro-card.jpeg
-  width: 1280
-  height: 1280
+  image: balatro-card.jpeg
   hidden: false
   hiddenInList: false
-  hiddenInSingle: true
+  hiddenInSingle: false
+  caption: "Image Credit: Katharine Castle"
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-208-best-118282831)
@@ -21,10 +20,6 @@ cover:
 >
 > This week's music is from the Balatro soundtrack by LouisF
 
-{{<figure 
-    src="/assets/images/balatro-card.jpeg" 
-    alt="Balatro Xmas Card" 
-    caption="Image Credit: Katharine Castle">}}
 {{<figure 
     src="/assets/images/castle-alarmo-1.jpeg" 
     alt="Castle Alarmo">}}
