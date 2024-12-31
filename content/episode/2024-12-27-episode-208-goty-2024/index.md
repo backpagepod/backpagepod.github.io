@@ -21,10 +21,10 @@ cover:
 > This week's music is from the Balatro soundtrack by LouisF
 
 {{<figure 
-    src="/assets/images/castle-alarmo-1.jpeg" 
+    src="castle-alarmo-1.jpeg" 
     alt="Castle Alarmo">}}
 {{<figure 
-    src="/assets/images/castle-alarmo-2.jpeg" 
+    src="castle-alarmo-2.jpeg" 
     alt="Castle Alarmo">}}
 
 ### Not played enough to judge
