@@ -19,7 +19,7 @@ cover:
 > Thanks to Michael 'BanyaBat' for the edits. This week's music is from the X-Men '97 soundtrack by the Newton Brothers.
 
 {{<figure 
-    src="/assets/images/games-court-return-2.jpeg" 
+    src="games-court-return-2.jpeg" 
     alt="Games Court Will Return">}}
 
 ## Films
