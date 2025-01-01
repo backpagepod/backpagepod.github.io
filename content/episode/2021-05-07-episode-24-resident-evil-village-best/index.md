@@ -7,7 +7,7 @@ tags:
 - Regular
 title: 'Episode 24: Resident Evil Village and the best Resi games'
 cover: 
-  image: assets/images/re2-flight-sim.jpeg
+  image: re2-flight-sim.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -19,7 +19,7 @@ cover:
 > This episode's music is from the Resident Evil 4 soundtrack by Misao Senbongi and the Resident Evil 5 soundtrack by Kota Suzuki.
 
 {{<figure 
-  src="/assets/images/re2-flight-sim.jpeg" 
+  src="re2-flight-sim.jpeg" 
   caption="Image Credit: Mailbox" 
   alt="RE2 Flight Sim">}}
 

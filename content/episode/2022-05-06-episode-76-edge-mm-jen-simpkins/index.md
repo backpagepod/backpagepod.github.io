@@ -18,7 +18,7 @@ title: 'Episode 76: From Edge to Media Molecule (with Jen Simpkins)'
 > Looksley's Line-Up is the DSi game mentioned early in the episode. 
 >
 > {{<figure 
-    src="/assets/images/jen-playdate.webp" 
+    src="jen-playdate.webp" 
     caption="The Playdate drawing Jen mentioned" 
     alt="The Playdate drawing Jen mentioned">}}
 >

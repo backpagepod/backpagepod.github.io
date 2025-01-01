@@ -15,5 +15,5 @@ title: 'XL Episode 26: Two Giant Men Play Beyond Good and Evil'
 > Matthew had some light audio issues in this episode, so you'll get a bit of crackle in the background, but hopefully it's not disruptive. Thanks to Michael Butter for the edits!
 
 {{<figure 
-    src="/assets/images/rancid-boss.jpeg" 
+    src="rancid-boss.jpeg" 
     alt="Rancid Boss" >}}

@@ -10,7 +10,7 @@ tags:
 - Regular
 title: 'Episode 162: Top 10 Sega Games (with Ashley Day)'
 cover: 
-  image: /assets/images/simpsons-dreamcast.jpeg
+  image: simpsons-dreamcast.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -23,46 +23,46 @@ cover:
 > This week's music is from the Shining Force 3 soundtrack by Motoi Sakuraba.
 
 {{<figure 
-    src="/assets/images/samman.png" 
+    src="samman.png" 
     caption="Image Credit: Shugdaddy" 
     alt="Samman">}}
 {{<figure 
-    src="/assets/images/dreamcast-buy.png" 
+    src="dreamcast-buy.png" 
     alt="Dreamcast Buy" >}}
 {{<figure 
-    src="/assets/images/saturn-buy.png" 
+    src="saturn-buy.png" 
     alt="Saturn from FB Marketplace" >}}
 {{<figure 
-    src="/assets/images/saturn-dc.png" 
+    src="saturn-dc.png" 
     alt="Saturn and a Dreamcast" >}}
 {{<figure 
-    src="/assets/images/saturn.jpeg" 
+    src="saturn.jpeg" 
     alt="Saturn" >}}
 {{<figure 
-    src="/assets/images/dreamcast.jpeg" 
+    src="dreamcast.jpeg" 
     alt="Dreamcast" >}}
 {{<figure 
-    src="/assets/images/dreamcast-hdmi.jpeg" 
+    src="dreamcast-hdmi.jpeg" 
     alt="Dreamcast HDMI" >}}
 {{<figure 
-    src="/assets/images/vmu.jpeg" 
+    src="vmu.jpeg" 
     alt="VMU" >}}
 {{<figure 
-    src="/assets/images/4x-vmu.jpeg" 
+    src="4x-vmu.jpeg" 
     alt="4x VMU" >}}
 {{<figure 
-    src="/assets/images/floigan-vmu.png" 
+    src="floigan-vmu.png" 
     caption="Image Credit: RyanPlugs" 
     alt="Floigan VMU">}}
 {{<figure 
-    src="/assets/images/simpsons-dreamcast.jpeg" 
+    src="simpsons-dreamcast.jpeg" 
     caption="Image Credit: Daithi" 
     alt="Simpsons Dreamcast">}}
 {{<figure 
-    src="/assets/images/worms.jpeg" 
+    src="worms.jpeg" 
     alt="Worms" >}}
 {{<figure 
-    src="/assets/images/outrun-2-cover.png" 
+    src="outrun-2-cover.png" 
     alt="Edge OutRun 2 cover" >}}
 
 - Like a Dragon: Infinite Wealth

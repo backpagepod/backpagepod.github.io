@@ -11,7 +11,7 @@ tags:
 - Jeremy Peel
 title: 'Episode 195: PC Gaming Draft 2010-2019 (with Jeremy Peel)'
 cover: 
-  image: assets/images/pc-draft.jpeg
+  image: pc-draft.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -23,14 +23,14 @@ cover:
 > This week's music is from the VVVVVV soundtrack by Magnus Pålsson.
 
 {{<figure 
-    src="/assets/images/pc-draft.jpeg" 
+    src="pc-draft.jpeg" 
     caption="Image Credit: gjones86" 
     alt="PC Draft">}}
 {{<figure 
-    src="/assets/images/morse.jpeg" 
+    src="morse.jpeg" 
     alt="Morse" >}}
 {{<figure 
-    src="/assets/images/gta-v-pc-draft.jpeg" 
+    src="gta-v-pc-draft.jpeg" 
     alt="GTA V"
     caption="Image Credit: Bjorn" >}}
 
@@ -100,10 +100,10 @@ cover:
 ## Results
 
 {{<figure 
-    src="/assets/images/down-to-the-wire.jpeg" 
+    src="down-to-the-wire.jpeg" 
     alt="Down to the wire" >}}
 {{<figure 
-    src="/assets/images/frozen-poll.jpeg" 
+    src="frozen-poll.jpeg" 
     alt="Frozen poll" >}}
 
 - **Matthew 42%**

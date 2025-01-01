@@ -8,7 +8,7 @@ tags:
 - Regular
 title: 'Episode 97: Games Court – Judge Sammy''s Garbage Barge'
 cover: 
-  image: assets/images/doom-3-goldeneye.jpeg
+  image: doom-3-goldeneye.jpeg
   width: 868
   height: 652
   hidden: false
@@ -22,7 +22,7 @@ cover:
 > Apologies in advance if you hate Games Court.
 
 {{<figure 
-    src="/assets/images/doom-3-goldeneye.jpeg" 
+    src="doom-3-goldeneye.jpeg" 
     alt="Doom 3 Goldeneye"
     caption="Image Credit: christmaslittledonkey"  >}}
 

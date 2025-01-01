@@ -9,7 +9,7 @@ tags:
 - Regular
 title: 'Episode 10: Best Games of the Console Generation - Part 1'
 cover: 
-  image: assets/images/friendship-ended.jpeg
+  image: friendship-ended.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -21,7 +21,7 @@ cover:
 > This week's music is from the Prey soundtrack by Mick Gordon, the Danganronpa V3 soundtrack by Masafumi Takada and the Final Fantasy XV soundtrack by Yoko Shimomura.
 
 {{<figure 
-    src="/assets/images/friendship-ended.jpeg"
+    src="friendship-ended.jpeg"
     alt="Friendship Ended" >}}
 
 ## Matthew

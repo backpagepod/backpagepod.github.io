@@ -9,7 +9,7 @@ tags:
 - Regular
 title: 'Episode 108: The RPG Companions Draft'
 cover: 
-  image: assets/images/phantology.jpeg
+  image: phantology.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -21,11 +21,11 @@ cover:
 > This week's music is from the Final Fantasy VIII soundtrack by Nobuo Uematsu.
 
 {{<figure 
-    src="/assets/images/infinite-worlds.jpeg" 
+    src="infinite-worlds.jpeg" 
     caption="Image credit: TsuMuch" 
     alt="Infinite Worlds" >}}
 {{<figure 
-    src="/assets/images/phantology.jpeg" 
+    src="phantology.jpeg" 
     caption="Image credit: TsuMuch" 
     alt="Phantology" >}}
 

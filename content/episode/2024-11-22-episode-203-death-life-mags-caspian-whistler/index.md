@@ -9,7 +9,7 @@ tags:
 
 title: 'Episode 203: The Death and Life of Games Magazines (with Caspian Whistler)'
 cover: 
-    image: assets/images/apwot-shu.jpeg
+    image: apwot-shu.jpeg
     width: 1280
     height: 960
     hidden: false
@@ -24,19 +24,19 @@ cover:
 
 
 {{<figure 
-    src="/assets/images/apwot-5.jpeg" 
+    src="apwot-5.jpeg" 
     alt="APWOT 5" >}}
 {{<figure 
-    src="/assets/images/apwot-4.webp" 
+    src="apwot-4.webp" 
     alt="APWOT 4" >}}
 {{<figure 
-    src="/assets/images/apwot-3.webp" 
+    src="apwot-3.webp" 
     alt="APWOT 3" >}}
 {{<figure 
-    src="/assets/images/apwot-2.webp" 
+    src="apwot-2.webp" 
     alt="APWOT 2" >}}
 {{<figure 
-    src="/assets/images/apwot-1.webp" 
+    src="apwot-1.webp" 
     alt="APWOT 1" >}}
 
 [APWOT Shop](https://shop.apwot.com)

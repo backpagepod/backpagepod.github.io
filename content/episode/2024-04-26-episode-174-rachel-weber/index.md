@@ -9,7 +9,7 @@ tags:
 - Regular
 title: 'Episode 174: From OPM to Rolling Stone to IGN (with Rachel Weber)'
 cover: 
-  image: /assets/images/slaughter.jpeg
+  image: slaughter.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -24,30 +24,30 @@ cover:
 {{< youtube wPB5IXa2iQk >}}
 
 {{<figure 
-    src="/assets/images/slaughter.jpeg" 
+    src="slaughter.jpeg" 
     alt="Slaughter" >}}
 
 [Slaughter: Horror at Sony's depraved promotion stunt with decapitated goat](https://www.dailymail.co.uk/news/article-451414/Slaughter-Horror-Sonys-depraved-promotion-stunt-decapitated-goat.html?)
 
 {{<figure 
-    src="/assets/images/chicago-pizza.jpeg" 
+    src="chicago-pizza.jpeg" 
     caption="A Chicago Pizza" 
     alt="Chicago Pizza">}}
 
 {{<figure 
-    src="/assets/images/lampshade.jpeg" 
+    src="lampshade.jpeg" 
     alt="Lampshade" >}}
 
 {{<figure 
-    src="/assets/images/horrible.jpeg" 
+    src="horrible.jpeg" 
     alt="Horrible" >}}
 {{<figure 
-    src="/assets/images/horrible-2.jpeg" 
+    src="horrible-2.jpeg" 
     alt="Horrible" >}}
 {{<figure 
-    src="/assets/images/horrible-3.jpeg" 
+    src="horrible-3.jpeg" 
     alt="Horrible" >}}
 {{<figure 
-    src="/assets/images/horrible-4.jpeg" 
+    src="horrible-4.jpeg" 
     caption="Image Credit: NaesLyn" 
     alt="Horrible">}}

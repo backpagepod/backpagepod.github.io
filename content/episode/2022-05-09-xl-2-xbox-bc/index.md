@@ -8,7 +8,7 @@ tags:
 - XL
 title: 'XL Episode 2: 20 Xbox Backwards Compatible Games Worth Revisiting'
 cover: 
-  image: assets/images/pegglin.jpeg
+  image: pegglin.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -20,7 +20,7 @@ cover:
 > This week's music is from the Mercenaries 2: World in Flames soundtrack by Peter Stormare and the Wojahn Brothers (Samuel was wrong, this isn't Peter Stormare's band, but the full track is worth a listen).
 
 {{<figure 
-    src="/assets/images/pegglin.jpeg" 
+    src="pegglin.jpeg" 
     caption="Image Credit: PersonalNadir" 
     alt="Always be Pegglin'">}}
 

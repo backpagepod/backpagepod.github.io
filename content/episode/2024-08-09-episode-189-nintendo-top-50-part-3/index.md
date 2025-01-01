@@ -8,7 +8,7 @@ tags:
 - Top 50
 title: 'Episode 189: Nintendo Top 50 Part 3 – The Final Countdown'
 cover: 
-  image: assets/images/nintendo-top-50-1.jpeg
+  image: nintendo-top-50-1.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -20,13 +20,13 @@ cover:
 > This week's music is once again the Wii Shop Channel theme by Kazumi Totaka.
 
 {{<figure 
-    src="/assets/images/long-john-beep.jpeg" 
+    src="long-john-beep.jpeg" 
     alt="Long John Beep" >}}
 {{<figure 
-    src="/assets/images/nintendo-top-50-1.jpeg" 
+    src="nintendo-top-50-1.jpeg" 
     alt="Top 50" >}}
 {{<figure 
-    src="/assets/images/nintendo-top-50-2.jpeg" 
+    src="nintendo-top-50-2.jpeg" 
     caption="Image Credit: Tanner" 
     alt="Top 50">}}
 

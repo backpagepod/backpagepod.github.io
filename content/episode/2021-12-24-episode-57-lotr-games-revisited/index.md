@@ -7,7 +7,7 @@ tags:
 - Regular
 title: 'Episode 57: LOTR Games Revisited As Fellowship Turns 20'
 cover: 
-  image: assets/images/blorko.jpeg
+  image: blorko.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -19,10 +19,10 @@ cover:
 > This week's music is from The Lord of the Rings: The Two Towers on GBA, based on the music of Howard Shore, and the Middle-earth: Shadow of Mordor and Middle-earth: Shadow of War soundtracks by Garry Schyman and Nathan Grigg.
 
 {{<figure 
-    src="/assets/images/blorko.jpeg"
+    src="blorko.jpeg"
     alt="Blorko" >}}
 {{<figure 
-    src="/assets/images/blorko-reply.jpeg"
+    src="blorko-reply.jpeg"
     alt="Blorko Reply" >}}
 
 - The Lord of the Rings: The Two Towers

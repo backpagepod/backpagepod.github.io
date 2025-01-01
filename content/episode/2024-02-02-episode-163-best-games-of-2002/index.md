@@ -9,7 +9,7 @@ tags:
 - Regular
 title: 'Episode 163: The Best Games of 2002'
 cover: 
-  image: /assets/images/paramount-lantern.png
+  image: paramount-lantern.png
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -21,22 +21,22 @@ cover:
 >This week's music is from the Super Mario Sunshine soundtrack by Koji Kondo and Shinobu Tanaka, and the Ico soundtrack by Michiru Oshima, Koichi Yamazaki and Mitsukuni Murayama.
 
 {{<figure 
-    src="/assets/images/paramount-lantern.png" 
+    src="paramount-lantern.png" 
     caption="Image Credit: Bumster" 
     alt="Paramount Lantern">}}
 
 {{<figure 
-    src="/assets/images/cheers-tweet-1.png" 
+    src="cheers-tweet-1.png" 
     alt="Cheers Tweet 1" >}}
 {{<figure 
-    src="/assets/images/cheers-tweet-2.png" 
+    src="cheers-tweet-2.png" 
     alt="Cheers Tweet 2" >}}
 {{<figure 
-    src="/assets/images/andrew-assignment.jpeg" 
+    src="andrew-assignment.jpeg" 
     caption="Image Credit: IMGTR63" 
     alt="Andrew Assignment">}}
 {{<figure 
-    src="/assets/images/gamecube-backpack.jpeg" 
+    src="gamecube-backpack.jpeg" 
     caption="Image Credit: IMGTR63" 
     alt="Andrew Assignment">}}
 

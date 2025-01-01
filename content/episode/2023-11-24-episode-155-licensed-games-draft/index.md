@@ -16,7 +16,7 @@ title: 'Episode 155: The Licensed Games Draft'
 > This week's music is from the Blade Runner game soundtrack by Vangelis and Frank Klepacki.
 
 {{<figure 
-    src="/assets/images/queen-the-eye.jpeg" 
+    src="queen-the-eye.jpeg" 
     alt="Queen The Eye" >}}
 
 ## Categories

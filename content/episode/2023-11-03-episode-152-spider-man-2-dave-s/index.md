@@ -17,5 +17,5 @@ title: 'Episode 152: Three Giant Men Play Spider-Man 2 (with Dave Scarborough)'
 > This week's music is by John Paesano from the Marvel's Spider-Man 2 soundtrack.
 
 {{<figure 
-    src="/assets/images/dave-scarborough.jpeg" 
+    src="dave-scarborough.jpeg" 
     alt="Dave Scarborough" >}}

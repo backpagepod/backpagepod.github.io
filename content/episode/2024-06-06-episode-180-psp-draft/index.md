@@ -10,7 +10,7 @@ tags:
 - Special Guest
 title: 'Episode 180: The PSP Draft'
 cover: 
-  image: /assets/images/three-hours.jpeg
+  image: three-hours.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -23,119 +23,119 @@ cover:
 > This week's music is from the LocoRoco soundtrack by Nobuyuki Shimizu and Kemmei Adachi.
 
 {{<figure 
-    src="/assets/images/psp-1.jpeg" 
+    src="psp-1.jpeg" 
     alt="PSP" >}}
 {{<figure 
-    src="/assets/images/psp-2.jpeg" 
+    src="psp-2.jpeg" 
     alt="PSP" >}}
 {{<figure 
-    src="/assets/images/three-hours.jpeg" 
+    src="three-hours.jpeg" 
     caption="Image Credit: Shugdaddy" 
     alt="Three Hours">}}
 {{<figure 
-    src="/assets/images/darran-matthew.jpeg" 
+    src="darran-matthew.jpeg" 
     alt="Darran Matthew" >}}
 {{<figure 
-    src="/assets/images/samuel-psp.jpeg" 
+    src="samuel-psp.jpeg" 
     caption="What remains of Samuel's physical PSP collection." 
     alt="Samuel's UMDs">}}
 {{<figure 
-    src="/assets/images/matthew-psp.jpeg" 
+    src="matthew-psp.jpeg" 
     alt="Matthew's PSP" >}}
 {{<figure 
-    src="/assets/images/family-guy.jpeg" 
+    src="family-guy.jpeg" 
     alt="Family Guy" >}}
 {{<figure 
-    src="/assets/images/edge-148-1.jpeg" 
+    src="edge-148-1.jpeg" 
     alt="Edge" >}}
 {{<figure 
-    src="/assets/images/edge-148-2.jpeg" 
+    src="edge-148-2.jpeg" 
     alt="Edge" >}}
 {{<figure 
-    src="/assets/images/clank-daxter.jpeg" 
+    src="clank-daxter.jpeg" 
     alt="Clank Daxter" >}}
 {{<figure 
-    src="/assets/images/talk-man.jpeg" 
+    src="talk-man.jpeg" 
     alt="Talk Man" >}}
 {{<figure 
-    src="/assets/images/reign-of-fire.jpeg" 
+    src="reign-of-fire.jpeg" 
     alt="Reign of Fire" >}}
 {{<figure 
-    src="/assets/images/psp-retro-1.jpeg" 
+    src="psp-retro-1.jpeg" 
     alt="PSP" >}}
 {{<figure 
-    src="/assets/images/psp-retro-2.jpeg" 
+    src="psp-retro-2.jpeg" 
     alt="PSP" >}}
 {{<figure 
-    src="/assets/images/psp-retro-3.jpeg" 
+    src="psp-retro-3.jpeg" 
     alt="PSP" >}}
 {{<figure 
-    src="/assets/images/psp-retro-4.jpeg" 
+    src="psp-retro-4.jpeg" 
     alt="PSP" >}}
 
 {{<figure 
-    src="/assets/images/perv-box.jpeg" 
+    src="perv-box.jpeg" 
     alt="Perv Box" >}}
 {{<figure 
-    src="/assets/images/psp-debug.jpeg" 
+    src="psp-debug.jpeg" 
     caption="Alan Stock writes 'Extra points to Sam for picking Pursuit Force, I worked as a designer on that game. The memories all came flooding back when you were talking about the cursed PSP dev kits. They had this chonky thing that the top of the PSP connected to, and a big fat wire from that connecting your PSP to the dev kit, which was then linked to your PC. You could just boot your game via the PC and test changes so it was pretty painless, though you had to wait for the PSP to restart each time. It probably did my back and neck no favours craning over the PSP all day though!'" 
     alt="PSP Debug">}}
 {{<figure 
-    src="/assets/images/psp-flat.jpeg" 
+    src="psp-flat.jpeg" 
     alt="PSP Flat" >}}
 {{<figure 
-    src="/assets/images/strider-honourable.jpeg" 
+    src="strider-honourable.jpeg" 
     alt="Honourable Mentions" >}}
 {{<figure 
-    src="/assets/images/star-trek.jpeg" 
+    src="star-trek.jpeg" 
     alt="Star Trek" >}}
 {{<figure 
-    src="/assets/images/darran-psp-1.jpeg" 
+    src="darran-psp-1.jpeg" 
     alt="Darran PSP" >}}
 {{<figure 
-    src="/assets/images/darran-psp-2.jpeg" 
+    src="darran-psp-2.jpeg" 
     alt="Darran PSP" >}}
 {{<figure 
-    src="/assets/images/darran-psp-3.jpeg" 
+    src="darran-psp-3.jpeg" 
     alt="Darran PSP" >}}
 {{<figure 
-    src="/assets/images/darran-psp-4.jpeg" 
+    src="darran-psp-4.jpeg" 
     alt="Darran PSP" >}}
 {{<figure 
-    src="/assets/images/darran-psp-5.jpeg" 
+    src="darran-psp-5.jpeg" 
     alt="Darran PSP" >}}
 {{<figure 
-    src="/assets/images/darran-psp-6.jpeg" 
+    src="darran-psp-6.jpeg" 
     alt="Darran PSP" >}}
 {{<figure 
-    src="/assets/images/darran-psp-7.jpeg" 
+    src="darran-psp-7.jpeg" 
     alt="Darran PSP" >}}
 {{<figure 
-    src="/assets/images/darran-psp-8.jpeg" 
+    src="darran-psp-8.jpeg" 
     alt="Darran PSP" >}}
 {{<figure 
-    src="/assets/images/darran-psp-10.jpeg" 
+    src="darran-psp-10.jpeg" 
     alt="Darran PSP" >}}
 {{<figure 
-    src="/assets/images/darran-psp-9.jpeg" 
+    src="darran-psp-9.jpeg" 
     alt="Darran PSP" >}}
 {{<figure 
-    src="/assets/images/darran-psp-11.jpeg" 
+    src="darran-psp-11.jpeg" 
     alt="Darran PSP" >}}
 {{<figure 
-    src="/assets/images/darran-psp-12.jpeg" 
+    src="darran-psp-12.jpeg" 
     alt="Darran PSP" >}}
 {{<figure 
-    src="/assets/images/darran-psp-13.jpeg" 
+    src="darran-psp-13.jpeg" 
     alt="Darran PSP" >}}
 {{<figure 
-    src="/assets/images/bond-psp.jpeg" 
+    src="bond-psp.jpeg" 
     alt="Bond PSP" >}}
 {{<figure 
-    src="/assets/images/hannah-montana-psp-1.jpeg" 
+    src="hannah-montana-psp-1.jpeg" 
     alt="Hannah Montana PSP" >}}
 {{<figure 
-    src="/assets/images/hannah-montana-psp-2.jpeg" 
+    src="hannah-montana-psp-2.jpeg" 
     alt="Hannah Montana PSP" >}}
 
 ## Categories

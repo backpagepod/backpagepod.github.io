@@ -8,7 +8,7 @@ tags:
 - XL
 title: 'XL Episode 23: Two Giant Men Play Hitman: Blood Money'
 cover: 
-  image: /assets/images/tzatziki-1.jpeg
+  image: tzatziki-1.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -20,11 +20,11 @@ cover:
 > Thanks to Michael 'BanyaBat' Butter for the edits!
 
 {{<figure 
-    src="/assets/images/blood-money-prep.jpeg" 
+    src="blood-money-prep.jpeg" 
     alt="Blood Money Prep" >}}
 {{<figure 
-    src="/assets/images/tzatziki-1.jpeg" 
+    src="tzatziki-1.jpeg" 
     alt="Tzatziki" >}}
 {{<figure 
-    src="/assets/images/tzatziki-2.jpeg" 
+    src="tzatziki-2.jpeg" 
     alt="Tzatziki" >}}

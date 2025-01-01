@@ -9,7 +9,7 @@ tags:
 - XL
 title: 'XL Episode 27: The Limited Run Competitor Draft'
 cover: 
-  image: assets/images/oh-f-that-sucks.jpeg
+  image: oh-f-that-sucks.jpeg
   width: 768
   height: 448
   hidden: false
@@ -25,17 +25,17 @@ cover:
 > This week's music is from Encarta Mind Maze, composer unknown. Thanks to Michael 'BanyaBat' Butter for the edits!
 
 {{<figure 
-    src="/assets/images/oh-f-that-sucks.jpeg" 
+    src="oh-f-that-sucks.jpeg" 
     alt="Oh F That Sucks"
     caption="Image Credit: Bjorn"  >}}
 {{<figure 
-    src="/assets/images/limited-run-1.jpeg" 
+    src="limited-run-1.jpeg" 
     alt="Limited Run" >}}
 {{<figure 
-    src="/assets/images/limited-run-2.jpeg" 
+    src="limited-run-2.jpeg" 
     alt="Limited Run" >}}
 {{<figure 
-    src="/assets/images/limited-run-3.jpeg" 
+    src="limited-run-3.jpeg" 
     alt="Limited Run" >}}
 
 

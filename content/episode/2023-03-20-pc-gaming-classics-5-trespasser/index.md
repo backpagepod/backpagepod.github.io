@@ -10,7 +10,7 @@ tags:
 - Phil Iwaniuk
 title: 'PC Gaming Classics Episode 5: Jurassic Park: Trespasser'
 cover: 
-  image: assets/images/peel-trespasser.jpeg
+  image: peel-trespasser.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -22,7 +22,7 @@ cover:
 > Look out for the Review Wars poll in our pinned tweet @BackPagePod this week. 
 
 {{<figure 
-    src="/assets/images/peel-trespasser.jpeg" 
+    src="peel-trespasser.jpeg" 
     alt="First contact with Trespasser is going well. Yep, that's my arm." >}}
 
 ### Results

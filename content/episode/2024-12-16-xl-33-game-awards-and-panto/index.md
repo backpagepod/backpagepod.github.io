@@ -7,7 +7,7 @@ tags:
 - XL
 title: "XL Episode 33: Our Top 5 Game Awards Trailers...and Some Video Game Panto Nonsense"
 cover: 
-  image: assets/images/new-onimusha.jpeg
+  image: new-onimusha.jpeg
   width: 700
   height: 480
   hidden: false
@@ -19,5 +19,5 @@ cover:
 > Thanks to Michael 'Banyabat' for the edits.
 
 {{<figure 
-    src="/assets/images/pick-and-mix.jpeg" 
+    src="pick-and-mix.jpeg" 
     alt="Pick and Mix" >}}

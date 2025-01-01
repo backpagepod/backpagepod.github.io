@@ -8,7 +8,7 @@ tags:
 - XXL
 title: 'XXL Episode 8: James Bond Movies Ranked'
 cover: 
-  image: assets/images/bond-tie-fighhter.jpeg
+  image: bond-tie-fighhter.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -20,7 +20,7 @@ cover:
 > Thanks to Liam Richardson for the edits, as ever.
 
 {{<figure 
-    src="/assets/images/bond-tie-fighhter.jpeg" 
+    src="bond-tie-fighhter.jpeg" 
     caption="Image credit: Alex" 
     alt="Bond Villain with Tie Fighter">}}
 

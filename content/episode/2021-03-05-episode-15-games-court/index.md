@@ -8,7 +8,7 @@ tags:
 - Regular
 title: 'Episode 15: Bad eBay Games Court'
 cover: 
-  image: assets/images/top-trumps-1.jpeg
+  image: top-trumps-1.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -20,17 +20,17 @@ cover:
 > This week's music is from the Grand Theft Auto: Vice City soundtrack by Lex Horton and the Phoenix Wright trilogy soundtrack by Masakazu Sugimori and Akemi Kimura.
 
 {{<figure 
-  src="/assets/images/judge-castle-2.jpeg" 
+  src="judge-castle-2.jpeg" 
   caption="Image Credit: Chris Doherty" 
   alt="Judge Castle">}}
 
 {{<figure 
-  src="/assets/images/top-trumps-1.jpeg" 
+  src="top-trumps-1.jpeg" 
   caption="Image Credit: Joe Skrebels" 
   alt="Top Trumps">}}
 
 {{<figure 
-    src="/assets/images/top-trumps-2.jpeg"
+    src="top-trumps-2.jpeg"
     alt="Top Trumps" >}}
 
 

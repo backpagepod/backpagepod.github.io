@@ -9,7 +9,7 @@ tags:
 title: 'Episode 187: Nintendo Top 50 Part 1 – The Art of List Making and ONM''s Final
   Top 100'
 cover: 
-  image: /assets/images/comic-workshop-3.jpeg
+  image: comic-workshop-3.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -23,34 +23,34 @@ Then, in the second half of the episode, we revisit the top 100 first-party Nint
 Look out for parts two and three across the next couple of weeks. Find the ONM top 100 discussed below.
 
 {{<figure 
-    src="/assets/images/onm-114-1.jpeg" 
+    src="onm-114-1.jpeg" 
     alt="ONM" >}}
 {{<figure 
-    src="/assets/images/onm-114-2.jpeg" 
+    src="onm-114-2.jpeg" 
     alt="ONM" >}}
 {{<figure 
-    src="/assets/images/nervous.jpeg" 
+    src="nervous.jpeg" 
     alt="Nervous" >}}
 {{<figure 
-    src="/assets/images/onm-114-3.jpeg" 
+    src="onm-114-3.jpeg" 
     alt="ONM" >}}
 {{<figure 
-    src="/assets/images/onm-114-4.jpeg" 
+    src="onm-114-4.jpeg" 
     alt="ONM" >}}
 {{<figure 
-    src="/assets/images/onm-114-5.jpeg" 
+    src="onm-114-5.jpeg" 
     alt="ONM" >}}
 {{<figure 
-    src="/assets/images/onm-114-6.jpeg" 
+    src="onm-114-6.jpeg" 
     alt="ONM" >}}
 {{<figure 
-    src="/assets/images/comic-workshop-1.jpeg" 
+    src="comic-workshop-1.jpeg" 
     alt="Comic Workshop" >}}
 {{<figure 
-    src="/assets/images/comic-workshop-2.jpeg" 
+    src="comic-workshop-2.jpeg" 
     alt="Comic Workshop" >}}
 {{<figure 
-    src="/assets/images/comic-workshop-3.jpeg" 
+    src="comic-workshop-3.jpeg" 
     alt="Comic Workshop" >}}
 
 ||ONM's Top 100 – 2014|

@@ -10,7 +10,7 @@ tags:
 - Regular
 title: 'Episode 131: The Edge 10 Episode (with Chris Schilling)'
 cover: 
-  image: assets/images/edge-10.jpeg
+  image: edge-10.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -23,5 +23,5 @@ cover:
 > This week's music is from the Advance Wars soundtrack by Taishi Senda.
 
 {{<figure 
-    src="/assets/images/edge-10.jpeg" 
+    src="edge-10.jpeg" 
     alt="Breaking the Edge 10 code" >}}

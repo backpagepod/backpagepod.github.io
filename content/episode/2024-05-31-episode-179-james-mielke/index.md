@@ -9,7 +9,7 @@ tags:
 - Regular
 title: 'Episode 179: From EGM to BitSummit (with James Mielke)'
 cover: 
-  image: /assets/images/that-sucks.jpeg
+  image: that-sucks.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -19,61 +19,61 @@ cover:
 > US games media royalty James Mielke (EGM, 1Up, GMR) is our guest this week. Hear about James' journey from comic book artist during Marvel's bankruptcy to becoming a key editor on a host of important media outlets throughout the '00s. Bonus: this episode contains another excellent Hideo Kojima interview anecdote.
 
 {{<figure 
-    src="/assets/images/rejection-1.jpeg" 
+    src="rejection-1.jpeg" 
     alt="Rejection" >}}
 {{<figure 
-    src="/assets/images/rejection-2.jpeg" 
+    src="rejection-2.jpeg" 
     alt="Rejection" >}}
 {{<figure 
-    src="/assets/images/gmr-06.jpeg" 
+    src="gmr-06.jpeg" 
     alt="GMR" >}}
 {{<figure 
-    src="/assets/images/gmr-19.jpeg" 
+    src="gmr-19.jpeg" 
     alt="GMR" >}}
 {{<figure 
-    src="/assets/images/gmr-21-doa.jpeg" 
+    src="gmr-21-doa.jpeg" 
     alt="GMR" >}}
 {{<figure 
-    src="/assets/images/gmr-21-fable.jpeg" 
+    src="gmr-21-fable.jpeg" 
     alt="GMR" >}}
 {{<figure 
-    src="/assets/images/gmr-25.jpeg" 
+    src="gmr-25.jpeg" 
     alt="GMR" >}}
 
 {{<figure 
-    src="/assets/images/that-sucks.jpeg" 
+    src="that-sucks.jpeg" 
     caption="Image Credit: scottv5277" 
     alt="That Sucks">}}
 
 {{<figure 
-    src="/assets/images/vasco.jpeg" 
+    src="vasco.jpeg" 
     alt="Vasco" >}}
 {{<figure 
-    src="/assets/images/jeremy-1.jpeg" 
+    src="jeremy-1.jpeg" 
     alt="Jeremy" >}}
 {{<figure 
-    src="/assets/images/melmer.jpeg" 
+    src="melmer.jpeg" 
     alt="Melmer" >}}
 {{<figure 
-    src="/assets/images/naeslyn-drop.jpeg" 
+    src="naeslyn-drop.jpeg" 
     alt="Naeslyn Drop" >}}
 {{<figure 
-    src="/assets/images/jeremy-2.jpeg" 
+    src="jeremy-2.jpeg" 
     caption="Image Credit: Naeslyn" 
     alt="Jeremy">}}
 {{<figure 
-    src="/assets/images/jeremy-3.jpeg" 
+    src="jeremy-3.jpeg" 
     caption="Image Credit: Naeslyn" 
     alt="Jeremy">}}
 {{<figure 
-    src="/assets/images/wimdy.jpeg" 
+    src="wimdy.jpeg" 
     caption="Image Credit: MaiLom" 
     alt="Wimdy">}}
 {{<figure 
-    src="/assets/images/biblically-accurate.jpeg" 
+    src="biblically-accurate.jpeg" 
     caption="Image Credit: personalnadir" 
     alt="Biblically Accurate">}}
 {{<figure 
-    src="/assets/images/astrobot.jpeg" 
+    src="astrobot.jpeg" 
     caption="Image Credit: Naeslyn" 
     alt="Astrobot">}}

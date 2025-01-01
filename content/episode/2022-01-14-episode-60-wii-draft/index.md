@@ -8,7 +8,7 @@ tags:
 - Regular
 title: 'Episode 60: The Nintendo Wii Draft'
 cover: 
-  image: assets/images/wii-draft.jpeg
+  image: wii-draft.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -20,7 +20,7 @@ cover:
 > This week's music is from the Wii Sports Resort soundtrack by Ryo Nagamatsu, the Super Mario Galaxy 2 soundtrack by Mahito Yokota, Ryo Nagamatsu and Koji Kondo, and The Last Story soundtrack by Nobuo Uematsu.
 
 {{<figure 
-    src="/assets/images/wii-draft.jpeg"
+    src="wii-draft.jpeg"
     alt="Wii Draft" >}}
 
 ## The Categories

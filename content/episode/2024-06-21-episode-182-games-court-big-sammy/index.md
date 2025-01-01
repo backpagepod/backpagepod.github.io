@@ -9,10 +9,11 @@ tags:
 - Regular
 title: 'Episode 182: Games Court – Big Sammy European Extreme Edition'
 cover: 
-  image: /assets/images/cursed-bayo.jpeg
+  image: cursed-bayo.jpeg
   hidden: false
   hiddenInList: false
-  hiddenInSingle: true
+  hiddenInSingle: false
+  caption: "Image Credit: raspberrybrain"
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-182-big-106313056)
@@ -21,36 +22,32 @@ cover:
 > This week's music is from The World Ends With You soundtrack by Takeharu Ishimoto.
 
 {{<figure 
-    src="/assets/images/cursed-bayo.jpeg" 
-    caption="Image Credit: raspberrybrain" 
-    alt="Cursed Bayo">}}
-{{<figure 
-    src="/assets/images/colin-1.jpeg" 
+    src="colin-1.jpeg" 
     alt="Colin" >}}
 {{<figure 
-    src="/assets/images/colin-2.jpeg" 
+    src="colin-2.jpeg" 
     alt="Colin" >}}
 {{<figure 
-    src="/assets/images/dolly-mix-1.jpeg" 
+    src="dolly-mix-1.jpeg" 
     alt="Dolly Mix" >}}
 {{<figure 
-    src="/assets/images/dolly-mix-2.jpeg" 
+    src="dolly-mix-2.jpeg" 
     alt="Dolly Mix" >}}
 {{<figure 
-    src="/assets/images/dolly-mix-3.jpeg" 
+    src="dolly-mix-3.jpeg" 
     alt="Dolly Mix" >}}
 {{<figure 
-    src="/assets/images/time-heresy.jpeg" 
+    src="time-heresy.jpeg" 
     alt="Time Heresy" >}}
 {{<figure 
-    src="/assets/images/infernal-machine.jpeg" 
+    src="infernal-machine.jpeg" 
     caption="Image Credit: RyanPlugs" 
     alt="Infernal Machine">}}
 {{<figure 
-    src="/assets/images/metroid-hunters.jpeg" 
+    src="metroid-hunters.jpeg" 
     alt="Metroid Hunters" >}}
 {{<figure 
-    src="/assets/images/emily-naeslyn.jpeg" 
+    src="emily-naeslyn.jpeg" 
     alt="Emily Naeslyn" >}}
 
 ## Docket

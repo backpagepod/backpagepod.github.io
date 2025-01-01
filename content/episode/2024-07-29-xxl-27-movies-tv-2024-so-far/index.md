@@ -7,7 +7,7 @@ tags:
 - XXL
 title: 'XXL Episode 27: The Movies and TV Shows We''ve Been Watching in 2024 (So Far)'
 cover: 
-  image: assets/images/thoughts-matthew.jpeg
+  image: thoughts-matthew.jpeg
   width: 768
   height: 448
   hidden: false
@@ -19,7 +19,7 @@ cover:
 > Highlights of the year in film and TV for us so far. Thanks to Michael 'BanyaBat' Butter for the edits!
 
 {{<figure 
-    src="/assets/images/thoughts-matthew.jpeg" 
+    src="thoughts-matthew.jpeg" 
     alt="Thoughts Matthew" 
     caption="Image Credit: melmer">}}
 

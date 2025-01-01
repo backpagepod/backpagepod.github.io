@@ -10,7 +10,7 @@ tags:
 title: 'Episode 196: What We''ve Been Playing (UFO 50, Astro Bot with spoilers, Tactical
   Breach Wizards)'
 cover: 
-  image: assets/images/look-photoshopped.jpeg
+  image: look-photoshopped.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -27,14 +27,14 @@ cover:
 - Sumerian Six
 
 {{<figure 
-    src="/assets/images/lampoon.jpeg" 
+    src="lampoon.jpeg" 
     alt="Lampoon" >}}
 {{<figure 
-    src="/assets/images/intermezzo.jpeg" 
+    src="intermezzo.jpeg" 
     alt="Intermezzo" >}}
 {{<figure 
-    src="/assets/images/look-photoshopped.jpeg" 
+    src="look-photoshopped.jpeg" 
     alt="Look Photoshopped" >}}
 {{<figure 
-    src="/assets/images/the-closer.jpeg" 
+    src="the-closer.jpeg" 
     alt="The Closer" >}}

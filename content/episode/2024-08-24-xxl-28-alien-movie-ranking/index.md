@@ -7,7 +7,7 @@ tags:
 - XXL
 title: 'XXL Episode 28: Two Giant Men Rank the Alien Movies'
 cover: 
-  image: assets/images/check-for-aliens.jpeg
+  image: check-for-aliens.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -21,11 +21,11 @@ cover:
 > Thanks to Michael 'BanyaBat' Butter for the edits. And thanks to you for the support!
 
 {{<figure 
-    src="/assets/images/check-for-aliens.jpeg" 
+    src="check-for-aliens.jpeg" 
     caption="Image Credit: slingles" 
     alt="Alien">}}
 {{<figure 
-    src="/assets/images/alien-fag-break.jpeg" 
+    src="alien-fag-break.jpeg" 
     alt="Alien" >}}
 
 1. Alien

@@ -8,7 +8,7 @@ tags:
 - Regular
 title: 'Episode 55: Games We''ve Been Playing In 2021 (From Previous Years)'
 cover: 
-  image: assets/images/naka-shibuya.jpeg
+  image: naka-shibuya.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -20,7 +20,7 @@ cover:
 > This week's music is from the 428: Shibuya Scramble soundtrack by Naoki Sato, Hideki Sakamoto and Shingo Yasumoto and the Deus Ex soundtrack by Alexander Brandon, Dan Gardopée and Michiel van den Bos.
 
 {{<figure 
-  src="/assets/images/naka-shibuya.jpeg" 
+  src="naka-shibuya.jpeg" 
   caption="Image Credit: Liam Richardson" 
   alt="Yuji Naka Shibuya Scramble">}}
 

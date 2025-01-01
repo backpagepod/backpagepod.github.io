@@ -7,7 +7,7 @@ tags:
 - XXL
 title: 'XXL Episode 30: Bleak Film Club – Speak No Evil (2022) / Threads (1984)'
 cover: 
-  image: assets/images/snake-threads.jpeg
+  image: snake-threads.jpeg
   width: 700
   height: 480
   hidden: false
@@ -16,7 +16,7 @@ cover:
 ---
 
 {{<figure 
-    src="/assets/images/threads-radio-times.jpeg" 
+    src="threads-radio-times.jpeg" 
     alt="Hope for the Future">}}
 
 [Play Episode](https://www.patreon.com/posts/xxl-episode-30-116617016)

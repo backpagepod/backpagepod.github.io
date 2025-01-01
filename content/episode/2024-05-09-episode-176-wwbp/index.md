@@ -10,7 +10,7 @@ tags:
 title: 'Episode 176: What We''ve Been Playing (Stellar Blade, Animal Well, Pepper
   Grinder, Dark Forces Remaster)'
 cover: 
-  image: /assets/images/stellar-blade.jpeg
+  image: stellar-blade.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -26,27 +26,27 @@ cover:
 - Star Wars: Dark Forces Remaster
 
 {{<figure 
-    src="/assets/images/octopath-samuel.jpeg" 
+    src="octopath-samuel.jpeg" 
     caption="Octopath Traveler's artist, Naoki Ikushima, draws our host. Samuel says 'That's allegedly me with a beer on the left. Tom Senior who's just below me got a much more distinctive one.' " 
     alt="Octopath Samuel">}}
 
 {{<figure 
-    src="/assets/images/stellar-blade.jpeg" 
+    src="stellar-blade.jpeg" 
     alt="Stellar Blade" >}}
 
 {{<figure 
-    src="/assets/images/animal-well.jpeg" 
+    src="animal-well.jpeg" 
     alt="Animal Well" >}}
 
 {{<figure 
-    src="/assets/images/terrible.jpeg" 
+    src="terrible.jpeg" 
     alt="Terrible" >}}
 
 {{<figure 
-    src="/assets/images/fatomika.jpeg" 
+    src="fatomika.jpeg" 
     alt="Fatomika" >}}
 
 {{<figure 
-    src="/assets/images/dogma-14.jpeg" 
+    src="dogma-14.jpeg" 
     caption="Back from his final year at Hogwarts." 
     alt="Dogma">}}

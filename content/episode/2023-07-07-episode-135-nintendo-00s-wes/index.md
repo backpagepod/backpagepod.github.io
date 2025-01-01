@@ -16,7 +16,7 @@ title: 'Episode 135: Nintendo in the ''00s (with Wes Fenlon)'
 > This week's music is from Cubivore, probably? Matthew edited this one and didn't say where the music came from – and at the time of writing he's on a train to Belgium, so who really knows.
 
 {{<figure 
-    src="/assets/images/wes-magazines.jpeg" 
+    src="wes-magazines.jpeg" 
     caption="The magazines discussed by Wes in this week's episode" 
     alt="A photo of the magazines discussed by Wes in this week's episode">}}
 

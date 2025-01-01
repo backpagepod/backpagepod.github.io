@@ -10,7 +10,7 @@ tags:
 - Jay Baylis
 title: 'Episode 201: Backlogeddon (with Jay Baylis)'
 cover: 
-  image: assets/images/baylis.jpeg
+  image: baylis.jpeg
   width: 1000
   height: 1000
   hidden: false

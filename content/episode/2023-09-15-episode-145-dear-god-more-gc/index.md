@@ -16,6 +16,6 @@ title: 'Episode 145: Dear God, More Games Court'
 > This week's music is by listener Adam Saucier.
 
 {{<figure 
-    src="/assets/images/broken-nes-collection.jpeg" 
+    src="broken-nes-collection.jpeg" 
     caption="The broken NES collection, discussed in this week's episode" 
     alt="Broken NES collection">}}

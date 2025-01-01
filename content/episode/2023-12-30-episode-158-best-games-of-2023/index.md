@@ -9,12 +9,13 @@ tags:
 - Regular
 title: 'Episode 158: The Best Games of 2023'
 cover: 
-  image: /assets/images/paranormasight.jpeg
+  image: paranormasight.jpeg
   width: 320
   height: 288
   hidden: false
   hiddenInList: false
-  hiddenInSingle: true
+  hiddenInSingle: false
+  caption: "Image Credit: Bjorn"
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-158-best-95546725)
@@ -23,11 +24,6 @@ cover:
 > Thanks so much for your patience while we took a much-needed break – but now we're back! Expect a full plan of what we're making in January in the next few days, including the return of the XL and XXL episodes.
 >
 > This week's music is from the Cobalt Core soundtrack by Aaron Cherof.
-
-{{<figure 
-    src="/assets/images/paranormasight.jpeg" 
-    caption="Image Credit: Bjorn" 
-    alt="Paranormasight">}}
 
 ## Matthew
 10. Let's! Revolution!

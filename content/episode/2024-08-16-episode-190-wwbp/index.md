@@ -10,7 +10,7 @@ tags:
 title: 'Episode 190: What We''ve Been Playing (Anger Foot, Ace Attorney Investigations,
   Thank Goodness You''re Here, Nobody Wants To Die)'
 cover: 
-  image: assets/images/i-wish-you-well.jpeg
+  image: i-wish-you-well.jpeg
   width: 1063
   height: 791
   hidden: false
@@ -24,21 +24,21 @@ cover:
 > Then here's what we've spent our respective summers playing: an array of indie/double-A games ranging from disappointing to good. These include Anger Foot, Nobody Wants To Die, Another Code: Recollection, Thank Goodness You're Here and Arranger: A Role-Puzzling Adventure. Plus, hear Matthew talk about the HD redo of the Ace Attorney Investigations games and Samuel ramble about Apex Legends nonsense (yet again)!
 
 {{<figure 
-    src="/assets/images/i-wish-you-well.jpeg" 
+    src="i-wish-you-well.jpeg" 
     alt="I Wish You Well"
     caption="Image Credit: BetamaxBandit"  >}}
 {{<figure 
-    src="/assets/images/toff-denounces.jpeg" 
+    src="toff-denounces.jpeg" 
     caption="Image Credit: DarkKnightads" 
     alt="Toff Denounces" >}}
 {{<figure 
-    src="/assets/images/lore-update.jpeg" 
+    src="lore-update.jpeg" 
     alt="Lore Update" >}}
 {{<figure 
-    src="/assets/images/art-vinted.jpeg" 
+    src="art-vinted.jpeg" 
     alt="Art Vinted" >}}
 {{<figure 
-    src="/assets/images/languid-piece.jpeg" 
+    src="languid-piece.jpeg" 
     alt="Languid Piece" >}}
 
 - Dungeons of Hinterberg

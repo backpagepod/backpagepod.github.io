@@ -7,7 +7,7 @@ tags:
 - Regular
 title: 'Episode 89: Steam Deck Special'
 cover: 
-  image: assets/images/steam-spreading.jpeg
+  image: steam-spreading.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -19,7 +19,7 @@ cover:
 > This week's music is all from our theme tune's composer, Barry Topping (@nostoppingepoch).
 
 {{<figure 
-    src="/assets/images/steam-spreading.jpeg"
+    src="steam-spreading.jpeg"
     alt="Steam Spreading" >}}
 
 - Aperture Desk Job

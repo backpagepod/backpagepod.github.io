@@ -8,7 +8,7 @@ tags:
 - XL
 title: 'XL Episode 25: Dreamcast Roulette'
 cover: 
-  image: /assets/images/reform.jpeg
+  image: reform.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -33,35 +33,35 @@ cover:
 
 
 {{<figure 
-    src="/assets/images/reform.jpeg" 
+    src="reform.jpeg" 
     caption="Image Credit: djkf" 
     alt="Reform">}}
 
 {{<figure 
-    src="/assets/images/floigan-sickos.jpeg" 
+    src="floigan-sickos.jpeg" 
     alt="Sickos" >}}
 
 {{<figure 
-    src="/assets/images/henman.jpeg" 
+    src="henman.jpeg" 
     alt="Henman" >}}
 
 {{<figure 
-    src="/assets/images/chu-chu.jpeg" 
+    src="chu-chu.jpeg" 
     alt="ChuChu" >}}
 
 {{<figure 
-    src="/assets/images/sunk-cost.jpeg" 
+    src="sunk-cost.jpeg" 
     alt="Sunk cost" >}}
 
 {{<figure 
-    src="/assets/images/sega-war-room.jpeg" 
+    src="sega-war-room.jpeg" 
     alt="War room" >}}
 
 {{<figure 
-    src="/assets/images/dreamcast-simpsons-1.jpeg" 
+    src="dreamcast-simpsons-1.jpeg" 
     alt="Dreamcast Simpsons" >}}
 
 {{<figure 
-    src="/assets/images/dreamcast-simpsons-2.jpeg" 
+    src="dreamcast-simpsons-2.jpeg" 
     caption="Image Credit: GGABronco" 
     alt="Dreamcast Simpsons">}}

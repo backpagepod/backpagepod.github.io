@@ -8,7 +8,7 @@ tags:
 - Regular
 title: 'Episode 77: Best Star Wars Guilty Pleasure Games'
 cover: 
-  image: assets/images/mothers-day.jpeg
+  image: mothers-day.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -31,6 +31,6 @@ cover:
 - Rogue Leader 2: Rebel Strike (great spaceship bits cancelled out by rancid on-foot sections)
 
 {{<figure 
-    src="/assets/images/mothers-day.jpeg" 
+    src="mothers-day.jpeg" 
     caption="Image Credit: personalnadir" 
     alt="Mother's Day">}}

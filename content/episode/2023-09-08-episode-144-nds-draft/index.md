@@ -8,7 +8,7 @@ tags:
 - Regular
 title: 'Episode 144: The Nintendo DS Draft'
 cover: 
-  image: assets/images/languid.jpeg
+  image: languid.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -18,37 +18,37 @@ cover:
 > Matthew and Samuel compete to pick the 15 best Nintendo DS games – after an extremely long preamble.
 
 {{<figure 
-    src="/assets/images/ds-draft-betrayal.jpeg" 
+    src="ds-draft-betrayal.jpeg" 
     caption="Image credit: RyanPlugs" 
     alt="You can pinpoint the second when his heart rips in half" >}}
 {{<figure 
-    src="/assets/images/languid.jpeg" 
+    src="languid.jpeg" 
     caption="Image credit: Naeslyn" 
     alt="Stop Saying Languid" >}}
 {{<figure 
-    src="/assets/images/katharine-ds-1.jpeg" 
+    src="katharine-ds-1.jpeg" 
     caption="Katharine Castle: To clear up this week's BackPagePod debate, here are my offending DS Phat decals - which I'd argue immeasurably improve the look of the thing. If Nintendo had released a Mario Kart special edition of it, I guarantee it would have (probably) looked something like this. Maybe." 
     alt="Katharine's DS" >}}
 {{<figure 
-    src="/assets/images/katharine-ds-2.jpeg" 
+    src="katharine-ds-2.jpeg" 
     alt="Katharine's DS" >}}
 {{<figure 
-    src="/assets/images/gummy.jpeg" 
+    src="gummy.jpeg" 
     alt="Gummy Bears Mini Golf" >}}
 {{<figure 
-    src="/assets/images/golden-balls.jpeg" 
+    src="golden-balls.jpeg" 
     alt="Golden Balls" >}}
 {{<figure 
-    src="/assets/images/deal-or-no-deal.jpeg" 
+    src="deal-or-no-deal.jpeg" 
     alt="Deal or No Deal" >}}
 {{<figure 
-    src="/assets/images/house.jpeg" 
+    src="house.jpeg" 
     alt="House" >}}
 {{<figure 
-    src="/assets/images/matthew-wellness-check.png" 
+    src="matthew-wellness-check.png" 
     alt="Matthew Wellness Check" >}}
 {{<figure 
-    src="/assets/images/languid-respect.jpeg" 
+    src="languid-respect.jpeg" 
     alt="Languid Respect"
     caption="Image Credit: TABBDL" >}}
 

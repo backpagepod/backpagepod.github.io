@@ -9,7 +9,7 @@ tags:
 - Regular
 title: 'Episode 165: The Cursed February Mailbag'
 cover: 
-  image: /assets/images/promised-land.jpeg
+  image: promised-land.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -19,17 +19,17 @@ cover:
 > After some dense episodes, allow us this brief respite to answer a slew of listener questions. Who should play Link in the Zelda movie? Which song would we sing for Hideo Kojima during karaoke? What happened to the mythical 'boys across the river'? Learn all this, and more.
 
 {{<figure 
-    src="/assets/images/promised-land.jpeg" 
+    src="promised-land.jpeg" 
     caption="Image Credit: Shugdaddy" 
     alt="The Promised Land">}}
 
 {{<figure 
-    src="/assets/images/pret-getaway.jpeg" 
+    src="pret-getaway.jpeg" 
     caption="Image Credit: art-leaves-the-page on Reddit" 
     alt="The Pret Getaway">}}
 
 {{<figure 
-    src="/assets/images/pret-getaway-2.jpeg" 
+    src="pret-getaway-2.jpeg" 
     alt="The Pret Getaway 2" >}}
 
 {{< youtube kw7XgyNRdQU >}}

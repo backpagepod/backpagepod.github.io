@@ -9,7 +9,7 @@ tags:
 - Regular
 title: 'Episode 41: Bad eBay Games Court – The Retrial'
 cover: 
-  image: assets/images/judgment.jpeg
+  image: judgment.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -21,6 +21,6 @@ cover:
 > This week's music is from Silent Hill: Shattered Memories by Akira Yamaoka, the No More Heroes 3 soundtrack by Nobuaki Kaneko, Jun Fukuda and Kazuhiro "MEEBEE" Abo, and the Phoenix Wright: Trials and Tribulation soundtrack by Noriyuki Iwadare.
 
 {{<figure 
-  src="/assets/images/judgment.jpeg" 
+  src="judgment.jpeg" 
   caption="Image Credit: Chris Doherty" 
   alt="Judgment">}}

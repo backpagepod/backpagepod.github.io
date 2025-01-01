@@ -7,7 +7,7 @@ tags:
 - XL
 title: "XL Episode 32: Two Giant Men Play Metal Gear Solid"
 cover: 
-  image: assets/images/mgs-faces.jpeg
+  image: mgs-faces.jpeg
   width: 1100
   height: 1280
   hidden: false
@@ -21,13 +21,13 @@ cover:
 > Thanks to Michael 'Banyabat' for the edits.
 
 {{<figure 
-    src="/assets/images/mgs-faces.jpeg" 
+    src="mgs-faces.jpeg" 
     caption="Image Credit: Andy Kelly" 
     alt="MGS Faces" >}}
 {{<figure 
-    src="/assets/images/mgs-comic.jpeg" 
+    src="mgs-comic.jpeg" 
     caption="Image Credit: Mark Scicluna" 
     alt="MGS Comic" >}}
 {{<figure 
-    src="/assets/images/mgs-kart.jpeg" 
+    src="mgs-kart.jpeg" 
     alt="MGS Kart" >}}

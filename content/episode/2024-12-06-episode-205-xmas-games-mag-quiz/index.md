@@ -8,7 +8,7 @@ tags:
 - Mailbag
 title: "Episode 205: Christmas Games Mag Quiz + Mailbag"
 cover: 
-  image: assets/images/no-other-podcasts.jpeg
+  image: no-other-podcasts.jpeg
   width: 989
   height: 1280
   hidden: false

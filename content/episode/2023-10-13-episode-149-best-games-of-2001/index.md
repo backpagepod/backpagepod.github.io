@@ -9,7 +9,7 @@ tags:
 - Regular
 title: 'Episode 149: The Best Games of 2001'
 cover: 
-  image: assets/images/oboe-head.jpeg
+  image: oboe-head.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -21,7 +21,7 @@ cover:
 > This week's music is from the Silent Hill 2 soundtrack by Akira Yamaoka.
 
 {{<figure 
-    src="/assets/images/oboe-head.jpeg" 
+    src="oboe-head.jpeg" 
     caption="Image credit: RyanPlugs" 
     alt="Oboe Head">}}
 

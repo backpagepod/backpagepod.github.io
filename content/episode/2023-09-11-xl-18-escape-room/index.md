@@ -8,7 +8,7 @@ tags:
 - XL
 title: 'XL Episode 18: Two Giant Men Solve an Escape Room – and the Best Gaming Prisons'
 cover: 
-  image: assets/images/jindosh.jpeg
+  image: jindosh.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -20,7 +20,7 @@ cover:
 > This week's music is from the Fable 2 soundtrack by Russell Shaw. Thanks to Liam Richardson for his final set of edits on a Back Page XL Tier episode, we'd have fallen over without him! 
 
 {{<figure 
-    src="/assets/images/jindosh.jpeg" 
+    src="jindosh.jpeg" 
     caption="Image credit: Jenuall" 
     alt="Pure Jindosh">}}
 

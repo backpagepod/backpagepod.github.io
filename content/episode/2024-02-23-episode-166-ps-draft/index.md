@@ -9,7 +9,7 @@ tags:
 - Regular
 title: 'Episode 166: The PlayStation Draft'
 cover: 
-  image: /assets/images/gotta-jogg.jpeg
+  image: gotta-jogg.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -22,42 +22,42 @@ cover:
 > This week's music is from the R4: Ridge Racer Type 4 soundtrack by Kohta Takahashi, Hiroshi Okubo and Asuka Sakai, plus the Tekken 3 soundtrack by Nobuyoshi Sano and Keiichi Okabe.
 
 {{<figure 
-    src="/assets/images/ps1-mini.png" 
+    src="ps1-mini.png" 
     alt="PS Mini" >}}
 {{<figure 
-    src="/assets/images/bubsy-3d.png" 
+    src="bubsy-3d.png" 
     alt="Bubsy 3D" >}}
 {{<figure 
-    src="/assets/images/hooters.jpeg" 
+    src="hooters.jpeg" 
     alt="Hooters Road Trip" >}}
 {{<figure 
-    src="/assets/images/austin-pinball.png" 
+    src="austin-pinball.png" 
     alt="Austin Powers Pinball" >}}
 {{<figure 
-    src="/assets/images/love-shack.jpeg" 
+    src="love-shack.jpeg" 
     alt="South Park Chef's Luv Shack" >}}
 {{<figure 
-    src="/assets/images/pepsiman.jpeg" 
+    src="pepsiman.jpeg" 
     alt="Pepsiman" >}}
 {{<figure 
-    src="/assets/images/die-hard.jpeg" 
+    src="die-hard.jpeg" 
     alt="Die Hard Trilogy 2" >}}
 {{<figure 
-    src="/assets/images/chandelier.png" 
+    src="chandelier.png" 
     alt="Chandelier" >}}
 {{<figure 
-    src="/assets/images/cheers-chandelier.jpeg" 
+    src="cheers-chandelier.jpeg" 
     caption="Image Credit: EdeleEdo" 
     alt="Cheers Chandelier">}}
 {{<figure 
-    src="/assets/images/spite-platform.jpeg" 
+    src="spite-platform.jpeg" 
     alt="Spite Platform" >}}
 {{<figure 
-    src="/assets/images/gotta-jogg.jpeg" 
+    src="gotta-jogg.jpeg" 
     caption="Image Credit: EdeleEdo" 
     alt="Gotta Jogg">}}
 {{<figure 
-    src="/assets/images/psycho-castlevania.jpeg" 
+    src="psycho-castlevania.jpeg" 
     caption="Samuel, mid-draft" 
     alt="Psycho Mantis">}}
 

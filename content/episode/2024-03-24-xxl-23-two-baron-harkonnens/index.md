@@ -8,7 +8,7 @@ tags:
 - XXL
 title: 'XXL Episode 23: Two Baron Harkonnens Watch Dune Parts 1 and 2'
 cover: 
-  image: /assets/images/harkonnen-zoom.jpeg
+  image: harkonnen-zoom.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -20,42 +20,42 @@ cover:
 > Thanks to Michael 'Banyabat' Butter for the edits! And thank you for your support, as ever.
 
 {{<figure 
-    src="/assets/images/harkonnen-zoom.jpeg" 
+    src="harkonnen-zoom.jpeg" 
     caption="Image Credit: Suchuu" 
     alt="Harkonnen Zoom">}}
 {{<figure 
-    src="/assets/images/alan.jpeg" 
+    src="alan.jpeg" 
     alt="Alan" >}}
 {{<figure 
-    src="/assets/images/leto-3.jpeg" 
+    src="leto-3.jpeg" 
     alt="Leto" >}}
 {{<figure 
-    src="/assets/images/leto-1.jpeg" 
+    src="leto-1.jpeg" 
     caption="coyg: tfw you are called upon to edit Official Xbox Magazine in the mid 2010s" 
     alt="Leto">}}
 {{<figure 
-    src="/assets/images/leto-2.jpeg" 
+    src="leto-2.jpeg" 
     caption="Image Credit: Luke Summerhayes" 
     alt="Leto">}}
 {{<figure 
-    src="/assets/images/harkonnen-gift.jpeg" 
+    src="harkonnen-gift.jpeg" 
     caption="TABBDL: When you're told they had to recall the free giveaway because it was too dangerous" 
     alt="Harkonnen Gift">}}
 {{<figure 
-    src="/assets/images/harkonnen-1.jpeg" 
+    src="harkonnen-1.jpeg" 
     alt="Harkonnen" >}}
 {{<figure 
-    src="/assets/images/harkonnen-2.jpeg" 
+    src="harkonnen-2.jpeg" 
     alt="Harkonnen" >}}
 {{<figure 
-    src="/assets/images/harkonnen-3.png" 
+    src="harkonnen-3.png" 
     alt="Harkonnen" >}}
 {{<figure 
-    src="/assets/images/harkonnen-4.jpeg" 
+    src="harkonnen-4.jpeg" 
     alt="Harkonnen" >}}
 {{<figure 
-    src="/assets/images/harkonnen-5.jpeg" 
+    src="harkonnen-5.jpeg" 
     alt="Harkonnen" >}}
 {{<figure 
-    src="/assets/images/seinfeld-dune.jpeg" 
+    src="seinfeld-dune.jpeg" 
     alt="Seinfeld Dune" >}}

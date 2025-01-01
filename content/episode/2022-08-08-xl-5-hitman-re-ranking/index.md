@@ -7,7 +7,7 @@ tags:
 - XL
 title: 'XL Episode 5: The Hitman Re-Ranking'
 cover: 
-  image: assets/images/hitman-2.jpeg
+  image: hitman-2.jpeg
   width: 830
   height: 1280
   hidden: false

@@ -8,7 +8,7 @@ tags:
 - XXL
 title: 'XXL Episode 16: Mission: Impossible Pod Rankening'
 cover: 
-  image: assets/images/mission-impossible.jpeg
+  image: mission-impossible.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -20,11 +20,11 @@ cover:
 > This week's music is from the Mission: Impossible series soundtracks by Lalo Schifrin, Danny Elfman, Hans Zimmer, Michael Giacchino, Joe Kraemer, Lorne Balfe and Limp Bizkit.
 
 {{<figure 
-    src="/assets/images/mission-impossible.jpeg" 
+    src="mission-impossible.jpeg" 
     caption="Image Credit: Naeslyn" 
     alt="Mission: Backpageable" >}}
 {{<figure 
-    src="/assets/images/john-woo.jpeg" 
+    src="john-woo.jpeg" 
     caption="Image Credit: Tabbdl" 
     alt="Star of MI2" >}}
 

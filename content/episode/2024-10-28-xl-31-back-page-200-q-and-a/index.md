@@ -8,7 +8,7 @@ tags:
 - XL
 title: 'XL Episode 31: Back Page Episode 200 Q&A'
 cover: 
-  image: assets/images/truman-show.jpeg
+  image: truman-show.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -20,15 +20,15 @@ cover:
 > Thanks to Michael 'BanyaBat' for the edits.
 
 {{<figure 
-    src="/assets/images/truman-show.jpeg" 
+    src="truman-show.jpeg" 
     caption="Naeslyn: lovely to get some insight into the editing process, especially Samuel's" 
     alt="Truman Show">}}
 {{<figure 
-    src="/assets/images/podcast-pitch.jpeg" 
+    src="podcast-pitch.jpeg" 
     alt="Podcast pitch" >}}
 {{<figure 
-    src="/assets/images/other-pitch-ideas.jpeg" 
+    src="other-pitch-ideas.jpeg" 
     alt="Other pitch ideas" >}}
 {{<figure 
-    src="/assets/images/ape-based.jpeg" 
+    src="ape-based.jpeg" 
     alt="Ape-based platformers" >}}

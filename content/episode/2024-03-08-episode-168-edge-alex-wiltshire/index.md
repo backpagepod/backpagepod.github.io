@@ -17,5 +17,5 @@ title: 'Episode 168: We Collected Another Edge Editor (with Alex Wiltshire)'
 > This week's music is from the New Super Mario Bros soundtrack by Asuka Hayazaki, Hajime Wakai and Koji Kondo.
 
 {{<figure 
-    src="/assets/images/stanton-wiltshire-accord.jpeg" 
+    src="stanton-wiltshire-accord.jpeg" 
     alt="Stanton Wiltshire Accord" >}}

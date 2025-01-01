@@ -8,7 +8,7 @@ tags:
 - XL
 title: 'XL Episode 19: The Best Resident Evil Moments'
 cover: 
-  image: assets/images/re-merchant.jpeg
+  image: re-merchant.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -20,7 +20,7 @@ cover:
 > Thanks to new Back Page editing pal Michael Banya for their work on this episode (Michael, if that's not actually your name, drop us an email and we'll apologise profusely).
 
 {{<figure 
-  src="/assets/images/re-merchant.jpeg" 
+  src="re-merchant.jpeg" 
   caption="Image Credit: Chris Doherty" 
   alt="What are you buying?">}}
 

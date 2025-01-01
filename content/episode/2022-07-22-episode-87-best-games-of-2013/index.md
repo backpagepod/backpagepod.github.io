@@ -8,7 +8,7 @@ tags:
 - Regular
 title: 'Episode 87: The Best Games of 2013'
 cover: 
-  image: assets/images/injustice.jpeg
+  image: injustice.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -20,11 +20,11 @@ cover:
 > This week's music is from the Grand Theft Auto V soundtrack by Tangerine Dream and Woody Jackson, and crikey, what a banging piece of music 'No Happy Endings' is.
 
 {{<figure 
-    src="/assets/images/ouroboroi.jpeg" 
+    src="ouroboroi.jpeg" 
     caption="Image Caption: Naeslyn" 
     alt="The Castle Ouroboroi" >}}
 {{<figure 
-    src="/assets/images/injustice.jpeg" 
+    src="injustice.jpeg" 
     alt="Injustice" >}}
 
 ## Samuel

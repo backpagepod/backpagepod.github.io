@@ -9,7 +9,7 @@ tags:
 - Jeremy Peel
 title: 'Episode 200: Behind The Back Page'
 cover: 
-    image: assets/images/people-love-it.jpeg
+    image: people-love-it.jpeg
     width: 1000
     height: 638
     hidden: false
@@ -23,21 +23,21 @@ cover:
 {{< embed-pdf url="/assets/images/the-back-page-episode-200-script.pdf" >}}
 
 {{<figure 
-    src="/assets/images/behind-the-laughter.jpeg" 
+    src="behind-the-laughter.jpeg" 
     alt="Behind the Laughter" >}}
 {{<figure 
-    src="/assets/images/true-wild-card.jpeg" 
+    src="true-wild-card.jpeg" 
     caption="Image Credit: Naeslyn" 
     alt="True Wild Card" >}}
 {{<figure 
-    src="/assets/images/meme-shadow.jpeg" 
+    src="meme-shadow.jpeg" 
     alt="Meme Shadow" >}}
 {{<figure 
-    src="/assets/images/200-episode-word-cloud.png" 
+    src="200-episode-word-cloud.png" 
     caption="Word cloud, first attempt" 
     alt="Word Cloud" >}}
 {{<figure 
-    src="/assets/images/200-episode-word-cloud-recount.png" 
+    src="200-episode-word-cloud-recount.png" 
     caption="Demanded a recount after I realised 'People Love It!' had not been considered for the word cloud" 
     alt="Word Cloud" >}}
 

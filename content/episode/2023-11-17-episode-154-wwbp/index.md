@@ -11,7 +11,7 @@ tags:
 title: 'Episode 154: What We''ve Been Playing (Alan Wake 2, Super Mario Wonder, PS
   Portal, Oculus Quest 3)'
 cover: 
-  image: assets/images/living-space.jpeg
+  image: living-space.jpeg
   width: 640
   height: 400
   hidden: false
@@ -25,7 +25,7 @@ cover:
 > This week's music is from the Chants of Senaar soundtrack by Thomas Brunet.
 
 {{<figure 
-    src="/assets/images/living-space.jpeg" 
+    src="living-space.jpeg" 
     alt="Living Space" 
     caption="Image Credit: coyg">}}
 

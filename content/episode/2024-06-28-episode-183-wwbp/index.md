@@ -10,7 +10,7 @@ tags:
 title: 'Episode 183: What We''ve Been Playing (Paper Mario: The Thousand Year Door,
   Still Wakes The Deep, Mullet Madjack)'
 cover: 
-  image: /assets/images/salmon-roberts.jpeg
+  image: salmon-roberts.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -30,6 +30,6 @@ cover:
 - No Case Should Remain Unsolved
 
 {{<figure 
-    src="/assets/images/salmon-roberts.jpeg" 
+    src="salmon-roberts.jpeg" 
     caption="Image Credit: Bjorn" 
     alt="Salmon Roberts">}}

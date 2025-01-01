@@ -9,7 +9,7 @@ tags:
 - Regular
 title: 'Episode 92: The 2000-2005 PC Gaming Draft'
 cover: 
-  image: assets/images/deus-ex-kitchen.jpeg
+  image: deus-ex-kitchen.jpeg
   width: 862
   height: 228
   hidden: false
@@ -23,7 +23,7 @@ cover:
 > This week's music is from the Command & Conquer: Red Alert 2 soundtrack by Frank Klepacki.
 
 {{<figure 
-    src="/assets/images/deus-ex-kitchen.jpeg" 
+    src="deus-ex-kitchen.jpeg" 
     caption="Image Credit: TABBDL" 
     alt="Deus Ex Kitchen">}}
 

@@ -14,7 +14,7 @@ title: 'XXL Episode 21: The Best TV Shows of 2023'
 >Thanks to Michael 'Banyabat' Butter for the edits! And find our lists below so you don't have to write them down while you're listening:
 
 {{<figure 
-    src="/assets/images/cheers-teenager.png" 
+    src="cheers-teenager.png" 
     caption="A Teenager, from Cheers" 
     alt="A Teenager, from Cheers">}}
 

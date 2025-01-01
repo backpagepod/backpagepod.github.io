@@ -9,7 +9,7 @@ tags:
 - Regular
 title: 'Episode 177: The Game Soundtracks Draft'
 cover: 
-  image: /assets/images/wii-shop.jpeg
+  image: wii-shop.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -22,17 +22,17 @@ cover:
 > Most of the music used in the episode is credited in real-time, but the track in the break is an orchestral Phoenix Wright arrangement by Noriyuki Iwadare.
 
 {{<figure 
-    src="/assets/images/soundtrack-draft-day.jpeg" 
+    src="soundtrack-draft-day.jpeg" 
     alt="Soundtrack Draft Day" >}}
 {{<figure 
-    src="/assets/images/shoopuf.jpeg" 
+    src="shoopuf.jpeg" 
     caption="Image Credit: kraftcheese" 
     alt="Shoopuf">}}
 {{<figure 
-    src="/assets/images/discord-quiz.jpeg" 
+    src="discord-quiz.jpeg" 
     alt="Discord Quiz" >}}
 {{<figure 
-    src="/assets/images/dans-favourite.jpeg" 
+    src="dans-favourite.jpeg" 
     caption="Confirming Eat a Pitta no longer has a guest sauce" 
     alt="Cheers Chandelier">}}
 {{< youtube 9k7DrIWcrdI >}}
@@ -154,19 +154,19 @@ Compiled by Betamaxbandit.
 ## Results
 
 {{<figure 
-    src="/assets/images/naeslyn-1.jpeg" 
+    src="naeslyn-1.jpeg" 
     alt="Naeslyn" >}}
 {{<figure 
-    src="/assets/images/naeslyn-2.jpeg" 
+    src="naeslyn-2.jpeg" 
     alt="Naeslyn" >}}
 {{<figure 
-    src="/assets/images/wii-shop.jpeg" 
+    src="wii-shop.jpeg" 
     alt="Wii Shop" >}}
 {{<figure 
-    src="/assets/images/naeslyn-3.jpeg" 
+    src="naeslyn-3.jpeg" 
     alt="Naeslyn" >}}
 {{<figure 
-    src="/assets/images/jan-6.jpeg" 
+    src="jan-6.jpeg" 
     caption="Image Credit: FlintPaper577" 
     alt="Jan 6">}}
 

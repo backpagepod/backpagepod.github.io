@@ -9,7 +9,7 @@ tags:
 - Regular
 title: 'Episode 130: The Xbox 360 Draft'
 cover: 
-  image: assets/images/bateman-fable.jpeg
+  image: bateman-fable.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -21,11 +21,11 @@ cover:
 > This week's music is from the Mirror's Edge soundtrack by Solar Fields.
 
 {{<figure 
-    src="/assets/images/360-draft-day.jpeg" 
+    src="360-draft-day.jpeg" 
     alt="360 draft day" >}}
 
 {{<figure 
-    src="/assets/images/bateman-fable.jpeg" 
+    src="bateman-fable.jpeg" 
     caption="Image credit: Naeslyn" 
     alt="Patrick Bateman. Fable II.">}}
 

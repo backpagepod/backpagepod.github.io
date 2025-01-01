@@ -10,7 +10,7 @@ tags:
 - Regular
 title: 'Episode 191: Writing the Book on Alien: Isolation (with Andy Kelly)'
 cover: 
-  image: assets/images/alien-pulitzer.jpeg
+  image: alien-pulitzer.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -20,20 +20,20 @@ cover:
 > With the release of Andy Kelly's book [Perfect Organism: The Alien Isolation Companion](https://unbound.com/books/perfect-organism) coming up, we asked him about the game and his hottest Alien takes.
 
 {{<figure 
-    src="/assets/images/perfect-organism.jpeg" 
+    src="perfect-organism.jpeg" 
     alt="Perfect Organism" >}}
 {{<figure 
-    src="/assets/images/perfect-organism-extract.jpeg" 
+    src="perfect-organism-extract.jpeg" 
     alt="Perfect Organism" >}}
 {{<figure 
-    src="/assets/images/alien-pulitzer.jpeg" 
+    src="alien-pulitzer.jpeg" 
     alt="Perfect Organism" >}}
 {{<figure 
-    src="/assets/images/ron-cobb.jpeg" 
+    src="ron-cobb.jpeg" 
     caption="Image Credit: Ron Cobb" 
     alt="Ron Cobb">}}
 {{<figure 
-    src="/assets/images/alien-isolation-icons.jpeg" 
+    src="alien-isolation-icons.jpeg" 
     caption="Image Credit: Jon McKellan" 
     alt="Perfect Organism">}}
 

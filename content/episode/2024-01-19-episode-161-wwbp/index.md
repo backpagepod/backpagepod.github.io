@@ -9,7 +9,7 @@ tags:
 title: 'Episode 161: What We''ve Been Playing (Suicide Squad, TLOU2 Remastered, Marvel''s
   Midnight Suns)'
 cover: 
-  image: /assets/images/breaking-bad.jpeg
+  image: breaking-bad.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -23,7 +23,7 @@ cover:
 > Enjoy!
 
 {{<figure 
-    src="/assets/images/breaking-bad.jpeg" 
+    src="breaking-bad.jpeg" 
     caption="Image Credit: Shugdaddy" 
     alt="Breaking Bad Back Page Podcast">}}
 
@@ -36,10 +36,10 @@ cover:
 - Foamstars
 
 {{<figure 
-    src="/assets/images/pooh.png" 
+    src="pooh.png" 
     caption="Samuel, pictured while recording the pod" 
     alt="Samuel, pictured while recording the pod">}}
 {{<figure 
-    src="/assets/images/pooh-trousers.jpeg" 
+    src="pooh-trousers.jpeg" 
     caption="Image Credit: BetamaxBandit" 
     alt="Samuel, pictured while recording the pod">}}

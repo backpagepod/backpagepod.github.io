@@ -9,7 +9,7 @@ tags:
 - Regular
 title: 'Episode 172: The Best Games of 2003'
 cover: 
-  image: /assets/images/ed-stone.jpeg
+  image: ed-stone.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -23,29 +23,29 @@ cover:
 > This week's music is from The Legend of Zelda: Wind Waker soundtrack by Kenta Nagata, Hajime Wakai, Toru Minegishi and Koji Kondo.
 
 {{<figure 
-  src="/assets/images/ed-stone.jpeg" 
+  src="ed-stone.jpeg" 
   caption="Image Credit: RyanPlugs" 
   alt="Ed Stone">}}
 {{<figure 
-    src="/assets/images/long-episode-1.jpeg" 
+    src="long-episode-1.jpeg" 
     alt="Long Episode" >}}
 {{<figure 
-    src="/assets/images/long-episode-2.jpeg" 
+    src="long-episode-2.jpeg" 
     alt="Long Episode" >}}
 {{<figure 
-    src="/assets/images/betrayal.jpeg" 
+    src="betrayal.jpeg" 
     alt="Betrayal" >}}
 {{<figure 
-    src="/assets/images/jak-2.jpeg" 
+    src="jak-2.jpeg" 
     alt="Jak 2" >}}
 {{<figure 
-    src="/assets/images/aquaman.jpeg" 
+    src="aquaman.jpeg" 
     alt="Aquaman" >}}
 {{<figure 
-    src="/assets/images/matrix.jpeg" 
+    src="matrix.jpeg" 
     alt="Enter the Matrix" >}}
 {{<figure 
-    src="/assets/images/batman-dark-tomorrow.png" 
+    src="batman-dark-tomorrow.png" 
     alt="Batman" >}}
 
 [TPR's piano covers on Spotify](https://open.spotify.com/artist/6ImfL6wSxqhYl64AbsaNZX)

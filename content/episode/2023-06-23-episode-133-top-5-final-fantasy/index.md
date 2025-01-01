@@ -8,7 +8,7 @@ tags:
 - Regular
 title: 'Episode 133: Top 5 Final Fantasy Games'
 cover: 
-  image: assets/images/bugenhagen.jpeg
+  image: bugenhagen.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -20,7 +20,7 @@ cover:
 > This week's music is from the Final Fantasy XV soundtrack by Yoko Shimomura, the Final Fantasy XVI soundtrack by Masayoshi Soken, the Final Fantasy XIII soundtrack by Masashi Hamauzu and the Final Fantasy Crystal Chronicles: The Crystal Bearers soundtrack by Hidenori Iwasaki, Ryo Yamazaki and Kumi Tanioka.
 
 {{<figure 
-    src="/assets/images/bugenhagen.jpeg" 
+    src="bugenhagen.jpeg" 
     caption="Within 12 hours, the Discord had created a Bugenhagen emoji" 
     alt="Bugenhagen">}}
 

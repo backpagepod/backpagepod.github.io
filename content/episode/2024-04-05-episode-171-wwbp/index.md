@@ -11,7 +11,7 @@ tags:
 title: 'Episode 171: What We''ve Been Playing (Dragon''s Dogma 2, Rise of the Ronin,
   Helldivers 2)'
 cover: 
-  image: /assets/images/dogma-3.jpeg
+  image: dogma-3.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -29,43 +29,43 @@ cover:
 - Stellar Blade
 
 {{<figure 
-    src="/assets/images/dogma-1.jpeg" 
+    src="dogma-1.jpeg" 
     alt="Dogma" >}}
 {{<figure 
-    src="/assets/images/dogma-2.jpeg" 
+    src="dogma-2.jpeg" 
     alt="Dogma" >}}
 {{<figure 
-    src="/assets/images/dogma-3.jpeg" 
+    src="dogma-3.jpeg" 
     alt="Dogma" >}}
 {{<figure 
-    src="/assets/images/dogma-4.jpeg" 
+    src="dogma-4.jpeg" 
     alt="Dogma" >}}
 {{<figure 
-    src="/assets/images/dogma-5.jpeg" 
+    src="dogma-5.jpeg" 
     alt="Dogma" >}}
 {{<figure 
-    src="/assets/images/dogma-6.jpeg" 
+    src="dogma-6.jpeg" 
     alt="Dogma" >}}
 {{<figure 
-    src="/assets/images/dogma-7.jpeg" 
+    src="dogma-7.jpeg" 
     alt="Dogma" >}}
 {{<figure 
-    src="/assets/images/dogma-8.jpeg" 
+    src="dogma-8.jpeg" 
     alt="Dogma" >}}
 {{<figure 
-    src="/assets/images/dogma-9.jpeg" 
+    src="dogma-9.jpeg" 
     alt="Dogma" >}}
 {{<figure 
-    src="/assets/images/dogma-10.jpeg" 
+    src="dogma-10.jpeg" 
     alt="Dogma" >}}
 {{<figure 
-    src="/assets/images/dogma-11.jpeg" 
+    src="dogma-11.jpeg" 
     alt="Dogma" >}}
 {{<figure 
-    src="/assets/images/dogma-12.jpeg" 
+    src="dogma-12.jpeg" 
     alt="Dogma" >}}
 {{<figure 
-    src="/assets/images/dogma-13.jpeg" 
+    src="dogma-13.jpeg" 
     alt="Dogma" >}}
 
 [Samuel encouraging his friends to fire on each other for no reason right as one was getting into the dropship](https://x.com/anjalimandalia/status/1776178967969505626)

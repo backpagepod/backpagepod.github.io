@@ -7,7 +7,7 @@ tags:
 - XXL
 title: 'XXL Episode 2: Marvel Cinematic Universe movies ranked'
 cover: 
-  image: assets/images/blorko-snap.jpeg
+  image: blorko-snap.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -17,7 +17,7 @@ cover:
 > 28 Marvel movies ranked! In this Patreon exclusive episode, we audit the entire Marvel Cinematic Universe (minus What If? and the Netflix/ABC shows) and put these superhero movies into some kind of quality order – apologies in advance for our terrible takes in this one.
 
 {{<figure 
-    src="/assets/images/blorko-snap.jpeg" 
+    src="blorko-snap.jpeg" 
     caption="Image credit: Alex" 
     alt="Blorko Marvel Snap">}}
 

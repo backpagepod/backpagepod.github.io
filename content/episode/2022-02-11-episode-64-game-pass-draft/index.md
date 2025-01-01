@@ -9,7 +9,7 @@ tags:
 - Regular
 title: 'Episode 64: The Game Pass Competitor Draft'
 cover: 
-  image: assets/images/subscription-services.jpeg
+  image: subscription-services.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -23,7 +23,7 @@ cover:
 > This week's music is from the Snatcher soundtrack by Konami Kukeiha Club, The Sims 4 soundtrack by Ilan Eshkeri and the Kid Icarus: Uprising soundtrack by Motoi Sakuraba, Yuzo Koshiro, Masafumi Takada, Noriyuki Iwadare, Yasunori Mitsuda and Takahiro Nishi.
 
 {{<figure 
-    src="/assets/images/subscription-services.jpeg"
+    src="subscription-services.jpeg"
     alt="Subscription Services" >}}
 
 

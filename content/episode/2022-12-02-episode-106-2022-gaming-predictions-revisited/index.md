@@ -9,7 +9,7 @@ tags:
 - Regular
 title: 'Episode 106: 2022 Gaming Predictions Revisited'
 cover: 
-  image: assets/images/pod-wife.jpeg
+  image: pod-wife.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -19,6 +19,6 @@ cover:
 > Did someone buy Capcom this year? Did Nightdive remaster the N64 South Park FPS? We revisit our 22 predictions from the start of the year to see just how wrong we were – though a couple did pay off. Enjoy this shorter episode, and have a lovely weekend.
 
 {{<figure 
-    src="/assets/images/pod-wife.jpeg" 
+    src="pod-wife.jpeg" 
     caption="Image Credit: kraftcheese" 
     alt="Pod Wife">}}

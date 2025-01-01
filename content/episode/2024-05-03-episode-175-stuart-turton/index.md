@@ -9,7 +9,7 @@ tags:
 - Regular
 title: 'Episode 175: From Mysteries To Metroidvanias (with Stuart Turton)'
 cover: 
-  image: /assets/images/squidward.jpeg
+  image: squidward.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -25,15 +25,15 @@ cover:
 The game Stuart mentioned but couldn't remember the name of was [Requiem: Avenging Angel](https://en.m.wikipedia.org/wiki/Requiem:_Avenging_Angel).
 
 {{<figure 
-    src="/assets/images/hostile-waters.jpeg" 
+    src="hostile-waters.jpeg" 
     alt="Hostile Waters" >}}
 {{<figure 
-    src="/assets/images/squidward.jpeg" 
+    src="squidward.jpeg" 
     alt="Squidward" >}}
 {{<figure 
-    src="/assets/images/rennie-watch.jpeg" 
+    src="rennie-watch.jpeg" 
     alt="Rennie Watch" >}}
 {{<figure 
-    src="/assets/images/funko-pop.jpeg" 
+    src="funko-pop.jpeg" 
     caption="Image Credit: personalnadir" 
     alt="Funko Pop">}}

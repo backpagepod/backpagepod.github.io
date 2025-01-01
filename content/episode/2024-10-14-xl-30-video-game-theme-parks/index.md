@@ -7,7 +7,7 @@ tags:
 - XL
 title: 'XL Episode 30: Two Giant Men Build Video Game Theme Parks'
 cover: 
-  image: assets/images/blobwalls.jpeg
+  image: blobwalls.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: false
@@ -19,7 +19,7 @@ cover:
 > Thanks to Michael 'BanyaBat' Butter for the edits!
 
 {{<figure 
-    src="/assets/images/yuji-naka.gif" 
+    src="yuji-naka.gif" 
     alt="Yuji Naka">}}
 
 |Video Game Theme Parks|

@@ -8,7 +8,7 @@ tags:
 - Regular
 title: 'Episode 71: The Best Kirby Games'
 cover: 
-  image: assets/images/kirby-rennie.jpeg
+  image: kirby-rennie.jpeg
   width: 1008
   height: 920
   hidden: false
@@ -23,7 +23,7 @@ cover:
 > This week's music is from the Kirby and the Forgotten Land soundtrack by Yuuta Ogasawara, Hirokazu Ando, Jun Ishikawa and Yuki Shimooka, and the Kirby's Epic Yarn soundtrack by Tomoya Tomita. Our theme tune is by Barry 'Epoch' Topping (@nostoppingepoch).
 
 {{<figure 
-    src="/assets/images/kirby-rennie.jpeg" 
+    src="kirby-rennie.jpeg" 
     caption="Image Credit: WoonerSparrowHockOfHam" 
     alt="Hope for the Future">}}
 

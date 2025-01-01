@@ -8,7 +8,7 @@ tags:
 - Regular
 title: 'Episode 4: The Best Games of 2006'
 cover: 
-  image: assets/images/hoover-lineup.jpeg
+  image: hoover-lineup.jpeg
   width: 640
   height: 400
   hidden: false
@@ -22,7 +22,7 @@ cover:
 > This week's music comes from the Bully soundtrack by Shawn Lee, The Legend of Zelda: Twilight Princess soundtrack by Toru Minegishi, Asuka Ohta and Koji Kondo, and the Rhythm Tengoku soundtrack by Tsunku and Masami Yone.
 
 {{<figure 
-    src="/assets/images/hoover-lineup.jpeg" 
+    src="hoover-lineup.jpeg" 
     caption="Image Credit: NaesLyn" 
     alt="Hoover Lineup">}}
 

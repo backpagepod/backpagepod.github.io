@@ -10,7 +10,7 @@ tags:
 - Regular
 title: 'Episode 140: Old RPGs and Baldur''s Gate 3 (with Jeremy Peel)'
 cover: 
-  image: assets/images/peel-again.jpeg
+  image: peel-again.jpeg
   width: 608
   height: 434
   hidden: false
@@ -24,6 +24,6 @@ cover:
 > This week's music is from the Dragon Age: Origins soundtrack by Inon Zur. 
 
 {{<figure 
-    src="/assets/images/peel-again.jpeg" 
+    src="peel-again.jpeg" 
     alt="Living Space" 
     caption="Image Credit: RyanPlugs">}}

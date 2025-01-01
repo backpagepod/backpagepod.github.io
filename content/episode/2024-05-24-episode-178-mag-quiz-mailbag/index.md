@@ -9,7 +9,7 @@ tags:
 - Regular
 title: 'Episode 178: The ''00s Games Magazine Quiz and Mailbag'
 cover: 
-  image: /assets/images/uncut-gems.jpeg
+  image: uncut-gems.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -19,13 +19,13 @@ cover:
 > We each try and guess five mystery games based on snippets from their reviews in '00s games magazines. Feel free to play along! After that, enjoy our considered answers to a whole heap of questions, from the Nintendo Switch 2 to the ideal game based on Thunderbirds.
 
 {{<figure 
-    src="/assets/images/uncut-gems.jpeg" 
+    src="uncut-gems.jpeg" 
     caption="Image Credit: NaesLyn" 
     alt="Uncut Gems">}}
 {{<figure 
-    src="/assets/images/doshin.jpeg" 
+    src="doshin.jpeg" 
     caption="Image Credit: NaesLyn" 
     alt="Doshin">}}
 {{<figure 
-    src="/assets/images/time-travellers.jpeg" 
+    src="time-travellers.jpeg" 
     alt="Time Travellers" >}}

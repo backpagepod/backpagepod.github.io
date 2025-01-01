@@ -9,7 +9,7 @@ tags:
 - Regular
 title: 'Episode 69: The PS Vita Draft'
 cover: 
-  image: assets/images/vita-draft-day.jpeg
+  image: vita-draft-day.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -23,12 +23,12 @@ cover:
 - Ghostwire: Tokyo
 
 {{<figure 
-  src="/assets/images/vita-draft-day.jpeg" 
+  src="vita-draft-day.jpeg" 
   caption="Vita Draft Day" 
   alt="Vita Draft Day">}}
 
 {{<figure 
-  src="/assets/images/harrison-ford-vita.jpeg" 
+  src="harrison-ford-vita.jpeg" 
   caption="It's Harrison Ford holding a Playstation Vita" 
   alt="Harrison Ford holding a Playstation Vita">}}
 

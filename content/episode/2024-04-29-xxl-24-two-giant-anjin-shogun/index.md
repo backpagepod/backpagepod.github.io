@@ -8,7 +8,7 @@ tags:
 - XXL
 title: 'XXL Episode 24: Two Giant Anjin Watch Shogun'
 cover: 
-  image: /assets/images/anjin.jpeg
+  image: anjin.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -20,17 +20,17 @@ cover:
 > Thanks to Michael 'BanyaBat' Butter for the edits!
 
 {{<figure 
-    src="/assets/images/anjin.jpeg" 
+    src="anjin.jpeg" 
     alt="Anjin" >}}
 {{<figure 
-    src="/assets/images/nioh.jpeg" 
+    src="nioh.jpeg" 
     alt="Nioh" >}}
 {{<figure 
-    src="/assets/images/parkour-menus-1.jpeg" 
+    src="parkour-menus-1.jpeg" 
     alt="Parkour Menus" >}}
 {{<figure 
-    src="/assets/images/parkour-menus-2.jpeg" 
+    src="parkour-menus-2.jpeg" 
     alt="Parkour Menus" >}}
 {{<figure 
-    src="/assets/images/parkour-menus-3.jpeg" 
+    src="parkour-menus-3.jpeg" 
     alt="Parkour Menus" >}}

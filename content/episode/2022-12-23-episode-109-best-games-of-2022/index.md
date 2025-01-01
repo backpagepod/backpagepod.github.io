@@ -9,7 +9,7 @@ tags:
 - Regular
 title: 'Episode 109: The Best Games of 2022'
 cover: 
-  image: assets/images/immortality.jpeg
+  image: immortality.jpeg
   width: 512
   height: 448
   hidden: false
@@ -23,7 +23,7 @@ cover:
 > Thank you for your support, and happy holidays! This week's music is from the Norco soundtrack by Andy G.
 
 {{<figure 
-    src="/assets/images/immortality.jpeg" 
+    src="immortality.jpeg" 
     alt="Immortality" 
     caption="Image Credit: kraftcheese">}}
 

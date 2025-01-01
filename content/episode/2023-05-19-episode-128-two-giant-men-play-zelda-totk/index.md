@@ -8,7 +8,7 @@ tags:
 - Regular
 title: 'Episode 128: Two Giant Men Play The Legend of Zelda: Tears of the Kingdom'
 cover: 
-  image: assets/images/civil-war.jpeg
+  image: civil-war.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -20,6 +20,6 @@ cover:
 > This week's music is from The Legend of Zelda: Tears of the Kingdom soundtrack by Manaka Kataoka, Maasa Miyoshi, Masato Ohashi and Tsukasa Usui.
 
 {{<figure 
-    src="/assets/images/civil-war.jpeg" 
+    src="civil-war.jpeg" 
     caption="Image credit: EdeleEdo" 
     alt="Civil War">}}

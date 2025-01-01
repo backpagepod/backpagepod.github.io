@@ -14,6 +14,6 @@ title: 'Episode 104: Cyberpunk 2077 Revisited'
 > This week's music is from the Cyberpunk 2077 soundtrack by P. T. Adamczyk, Marcin Przybyłowicz and Paul Leonard-Morgan.
 
 {{<figure 
-    src="/assets/images/naka-domino.jpeg" 
+    src="naka-domino.jpeg" 
     caption="Image credit: Bob Bob" 
     alt="Naka arrested for insider trading">}}

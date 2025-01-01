@@ -8,7 +8,7 @@ tags:
 - Regular
 title: 'Episode 46: Bad eBay Games Court – Listener Edition'
 cover: 
-  image: assets/images/judge-castle.jpeg
+  image: judge-castle.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -20,9 +20,9 @@ cover:
 > This week's music is from The Testament of Sherlock Holmes soundtrack by Alexandre Dudko and the Metroid: Other M soundtrack by Kuniaki Haishima.
 
 {{<figure 
-    src="/assets/images/judge-castle.jpeg"
+    src="judge-castle.jpeg"
     alt="Judge Castle" >}}
 {{<figure 
-    src="/assets/images/caine-oh-no.jpeg"
+    src="caine-oh-no.jpeg"
     alt="Caine Oh No"
     caption="Image Credit: kraftcheese" >}}

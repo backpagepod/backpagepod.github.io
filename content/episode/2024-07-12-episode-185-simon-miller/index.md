@@ -16,5 +16,5 @@ title: 'Episode 185: From The Miller Report to Wrestling (with Simon Miller)'
 This week's music is from The Legend of Zelda: A Link to the Past soundtrack by Koji Kondo.
 
 {{<figure 
-    src="/assets/images/tigger.jpeg" 
+    src="tigger.jpeg" 
     alt="Tigger" >}}

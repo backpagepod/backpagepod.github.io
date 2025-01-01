@@ -8,7 +8,7 @@ tags:
 - Regular
 title: 'Episode 123: The Best Star Wars Games'
 cover: 
-  image: assets/images/best-star-wars-games.jpeg
+  image: best-star-wars-games.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -20,7 +20,7 @@ cover:
 > This week's music is from the Star Wars: Knights of the Old Republic soundtrack by Jeremy Soule and The Force Unleashed soundtrack by Mark Griskey.
 
 {{<figure 
-    src="/assets/images/best-star-wars-games.jpeg" 
+    src="best-star-wars-games.jpeg" 
     caption="Image credit: Naeslyn" 
     alt="Best Star Wars Games">}}
 

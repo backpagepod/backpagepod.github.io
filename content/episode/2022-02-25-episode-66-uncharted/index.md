@@ -8,7 +8,7 @@ tags:
 - Regular
 title: 'Episode 66: Uncharted Games (and the Mediocre Movie)'
 cover: 
-  image: assets/images/yak.jpeg
+  image: yak.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -20,11 +20,11 @@ cover:
 > This week's music is from the Uncharted 4: A Thief's End soundtrack by Henry Jackman, and the Uncharted 1-3 soundtracks by Greg Edmonson.
 
 {{<figure 
-  src="/assets/images/yak.jpeg" 
+  src="yak.jpeg" 
   caption="Ox patting (pictured: a yak)" 
   alt="Ox patting (pictured: a yak)">}}
 
 {{<figure 
-  src="/assets/images/ice-cream-boy.jpeg" 
+  src="ice-cream-boy.jpeg" 
   caption="The ice cream boy Matthew describes as 'cursed' in this episode" 
   alt="The ice cream boy Matthew describes as 'cursed' in this episode">}}

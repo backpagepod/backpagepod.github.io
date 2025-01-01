@@ -9,7 +9,7 @@ tags:
 - Regular
 title: 'Episode 124: The Best Games of 2015'
 cover: 
-  image: assets/images/goty-2015.jpeg
+  image: goty-2015.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -21,12 +21,12 @@ cover:
 > This week's music is from the Fallout 4 soundtrack by Inon Zur and the Hotline Miami 2: Wrong Number soundtrack by The Green Kingdom (aka Mike Cottone).
 
 {{<figure 
-    src="/assets/images/goty-2015.jpeg" 
+    src="goty-2015.jpeg" 
     caption="Image credit: Naeslyn" 
     alt="GOTY 2015">}}
 
 {{<figure 
-    src="/assets/images/kojima-dominos.jpeg" 
+    src="kojima-dominos.jpeg" 
     caption="Image credit: Naeslyn" 
     alt="Koima Productions asking Matthew to be in a video">}}
 

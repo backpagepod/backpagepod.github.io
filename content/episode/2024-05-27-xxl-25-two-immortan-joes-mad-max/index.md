@@ -8,7 +8,7 @@ tags:
 - XXL
 title: 'XXL Episode 25: Two Immortan Joes Watch the Mad Max Movies'
 cover: 
-  image: /assets/images/fury-road.jpeg
+  image: fury-road.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -20,13 +20,13 @@ cover:
 > This week's music is from the Furiosa: A Mad Max Saga soundtrack by Tom Holkenberg. Thanks to Michael Butter for the edits!
 
 {{<figure 
-    src="/assets/images/fury-road.jpeg" 
+    src="fury-road.jpeg" 
     alt="Fury Road" >}}
 {{<figure 
-    src="/assets/images/boomerang.jpeg" 
+    src="boomerang.jpeg" 
     alt="Boomerang" >}}
 {{<figure 
-    src="/assets/images/fareham.jpeg" 
+    src="fareham.jpeg" 
     caption="Image Credit: melmer" 
     alt="Fareham">}}
 

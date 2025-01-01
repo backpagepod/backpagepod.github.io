@@ -8,7 +8,7 @@ tags:
 - XL
 title: 'XL Episode 13: The Best Mario Moments Vol. 1'
 cover: 
-  image: assets/images/mario-moments.jpeg
+  image: mario-moments.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -20,7 +20,7 @@ cover:
 > This week's music is from the Super Mario Galaxy soundtrack by Mahito Yokota and Koji Kondo.
 
 {{<figure 
-    src="/assets/images/mario-moments.jpeg" 
+    src="mario-moments.jpeg" 
     caption="Image credit: Naeslyn" 
     alt="Mario Moments">}}
 

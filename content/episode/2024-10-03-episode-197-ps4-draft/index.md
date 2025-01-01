@@ -11,7 +11,7 @@ tags:
 - Dave Scarborough
 title: 'Episode 197: The PS4 Draft (with Dave Scarborough)'
 cover: 
-  image: assets/images/play-salute.jpeg
+  image: play-salute.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -23,10 +23,10 @@ cover:
 > This week's music is from the Persona 5: Royal soundtrack by Shoji Meguro. Thank you to Matthew 'Mr Basil Pesto' Castle for the edits.
 
 {{<figure 
-    src="/assets/images/play-salute.jpeg" 
+    src="play-salute.jpeg" 
     alt="Play" >}}
 {{<figure 
-    src="/assets/images/play-farewell.jpeg" 
+    src="play-farewell.jpeg" 
     alt="Play" >}}
 
 ## Categories?

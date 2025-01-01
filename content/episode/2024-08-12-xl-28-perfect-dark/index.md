@@ -8,7 +8,7 @@ tags:
 - XL
 title: 'XL Episode 28: Two Giant Men Play Perfect Dark'
 cover: 
-  image: assets/images/perfect-dark-1.jpeg
+  image: perfect-dark-1.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -20,29 +20,29 @@ cover:
 > Look out for another poll for a future XL episode when we're through the next wave of big games. And thanks for your support, as ever!
 
 {{<figure 
-    src="/assets/images/perfect-dark-1.jpeg" 
+    src="perfect-dark-1.jpeg" 
     alt="Perfect Dark" >}}
 {{<figure 
-    src="/assets/images/perfect-dark-2.jpeg" 
+    src="perfect-dark-2.jpeg" 
     alt="Perfect Dark" >}}
 {{<figure 
-    src="/assets/images/perfect-dark-3.jpeg" 
+    src="perfect-dark-3.jpeg" 
     alt="Perfect Dark" >}}
 {{<figure 
-    src="/assets/images/N64-42-47.jpeg" 
+    src="N64-42-47.jpeg" 
     alt="Perfect Dark" >}}
 {{<figure 
-    src="/assets/images/N64-42-50.jpeg" 
+    src="N64-42-50.jpeg" 
     alt="Perfect Dark" >}}
 {{<figure 
-    src="/assets/images/N64-42-51.jpeg" 
+    src="N64-42-51.jpeg" 
     alt="Perfect Dark" >}}
 {{<figure 
-    src="/assets/images/N64-42-55.jpeg" 
+    src="N64-42-55.jpeg" 
     alt="Perfect Dark" >}}
 {{<figure 
-    src="/assets/images/N64-42-60.jpeg" 
+    src="N64-42-60.jpeg" 
     alt="Perfect Dark" >}}
 {{<figure 
-    src="/assets/images/N64-42-61.jpeg" 
+    src="N64-42-61.jpeg" 
     alt="Perfect Dark" >}}

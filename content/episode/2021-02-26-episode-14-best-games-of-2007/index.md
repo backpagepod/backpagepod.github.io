@@ -8,7 +8,7 @@ tags:
 - Regular
 title: 'Episode 14: The Best Games of 2007'
 cover: 
-  image: assets/images/wrestlemania.jpeg
+  image: wrestlemania.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -20,11 +20,11 @@ cover:
 > This week's music is from the God Hand soundtrack by Masafumi Takada and Jun Fukuda, the Halo 3 soundtrack by Marty O'Donnell and the Hotel Dusk: Room 415 soundtrack by Satoshi Okubo.
 
 {{<figure 
-    src="/assets/images/wrestlemania.jpeg"
+    src="wrestlemania.jpeg"
     alt="Wrestlemania" >}}
 
 {{<figure 
-    src="/assets/images/wii-cake.jpeg"
+    src="wii-cake.jpeg"
     alt="Wii Cake" >}}
 
 # Picks

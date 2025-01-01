@@ -8,7 +8,7 @@ tags:
 - XL
 title: 'XL Episode 21: Samuel Bangs On About His Trip To Japan – Apologies In Advance'
 cover: 
-  image: /assets/images/samuel-japan-zoom.jpeg
+  image: samuel-japan-zoom.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -19,15 +19,15 @@ cover:
 >
 > Thanks to Michael 'Banyabat' Butter for the edits!
 {{<figure 
-    src="/assets/images/samuel-japan-zoom.jpeg" 
+    src="samuel-japan-zoom.jpeg" 
     caption="Image credit: Naeslyn" 
     alt="Samuel Japan Zoom">}}
 {{<figure 
-    src="/assets/images/wonderful-japan.jpeg" 
+    src="wonderful-japan.jpeg" 
     caption="Image Credit: Naeslyn" 
     alt="Wonderful Japan">}}
 {{<figure 
-    src="/assets/images/square-enix-cafe.jpeg" 
+    src="square-enix-cafe.jpeg" 
     caption="Image Credit: rwobke" 
     alt="Squenix Cafe">}}
 

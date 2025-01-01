@@ -11,7 +11,7 @@ tags:
 - Regular
 title: 'Episode 73: The Indie Games Hall of Fame Vol. 2 (with Joe Skrebels)'
 cover: 
-  image: assets/images/rumours.jpeg
+  image: rumours.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -24,7 +24,7 @@ cover:
 > This week's music is from the Thumper soundtrack by Brian Gibson. Our theme tune is by Barry 'Epoch' Topping.
 
 {{<figure 
-    src="/assets/images/rumours.jpeg" 
+    src="rumours.jpeg" 
     caption="Image Credit: Naeslyn" 
     alt="Rumours'">}}
 

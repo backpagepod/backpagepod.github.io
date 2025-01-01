@@ -8,7 +8,7 @@ tags:
 - XL
 title: 'XL Episode 6: Best 7/10 Games'
 cover: 
-  image: assets/images/room-oboe-2.jpeg
+  image: room-oboe-2.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -20,10 +20,10 @@ cover:
 > Thanks, as ever, for your support!
 
 {{<figure 
-    src="/assets/images/room-oboe.jpeg" 
+    src="room-oboe.jpeg" 
     alt="Room with Oboe" >}}
 {{<figure 
-    src="/assets/images/room-oboe-2.jpeg" 
+    src="room-oboe-2.jpeg" 
     alt="A Room of One's Oboe" >}}
 
 ## Matthew's games

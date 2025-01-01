@@ -10,7 +10,7 @@ tags:
 - Regular
 title: 'Episode 122: What We''ve Been Playing (Diablo 4, PSVR2, Tchia)'
 cover: 
-  image: assets/images/sounds-like.jpeg
+  image: sounds-like.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -22,18 +22,18 @@ cover:
 > This week's music is from the Final Fantasy X soundtrack by Nobuo Uematsu, Masashi Hamauzu and Junya Nakano.
 
 {{<figure 
-    src="/assets/images/sounds-like.jpeg" 
+    src="sounds-like.jpeg" 
     caption="Image credit: Liam Richardson" 
     alt="Sounds Like You Need to Listen to the BPP" >}}
 {{<figure 
-    src="/assets/images/wolves-1.jpeg" 
+    src="wolves-1.jpeg" 
     caption="Image Credit: Naeslyn" 
     alt="Wolves" >}}
 {{<figure 
-    src="/assets/images/wolves-2.jpeg" 
+    src="wolves-2.jpeg" 
     alt="Wolves 2" >}}
 {{<figure 
-    src="/assets/images/wolves-3.jpeg" 
+    src="wolves-3.jpeg" 
     alt="Wolves 3" >}}
 
 - Diablo IV

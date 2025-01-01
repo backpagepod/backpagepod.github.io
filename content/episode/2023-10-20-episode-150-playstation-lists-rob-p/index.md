@@ -9,7 +9,7 @@ tags:
 - Regular
 title: 'Episode 150: The Art of PlayStation List Making (with Rob Pearson)'
 cover: 
-  image: assets/images/steal-his-look.jpeg
+  image: steal-his-look.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -21,8 +21,8 @@ cover:
 > This week's music is from the Final Fantasy IX soundtrack by Nobuo Uematsu.
 
 {{<figure 
-    src="/assets/images/steal-his-look.jpeg" 
+    src="steal-his-look.jpeg" 
     alt="Steal His Look" >}}
 {{<figure 
-    src="/assets/images/mash-potato.jpeg" 
+    src="mash-potato.jpeg" 
     alt="Mash Potato" >}}

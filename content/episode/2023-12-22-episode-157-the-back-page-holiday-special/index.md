@@ -9,7 +9,7 @@ tags:
 - Mailbag
 title: 'Episode 157: The Back Page Holiday Special 2023'
 cover: 
-  image: /assets/images/alien-predator-kittens.jpeg
+  image: alien-predator-kittens.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -21,15 +21,15 @@ cover:
 > This week's music is from Bayonetta Origins, Final Fantasy 16, Fable 2 and Bully.
 
 {{<figure 
-    src="/assets/images/predator-credits.jpeg" 
+    src="predator-credits.jpeg" 
     caption="The energy of our past guests turning up in our Xmas special" 
     alt="Predator Credits" >}}
 {{<figure 
-    src="/assets/images/alien-predator-kittens.jpeg" 
+    src="alien-predator-kittens.jpeg" 
     caption="Image credit: RyanPlugs" 
     alt="Alien vs Predator vs Kittens" >}}
 {{<figure 
-    src="/assets/images/legends-of-wwii.jpeg" 
+    src="legends-of-wwii.jpeg" 
     caption="Naeslyn's Wii Calendar" 
     alt="Naeslyn's Wii Calendar" >}}
 

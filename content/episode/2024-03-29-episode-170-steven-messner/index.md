@@ -9,7 +9,7 @@ tags:
 - Regular
 title: 'Episode 170: The Time Samuel Wronged A Freelancer (with Steven Messner)'
 cover: 
-  image: /assets/images/assassination.jpeg
+  image: assassination.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -21,7 +21,7 @@ cover:
 > This week's music is from the Harvest Moon 64 soundtrack by Tsuyoshi Tanaka.
 
 {{<figure 
-    src="/assets/images/serious-sam.jpeg" 
+    src="serious-sam.jpeg" 
     caption="Image Credit: Samuel, via Retrododo" 
     alt="Serious Sam">}}
 
@@ -30,8 +30,8 @@ cover:
 [The Boneless Steve Story](https://www.pcgamer.com/how-one-mistake-turned-eve-onlines-deadliest-hunters-into-corpses/)
 
 {{<figure 
-    src="/assets/images/assassination.jpeg" 
+    src="assassination.jpeg" 
     alt="Assassination" >}}
 {{<figure 
-    src="/assets/images/stirring.jpeg" 
+    src="stirring.jpeg" 
     alt="Stirring" >}}

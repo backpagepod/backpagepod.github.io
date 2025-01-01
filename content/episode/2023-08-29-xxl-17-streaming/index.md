@@ -10,7 +10,7 @@ tags:
 title: 'XXL Episode 17: The ''Matthew Castle Productions and Big Sammy Holdings Launch
   Rival Streaming Services'' Draft'
 cover: 
-  image: assets/images/legally-responsible.jpeg
+  image: legally-responsible.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -21,14 +21,14 @@ cover:
 > Thanks to Liam Richardson for the edits, as ever! And thank you for your generous support of what we do.
 
 {{<figure 
-    src="/assets/images/mr-castles-gamescom.jpeg" 
+    src="mr-castles-gamescom.jpeg" 
     caption="Image credit: Naeslyn" 
     alt="Mr Castle's Gamescom" >}}
 {{<figure 
-    src="/assets/images/legally-responsible.jpeg" 
+    src="legally-responsible.jpeg" 
     alt="People send me pictures of mrbasil_pesto now like I'm legally responsible for him" >}}
 {{<figure 
-    src="/assets/images/gamescom-sausage.jpeg" 
+    src="gamescom-sausage.jpeg" 
     alt="Gamescom Sausage" >}}
 
 ### TV categories

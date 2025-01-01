@@ -15,9 +15,9 @@ title: 'Episode 84: Games Court 4 – A Few Pre-Owned Games More'
 > Our theme tune comes from the brilliant Barry Topping, composer of Paradise Killer.
 
 {{<figure 
-    src="/assets/images/regularpod.jpeg" 
+    src="regularpod.jpeg" 
     alt="Regular Back Page Episode" >}}
 {{<figure 
-    src="/assets/images/gamescourtpod.jpeg" 
+    src="gamescourtpod.jpeg" 
     caption="Image credit: Bob Bob" 
     alt="Games Court Back Page Episode">}}

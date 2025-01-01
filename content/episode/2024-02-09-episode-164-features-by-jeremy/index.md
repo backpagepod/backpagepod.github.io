@@ -9,7 +9,7 @@ tags:
 - Regular
 title: 'Episode 164: How To Write A Feature About Games (with Jeremy Peel)'
 cover: 
-  image: assets/images/peel-more-suited.jpeg
+  image: peel-more-suited.jpeg
   width: 1034
   height: 907
   hidden: false
@@ -25,18 +25,18 @@ cover:
 > This week's music is from the System Shock remake by Jonathan Peros. 
 
 {{<figure 
-    src="/assets/images/edge-395.jpeg" 
+    src="edge-395.jpeg" 
     caption="Edge 395, featuring Jeremy's cover world premiere. Image Credit: GGABronco" 
     alt="Edge 395">}}
 {{<figure 
-    src="/assets/images/peel-more-suited.jpeg" 
+    src="peel-more-suited.jpeg" 
     caption="Image Credit: cboy77" 
     alt="Peel More Suited">}}
 
 [Matthew Castle IMDB](https://www.imdb.com/name/nm7640062/)
 
 {{<figure 
-    src="/assets/images/kiefer-matthew.png" 
+    src="kiefer-matthew.png" 
     alt="Kiefer & Matthew, together at last" >}}
 
 {{< youtube q__C30Pesxs >}}

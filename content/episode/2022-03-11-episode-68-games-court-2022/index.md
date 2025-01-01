@@ -8,7 +8,7 @@ tags:
 - Regular
 title: 'Episode 68: Bad eBay Games Court 2022'
 cover: 
-  image: assets/images/pulpin.jpeg
+  image: pulpin.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -20,6 +20,6 @@ cover:
 > This week's music comes from Barry Topping, composer on the brilliant Paradise Killer — it's our brand new theme tune!
 
 {{<figure 
-  src="/assets/images/pulpin.jpeg" 
+  src="pulpin.jpeg" 
   caption="Image Credit: JonCheetham1" 
   alt="Pulpin">}}

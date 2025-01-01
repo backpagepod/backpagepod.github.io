@@ -9,7 +9,7 @@ tags:
 - Regular
 title: 'Episode 53: The Xbox vs GameCube Draft'
 cover: 
-    image: assets/images/obvious-pick.jpeg
+    image: obvious-pick.jpeg
     width: 768
     height: 448
     hidden: true
@@ -27,15 +27,15 @@ cover:
 ## MCP Gamecube Draft Launch (Embargoed)
 
 {{<figure 
-    src="/assets/images/lynham.jpeg" 
+    src="lynham.jpeg" 
     caption="Des Lynham promotes the MCP draft picks" 
     alt="Des Lynham promotes the MCP draft picks" >}}
 {{<figure 
-    src="/assets/images/jason-alexander.jpeg" 
+    src="jason-alexander.jpeg" 
     caption="Jason Alexander at the MCP launch event" 
     alt="Jason Alexander at the MCP launch event" >}}
 {{<figure 
-    src="/assets/images/amy-bongos.jpeg" 
+    src="amy-bongos.jpeg" 
     caption="Amy Whitehouse prepares for her appearance in Games Court" 
     alt="Amy Whitehouse prepares for her appearance in Games Court" >}}
 

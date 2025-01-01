@@ -11,7 +11,7 @@ tags:
 - Not E3
 title: 'Episode 82: Top 10 Most Anticipated Games'
 cover: 
-  image: assets/images/peel.jpeg
+  image: peel.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -21,7 +21,7 @@ cover:
 > Matthew is away this week! Returning guest Jeremy Peel kindly steps in to replace him, as we count down our 10 personal most anticipated games, based on whatever E3 was this year – from Redfall to Final Fantasy 16.
 
 {{<figure 
-    src="/assets/images/peel.jpeg" 
+    src="peel.jpeg" 
     alt="Peel" >}}
 
 ### Jeremy

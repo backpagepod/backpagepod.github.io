@@ -8,7 +8,7 @@ tags:
 - Regular
 title: 'Episode 121: Two El Gigantes Play Resident Evil 4 Remake'
 cover: 
-  image: assets/images/matthew-rio-matchmakers.jpeg
+  image: matthew-rio-matchmakers.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -21,12 +21,12 @@ cover:
 
 
 {{<figure 
-    src="/assets/images/matthew-rio-matchmakers.jpeg" 
+    src="matthew-rio-matchmakers.jpeg" 
     caption="Image credit: Naeslyn" 
     alt="Matthew. Rio. Matchmakers.">}}
 
 {{<figure 
-    src="/assets/images/crows-pesetas.jpeg" 
+    src="crows-pesetas.jpeg" 
     caption="Salazar insists on Pesetas. Image credit: Naeslyn" 
     alt="Crows insist on Pesatas">}}
 
@@ -35,5 +35,5 @@ cover:
 Right to reply:
 
 {{<figure 
-    src="/assets/images/lesley-smith.jpeg" 
+    src="lesley-smith.jpeg" 
     alt="Matthew's mum in the comments" >}}

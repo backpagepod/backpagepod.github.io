@@ -16,7 +16,7 @@ title: 'Episode 119: The Capcom Games Draft'
 > This week's music is from the Devil May Cry 5 soundtrack by Casey Edwards, Ali Edwards and Cliff Lloret, and the Onimusha 2: Samurai's Destiny soundtrack by Taro Iwashiro.
 
 {{<figure 
-    src="/assets/images/driving-mr-pesto.png" 
+    src="driving-mr-pesto.png" 
     caption="Image credit: Naeslyn" 
     alt="Driving Mr Pesto">}}
 

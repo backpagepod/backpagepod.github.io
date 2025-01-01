@@ -10,7 +10,7 @@ tags:
 - Regular
 title: 'Episode 91: From Edge to Hit Points (with Nathan Brown)'
 cover: 
-  image: assets/images/nathan.jpeg
+  image: nathan.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -23,5 +23,5 @@ cover:
 > This week's music is from the Destiny soundtrack by Marty O'Donnell and Michael Salvatori and the Street Fighter II soundtrack by Yoko Shimomura and Isao Abe.
 
 {{<figure 
-    src="/assets/images/nathan.jpeg" 
+    src="nathan.jpeg" 
     alt="Nathan" >}}

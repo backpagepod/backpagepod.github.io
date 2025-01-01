@@ -10,7 +10,7 @@ tags:
 title: 'Episode 198: What We''ve Been Playing (Metaphor: ReFantazio, Silent Hill 2,
   The Legend of Zelda: Echoes of Wisdom)'
 cover: 
-  image: assets/images/jc-himself.jpeg
+  image: jc-himself.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -26,8 +26,8 @@ cover:
 - The Legend of Zelda: Echoes of Wisdom
 
 {{<figure 
-    src="/assets/images/bagel-points.jpeg" 
+    src="bagel-points.jpeg" 
     alt="Bagel points" >}}
 {{<figure 
-    src="/assets/images/jc-himself.jpeg" 
+    src="jc-himself.jpeg" 
     alt="JC Himself" >}}

@@ -8,7 +8,7 @@ tags:
 - XXL
 title: 'XXL Episode 15: The Indiana Jones Rankings'
 cover: 
-  image: assets/images/club-obi-wan.jpeg
+  image: club-obi-wan.jpeg
   width: 828
   height: 356
   hidden: false

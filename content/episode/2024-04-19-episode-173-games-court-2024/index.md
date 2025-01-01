@@ -8,7 +8,7 @@ tags:
 - Regular
 title: 'Episode 173: Games Court 2024'
 cover: 
-  image: /assets/images/anatomy-of-a-fall.jpeg
+  image: anatomy-of-a-fall.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -20,59 +20,59 @@ cover:
 > This week's music is 'PIMP' by Bacao Rhythm & Steel Band, as well as the Games Court theme by listener Adam Saucier.
 
 {{<figure 
-    src="/assets/images/anatomy-of-a-fall.jpeg" 
+    src="anatomy-of-a-fall.jpeg" 
     caption="Image Credit: RyanPlugs" 
     alt="Anatomy of a Fall">}}
 {{<figure 
-    src="/assets/images/anatomy-of-a-fall-1.jpeg" 
+    src="anatomy-of-a-fall-1.jpeg" 
     alt="Anatomy of a Fall" >}}
 {{<figure 
-    src="/assets/images/anatomy-of-a-fall-2.jpeg" 
+    src="anatomy-of-a-fall-2.jpeg" 
     alt="Anatomy of a Fall" >}}
 {{<figure 
-    src="/assets/images/gladiator.jpeg" 
+    src="gladiator.jpeg" 
     caption="Image Credit: camp_bell" 
     alt="Gladiator">}}
 {{<figure 
-    src="/assets/images/staggering-amount.jpeg" 
+    src="staggering-amount.jpeg" 
     alt="Staggering Amount" >}}
 {{<figure 
-    src="/assets/images/back-on-the-menu.jpeg" 
+    src="back-on-the-menu.jpeg" 
     caption="Image Credit: NaesLyn" 
     alt="Back on the Menu">}}
 {{<figure 
-    src="/assets/images/transcription.jpeg" 
+    src="transcription.jpeg" 
     alt="Transcription" >}}
 {{<figure 
-    src="/assets/images/samuel-photoshop.jpeg" 
+    src="samuel-photoshop.jpeg" 
     alt="Samuel Photoshop" >}}
 {{<figure 
-    src="/assets/images/samuel-photoshop-1.jpeg" 
+    src="samuel-photoshop-1.jpeg" 
     alt="Samuel Photoshop" >}}
 {{<figure 
-    src="/assets/images/samuel-photoshop-2.jpeg" 
+    src="samuel-photoshop-2.jpeg" 
     alt="Samuel Photoshop" >}}
 {{<figure 
-    src="/assets/images/samuel-photoshop-3.jpeg" 
+    src="samuel-photoshop-3.jpeg" 
     alt="Samuel Photoshop" >}}
 {{<figure 
-    src="/assets/images/samuel-photoshop-4.jpeg" 
+    src="samuel-photoshop-4.jpeg" 
     alt="Samuel Photoshop" >}}
 {{<figure 
-    src="/assets/images/samuel-photoshop-5.jpeg" 
+    src="samuel-photoshop-5.jpeg" 
     alt="Samuel Photoshop" >}}
 {{<figure 
-    src="/assets/images/games-court-mood.jpeg" 
+    src="games-court-mood.jpeg" 
     alt="Games Court Mood" >}}
 {{<figure 
-    src="/assets/images/games-court-mood-1.jpeg" 
+    src="games-court-mood-1.jpeg" 
     alt="Games Court Mood" >}}
 {{<figure 
-    src="/assets/images/castle-island-lore-1.jpeg" 
+    src="castle-island-lore-1.jpeg" 
     alt="Castle Island Lore" >}}
 {{<figure 
-    src="/assets/images/castle-island-lore-2.jpeg" 
+    src="castle-island-lore-2.jpeg" 
     alt="Castle Island Lore" >}}
 {{<figure 
-    src="/assets/images/playstation-truck.jpeg" 
+    src="playstation-truck.jpeg" 
     alt="PlayStation truck" >}}

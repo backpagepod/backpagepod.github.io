@@ -9,7 +9,7 @@ tags:
 - Regular
 title: 'Episode 186: Mailbag (July 2024)'
 cover: 
-  image: /assets/images/emergency-podcasts.jpeg
+  image: emergency-podcasts.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -19,7 +19,7 @@ cover:
 > From great Metroidvanias to an impromptu Cheese Draft, it's time for another mailbag episode. Submit your questions for future mailbags in the Discord, or email us at backpagegames@gmail.com.
 
 {{<figure 
-    src="/assets/images/emergency-podcasts.jpeg" 
+    src="emergency-podcasts.jpeg" 
     alt="Emergency" >}}
 
 - Balladeer: What are your favourite Metroidvanias?

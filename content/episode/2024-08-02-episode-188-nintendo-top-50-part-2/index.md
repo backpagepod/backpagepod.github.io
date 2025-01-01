@@ -8,7 +8,7 @@ tags:
 - Top 50
 title: 'Episode 188: Nintendo Top 50 Part 2 – Assembling the Longlist'
 cover: 
-  image: assets/images/rare-cry-1.jpeg
+  image: rare-cry-1.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -22,16 +22,16 @@ cover:
 > This week's music is from the Last Window: The Secret of Cape West soundtrack by Satoshi Okubo.
 
 {{<figure 
-    src="/assets/images/top-50.jpeg" 
+    src="top-50.jpeg" 
     alt="Top 50" >}}
 {{<figure 
-    src="/assets/images/rare-cry-1.jpeg" 
+    src="rare-cry-1.jpeg" 
     alt="Rare Cry" >}}
 {{<figure 
-    src="/assets/images/rare-cry-2.jpeg" 
+    src="rare-cry-2.jpeg" 
     alt="Rare Cry" >}}
 {{<figure 
-    src="/assets/images/boys-across-the-river.jpeg" 
+    src="boys-across-the-river.jpeg" 
     caption="I’m glad Apple Intelligence knows they should be capitalised." 
     alt="The Boys Across The River">}}
 

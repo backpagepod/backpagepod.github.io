@@ -17,6 +17,6 @@ title: 'XXL Episode 22: Back Page Film Club – Dazed and Confused + 21 Jump Str
 > This week's music is from the 21 Jump Street soundtrack by Mark Mothersbaugh. Thanks to Michael 'Banyabat' Butter for the edits, and thanks for your support!
 
 {{<figure 
-    src="/assets/images/fort.jpeg" 
+    src="fort.jpeg" 
     caption="'For the deep lore heads: this is the Fort we used to go get pissed near when I was a teenager. Had a spooky green light that came on and off, and some kind of radar thing spinning around constantly. But appeared to be completely unmanned.'" 
     alt="Fort">}}

@@ -9,7 +9,7 @@ tags:
 - Regular
 title: 'Episode 181: Top 10 Most Anticipated Games'
 cover: 
-  image: /assets/images/prestige-miffy.jpeg
+  image: prestige-miffy.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -19,20 +19,20 @@ cover:
 > With a hangover from ninety June livestreams, Matthew and Samuel each deliver their ten favourites from the hype season.
 
 {{<figure 
-    src="/assets/images/dads-army.jpeg" 
+    src="dads-army.jpeg" 
     caption="Image Credit: scottv5277" 
     alt="Dad's Army">}}
 {{<figure 
-    src="/assets/images/prestige-miffy.jpeg" 
+    src="prestige-miffy.jpeg" 
     alt="Prestige Miffy" >}}
 {{<figure 
-    src="/assets/images/lexxington-1.jpeg" 
+    src="lexxington-1.jpeg" 
     alt="Lexxington" >}}
 {{<figure 
-    src="/assets/images/lexxington-2.jpeg" 
+    src="lexxington-2.jpeg" 
     alt="Lexxington" >}}
 {{<figure 
-    src="/assets/images/lexxington-3.jpeg" 
+    src="lexxington-3.jpeg" 
     alt="Lexxington" >}}
 
 ## Matthew

@@ -11,10 +11,10 @@ tags:
 title: 'Episode 193: Why Japanese Games Have Thrived Since the Xbox 360 Era (with
   Jay Baylis)'
 cover: 
-  image: assets/images/baylis.jpeg
+  image: baylis.jpeg
   hidden: false
   hiddenInList: false
-  hiddenInSingle: true
+  hiddenInSingle: false
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-193-why-111464119)
@@ -24,11 +24,11 @@ cover:
 > This week's music is from the Persona 3 soundtrack by Shoji Meguro.
 
 {{<figure 
-    src="/assets/images/edge-402.jpeg" 
+    src="edge-402.jpeg" 
     alt="Edge 402" >}}
 {{<figure 
-    src="/assets/images/astro-bot-1.jpeg" 
+    src="astro-bot-1.jpeg" 
     alt="Astro Bot" >}}
 {{<figure 
-    src="/assets/images/astro-bot-2.jpeg" 
+    src="astro-bot-2.jpeg" 
     alt="Astro Bot" >}}

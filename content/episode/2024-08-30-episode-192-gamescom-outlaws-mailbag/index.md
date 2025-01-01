@@ -10,7 +10,7 @@ tags:
 title: 'Episode 192: Star Wars Outlaws First Impressions, Gamescom 2024 and Emergency
   Mailbag'
 cover: 
-  image: assets/images/indy.jpeg
+  image: indy.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -20,20 +20,20 @@ cover:
 > In this oddly lengthy grab bag of an episode, Matthew talks about the first few hours of Star Wars Outlaws (about 25 mins in), Samuel explains what he ate at Gamescom 2024, and both of us answer questions from the listeners.
 
 {{<figure 
-    src="/assets/images/indy.jpeg" 
+    src="indy.jpeg" 
     caption="Image Credit: Shugdaddy" 
     alt="Indy">}}
 {{<figure 
-    src="/assets/images/blorko-graffiti.jpeg" 
+    src="blorko-graffiti.jpeg" 
     alt="Blorko" >}}
 {{<figure 
-    src="/assets/images/banksy.jpeg" 
+    src="banksy.jpeg" 
     alt="Banksy" >}}
 {{<figure 
-    src="/assets/images/batman-begin.jpeg" 
+    src="batman-begin.jpeg" 
     alt="Batman Begin" >}}
 {{<figure 
-    src="/assets/images/batman-begin-2.jpeg" 
+    src="batman-begin-2.jpeg" 
     caption="Image Credit: scrowe" 
     alt="Batman Begin" >}}
 

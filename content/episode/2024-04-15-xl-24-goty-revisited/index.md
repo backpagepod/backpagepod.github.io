@@ -26,6 +26,6 @@ title: 'XL Episode 24: GOTY Lists Revisited'
 21:40 - Praise for this website! (Thank you.) "He's something of an IT whiz. I get the impression that he's got better things to do with his time but he decided to do this."
 
 {{<figure 
-    src="/assets/images/dinosaurs.jpeg" 
+    src="dinosaurs.jpeg" 
     caption="My response to that." 
     alt="My response to that.">}}

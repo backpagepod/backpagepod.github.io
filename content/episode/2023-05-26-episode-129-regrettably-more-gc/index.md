@@ -9,7 +9,7 @@ tags:
 - Regular
 title: 'Episode 129: Regrettably, More Games Court'
 cover: 
-  image: assets/images/know-the-work-rules.jpeg
+  image: know-the-work-rules.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -19,6 +19,6 @@ cover:
 > More listeners' pre-owned purchases go on trial in this latest version of the much-despised Games Court podcast format. Enjoy, and deepest apologies.
 
 {{<figure 
-    src="/assets/images/know-the-work-rules.jpeg" 
+    src="know-the-work-rules.jpeg" 
     caption="Image credit: Dutch Manley" 
     alt="Know the work rules">}}

@@ -9,7 +9,7 @@ tags:
 - Regular
 title: 'Episode 112: Games Court 2023'
 cover: 
-  image: assets/images/hutz.jpeg
+  image: hutz.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -21,18 +21,18 @@ cover:
 > This week's music is from the No More Heroes soundtrack by Masafumi Takada and Jun Fukuda.
 
 {{<figure 
-    src="/assets/images/hutz.jpeg" 
+    src="hutz.jpeg" 
     caption="Image credit: Naeslyn" 
     alt="Can you imagine a world where Judge Castle doesn't murder my clients?" >}}
 {{<figure 
-    src="/assets/images/focus-group.jpeg" 
+    src="focus-group.jpeg" 
     caption="Image credit: Bjorn" 
     alt="So you want a down-to-earth show that's completely off the wall" >}}
 {{<figure 
-    src="/assets/images/pumpkin-heist.jpeg" 
+    src="pumpkin-heist.jpeg" 
     caption="Here is the pumpkin heist newspaper mentioned in this episode" 
     alt="Pumpkin Heist" >}}
 {{<figure 
-    src="/assets/images/10-for-10-euros.jpeg" 
+    src="10-for-10-euros.jpeg" 
     caption="Evidence of the 10 mostly cursed games for 10 Euros" 
     alt="Evidence of the 10 mostly cursed games for 10 Euros" >}}

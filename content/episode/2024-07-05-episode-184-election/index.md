@@ -7,7 +7,7 @@ tags:
 - Regular
 title: 'Episode 184: The Back Page Election'
 cover: 
-  image: /assets/images/election-1.jpeg
+  image: election-1.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -19,32 +19,32 @@ cover:
 This week's music is from the Bayonetta soundtrack by Norihiko Hibino, Takahiro Izutani, Masami Ueda, Hiroshi Yamaguchi, Rei Kondoh, Takayasu Sodeoka, Erina Niwa, Yoshitaka Suzuki and Naoto Tanaka.
 
 {{<figure 
-    src="/assets/images/election-1.jpeg" 
+    src="election-1.jpeg" 
     caption="Image Credit: Naeslyn" 
     alt="Election">}}
 {{<figure 
-    src="/assets/images/election-2.jpeg" 
+    src="election-2.jpeg" 
     alt="Election" >}}
 {{<figure 
-    src="/assets/images/election-3.jpeg" 
+    src="election-3.jpeg" 
     alt="Election" >}}
 {{<figure 
-    src="/assets/images/election-4.jpeg" 
+    src="election-4.jpeg" 
     alt="Election" >}}
 {{<figure 
-    src="/assets/images/election-5.jpeg" 
+    src="election-5.jpeg" 
     alt="Election" >}}
 {{<figure 
-    src="/assets/images/election-6.jpeg" 
+    src="election-6.jpeg" 
     alt="Election" >}}
 {{<figure 
-    src="/assets/images/election-7.jpeg" 
+    src="election-7.jpeg" 
     alt="Election" >}}
 {{<figure 
-    src="/assets/images/election-8.jpeg" 
+    src="election-8.jpeg" 
     alt="Election" >}}
 {{<figure 
-    src="/assets/images/sunak-intermezzo.jpeg" 
+    src="sunak-intermezzo.jpeg" 
     alt="Sunak Intermezzo" >}}
 
 ## Picks

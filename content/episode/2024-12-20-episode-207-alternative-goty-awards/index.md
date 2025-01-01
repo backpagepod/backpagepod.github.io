@@ -8,7 +8,7 @@ tags:
 - Regular
 title: 'Episode 207: The Alternative GOTY Awards 2024'
 cover: 
-  image: assets/images/simpsons-games-1.jpeg
+  image: simpsons-games-1.jpeg
   width: 683
   height: 1280
   hidden: false
@@ -22,48 +22,48 @@ cover:
 > This week's music is from the FF7 Rebirth soundtrack by Mitsuto Suzuki and Masashi Hamauzu and the Helldivers 2 soundtrack by Wilbert Roget II.
 
 {{<figure 
-    src="/assets/images/simpsons-games-1.jpeg" 
+    src="simpsons-games-1.jpeg" 
     alt="Simpson Games"
     caption="Image Credit: RyanPlugs" >}}
 {{<figure 
-    src="/assets/images/simpsons-games-2.jpeg" 
+    src="simpsons-games-2.jpeg" 
     alt="Simpson Games"
     caption="Image Credit: RyanPlugs" >}}
 {{<figure 
-    src="/assets/images/simpsons-games-3.jpeg" 
+    src="simpsons-games-3.jpeg" 
     alt="Simpson Games" >}}
 {{<figure 
-    src="/assets/images/simpsons-games-4.jpeg" 
+    src="simpsons-games-4.jpeg" 
     alt="Simpson Games" >}}
 {{<figure 
-    src="/assets/images/simpsons-games-5.jpeg" 
+    src="simpsons-games-5.jpeg" 
     alt="Simpson Games" >}}
 {{<figure 
-    src="/assets/images/simpsons-games-6.jpeg" 
+    src="simpsons-games-6.jpeg" 
     alt="Simpson Games" >}}
 {{<figure 
-    src="/assets/images/simpsons-games-7.jpeg" 
+    src="simpsons-games-7.jpeg" 
     alt="Simpson Games" >}}
 {{<figure 
-    src="/assets/images/simpsons-games-8.jpeg" 
+    src="simpsons-games-8.jpeg" 
     alt="Simpson Games" >}}
 {{<figure 
-    src="/assets/images/simpsons-games-9.jpeg" 
+    src="simpsons-games-9.jpeg" 
     alt="Simpson Games" >}}
 {{<figure 
-    src="/assets/images/simpsons-games-10.jpeg" 
+    src="simpsons-games-10.jpeg" 
     alt="Simpson Games" >}}
 {{<figure 
-    src="/assets/images/simpsons-games-11.jpeg" 
+    src="simpsons-games-11.jpeg" 
     alt="Simpson Games" >}}
 {{<figure 
-    src="/assets/images/simpsons-games-12.jpeg" 
+    src="simpsons-games-12.jpeg" 
     alt="Simpson Games" >}}
 {{<figure 
-    src="/assets/images/simpsons-games-13.jpeg" 
+    src="simpsons-games-13.jpeg" 
     alt="Simpson Games" >}}
 {{<figure 
-    src="/assets/images/simpsons-games-14.jpeg" 
+    src="simpsons-games-14.jpeg" 
     alt="Simpson Games" >}}
 
 ## Best Hang

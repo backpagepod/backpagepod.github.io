@@ -10,7 +10,7 @@ tags:
 - Regular
 title: 'Episode 85: What We''ve Been Playing (July 2022)'
 cover: 
-  image: assets/images/dog-paints.jpeg
+  image: dog-paints.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -22,7 +22,7 @@ cover:
 > Our theme tune, which plays in full this week at the very end, is from Barry Topping as ever.
 
 {{<figure 
-    src="/assets/images/dog-paints.jpeg" 
+    src="dog-paints.jpeg" 
     caption="Image Caption: PersonalNadir" 
     alt="The Dog Who Paints">}}
 

@@ -17,7 +17,7 @@ title: 'XL Episode 4: Top 25 Metal Gear Solid Moments (with Rich Stanton)'
 > This week's music is from the Metal Gear Solid 3: Snake Eater soundtrack by Norihiko Hibino and Cynthia Harrell.
 
 {{<figure 
-    src="/assets/images/mgs-corridor.jpeg" 
+    src="mgs-corridor.jpeg" 
     alt="MGS Corridor" >}}
 
 1. Gray Fox reveal/corridor of dead guys (MGS)

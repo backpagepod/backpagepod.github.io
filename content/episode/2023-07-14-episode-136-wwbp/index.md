@@ -11,7 +11,7 @@ tags:
 title: 'Episode 136: What We''ve Been Playing (Final Fantasy 16, Trepang2, Baldur''s
   Gate 3)'
 cover: 
-  image: assets/images/apple-sauce.jpeg
+  image: apple-sauce.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -23,7 +23,7 @@ cover:
 > This week's music is from the Final Fantasy 16 soundtrack by Masayoshi Soken. 
 
 {{<figure 
-    src="/assets/images/apple-sauce.jpeg" 
+    src="apple-sauce.jpeg" 
     caption="Image credit: Alex" 
     alt="Matthew. The Office. Unable to distinguish apple sauce and mash.">}}
 

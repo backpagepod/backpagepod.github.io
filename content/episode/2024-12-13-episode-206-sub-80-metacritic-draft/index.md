@@ -8,7 +8,7 @@ tags:
 - Regular
 title: 'Episode 206: The Sub-80 Metacritic Games Draft'
 cover: 
-  image: assets/images/anthem.jpeg
+  image: anthem.jpeg
   width: 1280
   height: 939
   hidden: false
@@ -30,11 +30,11 @@ cover:
 > Enjoy! This week's music is from The Centennial Case: A Shijima Story by Yûki Hayashi and Shogo Yamashiro.
 
 {{<figure 
-    src="/assets/images/anthem.jpeg" 
+    src="anthem.jpeg" 
     alt="Anthem" 
     caption="Image Credit: Naeslyn">}}
 {{<figure 
-    src="/assets/images/hotel-dusk-secrets.jpeg" 
+    src="hotel-dusk-secrets.jpeg" 
     alt="Hotel Dusk" 
     caption="Image Credit: Synthetic Snowman">}}
 

@@ -9,7 +9,7 @@ tags:
 - Regular
 title: 'Episode 81: The ''90s PC Games Draft'
 cover: 
-  image: assets/images/pc-games-draft-2.jpeg
+  image: pc-games-draft-2.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -21,34 +21,34 @@ cover:
 > This week's music is from the Command & Conquer: Red Alert soundtrack by Frank Klepacki.
 
 {{<figure 
-    src="/assets/images/come-dine-with-samuel.png" 
+    src="come-dine-with-samuel.png" 
     alt="Come Dine With Samuel" >}}
 {{<figure 
-    src="/assets/images/pc-draft-mistake.png" 
+    src="pc-draft-mistake.png" 
     alt="My mistake was assuming Matthew would only pick games he had played." >}}
 {{<figure 
-    src="/assets/images/predator-draft.jpeg" 
+    src="predator-draft.jpeg" 
     alt="Dutch Dillon Draft" >}}
 {{<figure 
-    src="/assets/images/freespace.jpeg" 
+    src="freespace.jpeg" 
     alt="Freespace" >}}
 {{<figure 
-    src="/assets/images/command-and-conquer-draft.png" 
+    src="command-and-conquer-draft.png" 
     alt="An Arrested Development meme" >}}
 {{<figure 
-    src="/assets/images/pc-games-draft-1.jpeg" 
+    src="pc-games-draft-1.jpeg" 
     caption="Image Credit: JackyBoy34" 
     alt="Image Credit: JackyBoy34" >}}
 {{<figure 
-    src="/assets/images/pc-games-draft-2.jpeg" 
+    src="pc-games-draft-2.jpeg" 
     caption="Image Credit: JackyBoy34" 
     alt="" >}}
 {{<figure 
-    src="/assets/images/tie-fighter-press-f.jpeg" 
+    src="tie-fighter-press-f.jpeg" 
     alt="Tie Fighter"
     caption="Image Credit: Samuel"  >}}
 {{<figure 
-    src="/assets/images/phoenix-tie-fighter.mp4" 
+    src="phoenix-tie-fighter.mp4" 
     alt="Tie Fighter"
     caption="Image Credit: jaybeedee"  >}}
 

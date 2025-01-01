@@ -8,7 +8,7 @@ tags:
 - XL
 title: 'XL Episode 29: Top 50 Third-Party Nintendo Games'
 cover: 
-  image: assets/images/fall-out.png
+  image: fall-out.png
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -20,19 +20,19 @@ cover:
 > We forgot fucking Monkey Ball! The rest of the list is pretty good. Thanks for your support in making this XL episode happen, as always.
 
 {{<figure 
-    src="/assets/images/infinite-space.jpeg" 
+    src="infinite-space.jpeg" 
     alt="Infinite Space" >}}
 {{<figure 
-    src="/assets/images/metal-gear-solid-gbc.jpeg" 
+    src="metal-gear-solid-gbc.jpeg" 
     alt="MGS" >}}
 {{<figure 
-    src="/assets/images/virtues-last-reward.jpeg" 
+    src="virtues-last-reward.jpeg" 
     alt="Virtue's Last Reward" >}}
 {{<figure 
-    src="/assets/images/little-kings-story.jpeg" 
+    src="little-kings-story.jpeg" 
     alt="Little King's Story" >}}
 {{<figure 
-    src="/assets/images/resident-evil-4.jpeg" 
+    src="resident-evil-4.jpeg" 
     alt="Resident Evil 4" >}}
 
 ||ONM Top 100||

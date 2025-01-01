@@ -9,7 +9,7 @@ tags:
 - Regular
 title: 'Episode 137: The PS3 Draft'
 cover: 
-  image: assets/images/haze.jpeg
+  image: haze.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -21,10 +21,10 @@ cover:
 > This week's music is from the Metal Gear Solid 4: Guns of the Patriots soundtrack by Harry Gregson-Williams.
 
 {{<figure 
-    src="/assets/images/haze.jpeg" 
+    src="haze.jpeg" 
     alt="PS3 Haze" >}}
 {{<figure 
-    src="/assets/images/haze-2.jpeg" 
+    src="haze-2.jpeg" 
     alt="PS3 Haze with no disc" >}}
 
 ## The Categories?

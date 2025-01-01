@@ -8,14 +8,14 @@ tags:
 - Regular
 title: 'Episode 27: The Game Developer Draft'
 cover: 
-  image: assets/images/e3.jpeg
+  image: e3.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
 ---
 
 {{<figure 
-  src="/assets/images/e3.jpeg" 
+  src="e3.jpeg" 
   caption="Image Credit: Liam Richardson" 
   alt="Matthew Castle Productions stuns E3">}}
 

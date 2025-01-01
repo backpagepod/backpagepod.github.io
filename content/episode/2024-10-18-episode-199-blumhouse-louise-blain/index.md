@@ -10,7 +10,7 @@ tags:
 - Regular
 title: 'Episode 199: From Games Journalism to Blumhouse (with Louise Blain)'
 cover: 
-  image: assets/images/the-toe.jpeg
+  image: the-toe.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
@@ -23,6 +23,6 @@ cover:
 > It's short but sweet! But next week probably won't be...
 
 {{<figure 
-    src="/assets/images/the-toe.jpeg" 
+    src="the-toe.jpeg" 
     caption="Image Credit: Naeslyn" 
     alt="The Toe">}}
