@@ -65,6 +65,9 @@ cover:
 {{<figure 
     src="simpsons-games-14.jpeg" 
     alt="Simpson Games" >}}
+{{<figure 
+    src="no-respect.jpeg" 
+    alt="No Respect" >}}
 
 ## Best Hang
 - The little bat guy from Metaphor: ReFantazio, Heismay.

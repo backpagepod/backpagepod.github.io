@@ -26,6 +26,9 @@ cover:
 {{<figure 
     src="castle-alarmo-2.jpeg" 
     alt="Castle Alarmo">}}
+{{<figure 
+    src="xenotilt.jpeg" 
+    alt="Xenotilt">}}
 
 ### Not played enough to judge
 - Dragon Age: The Veilguard

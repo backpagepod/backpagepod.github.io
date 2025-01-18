@@ -21,6 +21,11 @@ cover:
 {{<figure 
     src="games-court-return-2.jpeg" 
     alt="Games Court Will Return">}}
+    
+{{<figure 
+    src="la-chimera.jpeg" 
+    alt="La Chimera"
+    caption="Image Credit: dutch_manley" >}}
 
 ## Films
 
