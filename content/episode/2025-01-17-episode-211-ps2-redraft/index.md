@@ -1,7 +1,7 @@
 ---
 categories:
 - Episode
-date: "2024-12-13T09:00:00Z"
+date: "2025-01-17T09:00:00Z"
 summary: The PlayStation 2 is arguably the greatest video games console of all time. Over 44 picks, four Giant Men will prove why.
 tags:
 - Draft

@@ -1,7 +1,7 @@
 ---
 categories:
 - Episode
-date: "2024-01-13T09:00:00Z"
+date: "2025-01-13T09:00:00Z"
 summary: "We revisit Rockstar Vancouver's 2006 ode to high school life – as well as our own cursed teenage years."
 tags:
 - XL

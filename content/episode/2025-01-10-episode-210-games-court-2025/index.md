@@ -2,7 +2,7 @@
 categories:
 - Episode
 date: "2025-01-10T09:00:00Z"
-summary: Games Court is back! 23 listeners' pre-owned purchases go on trial in front of Judge Castle. Only the pathetic attorney Samuel Roberts can save them (or help send them to their deaths).
+summary: Games Court is back! 23 listeners' pre-owned purchases go on trial in front of Judge Castle.
 tags:
 - Games Court
 - Regular
