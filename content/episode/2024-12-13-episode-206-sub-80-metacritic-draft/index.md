@@ -14,6 +14,7 @@ cover:
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
+  relative: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-206-sub-117850204)

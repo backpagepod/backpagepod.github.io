@@ -13,6 +13,7 @@ cover:
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
+  relative: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-204-30th-116908847)

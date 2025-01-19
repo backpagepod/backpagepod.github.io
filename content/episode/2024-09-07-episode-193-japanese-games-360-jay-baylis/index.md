@@ -15,6 +15,7 @@ cover:
   hidden: false
   hiddenInList: false
   hiddenInSingle: false
+  relative: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-193-why-111464119)

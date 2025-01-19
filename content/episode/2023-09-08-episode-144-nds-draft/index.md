@@ -12,6 +12,7 @@ cover:
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
+  relative: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-144-ds-88953403)

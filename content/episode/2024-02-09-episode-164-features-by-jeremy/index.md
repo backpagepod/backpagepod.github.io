@@ -15,6 +15,7 @@ cover:
   hidden: false
   hiddenInList: false
   hiddenInSingle: true
+  relative: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-164-how-98122832)

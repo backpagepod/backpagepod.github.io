@@ -14,6 +14,7 @@ cover:
   hidden: false
   hiddenInList: false
   hiddenInSingle: false
+  relative: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-202-what-116007733)

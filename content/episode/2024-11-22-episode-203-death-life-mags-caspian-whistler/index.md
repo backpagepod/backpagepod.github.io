@@ -9,12 +9,13 @@ tags:
 
 title: 'Episode 203: The Death and Life of Games Magazines (with Caspian Whistler)'
 cover: 
-    image: apwot-shu.jpeg
-    width: 1280
-    height: 960
-    hidden: false
-    hiddenInList: false
-    hiddenInSingle: false
+  image: apwot-shu.jpeg
+  width: 1280
+  height: 960
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: false
+  relative: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-203-and-116267931)

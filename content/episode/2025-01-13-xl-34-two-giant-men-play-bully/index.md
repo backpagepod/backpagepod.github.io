@@ -11,6 +11,7 @@ cover:
   hidden: false
   hiddenInList: false
   hiddenInSingle: false
+  relative: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/xl-episode-34-119873615)

@@ -8,12 +8,13 @@ tags:
 
 title: 'The Back Page Starter Pack on Bluesky'
 cover: 
-    image: assets/images/bluesky-starter-pack.jpeg
-    width: 1280
-    height: 630
-    hidden: true
-    hiddenInList: false
-    hiddenInSingle: false
+  image: assets/images/bluesky-starter-pack.jpeg
+  width: 1280
+  height: 630
+  hidden: true
+  hiddenInList: false
+  hiddenInSingle: false
+  relative: true
 ---
 
 {{<figure 

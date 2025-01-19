@@ -15,6 +15,7 @@ cover:
   hidden: false
   hiddenInList: false
   hiddenInSingle: false
+  relative: true
   caption: "Image Credit: Bjorn"
 ---
 
