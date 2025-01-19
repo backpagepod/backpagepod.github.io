@@ -68,12 +68,12 @@ title: 'Episode 159: 24 Gaming Predictions About 2024'
 
 | Matthew | Samuel |
 |---|---|
-| Hollow Knight: Silksong | Metaphor: ReFantazio |
-| Elden Ring: Shadow of the Erdtree | Dragon's Dogma 2 |
-| Paper Mario: The Thousand-Year Door | Like a Dragon: Infinite Wealth |
-| Persona 3 Reload | Senua's Saga: Hellblade II |
-| Final Fantasy VII Rebirth | Unicorn Overlord |
-
+| Hollow Knight: Silksong (N/A) | Metaphor: ReFantazio (94) |
+| Elden Ring: Shadow of the Erdtree (94)| Dragon's Dogma  2 (86)|
+| Paper Mario: The Thousand-Year Door (88) | Like a Dragon: Infinite Wealth (89) |
+| Persona 3 Reload (87) | Senua's Saga: Hellblade II (81) |
+| Final Fantasy VII Rebirth (92) | Unicorn Overlord (86) |
+| 361 | 436 |
 
 
 
