@@ -126,3 +126,11 @@ cover:
 | Rhythm action or arcade|Guitar Hero III: Legends of Rock|Guitar Hero|Gitaroo Man|Rez |
 |Wild card|Fahrenheit|Raw Danger!|Onimusha 2: Samurai's Destiny|Katamari Damacy|
 |Free pick|God of War II |Remote Control Dandy SF |Devil May Cry 3: Special Edition |Prince of Persia: The Sands of Time |
+
+## Results
+
+- **Matthew (73 votes) 36%**
+- Ash (43 votes) 21%
+- Samuel (43 votes) 21%
+- Dave (43 votes) 21%
+- (202 votes)
