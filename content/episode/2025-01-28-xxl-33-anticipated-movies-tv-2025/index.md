@@ -53,7 +53,7 @@ title: 'XXL Episode 32: Our 20 Most Anticipated TV Shows, Movies and Other Thing
 8. Alien: Earth
 7. Ultimate Universe (comics)
 6. The Bear (TV series) Season 4
-5. --Alien: Earth-- Amy Wiles (DJ)
+5. ~~Alien: Earth~~ Amy Wiles (DJ)
 4. Superman (2025 film)
 3. Mission: Impossible – The Final Reckoning
 2. Andor (TV series) Season 2
