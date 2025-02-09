@@ -32,3 +32,7 @@ Video Credit: Duri51
     src="lexxington-2.jpeg" 
     alt="Lexxington"
     caption="Image Credit: Lexxington87" >}}
+{{<figure 
+    src="lexxington-3.jpeg" 
+    alt="Lexxington"
+    caption="Image Credit: Lexxington87" >}}
