@@ -2,16 +2,18 @@
 categories:
 - Episode
 date: "2025-02-09T09:00:00Z"
-summary: "TBD"
+summary: "As nutritious as a McDonald's Happy Meal, but hopefully a good time. Enjoy!"
 tags:
 - XL
-title: "XL Episode 35: TBD"
-draft: true
+title: "XL Episode 35: 50 Further Things in Video Games That Make Us Go 'Mmm!' or 'Ooh Yeah'"
+draft: false
 
 ---
 
-[Play Episode](https://www.patreon.com/posts/tbd)
-> TBD
+[Play Episode](https://www.patreon.com/posts/xl-episode-35-50-121908461)
+> As nutritious as a McDonald's Happy Meal, but hopefully a good time. Enjoy!
+>
+> Thanks to Michael 'BanyaBat' for the edits.
 
 ### Samuel
 1. Exploding someone else's car by driving through them in Rocket League. Ooh yeah!
