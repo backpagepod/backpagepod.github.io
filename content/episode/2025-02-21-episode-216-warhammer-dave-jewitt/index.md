@@ -2,7 +2,7 @@
 categories:
 - Episode
 date: "2025-02-21T09:00:00Z"
-summary: Bestselling crime fiction author Tim Weaver is our guest this week. Long-time readers will know him best for his work on N64 and NGC! 
+summary: This week's guest is Dave Jewitt. He joins us to talk about how Firearms Expert Reacts came to be and ends by sharing his favourite 10 Warhammer video games.
 tags:
 - Regular
 - Special Guest
