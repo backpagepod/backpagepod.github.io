@@ -7,6 +7,13 @@ tags:
 - GOTY
 - Regular
 title: 'Episode 215: The Best Games of 2004'
+cover: 
+  image: find-me-guilty.png
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: false
+  relative: true
+  caption: "Image Credit: NaesLyn"
 
 ---
 
