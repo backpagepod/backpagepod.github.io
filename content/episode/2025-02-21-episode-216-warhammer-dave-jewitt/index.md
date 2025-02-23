@@ -24,7 +24,7 @@ cover:
 > This week's music is from the Warhammer 40,000: Darktide soundtrack by Jesper Kyd.
 
 1. Warhammer 40,000: Fire Warrior
-2. Final Liberation: Warhammer Epic 40000
+2. Final Liberation: Warhammer Epic 40,000
 3. Warhammer: Dark Omen
 4. Warhammer 40,000: Dawn of War
 5. Warhammer 40,000: Dawn of War II
