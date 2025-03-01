@@ -22,6 +22,10 @@ cover:
 >
 > This week's music is from the Grand Theft Auto: San Andreas soundtrack by Michael Hunter, and the Final Fantasy X-2 soundtrack by Noriko Matsueda and Takahito Eguchi.
 
+{{<figure 
+    src="true-skins.png" 
+    alt="True Skins">}}
+
 ## Matthew
 
 10. Far Cry

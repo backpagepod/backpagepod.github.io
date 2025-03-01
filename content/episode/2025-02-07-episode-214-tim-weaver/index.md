@@ -24,5 +24,8 @@ cover:
 {{<figure 
     src="solve-my-maze.png" 
     alt="Solve My Maze!">}}
+{{<figure 
+    src="video-gamer.png" 
+    alt="Video Gamer">}}
 
 [The audio on the episode fixed by AI and SnazzBot](https://www.youtube.com/watch?v=3vfS7uKXLRU)

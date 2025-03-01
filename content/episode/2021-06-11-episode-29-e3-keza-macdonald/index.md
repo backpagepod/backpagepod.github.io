@@ -6,6 +6,8 @@ summary: Keza MacDonald kindly joins us on this episode to discuss her long care
   and whether E3 still matters in 2021.
 tags:
 - Regular
+- Not E3
+- Special Guest
 title: 'Episode 29: Does E3 Still Matter? (with Keza MacDonald)'
 ---
 

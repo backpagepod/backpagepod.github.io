@@ -5,6 +5,7 @@ date: "2021-06-18T09:00:00Z"
 summary: E3 2021 is finally over!
 tags:
 - Regular
+- Not E3
 title: 'Episode 30: Let''s Turn E3 2021 into a Games Magazine'
 ---
 
