@@ -51,6 +51,9 @@ cover:
 > 
 > SPOILERS FOLLOW!
 
+{{<figure 
+    src="airing-cupboard.png" 
+    alt="Airing Cupboard">}}
 
 ## Categories
 1. Platformer
