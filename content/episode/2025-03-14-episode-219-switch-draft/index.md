@@ -21,7 +21,7 @@ cover:
 [Play Episode](https://www.patreon.com/posts/episode-219-with-124308837)
 > Who can pick the best 10 games on the Nintendo Switch? Eurogamer's Katharine Castle joins us to help figure this out, and to celebrate the hybrid console's healthy lifespan in our latest draft episode. Vote for the winner in our [Discord's announcement channel](https://discord.gg/jrpYKSSx7E).
 > 
-> This week's music is from the Mario Kart 8 Deluxe soundtrack by Shiho Fujii, Atsuko Asahi, Ryo > Nagamatsu, Yasuaki Iwata and Kenta Nagata.
+> This week's music is from the Mario Kart 8 Deluxe soundtrack by Shiho Fujii, Atsuko Asahi, Ryo Nagamatsu, Yasuaki Iwata and Kenta Nagata.
 > 
 > Find the draft picks below when you're done listening to the episode.
 > 
