@@ -10,12 +10,12 @@ tags:
 - Special Guest
 title: 'Episode 219: The Nintendo Switch Draft (with Katharine Castle)'
 cover: 
-  image: switch.png
+  image: theoden.png
   hidden: false
   hiddenInList: false
   hiddenInSingle: false
   relative: true
-  caption: "Switch: model's own"
+  caption: "Image Credit: Naeslyn"
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-219-with-124308837)
@@ -51,6 +51,9 @@ cover:
 > 
 > SPOILERS FOLLOW!
 
+{{<figure 
+    src="switch.png" 
+    alt="Switch">}}
 {{<figure 
     src="airing-cupboard.png" 
     alt="Airing Cupboard">}}
