@@ -124,7 +124,7 @@ cover:
 
 ## Results
 
-- Katharine (? votes) ?%
-- Samuel (? votes) ?%
-- Matthew (? votes) ?%
-- (? votes)
+- Katharine (49 votes) 36%
+- Samuel (18 votes) 13%
+- Matthew (70 votes) 51%
+- (137 votes)
