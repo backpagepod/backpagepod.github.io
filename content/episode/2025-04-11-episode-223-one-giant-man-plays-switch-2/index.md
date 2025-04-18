@@ -17,6 +17,13 @@ cover:
 [Play Episode](https://www.patreon.com/posts/episode-223-one-126456452)
 > Later than usual, but hopefully worth it: Matthew plays all the Nintendo Switch 2 demos (except some ports no one cares about).
 
+{{<figure 
+    src="dizzy-1.png" 
+    alt="Dizzy">}}
+{{<figure 
+    src="dizzy-2.png" 
+    alt="Dizzy">}}
+
 - Mario Kart World
 - Donkey Kong Bananza
 - Nintendo Switch 2 Welcome Tour

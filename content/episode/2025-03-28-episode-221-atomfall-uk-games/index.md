@@ -5,6 +5,7 @@ date: "2025-03-28T09:00:00Z"
 summary: "After 30 minutes of chatter about Atomfall, we try to pick the 10 games that best represent Britain as a virtual setting."
 tags:
 - Regular
+- Hall of Fame
 title: "Episode 221: Atomfall and the Best, Worst and Most Cursed Games Set in the UK"
 cover: 
   image: pumped.png

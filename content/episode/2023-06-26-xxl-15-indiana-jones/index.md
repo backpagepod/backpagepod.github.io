@@ -41,6 +41,7 @@ cover:
 
 ### A Tier
 
+- Indiana Jones and the Great Circle (XL 37 update)
 - Indiana Jones and the Fate of Atlantis
 
 ### S Tier
