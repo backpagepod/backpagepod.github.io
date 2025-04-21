@@ -28,6 +28,7 @@ cover:
 - Sonic Adventure
 - ~~Uncharted: The Lost Legacy~~ Uncharted: Golden Abyss
 - Days Gone
+- Dr. Kawashima's Brain Training: How Old Is Your Brain?
 
 ### A-rank (possibly a 7, but not one of those 7s)
 - MediEvil
@@ -43,6 +44,8 @@ cover:
 - Gears of War: Judgment
 - PlayStation All-Stars Battle Royale
 - Halo Infinite
+- Star Fox Adventures
+- Star Fox: Assault
 
 ### C-rank (pretty duff - may be well meaning but unsuccessful)
 - The Bouncer
@@ -74,10 +77,8 @@ cover:
 - Project Spark
 - Screamride
 - Forspoken
-
-### Also discussed
-- Killzone Shadow Fall
-- Star Fox Adventures
-- Star Fox: Assault
 - Redfall
+
+### Also mentioned
+- Killzone Shadow Fall
 - God of War Ragnarök
