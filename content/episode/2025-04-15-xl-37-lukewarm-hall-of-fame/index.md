@@ -81,4 +81,3 @@ cover:
 
 ### Also mentioned
 - Killzone Shadow Fall
-- God of War Ragnarök
