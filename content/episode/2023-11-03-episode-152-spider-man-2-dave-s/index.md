@@ -9,6 +9,13 @@ tags:
 - Regular
 - Dave Scarborough
 title: 'Episode 152: Three Giant Men Play Spider-Man 2 (with Dave Scarborough)'
+cover: 
+  image: superman.png
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: false
+  relative: true
+  caption: "Image Credit: Dave Scarborough"
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-152-men-92189917)

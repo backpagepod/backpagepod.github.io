@@ -43,6 +43,22 @@ cover:
 {{<figure 
     src="cook.png" 
     alt="Cook">}}
+{{<figure 
+  src="ghostbusters-1.png" 
+  caption="Image Credit: Dave Scarborough" 
+  alt="Ghostbusters">}}
+{{<figure 
+  src="ghostbusters-2.png" 
+  caption="Image Credit: Dave Scarborough" 
+  alt="Ghostbusters">}}
+{{<figure 
+  src="ghostbusters-3.png" 
+  caption="Image Credit: Dave Scarborough" 
+  alt="Ghostbusters">}}
+{{<figure 
+  src="ghostbusters-4.png" 
+  caption="Image Credit: Dave Scarborough" 
+  alt="Ghostbusters">}}
   
 
 ## Categories
@@ -125,8 +141,8 @@ cover:
 
 ## Results
 
-- Samuel (? votes) ?%
-- Dave (? votes) ?%
-- Matthew (? votes) ?%
-- Ash (? votes) ?%
-- (? votes)
+- Samuel (45 votes) 29%
+- Dave (15 votes) 10%
+- **Matthew (79 votes) 51%**
+- Ash (17 votes) 11%
+- (156 votes)
