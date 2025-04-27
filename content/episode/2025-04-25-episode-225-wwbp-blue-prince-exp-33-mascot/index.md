@@ -18,6 +18,10 @@ cover:
 [Play Episode](https://www.patreon.com/posts/episode-225-what-127397341)
 > It's catch-up time, as a spring wave of fantastic games hit at once! All of the above, plus Bionic Bay and some Metroid series chatter.
 
+{{<figure 
+    src="other-m.png" 
+    alt="Other M">}}
+
 - Blue Prince
 - Clair Obscur: Expedition 33
 - Bionic Bay
