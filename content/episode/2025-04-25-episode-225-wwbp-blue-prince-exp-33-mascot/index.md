@@ -8,7 +8,7 @@ tags:
 - WWBP
 title: "Episode 225: What We've Been Playing (Blue Prince, Clair Obscur: Expedition 33, Promise Mascot Agency, Tempest Rising)"
 cover: 
-  image: crumble.png
+  image: castle.png
   hidden: false
   hiddenInList: false
   hiddenInSingle: false
@@ -18,6 +18,9 @@ cover:
 [Play Episode](https://www.patreon.com/posts/episode-225-what-127397341)
 > It's catch-up time, as a spring wave of fantastic games hit at once! All of the above, plus Bionic Bay and some Metroid series chatter.
 
+{{<figure 
+    src="crumble.png" 
+    alt="crumble">}}
 {{<figure 
     src="other-m.png" 
     alt="Other M">}}
