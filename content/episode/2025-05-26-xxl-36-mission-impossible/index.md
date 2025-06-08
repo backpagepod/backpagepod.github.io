@@ -12,7 +12,7 @@ cover:
   hiddenInList: false
   hiddenInSingle: false
   relative: true
-  caption: "I've got The Entity on this"
+  caption: "The Entity"
 ---
 
 [Play Episode](https://www.patreon.com/posts/xxl-episode-36-129943958)
