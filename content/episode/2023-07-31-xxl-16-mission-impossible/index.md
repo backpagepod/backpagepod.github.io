@@ -29,6 +29,27 @@ cover:
     caption="Image Credit: Tabbdl" 
     alt="Star of MI2" >}}
 
+## Matthew
+7. Mission: Impossible 2
+6. Mission: Impossible III
+5. Mission: Impossible – Rogue Nation
+4. Mission: Impossible
+3. Mission: Impossible – Fallout
+2. Mission: Impossible – Ghost Protocol
+1. Mission: Impossible – Dead Reckoning Part One
+{reversed="reversed"}
+
+## Samuel
+7. Mission: Impossible 2
+6. Mission: Impossible – Rogue Nation
+5. Mission: Impossible – Fallout
+4. Mission: Impossible III
+3. Mission: Impossible – Dead Reckoning Part One
+2. Mission: Impossible – Ghost Protocol
+1. Mission: Impossible
+{reversed="reversed"}  
+
+## Combined Ranking
 7. Mission: Impossible 2
 6. Mission: Impossible – Rogue Nation
 5. Mission: Impossible III
