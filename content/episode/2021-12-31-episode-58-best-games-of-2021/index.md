@@ -49,6 +49,9 @@ title: 'Episode 58: The Best Games of 2021'
 
 - Elden Ring
 
+### 2025 Samuel Bluesky post
+"Deathloop"
+
 ## Matthew
 
 10. Lost Judgment

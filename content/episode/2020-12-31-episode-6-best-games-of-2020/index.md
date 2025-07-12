@@ -102,6 +102,9 @@ title: 'Episode 6: The Best Games of 2020'
 - ✅？ Yakuza: Like a Dragon
 - ✅ Gears Tactics
 
+# 2025 Samuel Bluesky post
+"TLOU 2 (but really Apex Legends because it was the Covid gas leak year)"
+
 ## Timestamps
 
 - 00:01:08 - Samuel: "I'm slightly overweight Boba Fett" 

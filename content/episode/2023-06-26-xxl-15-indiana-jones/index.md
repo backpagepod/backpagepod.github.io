@@ -31,6 +31,7 @@ cover:
 
 - Indiana Jones and the Emperor's Tomb
 - The Young Indiana Jones Chronicles
+- Indiana Jones and the Dial of Destiny (Episode 234 update)
 
 ### B Tier
 

@@ -31,6 +31,9 @@ cover:
 {{<figure 
     src="yakuza.png" 
     alt="Yakuza">}}
+{{<figure 
+    src="sandwich-room.png" 
+    alt="Sandwich Room">}}
 
 - Mario Kart World
 - Nintendo Switch 2 Welcome Tour

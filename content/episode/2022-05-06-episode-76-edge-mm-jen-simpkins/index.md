@@ -7,6 +7,7 @@ summary: Former Edge editor Jen Simpkins joins us to discuss some highlights of 
 tags:
 - Edge Horcrux
 - Special Guest
+- Jen Simpkins
 - Regular
 title: 'Episode 76: From Edge to Media Molecule (with Jen Simpkins)'
 ---
