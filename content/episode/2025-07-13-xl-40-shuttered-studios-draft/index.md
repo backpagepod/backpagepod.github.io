@@ -17,12 +17,12 @@ cover:
 
 [Play Episode](https://www.patreon.com/posts/xl-episode-40-134035805)
 > The Two Giant Men compete to pick the best 10 games made by sadly departed studios – call this a tribute to their finest work. Vote for the winner in the [announcements channel of the Discord](https://discord.com/channels/891282550536962069/960576583935078400).
-
-No need to leave comments about Samuel's inability to read in the intro segment, he knows.
-
-This week's music is from the Jet Set Radio Future soundtrack by Hideki Naganuma and Richard Jacques.
-
-Since this is a Patreon-only episode, find the picks below if you need them to help decide who gets your vote. Spoilers follow...
+>
+> No need to leave comments about Samuel's inability to read in the intro segment, he knows.
+>
+> This week's music is from the Jet Set Radio Future soundtrack by Hideki Naganuma and Richard Jacques.
+>
+> Since this is a Patreon-only episode, find the picks below if you need them to help decide who gets your vote. Spoilers follow...
 
 ## Rules
 - Once a game by that studio is picked, another game by that studio cannot be picked. Spicy!

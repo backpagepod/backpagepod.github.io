@@ -16,5 +16,5 @@ cover:
 
 [Play Episode](https://www.patreon.com/posts/episode-234-two-132380260)
 > Finally, after a belated PS5 release and enough time for most people to check it out, we dive deep into MachineGames' 2024 GOTY contender Indiana Jones and the Great Circle. The first half is spoiler-free, then the second half goes deeper into the story with some fun bonus nonsense to boot (wait until you hear Matthew's pitch for The Fugitive tie-in game).
-
-This week's music is from the Indiana Jones and the Great Circle soundtrack by Gordy Haab.
+>
+> This week's music is from the Indiana Jones and the Great Circle soundtrack by Gordy Haab.
