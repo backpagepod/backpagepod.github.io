@@ -76,3 +76,19 @@ cover:
 2. Balatro
 1. Dragon's Dogma 2
 {reversed="reversed"}
+
+## Samuel (Episode 234 update)
+
+❌ Final Fantasy VII Rebirth
+
+10. Mouthwashing
+9. Helldivers 2
+8. Still Wakes the Deep
+7. ⬇️ Warhammer 40,000: Space Marine 2
+6. ⬇️ Silent Hill 2 (2024)
+5. 🆕 Indiana Jones and the Great Circle
+4. Astro Bot
+3. Prince of Persia: The Lost Crown
+2. Balatro
+1. Dragon's Dogma 2
+{reversed="reversed"}

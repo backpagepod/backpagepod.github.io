@@ -1,7 +1,7 @@
 ---
 categories:
 - Episode
-date: "2025-06-06T09:00:00Z"
+date: "2025-07-11T09:00:00Z"
 summary: A delightfully unusual episode with a guest we like a lot. Matthew Castle lore fans are in for a treat.
 tags:
 - Regular
