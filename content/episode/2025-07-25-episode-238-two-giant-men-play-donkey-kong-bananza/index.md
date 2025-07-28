@@ -5,7 +5,7 @@ date: "2025-07-25T09:00:00Z"
 summary: "The main event of the Switch 2's post-launch period is here. But does it have the juice, the sauce or the gravy?"
 tags:
 - Regular
-title: "Episode 238: Two Giant Men Play Donkey Kong Bananza (which *has* to be better than Astro Bot)"
+title: "Episode 238: Two Giant Men Play Donkey Kong Bananza (which * has * to be better than Astro Bot)"
 cover: 
   image: dk-astrobot.png
   hidden: false
