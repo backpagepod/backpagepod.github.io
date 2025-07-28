@@ -84,6 +84,10 @@ cover:
 
 ## Results
 
-- Matthew (? votes) ?%
-- Samuel (? votes) ?%
-- (? votes)
+- Matthew (46 votes) 48%
+- **Samuel (49 votes) 52%**
+- (95 votes)
+
+{{<figure 
+    src="nixon.png" 
+    alt="Nixon">}}
