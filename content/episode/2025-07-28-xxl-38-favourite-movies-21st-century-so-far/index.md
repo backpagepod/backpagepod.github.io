@@ -53,17 +53,16 @@ cover:
 - Nope
 
 ## Matthew
-10. The Devil's Backbone
-9. Dinner Rush
-8. The Master (2012)
-7. Spider-Man 2
-6. Summer Wars
-5. Django Unchained
-4. The Handmaiden
-3. Inception
-2. Still Walking
-1. Parasite (2019)
-{reversed="reversed"}
+- The Devil's Backbone
+- Dinner Rush
+- The Master (2012)
+- Spider-Man 2
+- Summer Wars
+- Django Unchained
+- The Handmaiden
+- Inception
+- Still Walking
+- Parasite (2019)
 
 ### Honourable Mentions
 - Arrival
