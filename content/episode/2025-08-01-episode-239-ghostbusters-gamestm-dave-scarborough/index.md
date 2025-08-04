@@ -30,8 +30,9 @@ cover:
     src="ouya.png" 
     alt="Ouya">}}
 
+
 {{<figure 
-  src="ghostbusters-1.png" 
+  src="ghostbusters-4.png" 
   caption="Image Credit: Dave Scarborough" 
   alt="Ghostbusters">}}
 {{<figure 
@@ -39,7 +40,7 @@ cover:
   caption="Image Credit: Dave Scarborough" 
   alt="Ghostbusters">}}
 {{<figure 
-  src="ghostbusters-4.png" 
+  src="ghostbusters-1.png" 
   caption="Image Credit: Dave Scarborough" 
   alt="Ghostbusters">}}
 
@@ -86,3 +87,4 @@ cover:
 3. Ghostbusters: The Video Game (2009)
 2. Ghostbusters (1984)
 1. New Ghostbusters II (NES)
+{reversed="reversed"}
