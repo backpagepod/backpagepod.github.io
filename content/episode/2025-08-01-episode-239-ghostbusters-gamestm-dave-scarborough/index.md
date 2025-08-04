@@ -2,7 +2,7 @@
 categories:
 - Episode
 date: "2025-08-01T09:00:00Z"
-summary: 45 minutes of magazine memories, 80 minutes on the history of Ghostbusters in games (many of them are rubbish)
+summary: 45 minutes of magazine memories, 80 minutes on the history of Ghostbusters in games (many of them are rubbish).
 tags:
 - Regular
 - Special Guest
