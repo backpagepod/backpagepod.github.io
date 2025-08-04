@@ -42,24 +42,7 @@ cover:
     alt="Research">}}
 {{<figure 
     src="cook.png" 
-    alt="Cook">}}
-{{<figure 
-  src="ghostbusters-1.png" 
-  caption="Image Credit: Dave Scarborough" 
-  alt="Ghostbusters">}}
-{{<figure 
-  src="ghostbusters-2.png" 
-  caption="Image Credit: Dave Scarborough" 
-  alt="Ghostbusters">}}
-{{<figure 
-  src="ghostbusters-3.png" 
-  caption="Image Credit: Dave Scarborough" 
-  alt="Ghostbusters">}}
-{{<figure 
-  src="ghostbusters-4.png" 
-  caption="Image Credit: Dave Scarborough" 
-  alt="Ghostbusters">}}
-  
+    alt="Cook">}} 
 
 ## Categories
 1. FPS
