@@ -15,8 +15,6 @@ cover:
 ---
 
 [Play Episode](https://www.patreon.com/posts/xl-episode-41-136183729)
-> Two top 10 lists of our most anticipated games from the various livestreams this year, with Samuel sharing some thoughts on games he played or saw behind closed doors at Summer Game Fest's Play Days event.
->
 > Matthew has played around 40 games in the catalogue of the Playdate console – but are his hands just too big for the tiny handheld? Find out in this brisk but detailed episode.
 >
 > Here are some of the Playdate games/experiences discussed in this episode for reference:
