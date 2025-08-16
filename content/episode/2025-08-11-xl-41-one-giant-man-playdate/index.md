@@ -12,7 +12,6 @@ cover:
   hiddenInList: false
   hiddenInSingle: false
   relative: true
-  caption: "Image Credit: Houston"
 ---
 
 [Play Episode](https://www.patreon.com/posts/xl-episode-41-136183729)
