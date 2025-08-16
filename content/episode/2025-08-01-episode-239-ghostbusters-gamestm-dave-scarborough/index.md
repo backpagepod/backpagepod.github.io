@@ -30,7 +30,10 @@ cover:
     src="ouya.png" 
     alt="Ouya">}}
 
-
+{{<figure 
+  src="ghostbusters-5.png" 
+  caption="Image Credit: Dave Scarborough" 
+  alt="Ghostbusters">}}
 {{<figure 
   src="ghostbusters-4.png" 
   caption="Image Credit: Dave Scarborough" 
