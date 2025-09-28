@@ -5,6 +5,7 @@ date: "2024-11-24T09:00:00Z"
 summary: Apologies in advance – the next film club will be jollier, promise...
 tags:
 - XXL
+- Film Club
 title: 'XXL Episode 30: Bleak Film Club – Speak No Evil (2022) / Threads (1984)'
 cover: 
   image: snake-threads.jpeg

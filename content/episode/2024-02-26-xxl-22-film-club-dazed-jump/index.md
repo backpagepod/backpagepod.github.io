@@ -6,6 +6,7 @@ summary: Hear about why Dazed and Confused is one of Matthew's favourite movies,
   hear about Samuel's eternal affection for Lord and Miller's 21 Jump Street.
 tags:
 - XXL
+- Film Club
 title: 'XXL Episode 22: Back Page Film Club – Dazed and Confused + 21 Jump Street'
 ---
 

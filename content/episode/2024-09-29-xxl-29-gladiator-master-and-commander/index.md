@@ -5,6 +5,7 @@ date: "2024-09-29T09:00:00Z"
 summary: At my signal, unleash DADS!
 tags:
 - XXL
+- Film Club
 title: 'XXL Episode 29: Film Club Dad Edition – Gladiator (2000) / Master and Commander:
   The Far Side of the World (2003)'
 cover: 

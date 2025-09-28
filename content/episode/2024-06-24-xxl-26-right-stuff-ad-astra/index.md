@@ -6,6 +6,7 @@ summary: Most niche podcast EVER! Don't worry, we'll do Dodgeball or something n
   time.
 tags:
 - XXL
+- Film Club
 title: 'XXL Episode 26: Back Page Film Club Space Edition (The Right Stuff/Ad Astra)'
 ---
 
