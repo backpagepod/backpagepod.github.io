@@ -89,7 +89,7 @@ cover:
 | Matthew | Treasure | Bangai-O |
 | Matthew | Namco | Katamari Damacy |
 | Dave | Free Pick | Bomberman '94 |
-| Samuel | Sega | outrun 2 |
+| Samuel | Sega | OutRun 2 |
 | Ash | Namco | Mr. Driller Drill Land |
 | Ash | Taito | The NewZealand Story |
 | Samuel | Nintendo | Super Mario Odyssey |
