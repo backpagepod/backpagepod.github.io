@@ -24,4 +24,4 @@ cover:
 
 [Tom Cruise in Tropic Thunder Oral History](https://grantland.com/features/the-making-of-les-grossman-an-oral-history/)
 
-[Alan Rickman story](https://vxtwitter.com/todd_spence/status/1958726946935955944?)
+[Alan Rickman story](https://vxtwitter.com/todd_spence/status/1958726946935955944)
