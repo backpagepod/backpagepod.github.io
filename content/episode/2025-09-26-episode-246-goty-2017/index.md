@@ -36,6 +36,10 @@ cover:
     src="poster.png" 
     alt="Poster">}}
 {{< youtube fSxEZsRTXIs >}}
+{{<figure 
+    src="fizz.png" 
+    alt="Fizz"
+    >}}
 
 ## Matthew
 
