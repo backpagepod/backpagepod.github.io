@@ -32,8 +32,8 @@ cover:
 5. Don Draper
 4. Walter White
 3. Logan Roy
-2. Ninja Golf
-1. Tony Soprano
+2. Tony Soprano
+1. George Hearst
 {reversed="reversed"}
 
 ### Samuel
