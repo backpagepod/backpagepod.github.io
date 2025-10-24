@@ -66,3 +66,9 @@ cover:
 | Mad Max (2015) | 69 | Nintendo Switch 2 Welcome Tour | 54 |
 | Ryse: Son of Rome | 60 | The Quiet Man | 40 |
 | Total | 749  | Total | 749 |
+
+## Results
+
+- **Matthew (4 votes) 57%**
+- Samuel (3 votes) 43%
+- (7 votes)
