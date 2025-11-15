@@ -37,7 +37,7 @@ cover:
 
 ### Duds
 - Bubsy 4D
-- Death in Abyss
+- Death In Abyss
 - Fur Squadron Phoenix
 
 ## Matthew
@@ -45,9 +45,13 @@ cover:
 - No More Work For Ito
 - Opus: Prism Peak
 - The Remake of the End of the Greatest RPG of All Time
-- The Seance of Blake Manor
+- The Séance of Blake Manor
+
+### Some games that clone other better detective games
+- Confidential Killings - A Detective Game
+- A Case of Fraud
+- Psycho-Sleuth
 
 ### Duds
-- A Case of Fraud
 - Switchboard
 - Mosaic of the Strange
