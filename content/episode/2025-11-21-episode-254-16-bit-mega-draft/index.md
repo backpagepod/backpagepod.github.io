@@ -46,7 +46,7 @@ cover:
 | Samuel | Wild card | Snatcher | Mega-CD |
 | Matthew | Wild card | Another World | Mega Drive |
 | Ash | Licensed | Micro Machines 2: Turbo Tournament | Mega Drive |
-| Dave | Licensed | Mickey Mania | |
+| Dave | Licensed | Mickey Mania | Mega Drive |
 | Dave | Side-scrolling | Contra III: The Alien Wars | SNES |
 | Ash | Wild card | Comix Zone | Mega Drive |
 | Matthew | Amiga | Indiana Jones and the Fate of Atlantis | Amiga | 
