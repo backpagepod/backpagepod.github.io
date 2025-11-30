@@ -107,8 +107,13 @@ cover:
 
 ## Results
 
-- Dave ( votes) %
-- Ash ( votes) %
-- Matthew ( votes) %
-- Samuel ( votes) %
-- ( votes)
+{{<figure 
+    src="evil-defeated.png" 
+    alt="Evil Defeated"
+    >}}
+
+- Dave (41 votes) 20%
+- **Ash (81 votes) 40%**
+- Matthew (23 votes) 11%
+- Samuel (57 votes) 28%
+- (202 votes)
