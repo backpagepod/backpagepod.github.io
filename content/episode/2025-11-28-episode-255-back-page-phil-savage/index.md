@@ -23,6 +23,10 @@ cover:
 >
 > This week's music is from the Yakuza 0 soundtrack by Hidenori Shoji.
 
+- Clair Obscur: Expedition 33
+- Like a Dragon: Pirate Yakuza in Hawaii
+- Marathon (2026)
+- ARC Raiders
 
 {{<figure 
     src="mouse-hole.png" 
