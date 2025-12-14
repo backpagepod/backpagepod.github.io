@@ -2,7 +2,7 @@ baseURL: https://www.backpagepod.co.uk/
 disablePathToLower: true
 languageCode: en-gb
 title: A Back Page fansite
-theme: ["PaperMod", "hugo-embed-pdf-shortcode"]
+theme: ["PaperMod", "hugo-embed-pdf-shortcode", "audio-shortcode"]
 
 enableRobotsTXT: true
 

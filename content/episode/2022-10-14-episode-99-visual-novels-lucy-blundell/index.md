@@ -7,6 +7,7 @@ summary: 'Lucy Blundell joins us to discuss one of Matthew''s favourite genres: 
 tags:
 - Special Guest
 - Regular
+- Lucy Blundell
 title: 'Episode 99: Best Visual Novels (with Lucy Blundell)'
 ---
 

@@ -108,6 +108,10 @@ cover:
 ## Results
 
 {{<figure 
+    src="futurama.png" 
+    alt="Futurama"
+    >}}
+{{<figure 
     src="evil-defeated.png" 
     alt="Evil Defeated"
     >}}
