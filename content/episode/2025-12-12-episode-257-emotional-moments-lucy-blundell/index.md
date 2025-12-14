@@ -1,7 +1,7 @@
 ---
 categories:
 - Episode
-date: "2022-10-14T09:00:00Z"
+date: "2025-12-12T09:00:00Z"
 summary: 'The games that hit players with emotional gut punches. Plus! A fansite exclusive! Some content that was cut from the episode! Worth Seven Pounds!'
 tags:
 - Special Guest
