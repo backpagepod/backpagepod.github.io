@@ -9,6 +9,13 @@ tags:
 - Hall of Fame
 - Regular
 title: 'Episode 40: The Indie Games Hall of Fame Vol 1 (with Katharine Castle)'
+cover: 
+  image: obra-dinn-card.png
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: false
+  relative: true
+  caption: "Image Credit: Katharine Castle"
 ---
 
 [Play Episode](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9b2)

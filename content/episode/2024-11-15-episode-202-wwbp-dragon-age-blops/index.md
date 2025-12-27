@@ -8,13 +8,12 @@ tags:
 - WWBP
 title: "Episode 202: What We've Been Playing (Dragon Age: The Veilguard, COD BLOPS 6, Batman: Arkham Shadow, Mario & Luigi: Brothership)"
 cover: 
-  image: its-da-bat.jpeg
-  height: 720
-  width: 1280
+  image: idol-card.png
   hidden: false
   hiddenInList: false
   hiddenInSingle: false
   relative: true
+  caption: "Image Credit: Katharine Castle"
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-202-what-116007733)
@@ -22,6 +21,10 @@ cover:
 >
 > Thanks to Matthew 'Matty C' Castle for the edits this week.
 
+{{<figure 
+    src="its-da-bat.jpeg" 
+    alt="It's da bat!"
+    >}}
 {{<figure 
     src="samuel-shelf-1.jpeg" 
     alt="Samuel Shelf"

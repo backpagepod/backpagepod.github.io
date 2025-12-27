@@ -8,13 +8,12 @@ tags:
 - Regular
 title: 'Episode 71: The Best Kirby Games'
 cover: 
-  image: kirby-rennie.jpeg
-  width: 1008
-  height: 920
+  image: kirby-card.png
   hidden: false
   hiddenInList: false
-  hiddenInSingle: true
+  hiddenInSingle: false
   relative: true
+  caption: "Image Credit: Katharine Castle"
 ---
 
 [Play Episode](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e993)

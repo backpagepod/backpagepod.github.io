@@ -22,6 +22,9 @@ cover:
 > [This is the Critical Hit article](https://www.acriticalhit.com/samus-aran-origins-metroids-influences-beyond-alien/) Jay mentioned on Metroid's possible influences. This week's music is from the Metroid: Zero Mission soundtrack by Kenji Yamamoto and Minako Hamano.
 
 {{<figure 
+    src="metroid-de-vito.png" 
+    alt="De Vito">}}
+{{<figure 
     src="whizzy-1.png" 
     alt="Whizzy">}}
 {{<figure 

@@ -72,9 +72,9 @@ cover:
 
 | Samuel | Matthew |
 |---|---|
-| Monster Hunter Wilds| Hollow Knight: Silksong  |
-| Split Fiction | Ghost of Yōtei |
-| Sid Meier's Civilization VII  | Doom: The Dark Ages |
-| Metal Gear Solid Delta: Snake Eater| Elden Ring Nightreign| 
-| Reanimal | Fable |
-
+| Monster Hunter Wilds (88)| Hollow Knight: Silksong (90) |
+| Split Fiction (90) | Ghost of Yōtei (86)|
+| Sid Meier's Civilization VII (76) | Doom: The Dark Ages (83)|
+| Metal Gear Solid Delta: Snake Eater (83)| Elden Ring Nightreign (77)| 
+| Reanimal  (N/A) | Fable (N/A) |
+| 337 | 336 |

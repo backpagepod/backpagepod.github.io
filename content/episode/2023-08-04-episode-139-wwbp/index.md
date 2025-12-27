@@ -11,6 +11,13 @@ tags:
 - Regular
 title: 'Episode 139: What We''ve Been Playing (Exoprimal, Pikmin 4, The Expanse: A
   Telltale Series)'
+cover: 
+  image: pikmin-card.png
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: false
+  relative: true
+  caption: "Image Credit: Katharine Castle"
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-139-what-87117128)

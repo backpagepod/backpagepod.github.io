@@ -8,11 +8,12 @@ tags:
 - Regular
 title: 'Episode 121: Two El Gigantes Play Resident Evil 4 Remake'
 cover: 
-  image: matthew-rio-matchmakers.jpeg
+  image: re4-card.png
   hidden: false
   hiddenInList: false
-  hiddenInSingle: true
+  hiddenInSingle: false
   relative: true
+  caption: "Image Credit: Katharine Castle"
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-121-two-80464093)

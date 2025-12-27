@@ -32,6 +32,10 @@ A fansite exclusive! Cut content, too hot for your podcast feed:
 > This week's music is from the Final Fantasy X soundtrack by Nobuo Uematsu, Masashi Hamauzu and Junya Nakano.
 
 {{<figure 
+    src="xenoblade.png" 
+    alt="Xenoblade"
+>}}
+{{<figure 
     src="iracing-1.png" 
     alt="iRacing"
     caption="Image Credit: camp_bell">}}
