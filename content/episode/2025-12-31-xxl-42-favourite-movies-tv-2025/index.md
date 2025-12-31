@@ -5,7 +5,7 @@ date: "2025-12-31T09:00:00Z"
 summary: One more three-hour pod to see out 2025.
 tags:
 - XXL
-title: 'XXL Episode 31: The Best Movies and TV Shows of 2024'
+title: 'XXL Episode 42: Our Favourite Films and TV Shows from 2025'
 cover: 
   image: guardian.png
   hidden: false
