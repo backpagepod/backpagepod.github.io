@@ -7,6 +7,13 @@ tags:
 - GOTY
 - Regular
 title: 'Episode 6: The Best Games of 2020'
+cover: 
+  image: animal-crossing.png
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: false
+  relative: true
+  caption: "Image Credit: Katharine Castle"
 ---
 
 [Play Episode](https://shows.acast.com/the-back-page-a-video-games-podcast/episodes/6249ec71be92a6001320e9d4)

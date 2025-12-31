@@ -7,6 +7,12 @@ summary: Judge Castle rules on the best and worst console launches, starting wit
 tags:
 - XL
 title: 'XL Episode 20: Best and Worst Console Launches'
+cover: 
+  image: rio.png
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: false
+  relative: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/xl-episode-20-92773766)

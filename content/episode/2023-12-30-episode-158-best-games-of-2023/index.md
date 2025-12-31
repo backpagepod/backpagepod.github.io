@@ -9,14 +9,12 @@ tags:
 - Regular
 title: 'Episode 158: The Best Games of 2023'
 cover: 
-  image: paranormasight.jpeg
-  width: 320
-  height: 288
+  image: ff7.png
   hidden: false
   hiddenInList: false
   hiddenInSingle: false
   relative: true
-  caption: "Image Credit: Bjorn"
+  caption: "Image Credit: Katharine Castle"
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-158-best-95546725)

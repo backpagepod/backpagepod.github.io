@@ -10,6 +10,13 @@ tags:
 - Regular
 title: 'Episode 143: What We''ve Been Playing (Sea of Stars, Armored Core 6, My House,
   Dredge)'
+cover: 
+  image: paranormasight.jpeg
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: false
+  relative: true
+  caption: "Image Credit: Bjorn"
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-143-what-88565651)
