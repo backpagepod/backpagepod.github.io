@@ -44,6 +44,7 @@ cover:
 3. Sinners (2025)
 2. Eddington
 1. The Secret Agent (2025)
+{reversed="reversed"}
 
 ### Samuel’s Old Films
 10. Nashville
@@ -56,6 +57,7 @@ cover:
 3. Mulholland Drive
 2. Michael Clayton 
 1. The Conversation
+{reversed="reversed"}
 
 ## Books
 
@@ -82,6 +84,7 @@ cover:
 3. Pluribus
 2. Asura
 1. Culinary Class Wars
+{reversed="reversed"}
 
 ### Samuel
 10. The Bear Season 4
@@ -93,4 +96,5 @@ cover:
 4. Dept. Q 
 3. Mr. Scorsese
 2. Andor
-1. Adolescence 
+1. Adolescence
+{reversed="reversed"}
