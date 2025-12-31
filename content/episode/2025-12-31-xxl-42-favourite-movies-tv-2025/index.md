@@ -12,6 +12,7 @@ cover:
   hiddenInList: false
   hiddenInSingle: false
   relative: true
+  caption: "Image Credit: Matthew's Dad"
 ---
 
 [Play Episode](https://www.patreon.com/posts/xxl-episode-42-147072523)
