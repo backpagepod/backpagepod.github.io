@@ -18,8 +18,8 @@ cover:
 
 [Play Episode](https://www.patreon.com/posts/episode-260-2026-147744656)
 > ~~26 (or so)~~ 24 predictions about 2026, based on nothing whatsoever. Plus: our 2025 predictions revisited, and our 5 picks for this year's fantasy draft.
-
-This week's music is from the Trauma Center: Second Opinion soundtrack by Kenichi Tsuchiya and Shingo Yasumoto.
+>
+> This week's music is from the Trauma Center: Second Opinion soundtrack by Kenichi Tsuchiya and Shingo Yasumoto.
 
 ## 2026 Predictions
 
