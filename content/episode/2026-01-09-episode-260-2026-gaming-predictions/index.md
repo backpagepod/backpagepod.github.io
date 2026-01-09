@@ -1,7 +1,7 @@
 ---
 categories:
 - Episode
-date: "2025-01-03T09:00:00Z"
+date: "2026-01-09T09:00:00Z"
 summary: 24 predictions about 2026, based on nothing whatsoever. 
 tags:
 - Predictions
