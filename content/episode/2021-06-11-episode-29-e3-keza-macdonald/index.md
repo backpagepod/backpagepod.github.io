@@ -8,6 +8,7 @@ tags:
 - Regular
 - Not E3
 - Special Guest
+- Keza MacDonald
 title: 'Episode 29: Does E3 Still Matter? (with Keza MacDonald)'
 ---
 
