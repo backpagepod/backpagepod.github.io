@@ -1,7 +1,7 @@
 ---
 categories:
 - Episode
-date: "2025-09-19T09:00:00Z"
+date: "2026-01-16T09:00:00Z"
 summary: Our first mailbag episode of 2026.
 tags:
 - Regular
