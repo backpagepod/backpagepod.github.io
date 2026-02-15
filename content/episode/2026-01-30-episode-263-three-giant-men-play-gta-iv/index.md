@@ -34,10 +34,6 @@ cover:
     src="mission.png" 
     alt="Mission"
 >}}
-{{<figure 
-    src="january.png" 
-    alt="January"
->}}
 
 ## Mission Highlights
 - Final Interview
