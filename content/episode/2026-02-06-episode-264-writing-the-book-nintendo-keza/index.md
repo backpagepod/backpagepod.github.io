@@ -37,7 +37,18 @@ cover:
     src="animal-crossing.png" 
     alt="Animal Crossing"
     caption="Image Credit: feltmonkey. My Canadian import of Gamecube Animal Crossing with the Cube cover disc that allowed it to be played in a UK Gamecube, aka the greatest cover disc giveaway of all time. It's lived in there for over 20 years." >}}
-
+{{<figure 
+    src="printer-1.png" 
+    alt="Game Boy Printer"
+    >}}
+{{<figure 
+    src="printer-2.png" 
+    alt="Game Boy Printer"
+    >}}
+{{<figure 
+    src="printer-3.png" 
+    alt="Game Boy Printer"
+    >}}
 
 ## Underrated Nintendo Games
 - Daigasso! Band Brothers
