@@ -31,7 +31,7 @@ cover:
 1. I wouldn't eat in a restaurant that's attached to a car wash.
 
 ## Samuel
-10. Injustice 2 (2017 release)
+10. ~~ Injustice 2 (2017 release) ~~ Minit
 9. Tetris Effect
 8. Beat Saber
 7. Warhammer: Vermintide 2
