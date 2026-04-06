@@ -34,7 +34,7 @@ cover:
     And lead us not into Ghostbusters;
     but deliver us from software.
     Ah, who are we kidding?
-    He'll just pick Lostfire Domus
+    He'll just pick Lost: Via Domus
     for ever and ever.
     Amen.
 

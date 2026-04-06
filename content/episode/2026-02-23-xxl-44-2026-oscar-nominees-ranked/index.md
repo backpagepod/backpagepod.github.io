@@ -45,7 +45,7 @@ cover:
 - Ralph Fiennes in the 28 Years Later and 28 Years Later: The Bone Temple
 
 ## Worst Hang
-- Sean Penn in one battle One Battle After Another
+- Sean Penn in One Battle After Another
 - any of the Jimmies in 28 Years Later: The Bone Temple
 - the sick kid in If I Had Legs I'd Kick You
 
