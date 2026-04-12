@@ -30,6 +30,11 @@ cover:
 ## Matthew Castle's rules
 1. I wouldn't eat in a restaurant that's attached to a car wash.
 
+{{<figure 
+    src="han-shoots-first.png" 
+    alt="Han Shoots First"
+    >}}
+
 ## Samuel
 10. ~~Injustice 2 (2017 release)~~ Minit
 9. Tetris Effect

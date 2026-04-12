@@ -21,7 +21,7 @@ cover:
 
 
 
-## Bast Picture Nominees Ranked
+## Best Picture Nominees Ranked
 
 10. F1
 9. Bugonia
