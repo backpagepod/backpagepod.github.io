@@ -6,6 +6,12 @@ summary: Hopefully you'll agree we do Max justice.
 tags:
 - Regular
 title: 'Episode 74: Max Payne 1-3 Revisited'
+cover: 
+  image: basra-with-thongs.png
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: false
+  relative: true
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-74-max-1-65394034)
@@ -14,3 +20,5 @@ title: 'Episode 74: Max Payne 1-3 Revisited'
 > Then, the final section has to be heard to be believed.
 >
 > This week's music is from the Max Payne soundtrack by Kärtsy Hatakka and Kimmo Kajasto, and the Max Payne 3 soundtrack by HEALTH.
+
+{{< youtube I7Vf94iyi_o >}}

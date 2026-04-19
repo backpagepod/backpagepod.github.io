@@ -6,6 +6,7 @@ summary: People Can Fly's Jamie Smith tells us about his career and things you o
   realise about games when you actually make them for a living.
 tags:
 - Special Guest
+- Jamie Smith
 - Regular
 title: 'Episode 147: Things You Only Realise When You Make Games'
 ---
