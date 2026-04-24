@@ -8,7 +8,7 @@ tags:
 - Regular
 title: 'Episode 275: The Xbox Live Arcade, PSN and WiiWare Draft'
 cover: 
-  image: xbla-600.webp
+  image: XBLA-600.webp
   hidden: false
   hiddenInList: false
   hiddenInSingle: false
