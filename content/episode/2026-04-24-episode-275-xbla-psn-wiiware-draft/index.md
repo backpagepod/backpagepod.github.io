@@ -35,6 +35,18 @@ cover:
     src="potato.png" 
     alt="Potato" 
 >}}
+{{<figure 
+    src="simpsons-1.png" 
+    alt="Simpsons"
+    caption="Image Credit: Nige" 
+>}}
+{{<figure 
+    src="simpsons-2.png" 
+    alt="Simpsons"
+    caption="Image Credit: Nige" 
+>}}
+
+{{< youtube Gem9lxe-Jwk >}}
 
 ## Rules
 - A maximum of 4 games per platform to keep things mixed up
