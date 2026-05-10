@@ -18,6 +18,11 @@ cover:
 [Play Episode](https://www.patreon.com/posts/episode-273-what-155205201)
 > Is Crimson Desert good? It's complicated, but not quite, according to Matthew Castle. Plus: Samuel apologises profusely for buying a PS5 Pro.
 
+{{<figure 
+    src="tomodachi.png" 
+    alt="Tomodachi" 
+>}}
+
 - Crimson Desert
 - PlayStation 5 Pro
 - Alan Wake 2

@@ -106,6 +106,16 @@ cover:
 
 ## Results
 
-- Samuel ( votes) %
-- Matthew ( votes) %
-- ( votes)
+{{<figure 
+    src="drafts.png" 
+    alt="Drafts" 
+>}}
+
+- **Samuel (54 votes) 53%**
+- Matthew (48 votes) 47%
+- (102 votes)
+
+{{<figure 
+    src="flipnote.png" 
+    alt="Flipnote" 
+>}}
