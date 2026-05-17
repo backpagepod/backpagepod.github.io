@@ -58,6 +58,10 @@ The browser game was Planetarion.
     alt="Gerg"
     >}}
 {{<figure 
+    src="gerg-2.png" 
+    alt="Gerg"
+    >}}
+{{<figure 
     src="joey.png" 
     alt="Joey"
     >}}

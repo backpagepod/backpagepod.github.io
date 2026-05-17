@@ -108,7 +108,7 @@ cover:
 ## Results
 - Samuel (44 votes) 28%
 - Ash (21 votes) 13%
-- Dave (53 votes) 34%
+- **Dave (53 votes) 34%**
 - Matthew (40 votes) 25%
 - (158 votes)
 
