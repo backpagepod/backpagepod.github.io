@@ -12,7 +12,6 @@ cover:
   hiddenInList: false
   hiddenInSingle: false
   relative: true
-  caption: "Image Credit: Daniel Keane"
 ---
 
 [Play Episode](https://www.patreon.com/posts/xxl-episode-47-159122301)
