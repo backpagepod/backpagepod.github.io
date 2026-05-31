@@ -32,7 +32,7 @@ cover:
     And forgive us our trash talk,
     as we forgive those who trash talk against Ash.
     And lead us not into Ghostbusters;
-    but deliver us from software.
+    but deliver us FromSoftware.
     Ah, who are we kidding?
     He'll just pick Lost: Via Domus
     for ever and ever.

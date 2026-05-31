@@ -48,6 +48,11 @@ cover:
     src="tomodachi-1.webp" 
     alt="Tomodachi" 
 >}}
+{{<figure 
+    src="correction.png" 
+    alt="Correction"
+    caption="Image Credit: Madbrood"
+>}}
 
 ## Categories
 1. Platformer
@@ -121,8 +126,23 @@ cover:
 | Steal | The Legend of Zelda: The Wind Waker | Resident Evil 4 |  Super Mario 64 | Super Smash Bros. Melee |
 
 ## Results
-- Samuel ( votes) %
-- Dave ( votes) %
-- Ash ( votes) %
-- Matthew ( votes) %
-- ( votes)
+
+{{<figure 
+    src="thumped.png" 
+    alt="Thumped" 
+>}}
+{{<figure 
+    src="heel.png" 
+    alt="Heel" 
+>}}
+{{<figure 
+    src="crash-out.png" 
+    alt="Crash Out" 
+>}}
+
+
+- Samuel (46 votes) 20%
+- Dave (68 votes) 29%
+- **Ash (75 votes) 32%**
+- Matthew (45 votes) 19%
+- (234 votes)
