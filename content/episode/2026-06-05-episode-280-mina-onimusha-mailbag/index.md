@@ -47,4 +47,7 @@ cover:
     src="pinky-5.png" 
     alt="Pinky" 
 >}}
-
+{{<figure 
+    src="cordyceps.png" 
+    alt="Cordyceps" 
+>}}
