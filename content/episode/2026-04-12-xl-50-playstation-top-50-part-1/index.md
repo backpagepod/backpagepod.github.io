@@ -15,7 +15,7 @@ cover:
   relative: true
 ---
 
-[Play Episode](https://www.patreon.com/posts/xl-episode-49-50-153128966)
+[Play Episode](https://www.patreon.com/backpagepod/posts/xl-episode-50-50-155462981)
 > Next month, we'll reveal our top 50 PlayStation games – but this month, we're pitting (almost) every single PlayStation series of note against each other to give the list some shape. Kingdom Hearts versus Tenchu! Driver versus Silent Hill! And other nonsense.
 >
 > Then, at the very end, we break our own rules to salvage one absolute banger from the bin before it's too late.

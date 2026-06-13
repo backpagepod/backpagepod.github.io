@@ -15,7 +15,7 @@ cover:
   relative: true
 ---
 
-[Play Episode](https://www.patreon.com/posts/episode-230-what-130205195)
+[Play Episode](https://www.patreon.com/backpagepod/posts/episode-235-what-133266821)
 > Matthew is fetching koalas for Chvrches in Death Stranding 2: On the Beach, while Samuel is having year 11 lunchtime PTSD in Sloclap's football game Rematch. It's another WWBP episode!
 >
 > Games discussed: Death Stranding 2: On The Beach, Rematch, Date Everything, MindsEye, Pipstrello and the Cursed Yoyo, Helldivers 2

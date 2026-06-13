@@ -18,7 +18,7 @@ cover:
   relative: true
 ---
 
-[Play Episode](https://www.patreon.com/posts/episode-211-ps2-120154117)
+[Play Episode](https://www.patreon.com/backpagepod/posts/episode-224-xbox-126883643)
 > Much to the chagrin of Matthew, who had to edit it, the four-person draft is back! This time, Samuel, Matthew, Ashley Day and Dave Scarborough are fighting over the best games on Xbox 360 (note: some of them may not be the best, but that's for you to decide).
 > 
 > This week's music is from the Fable 2 soundtrack by Danny Elfman and Russell Shaw, plus the the Bayonetta soundtrack by Helena Noguerra, Bart Howard, as well as Norihiko Hibino, Takahiro Izutani, Masami Ueda, Hiroshi Yamaguchi, Rei Kondoh, Takayasu Sodeoka, Erina Niwa, Yoshitaka Suzuki and Naoto Tanaka.

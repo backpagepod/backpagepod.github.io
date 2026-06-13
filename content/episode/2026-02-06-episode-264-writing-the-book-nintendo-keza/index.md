@@ -16,7 +16,7 @@ cover:
   relative: true
 ---
 
-[Play Episode](https://www.patreon.com/posts/episode-263-men-149452068)
+[Play Episode](https://www.patreon.com/backpagepod/posts/episode-264-book-150047556)
 > Five years later, The Guardian's Keza MacDonald returns to the podcast to talk about her new book, Super Nintendo ([UK link here](https://www.faber.co.uk/product/9781783353057-super-nintendo/), [US link here](https://www.penguinrandomhouse.com/books/753986/super-nintendo-by-keza-macdonald/)). We then close out with Keza's quickfire list of the 10 most underrated Nintendo games.
 >
 > This week's music is from the Diddy Kong Racing soundtrack by David Wise.

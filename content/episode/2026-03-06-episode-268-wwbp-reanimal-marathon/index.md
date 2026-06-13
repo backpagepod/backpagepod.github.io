@@ -15,7 +15,7 @@ cover:
   relative: true
 ---
 
-[Play Episode](https://www.patreon.com/posts/episode-262-what-148710471)
+[Play Episode](https://www.patreon.com/backpagepod/posts/episode-268-what-152336191)
 > What we've been playing lately that doesn't feature Leon S Kennedy. Games discussed: Reanimal, Dark Auction, Marathon, Yakuza Kiwami 3 + Dark Ties, Pokémon LeafGreen, Paranormasight: The Mermaid’s Curse, Dragon Quest VII: Reimagined, Romeo is a Dead Man, Wild Blue Skies, Denshattack!, Dusk Index Gion.
 >
 > The two Pokémon-themed media projects mentioned in this episode – Matt Reynolds' [One More Catch](https://www.onemorecatch.site/) and James Batchelor's [history of the series](https://bsky.app/profile/jamesbatchelor.bsky.social/post/3mdn7vcs4lc2m).

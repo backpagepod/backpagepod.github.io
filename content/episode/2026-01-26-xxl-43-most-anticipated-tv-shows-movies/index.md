@@ -15,7 +15,7 @@ cover:
   caption: "Image Credit: tjcleaver"
 ---
 
-[Play Episode](https://www.patreon.com/posts/xxl-episode-42-149117627)
+[Play Episode](https://www.patreon.com/backpagepod/posts/xxl-episode-43-149117627)
 > From The Odyssey to Matthew's beloved Japanese crime novels, here's what we're each looking forward to in pop culture this year.
 
 {{<figure 
