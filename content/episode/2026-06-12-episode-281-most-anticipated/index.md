@@ -43,3 +43,31 @@ cover:
 2. Fable (2027)
 1. Onimusha: Way of the Sword
 {reversed="reversed"}
+
+## Awards
+### Most doomed game of September 2026
+- Dune: Awakening
+- Garfield: Escape from Monday
+
+### Worst/most cursed Discourse
+- People arguing about the look of Ocarina of Time
+- Generative AI
+
+### Most anticipated remake
+- Star Fox (2026)
+- The Legend of Zelda: Ocarina of Time (2026)
+
+### Game trend that bummed us out the most
+- Finding out about AI involvement after the fact
+- Artless trailers
+- People letting games be hijacked by assholes who hate women in their games
+
+### Trailer that did little for you even though you'll probably like the finished game
+- Gen Atlas
+- Teenage Mutant Ninja Turtles: The Last Ronin
+- God of War Laufey
+- Marvel's Wolverine
+
+### The I Wish You Well Award for a game you won't be participating in, but perhaps admire or respect
+- Virtua Fighter Crossroads
+- Ace Combat 8: Wings of Theve
