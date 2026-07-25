@@ -95,7 +95,7 @@ cover:
 
 ### Favourite GTA antagonist
 - Frank Tenpenny
-- Catalin#- ## 
+- Catalina
 
 ### Favourite GTA City
 - Liberty City, Grand Theft Auto IV
