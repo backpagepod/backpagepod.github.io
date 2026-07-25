@@ -1,12 +1,12 @@
 ---
 categories:
 - Episode
-date: "2026-02-20T09:00:00Z"
+date: "2026-07-03T09:00:00Z"
 summary: The worst format in podcasting is back, fresh from the Castle Island Backrooms.
 tags:
 - Games Court
 - Regular
-title: 'Episode 266: Games Court 2026'
+title: 'Episode 284: Games Court – Judge Castle Decides Edition'
 cover: 
   image: games-court-day.png
   hidden: false

@@ -1,7 +1,7 @@
 ---
 categories:
 - Episode
-date: "2026-03-20T09:00:00Z"
+date: "2026-07-24T09:00:00Z"
 summary: Stepping outside our 2000s comfort zone, this week we're sharing our two top 10 lists from 1997 in the first of a new quadrilogy of pods.
 tags:
 - GOTY
