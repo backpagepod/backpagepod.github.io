@@ -8,13 +8,12 @@ tags:
 - Regular
 title: 'Episode 97: Games Court – Judge Sammy''s Garbage Barge'
 cover: 
-  image: doom-3-goldeneye.jpeg
-  width: 868
-  height: 652
+  image: friends.png
   hidden: false
   hiddenInList: false
-  hiddenInSingle: true
+  hiddenInSingle: false
   relative: true
+  caption: "Image Credit: NaesLyn"
 ---
 
 [Play Episode](https://www.patreon.com/posts/episode-97-games-72641768)

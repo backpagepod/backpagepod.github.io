@@ -87,7 +87,7 @@ cover:
 
 ## Results
 
-- Jeremy
-- Samuel
-- Matthew
-- ( votes)
+- Jeremy 20% (27 votes)
+- **Samuel 52% (71 votes)**
+- Matthew 28% (39 votes)
+- (137 votes)
