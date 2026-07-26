@@ -47,7 +47,7 @@ cover:
 - Hollywood Nights by Bob Seger & The Silver Bullet Band
 - Baker Street by Gerry Rafferty
 - Ready or Not Here I Come (Can't Hide from Love) by The Delfonics
-- Street Life Randy by Crawford and The Crusaders
+- Street Life by Randy Crawford and The Crusaders
 - Rubber Band  by The Trammps
 - Radio Ga Ga by Queen
 - Party All the Time by Eddie Murphy
