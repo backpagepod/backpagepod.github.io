@@ -122,8 +122,8 @@ cover:
 
 ## Results
 
-- Ash ( votes) %
-- Samuel ( votes) %
-- Matthew ( votes) %
-- Dave ( votes) %
-- ( votes)
+- Ash (37 votes) 21%
+- Samuel (37 votes) 21%
+- Matthew (69 votes) 40%
+- Dave (31 votes) 18%
+- (174 votes)
