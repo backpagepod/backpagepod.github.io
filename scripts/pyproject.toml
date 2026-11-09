@@ -1,0 +1,9 @@
+[project]
+name = "backpage-scripts"
+version = "0.1.0"
+description = "Command line tools for updating the Back Page website"
+requires-python = ">=3.15"
+dependencies = []
+
+[tool.uv]
+package = false

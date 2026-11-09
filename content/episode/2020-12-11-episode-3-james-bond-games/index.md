@@ -5,6 +5,7 @@ date: "2020-12-11T09:00:00Z"
 summary: 'IO Interactive: nobody does it better?'
 tags:
 - Regular
+- Bond
 title: 'Episode 3: James Bond games, from GoldenEye to IO Interactive'
 ---
 

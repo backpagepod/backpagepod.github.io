@@ -9,7 +9,7 @@ tags:
 - Game Design Crimes
 - Regular
 title: 'Episode 292: A Few Game Design Crimes More (with Jamie Smith)'
-draft: false
+draft: true
 ---
 
 [Play Episode](https://www.patreon.com/backpagepod/posts/episode-292-few-167886215)

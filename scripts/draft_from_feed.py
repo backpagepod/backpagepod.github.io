@@ -1,16 +1,12 @@
 #!/usr/bin/env python3
-# /// script
-# requires-python = ">=3.9"
-# dependencies = []
-# ///
 """Create draft episode posts from the saved Patreon RSS feed.
 
-Usage (from the repo root):
-    uv run scripts/draft_from_feed.py                  # dry run: list what would be created
-    uv run scripts/draft_from_feed.py --write          # create the draft folders
-    uv run scripts/draft_from_feed.py --since 2026-08-11 --write
+Usage (from the scripts/ folder, which holds the uv project):
+    uv run draft_from_feed.py                  # dry run: list what would be created
+    uv run draft_from_feed.py --write          # create the draft folders
+    uv run draft_from_feed.py --since 2026-08-11 --write
 
-Only standard-library Python is used, so `python3 scripts/draft_from_feed.py` works too.
+Only standard-library Python is used, so `python3 draft_from_feed.py` works too.
 
 What it does, for each "Episode N", "XL Episode N" or "XXL Episode N" post in the feed
 that doesn't already have a post (matched on the Patreon link):

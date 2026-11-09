@@ -6,6 +6,7 @@ summary: The podcast goes full Partridge in this ranking of all 25 existing Jame
   Bond movies.
 tags:
 - XXL
+- Bond
 title: 'XXL Episode 8: James Bond Movies Ranked'
 cover: 
   image: bond-tie-fighhter.jpeg

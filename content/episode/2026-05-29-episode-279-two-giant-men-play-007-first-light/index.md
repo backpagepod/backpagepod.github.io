@@ -5,6 +5,7 @@ date: "2026-05-29T09:00:00Z"
 summary: It's here – the James Bond game we've been waiting almost six years for! 
 tags:
 - Regular
+- Bond
 title: 'Episode 279: Two Giant Men Play 007 First Light'
 cover: 
   image: bond-1.png
