@@ -9,12 +9,6 @@ tags:
 - Game Design Crimes
 - Regular
 title: 'Episode 292: A Few Game Design Crimes More (with Jamie Smith)'
-cover: 
-  image: todo.png
-  hidden: false
-  hiddenInList: false
-  hiddenInSingle: false
-  relative: true
 draft: false
 ---
 

@@ -1,6 +1,6 @@
 baseURL: https://www.backpagepod.co.uk/
 disablePathToLower: true
-languageCode: en-gb
+locale: en-gb
 title: A Back Page fansite
 theme: ["PaperMod", "hugo-embed-pdf-shortcode", "audio-shortcode"]
 
@@ -11,16 +11,12 @@ frontmatter:
     - :filename
     - date
 
-permalinks:
-  posts: /episode/:slug
-  posts: /post/:slug
-
 module:
   mounts:
     - source: 'content'
       target: 'content'
-      excludeFiles:
-        - 'transcripts/**'
+      files:
+        - '! transcripts/**'
 
 markup:
   goldmark:
