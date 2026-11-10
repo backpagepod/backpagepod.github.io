@@ -19,4 +19,15 @@ cover:
 [Play Episode](https://www.patreon.com/backpagepod/posts/episode-294-what-169181502)
 > Emergency Nintendo Direct chatter, powered by the reveal of sequels to two of our favourite Switch games (Metroid Dread and Kirby and the Forgotten Land), then another pile of games from the September 2026 mountain.
 
-<!-- TODO: your notes. Transcript: content/transcripts/ep-294.md -->
+- The Legend of Zelda: Ocarina of Time (2026)
+- Metroid Ravenous
+- Kirby and the World Beyond
+- Professor Layton and the New World of Steam
+- Yokai Watch 2: Haunted Domain
+- Stage Fright
+- Onyx: The Dark Grip
+- Star Fox Adventures
+- The Blood of Dawnwalker
+- Resonance: A Plague Tale Legacy
+- Vholume
+- Metal Gear Solid (2000)
