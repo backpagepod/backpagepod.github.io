@@ -3,7 +3,7 @@ categories:
 - Episode
 date: "2026-09-18T09:00:00Z"
 draft: true
-summary: "Been quite a while since we did a 'games journalism craft' episode – this is one of those, as we're joined by former music journalist and Vice senior editor Mike Diver for a lively chat."  # TODO: check summary
+summary: "We're joined by former music journalist and Vice senior editor Mike Diver."
 tags:
 - Regular
 - Special Guest
@@ -21,4 +21,24 @@ cover:
 >
 > Mike's book, [Aliens: The Video Games](https://www.pen-and-sword.co.uk/Aliens-The-Video-Games-Hardback/p/58218), is available now.
 
-<!-- TODO: your notes. Transcript: content/transcripts/ep-295.md -->
+- Alien 3
+- Alien (1982)
+- Alien: Isolation
+- Aliens: Infestation
+- Aliens: Dark Descent
+- Aliens: Colonial Marines
+- Aliens: Fireteam Elite
+- Aliens: Fireteam Elite 2
+- Aliens: Crucible
+- Aliens: A Comic Book Adventure
+- Aliens Interactive
+- Sonic the Hedgehog CD
+- Road Avenger
+- Time Gal
+- Batman Returns
+- Wonder Boy III: The Dragon's Trap
+- Snatcher
+- Streets of Rage 2
+- Castle of Illusion Starring Mickey Mouse
+- Beyond Oasis
+- Zombies Ate My Neighbors
