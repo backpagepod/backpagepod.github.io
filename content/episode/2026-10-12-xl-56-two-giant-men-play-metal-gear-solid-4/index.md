@@ -3,7 +3,7 @@ categories:
 - Episode
 date: "2026-10-12T09:00:00Z"
 draft: true
-summary: "Guns of the Patreon is finally here, with our comprehensive look back at MGS4!"  # TODO: check summary
+summary: "Guns of the Patreon is finally here!"
 tags:
 - XL
 title: "XL Episode 56: Two Giant Men Play Metal Gear Solid 4: Guns of the Patriots"

@@ -3,7 +3,7 @@ categories:
 - Episode
 date: "2026-10-16T09:00:00Z"
 draft: true
-summary: "Matthew flew to Germany and played The Legend of Zelda: Ocarina of Time remake, which is rather a nice surprise."  # TODO: check summary
+summary: "Matthew flew to Germany and played The Legend of Zelda: Ocarina of Time remake."
 tags:
 - Regular
 - WWBP
@@ -21,4 +21,11 @@ cover:
 >
 > **Games discussed:** The Legend of Zelda: Ocarina of Time, Gears of War: E-Day, Control Resonant, Valor Mortis, Star Wars: Galactic Racer, Dicevaders
 
-<!-- TODO: your notes. Transcript: content/transcripts/ep-298.md -->
+[Guardian preview](https://www.theguardian.com/games/2026/oct/14/the-legend-of-zelda-ocarina-of-time-preview-4k-era-switch-2-remake)
+
+- The Legend of Zelda: Ocarina of Time (2026)
+- Gears of War: E-Day
+- Control Resonant
+- Valor Mortis
+- Star Wars: Galactic Racer
+- Dicevaders
