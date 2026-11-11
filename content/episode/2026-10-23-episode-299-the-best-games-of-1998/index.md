@@ -3,7 +3,7 @@ categories:
 - Episode
 date: "2026-10-23T09:00:00Z"
 draft: true
-summary: "No, not the episode 300 you were promised."  # TODO: check summary
+summary: "No, not the episode 300 you were promised."
 tags:
 - Regular
 - GOTY

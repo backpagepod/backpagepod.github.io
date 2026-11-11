@@ -3,7 +3,7 @@ categories:
 - Episode
 date: "2026-09-11T09:00:00Z"
 draft: true
-summary: "Emergency Nintendo Direct chatter, powered by the reveal of sequels to two of our favourite Switch games (Metroid Dread and Kirby and the Forgotten Land), then another pile of games from the September 2026 mountain."  # TODO: check summary
+summary: "Emergency Nintendo Direct chatter, then another pile of games."
 tags:
 - Regular
 - WWBP

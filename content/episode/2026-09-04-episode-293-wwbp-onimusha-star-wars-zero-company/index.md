@@ -3,7 +3,7 @@ categories:
 - Episode
 date: "2026-09-04T09:00:00Z"
 draft: true
-summary: "The September release schedule avalanche begins."  # TODO: check summary
+summary: "The September release schedule avalanche begins."
 tags:
 - Regular
 - WWBP

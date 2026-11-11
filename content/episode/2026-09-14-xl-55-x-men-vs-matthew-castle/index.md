@@ -3,7 +3,7 @@ categories:
 - Episode
 date: "2026-09-14T09:00:00Z"
 draft: true
-summary: "Just in time for Marvel's Wolverine landing on PS5, Matthew ingests all the X-Men content he can and discusses it with Samuel."  # TODO: check summary
+summary: "Matthew ingests all the X-Men content he can."
 tags:
 - XL
 title: "XL Episode 55: X-Men vs Matthew Castle – A Marvel's Wolverine Primer"
