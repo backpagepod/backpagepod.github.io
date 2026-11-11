@@ -2,14 +2,13 @@
 categories:
 - Episode
 date: "2026-10-23T09:00:00Z"
-draft: true
 summary: "No, not the episode 300 you were promised."
 tags:
 - Regular
 - GOTY
 title: "Episode 299: The Best Games of 1998"
 cover: 
-  image: cover.png  # TODO: add cover image to this folder
+  image: nipper.png
   hidden: false
   hiddenInList: false
   hiddenInSingle: false

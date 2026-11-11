@@ -2,18 +2,18 @@
 categories:
 - Episode
 date: "2026-09-11T09:00:00Z"
-draft: true
 summary: "Emergency Nintendo Direct chatter, then another pile of games."
 tags:
 - Regular
 - WWBP
 title: "Episode 294: Nintendo Direct Reaction + What We've Been Playing (The Blood of Dawnwalker, Resonance: A Plague Tale Legacy, VHOLUME, MGS: Ghost Babel)"
 cover: 
-  image: cover.png  # TODO: add cover image to this folder
+  image: ravenous.png 
   hidden: false
   hiddenInList: false
   hiddenInSingle: false
   relative: true
+  caption: "Image Credit: MattW91"
 ---
 
 [Play Episode](https://www.patreon.com/backpagepod/posts/episode-294-what-169181502)

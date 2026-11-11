@@ -11,16 +11,21 @@ tags:
 - Special Guest
 title: 'Episode 291: The Nintendo DS + 3DS Mega Draft (with Dave Scarborough and Ashley Day)'
 cover: 
-  image: draft-day.jpeg
+  image: ds-draft.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: false
   relative: true
+  caption: "Image Credit: JackyBoy34"
 ---
 
 [Play Episode](https://www.patreon.com/backpagepod/posts/episode-291-ds-167226475)
 > Four giant men select their favourite DS and 3DS games in our latest 3-hour draft episode. We hope you enjoy this deep dive into both consoles. Vote for the winner in the announcements channel of [our Discord server](http://discord.gg/nEdhNnZxXg).
 
+{{<figure 
+    src="draft-day.jpeg" 
+    alt="draft-day" 
+>}}
 {{<figure 
     src="gamesmaster-1.jpeg" 
     alt="Gamesmaster" 

@@ -2,17 +2,17 @@
 categories:
 - Episode
 date: "2026-11-06T09:00:00Z"
-draft: true
 summary: "After more than a decade of squandered potential, BioWare is no more."
 tags:
 - Regular
 title: "Episode 301: The Death of BioWare"
 cover: 
-  image: cover.png  # TODO: add cover image to this folder
+  image: yaris-effect.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: false
   relative: true
+  caption: "Image Credit: from kraftcheese, your husband"
 ---
 
 [Play Episode](https://www.patreon.com/backpagepod/posts/episode-301-of-174494713)

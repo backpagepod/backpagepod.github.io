@@ -2,17 +2,17 @@
 categories:
 - Episode
 date: "2026-10-12T09:00:00Z"
-draft: true
 summary: "Guns of the Patreon is finally here!"
 tags:
 - XL
 title: "XL Episode 56: Two Giant Men Play Metal Gear Solid 4: Guns of the Patriots"
 cover: 
-  image: cover.png  # TODO: add cover image to this folder maybe the tooth dentist pic
+  image: dentist.webp
   hidden: false
   hiddenInList: false
   hiddenInSingle: false
   relative: true
+  caption: "Image Credit: from kraftcheese, your husband"
 ---
 
 [Play Episode](https://www.patreon.com/backpagepod/posts/xl-episode-56-4-172103586)

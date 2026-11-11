@@ -2,23 +2,21 @@
 categories:
 - Episode
 date: "2026-09-14T09:00:00Z"
-draft: true
 summary: "Matthew ingests all the X-Men content he can."
 tags:
 - XL
 title: "XL Episode 55: X-Men vs Matthew Castle – A Marvel's Wolverine Primer"
 cover: 
-  image: matthew.png  # TODO: add cover image to this folder
+  image: x-men.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: false
   relative: true
+  caption: "Image Credit: NaesLyn"
 ---
 
 [Play Episode](https://www.patreon.com/backpagepod/posts/xl-episode-55-x-169451129)
 > Just in time for Marvel's Wolverine landing on PS5, Matthew ingests all the X-Men content he can and discusses it with Samuel. Films, comics, TV and games are all discussed – we've tried to make it as accessible as possible.
->
-> Thanks to Sean Lynch for the image.
 >
 > [This was the BlueSky thread](https://bsky.app/profile/tomewing.bsky.social/post/3msirohzu5k2a) on comic book events we discuss in the episode.
 >
@@ -27,6 +25,17 @@ cover:
 {{<figure 
     src="the-holocaust-should-not-be-taken-lightly.jpeg" 
     alt="the holocaust should not be taken lightly" 
+>}}
+
+{{<figure 
+    src="matthneto.webp"
+    caption="Image Credit: NaesLyn" 
+    alt="Matthneto" 
+>}}
+{{<figure 
+    src="professor-r.webp"
+    caption="Image Credit: NaesLyn" 
+    alt="Professor R" 
 >}}
 
 ### Matthew's top 5 X-Men movies

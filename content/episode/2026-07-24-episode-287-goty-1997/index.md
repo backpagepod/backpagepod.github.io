@@ -24,6 +24,11 @@ cover:
 >
 > Videos referenced in this week's episode: [the German bloke touring E3 in Atlanta](https://www.youtube.com/watch?v=xstOp8Irp0E&t=9272s), [Howard Lincoln talking about Rare](https://www.youtube.com/watch?v=WiI7msB-bY0), [Nintendo's Space World](https://www.youtube.com/watch?v=tEif7JQ7228), [Games World's segment from the Sega booth at E3 1997](https://www.youtube.com/watch?v=T4k9p0keM4k) and [B-roll](https://www.youtube.com/watch?v=8FdAiQkl8Dg) of the games shown at Space World.
 
+{{<figure 
+    src="spice.png" 
+    alt="Spice" 
+>}}
+
 ## Matthew
 10. Blood
 9. Oddworld: Abe's Oddysee

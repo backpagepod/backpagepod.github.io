@@ -2,13 +2,12 @@
 categories:
 - Episode
 date: "2026-10-27T09:00:00Z"
-draft: true
 summary: "Here's our rundown of all the films we caught at London and Bath Film Festivals." 
 tags:
 - XXL
 title: "XXL Episode 52: Two Giant Men Hit the Film Festival Circuit 2026"
 cover: 
-  image: cover.png  # TODO: add cover image to this folder
+  image: letterboxd.png
   hidden: false
   hiddenInList: false
   hiddenInSingle: false

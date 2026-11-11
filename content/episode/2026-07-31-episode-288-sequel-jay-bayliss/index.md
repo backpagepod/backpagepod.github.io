@@ -23,6 +23,8 @@ cover:
 >
 > This week's music is from the Cassette Beasts soundtrack by Joel Baylis.
 
+[Shortlist article about this episode](https://www.shortlist.com/gaming/why-this-pokemon-style-video-game-is-exploring-the-boring-bits-of-london)
+
 - Cassette Beasts 2002
 - Fire Emblem: Three Houses
 - The Incident at Galley House

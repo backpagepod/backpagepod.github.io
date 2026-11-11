@@ -9,7 +9,13 @@ tags:
 - Game Design Crimes
 - Regular
 title: 'Episode 292: A Few Game Design Crimes More (with Jamie Smith)'
-draft: true
+cover: 
+  image: obra-dan.webp
+  hidden: false
+  hiddenInList: false
+  hiddenInSingle: false
+  relative: true
+  caption: "Image Credit: Ian"
 ---
 
 [Play Episode](https://www.patreon.com/backpagepod/posts/episode-292-few-167886215)

@@ -18,3 +18,9 @@ cover:
 > Some thoughts on the Halo remake, then almost an hour of total nonsense that we will never, ever speak of again.
 >
 > This week's music is from the Halo: Combat Evolved by Michael Salvatori and Martin O'Donnell. 
+
+{{<figure 
+    src="careful-dave.webp"
+    caption="Image Credit: from kraftcheese, your husband" 
+    alt="Careful Dave" 
+>}}

@@ -2,18 +2,18 @@
 categories:
 - Episode
 date: "2026-09-18T09:00:00Z"
-draft: true
 summary: "We're joined by former music journalist and Vice senior editor Mike Diver."
 tags:
 - Regular
 - Special Guest
 title: "Episode 295: When Mainstream Media Started Caring About Games (with Mike Diver)"
 cover: 
-  image: cover.png  # TODO: add cover image to this folder
+  image: metroid.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: false
   relative: true
+  caption: "Image Credit: EvilDrPorkchop"
 ---
 
 [Play Episode](https://www.patreon.com/backpagepod/posts/episode-295-when-169847791)
