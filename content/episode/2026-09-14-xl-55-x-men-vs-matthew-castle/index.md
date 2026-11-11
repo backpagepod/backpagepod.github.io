@@ -54,7 +54,7 @@ cover:
 1. House of X/Powers of X by Jonathan Hickman, Pepe Larraz and RB Silva
 {reversed="reversed"}
 
-### Samuel's top 5 X-Men comics:
+### Samuel's top 5 X-Men comics
 5. Wolverine by Greg Rucka
 4. Wolverine and the X-Men by Jason Aaron, Chris Bachalo and Nick Bradshaw
 3. Astonishing X-Men by Joss Whedon and John Cassaday

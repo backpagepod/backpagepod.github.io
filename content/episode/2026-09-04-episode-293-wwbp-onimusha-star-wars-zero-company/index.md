@@ -8,20 +8,20 @@ tags:
 - WWBP
 title: "Episode 293: What We've Been Playing (Onimusha: Way of the Sword, Star Wars: Zero Company, Guns of Eschaton, Super Mario Sunshine)"
 cover: 
-  image: nintendog.png
+  image: wildcard.png
   hidden: false
   hiddenInList: false
   hiddenInSingle: false
   relative: true
-  caption: "Image Credit: Wooner Sparrowhawk"
+  caption: "Image Credit: Pete"
 ---
 
 [Play Episode](https://www.patreon.com/backpagepod/posts/episode-293-what-168545589)
 > The September release schedule avalanche begins. Games discussed: Onimusha: Way of the Sword, Star Wars: Zero Company, [Guns of Eschaton](https://www.youtube.com/watch?v=vwSVHFyvofo) and Super Mario Sunshine.
 
 {{<figure 
-    src="wildcard.png"
-    caption="Image Credit: Pete" 
+    src="nintendog.png"
+    caption="Image Credit: Wooner Sparrowhawk" 
     alt="Wildcard"
 >}}
 
