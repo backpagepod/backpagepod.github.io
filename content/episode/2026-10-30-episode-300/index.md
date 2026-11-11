@@ -3,7 +3,7 @@ categories:
 - Episode
 date: "2026-10-30T09:00:00Z"
 draft: true
-summary: "We start with some difficult news..."  # TODO: check summary
+summary: "We start with some difficult news..."
 tags:
 - Regular
 title: "Episode 300"
@@ -20,4 +20,3 @@ cover:
 >
 > Cheers to everyone who has supported the podcast, past and present. We're delighted you're still along for the ride.
 
-<!-- TODO: your notes. Transcript: content/transcripts/ep-300.md -->

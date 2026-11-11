@@ -20,7 +20,6 @@ cover:
 >
 > Apologies: Samuel's microphone had an issue with high gain settings on this episode, so his audio is raspy. We'll fix it for future episodes.
 
-
 ### Samuel's films
 - Everest: The Other Side
 - Artificial (2026)
