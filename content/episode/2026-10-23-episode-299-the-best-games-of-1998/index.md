@@ -27,4 +27,28 @@ cover:
 >
 > Oh, and [here's footage](https://x.com/tomsmason91/status/2111806308324356228?s=20) of Pierce Brosnan screaming in a plane because somewhat cut out the strangling from Tomorrow Never Dies.
 
-<!-- TODO: your notes. Transcript: content/transcripts/ep-299.md -->
+## Matthew
+10. 1080° Snowboarding
+9. Banjo-Kazooie
+8. Baldur's Gate
+7. Xenogears
+6. F-Zero X
+5. Thief: The Dark Project
+4. Half-Life
+3. Resident Evil 2
+2. The Legend of Zelda: Ocarina of Time
+1. Grim Fandango
+{reversed="reversed"}
+
+## Samuel
+10. Banjo-Kazooie
+9. World Cup 98
+8. James Bond 007 (1998)
+7. Einhänder
+6. F-Zero X
+5. Star Wars Trilogy Arcade
+4. Time Crisis II
+3. Resident Evil 2
+2. Star Wars: Rogue Squadron
+1. Half-Life
+{reversed="reversed"}
