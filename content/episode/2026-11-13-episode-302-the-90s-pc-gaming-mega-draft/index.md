@@ -38,102 +38,18 @@ cover:
 - Personal pick
 - Free pick
 
-
 ## Picks
 
-FPS
-Samuel: Dark Forces
-Matthew: Blood
-Wes: Quake
-Jeremy: Thief (stolen from Samuel)
--
-90+ from PC Gamer (either UK or US)
-Samuel: Civilization 2
-Matthew: Grim Fandango
-Wes: System Shock 2
-Jeremy: Full Throttle
--
-RTS
-Samuel: Command & Conquer: Red Alert
-Matthew: Commandos: Behind Enemy Lines
-Wes: Homeworld
-Jeremy: Command & Conquer: Tiberian Sun
--
-4X, sim or god game
-Samuel: Theme Hospital
-Matthew: Theme Park
-Wes: TIE Fighter (stolen from Samuel)
-Jeremy: SimCity 3000
--
-Online multiplayer game
-Samuel: Alien Vs Predator 
-Matthew: Quake 3 Arena
-Wes: Unreal Tournament
-Jeremy: Worms Armageddon
--
-RPG
-Samuel: Baldur's Gate (stolen from Jeremy)
-Matthew: Planescape Torment
-Wes: Ultima 7
-Jeremy: Fallout
--
-Expansion/add-on
-Samuel: Jedi Knight: Mysteries of the Sith
-Matthew: Baldur’s Gate: Tales of the Sword Coast
-Wes: StarCraft: Brood War
-Jeremy: Half Life Opposing Force
--
-Personal pick 
-Samuel: Grand Theft Auto
-Matthew: Indiana Jones and the Infernal Machine
-Wes: Space Cadet Pinball
-Jeremy: Driver
--
-Free pick
-Samuel: Half Life
-Matthew: Blade Runner
-Wes: Indiana Jones and the Fate of Atlantis
-Jeremy: Age of Empires
-Kill tokens:
-Matthew did not use either his kill or steal tokens
-Wes did not use his kill token
-Samuel killed Rollercoaster Tycoon (picked by Jeremy)
-Jeremy killed Age of Empires 2: Age of Kings (picked by Samuel)
-
-### Canonical Names
-Star Wars: Dark Forces
-Blood
-Quake
-Thief (2014)
-Sid Meier's Civilization II
-Grim Fandango
-System Shock 2
-Full Throttle (1995)
-Command & Conquer: Red Alert
-Commandos: Behind Enemy Lines
-Homeworld
-Command & Conquer: Tiberian Sun
-Theme Hospital
-Theme Park
-Star Wars: TIE Fighter
-SimCity 3000
-Alien vs Predator OR Alien vs. Predator
-Quake III Arena
-Unreal Tournament
-Worms Armageddon
-Baldur's Gate
-Planescape: Torment
-Ultima VII: The Black Gate
-Fallout
-Star Wars Jedi Knight: Mysteries of the Sith
-Baldur's Gate: Tales of the Sword Coast
-StarCraft: Brood War
-Half-Life: Opposing Force
-Grand Theft Auto
-Indiana Jones and the Infernal Machine
-Pinball 95
-Driver
-Half-Life
-Blade Runner (1997)
-Indiana Jones and the Fate of Atlantis
-Age of Empires
+| Category | Samuel | Matthew | Wes | Jeremy |
+|----------|--------|---------|-----|--------|
+| FPS | Star Wars: Dark Forces | Blood | Quake | Thief: The Dark Project |
+| 90+ from PC Gamer | Sid Meier's Civilization II | Grim Fandango | System Shock 2 | Full Throttle (1995) |
+| Strategy | Command & Conquer: Red Alert | Commandos: Behind Enemy Lines | Homeworld | Command & Conquer: Tiberian Sun |
+| 4X, sim or god game | Theme Hospital | Theme Park | Star Wars: TIE Fighter | SimCity 3000 |
+| Online multiplayer game | Aliens Versus Predator (1999) | Quake III Arena | Unreal Tournament | Worms Armageddon |
+| RPG | Baldur's Gate | Planescape: Torment | Ultima VII: The Black Gate | Fallout |
+| Expansion/add-on | Star Wars Jedi Knight: Mysteries of the Sith | Baldur's Gate: Tales of the Sword Coast | StarCraft: Brood War | Half-Life: Opposing Force |
+| Personal pick | Grand Theft Auto | Indiana Jones and the Infernal Machine | Pinball 95 | Driver |
+| Free pick | Half-Life | Blade Runner (1997) | Indiana Jones and the Fate of Atlantis | Age of Empires |
+| Kill | RollerCoaster Tycoon |  |  | Age of Empires II: The Age of Kings |
+| Steal | Baldur's Gate |  | Star Wars: TIE Fighter | Thief: The Dark Project |
