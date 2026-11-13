@@ -7,6 +7,7 @@ summary: Our guest this week is PC Gamer Senior Editor Wes Fenlon, who talks to 
 tags:
 - Special Guest
 - Regular
+- Wes Fenlon
 title: 'Episode 135: Nintendo in the ''00s (with Wes Fenlon)'
 ---
 
