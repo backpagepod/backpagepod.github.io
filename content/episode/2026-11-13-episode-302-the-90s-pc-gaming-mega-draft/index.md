@@ -29,7 +29,7 @@ cover:
 
 1. FPS
 2. 90+ from PC Gamer (either UK or US)
-3. Strategy
+3. RTS
 4. 4X, sim or god game
 5. Online multiplayer game
 6. RPG
@@ -45,8 +45,8 @@ cover:
 | Wes | Expansion/add-on | StarCraft: Brood War |
 | Jeremy | RPG | Baldur's Gate |
 | Samuel | 90+ from PC Gamer | Sid Meier's Civilization II |
-| Samuel | Strategy | Age of Empires II: The Age of Kings |
-| Jeremy | Strategy | Command & Conquer: Tiberian Sun |
+| Samuel | RTS | Age of Empires II: The Age of Kings |
+| Jeremy | RTS | Command & Conquer: Tiberian Sun |
 | Wes | Online multiplayer game | Unreal Tournament |
 | Matthew | RPG | Planescape: Torment |
 | Matthew | Online multiplayer game | Quake III Arena |
@@ -56,7 +56,7 @@ cover:
 | Samuel | Free pick | Half-Life |
 | Jeremy | 4X, sim or god game | RollerCoaster Tycoon |
 | Wes | Free pick | Indiana Jones and the Fate of Atlantis |
-| Matthew | Strategy | Commandos: Behind Enemy Lines |
+| Matthew | RTS | Commandos: Behind Enemy Lines |
 | Matthew | 90+ from PC Gamer | Grim Fandango |
 | Wes | 90+ from PC Gamer | System Shock 2 |
 | Jeremy | Online multiplayer game | Worms Armageddon |
@@ -66,7 +66,7 @@ cover:
 | Wes | RPG | Ultima VII: The Black Gate |
 | Matthew | 4X, sim or god game | Theme Park |
 | Matthew | FPS | Blood |
-| Wes | Strategy | Homeworld |
+| Wes | RTS | Homeworld |
 | Jeremy | Kill | Age of Empires II: The Age of Kings |
 | Jeremy | 90+ from PC Gamer | Full Throttle (1995) |
 | Samuel | Steal | Baldur's Gate |
@@ -78,7 +78,7 @@ cover:
 | Wes | Personal pick | Pinball 95 |
 | Jeremy | Personal pick | Driver |
 | Samuel | 4X, sim or god game | Theme Hospital |
-| Samuel | Strategy | Command & Conquer: Red Alert |
+| Samuel | RTS | Command & Conquer: Red Alert |
 | Jeremy | Free pick | Age of Empires |
 | Samuel | Kill | RollerCoaster Tycoon |
 | Samuel | FPS | Star Wars: Dark Forces |
@@ -91,7 +91,7 @@ cover:
 |----------|---------|-----|--------|--------|
 | FPS | Blood | Quake | Thief: The Dark Project | Star Wars: Dark Forces |
 | 90+ from PC Gamer | Grim Fandango | System Shock 2 | Full Throttle (1995) | Sid Meier's Civilization II |
-| Strategy | Commandos: Behind Enemy Lines | Homeworld | Command & Conquer: Tiberian Sun | Command & Conquer: Red Alert |
+| RTS | Commandos: Behind Enemy Lines | Homeworld | Command & Conquer: Tiberian Sun | Command & Conquer: Red Alert |
 | 4X, sim or god game | Theme Park | Star Wars: TIE Fighter | SimCity 3000 | Theme Hospital |
 | Online multiplayer game | Quake III Arena | Unreal Tournament | Worms Armageddon | Aliens Versus Predator (1999) |
 | RPG | Planescape: Torment | Ultima VII: The Black Gate | Fallout | Baldur's Gate |
