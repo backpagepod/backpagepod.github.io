@@ -40,16 +40,16 @@ cover:
 
 ## Picks
 
-| Category | Samuel | Matthew | Wes | Jeremy |
-|----------|--------|---------|-----|--------|
-| FPS | Star Wars: Dark Forces | Blood | Quake | Thief: The Dark Project |
-| 90+ from PC Gamer | Sid Meier's Civilization II | Grim Fandango | System Shock 2 | Full Throttle (1995) |
-| Strategy | Command & Conquer: Red Alert | Commandos: Behind Enemy Lines | Homeworld | Command & Conquer: Tiberian Sun |
-| 4X, sim or god game | Theme Hospital | Theme Park | Star Wars: TIE Fighter | SimCity 3000 |
-| Online multiplayer game | Aliens Versus Predator (1999) | Quake III Arena | Unreal Tournament | Worms Armageddon |
-| RPG | Baldur's Gate | Planescape: Torment | Ultima VII: The Black Gate | Fallout |
-| Expansion/add-on | Star Wars Jedi Knight: Mysteries of the Sith | Baldur's Gate: Tales of the Sword Coast | StarCraft: Brood War | Half-Life: Opposing Force |
-| Personal pick | Grand Theft Auto | Indiana Jones and the Infernal Machine | Pinball 95 | Driver |
-| Free pick | Half-Life | Blade Runner (1997) | Indiana Jones and the Fate of Atlantis | Age of Empires |
-| Kill | RollerCoaster Tycoon |  |  | Age of Empires II: The Age of Kings |
-| Steal | Baldur's Gate |  | Star Wars: TIE Fighter | Thief: The Dark Project |
+| Category | Matthew | Wes | Jeremy | Samuel |
+|----------|---------|-----|--------|--------|
+| FPS | Blood | Quake | Thief: The Dark Project | Star Wars: Dark Forces |
+| 90+ from PC Gamer | Grim Fandango | System Shock 2 | Full Throttle (1995) | Sid Meier's Civilization II |
+| Strategy | Commandos: Behind Enemy Lines | Homeworld | Command & Conquer: Tiberian Sun | Command & Conquer: Red Alert |
+| 4X, sim or god game | Theme Park | Star Wars: TIE Fighter | SimCity 3000 | Theme Hospital |
+| Online multiplayer game | Quake III Arena | Unreal Tournament | Worms Armageddon | Aliens Versus Predator (1999) |
+| RPG | Planescape: Torment | Ultima VII: The Black Gate | Fallout | Baldur's Gate |
+| Expansion/add-on | Baldur's Gate: Tales of the Sword Coast | StarCraft: Brood War | Half-Life: Opposing Force | Star Wars Jedi Knight: Mysteries of the Sith |
+| Personal pick | Indiana Jones and the Infernal Machine | Pinball 95 | Driver | Grand Theft Auto |
+| Free pick | Blade Runner (1997) | Indiana Jones and the Fate of Atlantis | Age of Empires | Half-Life |
+| Kill |  |  | Age of Empires II: The Age of Kings | RollerCoaster Tycoon |
+| Steal |  | Star Wars: TIE Fighter | Thief: The Dark Project | Baldur's Gate |
