@@ -129,6 +129,6 @@ cover:
 
 - Ash (37 votes) 21%
 - Samuel (37 votes) 21%
-- Matthew (69 votes) 40%
+- **Matthew (69 votes) 40%**
 - Dave (31 votes) 18%
 - (174 votes)
