@@ -6,7 +6,7 @@ summary: "After last month's entertaining yet ultimately depressing knockout rou
 tags:
 - XL
 - Top 50
-title: "XL Episode 50: PlayStation Top 50 Part 2"
+title: "XL Episode 51: PlayStation Top 50 Part 2"
 cover: 
   image: ps1.png
   hidden: false
