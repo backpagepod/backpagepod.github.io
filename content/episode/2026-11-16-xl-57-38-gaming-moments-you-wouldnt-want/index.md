@@ -5,7 +5,7 @@ date: "2026-11-16T09:00:00Z"
 summary: "What sandwiches has Matthew been eating lately? And what happened when Samuel had to be an orc for the day?"
 tags:
 - XL
-title: "XL Episode 57: 38 Gaming Moments You Wouldn't Want a Spouse or Significant Other to Walk in On"
+title: "XL Episode 57: 34 Gaming Moments You Wouldn't Want a Spouse or Significant Other to Walk in On"
 cover: 
   image: toonstruck.jpeg
   hidden: false
