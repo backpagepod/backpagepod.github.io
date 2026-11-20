@@ -103,8 +103,13 @@ cover:
 
 ## Results
 
-- Matthew ( votes) %
-- Wes ( votes) %
-- Jeremy ( votes) %
-- Samuel ( votes) %
-- ( votes)
+- Matthew (20 votes) 14%
+- Wes (30 votes) 20%
+- Jeremy (40 votes) 27%
+- **Samuel (58 votes) 39%**
+- (148 votes)
+
+{{<figure 
+    src="winner.png"
+    alt="Winner" 
+>}}
