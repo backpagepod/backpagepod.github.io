@@ -7,12 +7,12 @@ tags:
 - XL
 title: "XL Episode 44: Two Giant Men Play Super Mario Galaxy 2"
 cover: 
-  image: post-toad.png
+  image: move-over.jpeg
   hidden: false
   hiddenInList: false
   hiddenInSingle: false
   relative: true
-  caption: "Epilogue: Samuel starts Super Mario Sunshine after recording this podcast"
+  caption: "Image Credit: Stuart Fraser"
 ---
 
 [Play Episode](https://www.patreon.com/posts/xl-episode-44-2-143217554)
@@ -62,5 +62,8 @@ cover:
 - Honeyhop Galaxy
 - Motion controlled bird gliding levels
 
-
-
+{{<figure 
+    src="post-toad.png" 
+    alt="Post Toad"
+    caption="Epilogue: Samuel starts Super Mario Sunshine after recording this podcast"
+    >}}
