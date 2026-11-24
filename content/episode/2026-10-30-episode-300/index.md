@@ -26,6 +26,10 @@ cover:
     alt="Tonight We Dine" 
 >}}
 {{<figure 
+    src="frinkiac.mp4" 
+    alt="frinkiac"
+    caption="Image Credit: Dynamic Calories"  >}}
+{{<figure 
     src="ads.png"
     alt="Ads" 
 >}}
@@ -39,7 +43,11 @@ cover:
 >}}
 {{<figure 
     src="got-another.png"
-    alt="Got-Another" 
+    alt="Got Another" 
+>}}
+{{<figure 
+    src="and-another.jpeg"
+    alt="And Another" 
 >}}
 {{<figure 
     src="bad-idea.png"
