@@ -6,7 +6,6 @@ summary: VGC's Andy Robinson is this week's guest.
 tags:
 - Regular
 - Special Guest
-- Keza MacDonald
 title: 'Episode 269: Becoming Pals with Hideki Kamiya and Other Stories (with Andy Robinson)'
 cover: 
   image: gamecube.png
