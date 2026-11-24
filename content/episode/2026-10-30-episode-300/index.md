@@ -5,6 +5,7 @@ date: "2026-10-30T09:00:00Z"
 summary: "We start with some difficult news..."
 tags:
 - Regular
+- Joe Skrebels
 title: "Episode 300"
 cover: 
   image: 300.jpeg
